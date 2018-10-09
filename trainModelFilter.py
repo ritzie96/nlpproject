@@ -21,8 +21,8 @@ def getSentences(directory):
 		yield ll
 
 
-get = getSentences("extracted")
-get.next()
+#get = getSentences("extracted")
+#get.next()
 
 
 #input- single json file and titles not required

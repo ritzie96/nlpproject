@@ -35,7 +35,7 @@ from gensim.models import word2vec
 #generates list of list of words.
 def json_readr(path):
     neg_titles=["Dance", "History_of_dance", "List_of_dance_style_categories", "List_of_national_dances", "List_of_ethnic,_regional,_and_folk_dances_by_origin", "List_of_dance_occupations","Choreography","Outline_of_dance","Dance_move","Dance_technology","List_of_dance_companies","List_of_dancers","Group_dance","Dance_and_health","Dancing_mania"
-               ,"Modern_dance","Dance_education","Dance_in_mythology_and_religion","Dance_therapy","Dance_music"] 
+               ,"Modern_dance","Dance_education","Dance_in_mythology_and_religion","Dance_therapy","Dance_music", "First-person_shooter", "Category:First-person_shooters", "Doom_(1993_video_game)", "Counter-Strike_(video_game)", "Wolfenstein_3D", "Call_of_Duty", "Quake_(video_game)", "Battlefield_(video_game_series)", "First-person_shooter_engine", "Multiplayer_video_game", "Action_game", "Shooter_game", "Esports", "Arrow_keys#WASD_keys", "Computer_mouse", "Computer_keyboard", "Reticle", "Level_(video_gaming)", "Weapon", "Hitscan"]
     l = []
     for (dirpath, dirnames,filenames) in walk(path):
         for fi in filenames:

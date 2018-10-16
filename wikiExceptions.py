@@ -1,4 +1,4 @@
-exceptionList = ["First-person shooter",
+exceptionList = {"First-person shooter",
 "Category:First-person shooters",
 "Doom (1993 video game)",
 "Counter-Strike (video game)",
@@ -1375,6 +1375,6 @@ exceptionList = ["First-person shooter",
 "BWF Future Series",
 "Talk%3ABadminton",
 "Portal:Badminton",
-"Wikipedia:WikiProject Badminton"]
+"Wikipedia:WikiProject Badminton"}
 
 

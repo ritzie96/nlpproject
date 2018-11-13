@@ -108,14 +108,31 @@ therapy: 48183 3364
 
 Mental health:
 
-conditioning 14167 117
-stimulus 11254 142 
-mental 76729 2576 
-antidepressents 1769 193
-psychosurgery 233 49
-cbt 1326 284
-psychotherapy 4930 949
-freud 10409 312 
-ocd 1690 82
+conditioning: 14167 117
+stimulus: 11254 142 
+mental: 76729 2576 
+antidepressents: 1769 193
+psychosurgery: 233 49
+cbt: 1326 284
+psychotherapy: 4930 949
+freud: 10409 312 
+ocd: 1690 82
+exposure: 50644 242
+reinforcement: 7731 96
+response: 186107 625
+ruminating: 151 9
+ruminate: 126 8
+ruminates: 74 2
+ruminated: 27 2
+brooding: 2289 2
+medication: 13018 475
+ect: 1112 47
+serotonin: 3972 150
+inhibitor: 7946 23
+placebo: 4115 72
+ssri: 407 44
+addiction: 16088 233
+sleep: 42292 1282
+trichotillomania: 148 84 
 
 

@@ -1,0 +1,121 @@
+Badminton:
+
+ace: 27890 39
+carry: 106295 187
+court: 641250 427
+doubles: 62418 160
+dribble: 704 1
+drive: 168029 193 
+drop: 66576 163
+feather: 8504 25
+feathers: 16229 46
+grip: 13455 102
+hidayat: 334 18
+let: 129764 120
+lets: 11764 36
+nehwal: 146 83
+net: 72720 179
+racquet: 1311 66
+rally: 45041 63
+referee: 28377 113
+saina: 155 15
+serve: 184947 272
+service: 826471 440
+short: 507597 639
+shot: 216321 296
+shuttlecock: 255 109
+singles: 205252 239
+smash: 11668 39
+spin: 52705 130
+string: 64764 123
+stroke: 42526 114
+yonex: 232 32
+
+
+First-person shooters:
+
+bomb:62642 162
+bots: 1833 87
+chief: 404201 270
+computer: 199979 652
+deathmatch: 1587 301
+display: 105615 206
+doom: 15301 711
+enemies: 46469 970
+engine: 237477 1057
+features: 367398 1494
+first: 4872540 5454
+gameplay: 29454 1321
+games: 794351 2915
+gun: 147404 436
+halo: 9094 763 
+levels: 184156 1492
+looking: 104878 274
+map: 83404 901 
+military: 577789 565 
+mission: 230359 746
+mode: 79403 1495
+movement: 323390 1006
+multiplayer: 13581 1779
+person: 278361 2943
+player: 611290 5534
+players: 388803 3336
+playstation: 37759 1203
+point: 574797 873
+power: 633189 752
+precise: 23878 65
+quake: 4894 528 
+reaction: 86268 210 
+rifle: 55233 140
+space: 358013 623
+strike: 92639 325 
+team: 1686527 2408
+terrorist: 32106 100
+tournament: 332814 406
+twitch: 2492 8
+unreal: 2839 311
+weapons: 110384 1610
+xbox: 24037 1510 
+
+
+Dance:
+
+ballet: 50366 264
+beatboxing: 384 1
+bellydance: 118 7
+breakdance: 257 5
+choreo: 38 1
+choreographer: 11112 48
+chorus: 39495 48
+count: 108504 160
+dabke: 87 32
+drumming: 6002 16
+exercise: 51811 202
+folkdance: 48 7
+kathak: 1001 91
+lavani: 126 26
+natyam: 265 5
+pop: 165182 160
+rhythm: 39104 367
+round: 494756 245
+salsa: 5437 55
+singing: 99142 92
+sneakers: 1341 2
+song: 901790 676
+sweat: 6429 16
+tap: 14176 128
+therapy: 48183 3364
+
+Mental health:
+
+conditioning 14167 117
+stimulus 11254 142 
+mental 76729 2576 
+antidepressents 1769 193
+psychosurgery 233 49
+cbt 1326 284
+psychotherapy 4930 949
+freud 10409 312 
+ocd 1690 82
+
+

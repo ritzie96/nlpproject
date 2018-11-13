@@ -55,7 +55,10 @@ words = ["badminton",
 a,b = sim_words(words,model_expert,model_novice)
 
 with open('new_100_badminton_expert.txt','w') as f:
-    f.write(str(a))
-
+    for k, v in a.items():
+        f.write(str(k) + ':'+ str(v) + '\n')
 with open('new_20_badminton_novice.txt','w') as f1:
-    f1.write(str(b))
+    for k1, v1 in b.items():
+        f1.write(str(k1) + ':'+ str(v1) + '\n')
+    
+   

@@ -1,8 +1,8 @@
 from gensim.models import KeyedVectors
 
 def sim_words(words,model_expert,model_novice):
-    a = dict(list)
-    b = dict(list)
+    a = dict()
+    b = dict()
     for i in words:
         a[i] = model_expert.most_similar(i,topn = 100)
         b[i] = model_novice.most_similar(i, topn = 20)
@@ -58,4 +58,4 @@ with open('new_100_badminton_expert.txt','w') as f:
     f.write(str(a))
 
 with open('new_20_badminton_novice.txt','w') as f1:
-    f.write(str(b))
+    f1.write(str(b))

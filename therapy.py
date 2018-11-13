@@ -19,12 +19,12 @@ model = KeyedVectors.load_word2vec_format("wiki.en.expert.vector.bin", binary=Tr
 word = "psychotherapy"
 define_words =["exposure",
 "reinforcement",
-"stimulus",
+"stimulus ",
 "response",
 "ruminating",
 "ruminate",
 "ruminates",
-"ruminated",
+ "ruminated",
 "brooding",
 "conditioning",
 "medication",
@@ -40,7 +40,7 @@ define_words =["exposure",
 "addiction",
 "sleep",
 "freud",
-"trichotillomania"]
+"trichtillomania"]
 
 
 cosine1 = cos_sim(word,define_words,model)

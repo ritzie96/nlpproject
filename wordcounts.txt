@@ -1,12 +1,18 @@
 Badminton:
 
 ace: 27890 39
+alley: 16163 5
+baddy: 26 0
+backcourt: 393 1
+baseline: 6613 40
 carry: 106295 187
 court: 641250 427
+deception: 9073 30
 doubles: 62418 160
 dribble: 704 1
 drive: 168029 193 
 drop: 66576 163
+fault: 28604 52
 feather: 8504 25
 feathers: 16229 46
 grip: 13455 102
@@ -29,6 +35,8 @@ smash: 11668 39
 spin: 52705 130
 string: 64764 123
 stroke: 42526 114
+tumbling: 1917 17
+uber: 2981 25
 yonex: 232 32
 
 

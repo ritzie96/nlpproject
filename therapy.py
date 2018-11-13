@@ -17,7 +17,10 @@ def sim_words(define_words,model):
 model = KeyedVectors.load_word2vec_format("wiki.en.expert.vector.bin", binary=True)
 
 word = "psychotherapy"
-define_words =["exposure",
+define_words =["mental",
+"health",
+"psychotherapy",
+"exposure",
 "reinforcement",
 "stimulus ",
 "response",

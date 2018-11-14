@@ -1,0 +1,1061 @@
+++
+||
+++
+++
+
+
+Similar words to badminton
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    tennis   |     1      |     1      |     0      |
+|    squash   |     2      |     2      |     0      |
+|   handball  |     3      |     3      |     0      |
+|  volleyball |     4      |     4      |     0      |
+|   netball   |     5      |     5      |     0      |
+|    futsal   |     6      |     6      |     0      |
+|    takraw   |     7      |     9      |     -2     |
+|   kabaddi   |     8      |     8      |     0      |
+|    sepak    |     9      |     11     |     -2     |
+| racquetball |     10     |     10     |     0      |
+|  throwball  |     11     |     15     |     -4     |
+|   korfball  |     12     |     18     |     -6     |
+|   archery   |     13     |     12     |     1      |
+|  basketball |     14     |     13     |     1      |
+|  gymnastics |     15     |     7      |     8      |
+|   snooker   |     16     |     25     |     -9     |
+|    sport    |     17     |     17     |     0      |
+|     pbsi    |     18     |     37     |    -19     |
+|  floorball  |     19     |     28     |     -9     |
+|  racketball |     20     |     32     |    -12     |
++-------------+------------+------------+------------+
+
+
+Similar words to ace
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     aces    |     1      |     1      |     0      |
+|   danguard  |     2      |     2      |     0      |
+|   jumborg   |     3      |     4      |     -1     |
+|   dangard   |     4      |     5      |     -1     |
+|    rocasa   |     5      |     3      |     2      |
+|  immelmann  |     6      |     6      |     0      |
+|   siletta   |     7      |     8      |     -1     |
+|   stroker   |     8      |     7      |     1      |
+|   bathound  |     9      |     31     |    -22     |
+|    merky    |     10     |     14     |     -4     |
+|   kerokero  |     11     |     11     |     0      |
+|    deuce    |     12     |     9      |     3      |
+| ntsoelengoe |     13     |     15     |     -2     |
+|   aviator   |     14     |     22     |     -8     |
+|   frehley   |     15     |     18     |     -3     |
+|   ratclaw   |     16     |     39     |    -23     |
+|    masta    |     17     |     25     |     -8     |
+|  follington |     18     |     32     |    -14     |
+|   hellfish  |     19     |     27     |     -8     |
+|    airman   |     20     |     19     |     1      |
++-------------+------------+------------+------------+
+
+
+Similar words to alley
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|  alleyway |     1      |     1      |     0      |
+|   alleys  |     2      |     2      |     0      |
+|  sidewalk |     3      |     4      |     -1     |
+|   street  |     4      |     3      |     1      |
+|    cafe   |     5      |     5      |     0      |
+|    pub    |     6      |     7      |     -1     |
+|   tavern  |     7      |     6      |     1      |
+|   bowery  |     8      |     9      |     -1     |
+| nightclub |     9      |     11     |     -2     |
+|  hallway  |     10     |     21     |    -11     |
+|    café   |     11     |     15     |     -4     |
+| knockturn |     12     |     23     |    -11     |
+|   parlor  |     13     |     22     |     -9     |
+|    shop   |     14     |     17     |     -3     |
+|    lane   |     15     |     24     |     -9     |
+|   garage  |     16     |     18     |     -2     |
+|   cellar  |     17     |     13     |     4      |
+|   lounge  |     18     |     16     |     2      |
+|  upstairs |     19     |     20     |     -1     |
+|  streets  |     20     |     26     |     -6     |
++-----------+------------+------------+------------+
+
+
+Similar words to backcourt
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|  frontcourt |     1      |     1      |     0      |
+|   swingman  |     2      |     3      |     -1     |
+|  backfield  |     3      |     2      |     1      |
+| goaltending |     4      |     4      |     0      |
+| helterbrand |     5      |     5      |     0      |
+| offensively |     6      |     6      |     0      |
+|  rebounder  |     7      |     7      |     0      |
+|    pippen   |     8      |     14     |     -6     |
+|   latrell   |     9      |     11     |     -2     |
+|   mutombo   |     10     |     34     |    -24     |
+|   tailback  |     11     |     8      |     3      |
+|  netminder  |     12     |     10     |     2      |
+|   olajuwon  |     13     |     22     |     -9     |
+|    dwyane   |     14     |     12     |     2      |
+|    bogues   |     15     |     38     |    -23     |
+|   backline  |     16     |     24     |     -8     |
+|    jalen    |     17     |     28     |    -11     |
+| defensively |     18     |     13     |     5      |
+| cornerbacks |     19     |     23     |     -4     |
+|   deandre   |     20     |     44     |    -24     |
++-------------+------------+------------+------------+
+
+
+Similar words to baddy
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+|   lad    |     3      |     16     |    -13     |
+|   lass   |     5      |     18     |    -13     |
+|  digger  |     7      |     1      |     6      |
+| giantess |     11     |     86     |    -75     |
++----------+------------+------------+------------+
+
+
+Similar words to baseline
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  baselines   |     1      |     1      |     0      |
+|  benchmark   |     2      |     3      |     -1     |
+| calibration  |     3      |     2      |     1      |
+|  thresholds  |     4      |     5      |     -1     |
+| measurement  |     5      |     4      |     1      |
+|  threshold   |     6      |     24     |    -18     |
+|   dataset    |     7      |     9      |     -2     |
+|  parameters  |     8      |     6      |     2      |
+|   optimal    |     9      |     8      |     1      |
+|   endpoint   |     10     |     28     |    -18     |
+|   minimum    |     11     |     25     |    -14     |
+|  indicators  |     12     |     37     |    -25     |
+| reflectance  |     13     |     21     |     -8     |
+|  comparator  |     14     |     79     |    -65     |
+|  benchmarks  |     15     |     29     |    -14     |
+|     data     |     16     |     13     |     3      |
+|  creatinine  |     17     |     42     |    -25     |
+|    normal    |     18     |     32     |    -14     |
+|   variance   |     19     |     30     |    -11     |
+| quantitative |     20     |     7      |     13     |
++--------------+------------+------------+------------+
+
+
+Similar words to carry
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+| deliver  |     1      |     1      |     0      |
+|   send   |     2      |     3      |     -1     |
+| carrying |     3      |     2      |     1      |
+| operate  |     4      |     5      |     -1     |
+|   pull   |     5      |     4      |     1      |
+|  bring   |     6      |     7      |     -1     |
+|  handle  |     7      |     6      |     1      |
+| transmit |     8      |     10     |     -2     |
+|   hold   |     9      |     9      |     0      |
+|   take   |     10     |     8      |     2      |
+| smuggle  |     11     |     12     |     -1     |
+|  deploy  |     12     |     13     |     -1     |
+|  carve   |     13     |     21     |     -8     |
+| provide  |     14     |     11     |     3      |
+| carried  |     15     |     14     |     1      |
+|  attach  |     16     |     20     |     -4     |
+|   wipe   |     17     |     22     |     -5     |
+|   give   |     18     |     16     |     2      |
+|   add    |     19     |     19     |     0      |
+|   keep   |     20     |     23     |     -3     |
++----------+------------+------------+------------+
+
+
+Similar words to court
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    courts   |     1      |     1      |     0      |
+|   tribunal  |     2      |     2      |     0      |
+|    judge    |     3      |     3      |     0      |
+|     jcpc    |     4      |     4      |     0      |
+|    ecthr    |     5      |     5      |     0      |
+|  magistrate |     6      |     8      |     -2     |
+|   judicial  |     7      |     6      |     1      |
+|  appellants |     8      |     7      |     1      |
+|     icj     |     9      |     9      |     0      |
+| prosecutors |     10     |     12     |     -2     |
+|  appellant  |     11     |     11     |     0      |
+|  judiciary  |     12     |     19     |     -7     |
+|     ecj     |     13     |     20     |     -7     |
+|  prosecutor |     14     |     16     |     -2     |
+|   chancery  |     15     |     18     |     -3     |
+|     jury    |     16     |     21     |     -5     |
+|   demurrer  |     17     |     38     |    -21     |
+|  petitioner |     18     |     17     |     1      |
+|   retrial   |     19     |     66     |    -47     |
+|  parliament |     20     |     32     |    -12     |
++-------------+------------+------------+------------+
+
+
+Similar words to deception
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|     deceit     |     1      |     1      |     0      |
+|   subterfuge   |     2      |     2      |     0      |
+|   deceptions   |     3      |     3      |     0      |
+|  misdirection  |     4      |     6      |     -2     |
+|   duplicity    |     5      |     5      |     0      |
+|    trickery    |     6      |     4      |     2      |
+|   treachery    |     7      |     7      |     0      |
+|      ruse      |     8      |     8      |     0      |
+|  concealment   |     9      |     12     |     -3     |
+| disinformation |     10     |     11     |     -1     |
+|    betrayal    |     11     |     9      |     2      |
+|   seduction    |     12     |     10     |     2      |
+|     ruses      |     13     |     15     |     -2     |
+|   falsehood    |     14     |     14     |     0      |
+|   dishonesty   |     15     |     13     |     2      |
+|    perfidy     |     16     |     47     |    -31     |
+|  underhanded   |     17     |     35     |    -18     |
+|  brainwashing  |     18     |     20     |     -2     |
+|  obfuscation   |     19     |     28     |     -9     |
+|    coercion    |     20     |     31     |    -11     |
++----------------+------------+------------+------------+
+
+
+Similar words to doubles
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|      marray     |     1      |     5      |     -4     |
+|      hingis     |     2      |     1      |     1      |
+|     singles     |     3      |     9      |     -6     |
+|       slam      |     4      |     7      |     -3     |
+|     unseeded    |     5      |     13     |     -8     |
+|    mladenovic   |     6      |     31     |    -25     |
+|       regu      |     7      |     18     |    -11     |
+|    wimbledon    |     8      |     8      |     0      |
+|       mens      |     9      |     28     |    -19     |
+| quarterfinalist |     10     |     17     |     -7     |
+|      aisam      |     11     |     3      |     8      |
+|     coxless     |     12     |     37     |    -25     |
+|   navratilova   |     13     |     33     |    -20     |
+|  quarterfinals  |     14     |     10     |     4      |
+|       itf       |     15     |     6      |     9      |
+|    rodionova    |     16     |     36     |    -20     |
+|     vesnina     |     17     |     32     |    -15     |
+|    srebotnik    |     18     |     14     |     4      |
+|      sculls     |     19     |     23     |     -4     |
+|    kokkinakis   |     20     |     85     |    -65     |
++-----------------+------------+------------+------------+
+
+
+Similar words to dribble
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+| dribbling |     1      |     1      |     0      |
+|  dribbles |     2      |     2      |     0      |
+|  dribbled |     3      |     4      |     -1     |
+|    lob    |     4      |     3      |     1      |
+|    ball   |     5      |     8      |     -3     |
+| volleying |     6      |     9      |     -3     |
+|   dunks   |     7      |     10     |     -3     |
+|    kick   |     8      |     5      |     3      |
+|  backhand |     9      |     7      |     2      |
+|  lineout  |     10     |     6      |     4      |
+|   bounce  |     11     |     13     |     -2     |
+|  forehand |     12     |     39     |    -27     |
+|  tacklers |     13     |     18     |     -5     |
+| downfield |     14     |     21     |     -7     |
+| onrushing |     15     |     47     |    -32     |
+|  flicked  |     16     |     11     |     5      |
+|  handpass |     17     |     12     |     5      |
+|  topspin  |     18     |     16     |     2      |
+|  goalpost |     19     |     55     |    -36     |
+|  kicking  |     20     |     15     |     5      |
++-----------+------------+------------+------------+
+
+
+Similar words to drive
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   drives  |     1      |     1      |     0      |
+|    walk   |     2      |     3      |     -1     |
+|    ride   |     3      |     2      |     1      |
+|    pass   |     4      |     5      |     -1     |
+|    pull   |     5      |     6      |     -1     |
+|  driving  |     6      |     4      |     2      |
+|    push   |     7      |     8      |     -1     |
+|    run    |     8      |     7      |     1      |
+|  stretch  |     9      |     10     |     -1     |
+|    jog    |     10     |     14     |     -4     |
+|    move   |     11     |     12     |     -1     |
+| freewheel |     12     |     26     |    -14     |
+|  parkway  |     13     |     13     |     0      |
+|    road   |     14     |     15     |     -1     |
+|    ramp   |     15     |     11     |     4      |
+|   drove   |     16     |     16     |     0      |
+|    pkwy   |     17     |     80     |    -63     |
+| jackshaft |     18     |     9      |     9      |
+| boulevard |     19     |     18     |     1      |
+|   sheave  |     20     |     20     |     0      |
++-----------+------------+------------+------------+
+
+
+Similar words to drop
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  dropping  |     1      |     1      |     0      |
+|   drops    |     2      |     2      |     0      |
+|    pull    |     3      |     3      |     0      |
+|  plummet   |     4      |     4      |     0      |
+|   bounce   |     5      |     5      |     0      |
+|  decrease  |     6      |     6      |     0      |
+|  falling   |     7      |     7      |     0      |
+|    dip     |     8      |     10     |     -2     |
+| plummeting |     9      |     11     |     -2     |
+|   throw    |     10     |     16     |     -6     |
+|    lift    |     11     |     13     |     -2     |
+|   slide    |     12     |     8      |     4      |
+|   switch   |     13     |     9      |     4      |
+|  dropped   |     14     |     15     |     -1     |
+|  increase  |     15     |     18     |     -3     |
+|    dive    |     16     |     14     |     2      |
+|   float    |     17     |     20     |     -3     |
+|    move    |     18     |     19     |     -1     |
+|    cut     |     19     |     17     |     2      |
+|   climb    |     20     |     21     |     -1     |
++------------+------------+------------+------------+
+
+
+Similar words to fault
++------------------+------------+------------+------------+
+|       Word       | Novice Pos | Expert Pos | Difference |
++------------------+------------+------------+------------+
+|      faults      |     1      |     1      |     0      |
+|     faulting     |     2      |     2      |     0      |
+|    subduction    |     3      |     3      |     0      |
+|    lineament     |     4      |     4      |     0      |
+|    anticline     |     5      |     5      |     0      |
+|     liquiñe      |     6      |     14     |     -8     |
+|     footwall     |     7      |     9      |     -2     |
+|     tectonic     |     8      |     8      |     0      |
+|     listric      |     9      |     6      |     3      |
+|    monocline     |     10     |     7      |     3      |
+|    anticlines    |     11     |     11     |     0      |
+|   extensional    |     12     |     18     |     -6     |
+|     dextral      |     13     |     15     |     -2     |
+|      scarps      |     14     |     19     |     -5     |
+| transpressional  |     15     |     34     |    -19     |
+|     crustal      |     16     |     21     |     -5     |
+| newportinglewood |     17     |     13     |     4      |
+|    intraplate    |     18     |     22     |     -4     |
+|    megathrust    |     19     |     23     |     -4     |
+|     grabens      |     20     |     29     |     -9     |
++------------------+------------+------------+------------+
+
+
+Similar words to feather
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  feathers  |     1      |     1      |     0      |
+|   quills   |     2      |     5      |     -3     |
+|  ruffled   |     3      |     2      |     1      |
+|  ruffling  |     4      |     9      |     -5     |
+| feathered  |     5      |     3      |     2      |
+|   plumed   |     6      |     4      |     2      |
+|   hackle   |     7      |     11     |     -4     |
+|   ruffle   |     8      |     7      |     1      |
+|   ptilon   |     9      |     10     |     -1     |
+| pennaceous |     10     |     8      |     2      |
+|    beak    |     11     |     6      |     5      |
+|  mittens   |     12     |     36     |    -24     |
+|  feathery  |     13     |     13     |     0      |
+|  tasseled  |     14     |     16     |     -2     |
+|  tertial   |     15     |     37     |    -22     |
+| headpiece  |     16     |     14     |     2      |
+|  ostrich   |     17     |     18     |     -1     |
+|   vaned    |     18     |     12     |     6      |
+|  barbules  |     19     |     42     |    -23     |
+|    tail    |     20     |     15     |     5      |
++------------+------------+------------+------------+
+
+
+Similar words to feathers
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   quills   |     1      |     1      |     0      |
+| rectrices  |     2      |     2      |     0      |
+|  feather   |     3      |     3      |     0      |
+|  tertials  |     4      |     18     |    -14     |
+|  retrices  |     5      |     6      |     -1     |
+|   hairs    |     6      |     5      |     1      |
+|   tails    |     7      |     11     |     -4     |
+| feathered  |     8      |     4      |     4      |
+|  remiges   |     9      |     8      |     1      |
+|  barbules  |     10     |     17     |     -7     |
+|  bristles  |     11     |     7      |     4      |
+|    tail    |     12     |     9      |     3      |
+|   plumes   |     13     |     13     |     0      |
+|  forelegs  |     14     |     20     |     -6     |
+|    beak    |     15     |     10     |     5      |
+| pennaceous |     16     |     12     |     4      |
+| underwings |     17     |     26     |     -9     |
+|   teeth    |     19     |     24     |     -5     |
+|  plumage   |     20     |     14     |     6      |
++------------+------------+------------+------------+
+
+
+Similar words to flick
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   flicks   |     1      |     1      |     0      |
+|    romp    |     2      |     3      |     -1     |
+| screwball  |     3      |     9      |     -6     |
+|   campy    |     4      |     4      |     0      |
+| filosopher |     5      |     2      |     3      |
+|  slasher   |     6      |     5      |     1      |
+|   trashy   |     7      |     7      |     0      |
+|  actioner  |     8      |     12     |     -4     |
+|    slap    |     9      |     10     |     -1     |
+|   cheesy   |     10     |     6      |     4      |
+|  thriller  |     11     |     18     |     -7     |
+| tearjerker |     12     |     13     |     -1     |
+|   giggle   |     13     |     14     |     -1     |
+| melodrama  |     14     |     20     |     -6     |
+|  schlocky  |     15     |     16     |     -1     |
+|   horror   |     16     |     25     |     -9     |
+|   movie    |     17     |     29     |    -12     |
+|   classy   |     18     |     27     |     -9     |
+|   caper    |     19     |     22     |     -3     |
+|   slick    |     20     |     28     |     -8     |
++------------+------------+------------+------------+
+
+
+Similar words to grip
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   grips    |     1      |     1      |     0      |
+| handguard  |     2      |     6      |     -4     |
+|   cleat    |     3      |     4      |     -1     |
+| buttstock  |     4      |     2      |     2      |
+| handlebars |     5      |     5      |     0      |
+|  knurled   |     6      |     3      |     3      |
+|   forend   |     7      |     7      |     0      |
+|    lugs    |     8      |     13     |     -5     |
+|  forearm   |     9      |     8      |     1      |
+|  handgrip  |     10     |     14     |     -4     |
+|   detent   |     11     |     15     |     -4     |
+| handlebar  |     12     |     16     |     -4     |
+|   clamps   |     13     |     18     |     -5     |
+| checkering |     14     |     19     |     -5     |
+|   straps   |     15     |     20     |     -5     |
+|   blade    |     16     |     39     |    -23     |
+|   wrist    |     17     |     9      |     8      |
+|  forearms  |     18     |     10     |     8      |
+|  bushing   |     19     |     11     |     8      |
+|   bipod    |     20     |     12     |     8      |
++------------+------------+------------+------------+
+
+
+Similar words to hidayat
++---------+------------+------------+------------+
+|   Word  | Novice Pos | Expert Pos | Difference |
++---------+------------+------------+------------+
+|  taufik |     1      |     1      |     0      |
+|  achmad |     2      |     2      |     0      |
+|  arifin |     3      |     7      |     -4     |
+|  arief  |     4      |     10     |     -6     |
+|  saiful |     5      |     4      |     1      |
+|  amirul |     6      |     6      |     0      |
+| muhamad |     7      |     17     |    -10     |
+|  natsir |     8      |     3      |     5      |
+|  husin  |     9      |     11     |     -2     |
+|  lubis  |     10     |     24     |    -14     |
+|  anuar  |     11     |     9      |     2      |
+|  latiff |     12     |     18     |     -6     |
+|  teuku  |     13     |     14     |     -1     |
+|  sutan  |     14     |     5      |     9      |
+|  fauzi  |     15     |     21     |     -6     |
+|  ramli  |     16     |     48     |    -32     |
+|  rahmat |     17     |     19     |     -2     |
+|  hussin |     18     |     12     |     6      |
+|  yusoff |     19     |     22     |     -3     |
++---------+------------+------------+------------+
+
+
+Similar words to let
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+| letting  |     1      |     1      |     0      |
+|   lets   |     2      |     2      |     0      |
+|  gonna   |     3      |     3      |     0      |
+|    ll    |     4      |     4      |     0      |
+|   will   |     5      |     5      |     0      |
+|  gotta   |     6      |     8      |     -2     |
+|  wants   |     7      |     6      |     1      |
+|   want   |     8      |     7      |     1      |
+| wanting  |     9      |     9      |     0      |
+|  would   |     10     |     10     |     0      |
+|  should  |     11     |     11     |     0      |
+| pretend  |     12     |     12     |     0      |
+|  wanna   |     13     |     14     |     -1     |
+|   must   |     14     |     13     |     1      |
+|  cannot  |     15     |     15     |     0      |
+|  might   |     16     |     17     |     -1     |
+|   okay   |     17     |     19     |     -2     |
+|  shall   |     18     |     21     |     -3     |
+| yourself |     19     |     16     |     3      |
+|  could   |     20     |     20     |     0      |
++----------+------------+------------+------------+
+
+
+Similar words to lets
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  letting   |     1      |     1      |     0      |
+|   helps    |     2      |     2      |     0      |
+| instructs  |     3      |     4      |     -1     |
+| convinces  |     4      |     3      |     1      |
+|   wants    |     5      |     6      |     -1     |
+|    asks    |     6      |     7      |     -1     |
+|   urges    |     7      |     5      |     2      |
+| encourages |     8      |     12     |     -4     |
+|  manages   |     9      |     10     |     -1     |
+|  invites   |     10     |     8      |     2      |
+|   allows   |     11     |     9      |     2      |
+|  chooses   |     12     |     13     |     -1     |
+|    sees    |     13     |     15     |     -2     |
+| persuades  |     14     |     14     |     0      |
+|    let     |     15     |     11     |     4      |
+|  decides   |     16     |     16     |     0      |
+|  prompts   |     17     |     27     |    -10     |
+|   pushes   |     18     |     17     |     1      |
+|  enables   |     19     |     24     |     -5     |
+| threatens  |     20     |     21     |     -1     |
++------------+------------+------------+------------+
+
+
+Similar words to net
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|        lwn        |     1      |     1      |     0      |
+|    faygoluvers    |     2      |     24     |    -22     |
+|     speedtest     |     3      |     17     |    -14     |
+|   christianrock   |     4      |     10     |     -6     |
+| climateprediction |     5      |     3      |     2      |
+|   worldfootball   |     6      |     12     |     -6     |
+|       yaroze      |     7      |     15     |     -8     |
+|     imperiumi     |     8      |     19     |    -11     |
+|      theforce     |     9      |     5      |     4      |
+|      fótbolti     |     10     |     7      |     3      |
+|    totalgaming    |     11     |     20     |     -9     |
+|      gamedev      |     12     |     35     |    -23     |
+|     theonering    |     13     |     9      |     4      |
+|     brinkster     |     14     |     71     |    -57     |
+|     comingsoon    |     15     |     8      |     7      |
+|     sfreviews     |     16     |     41     |    -25     |
+|   halftimeonline  |     17     |     60     |    -43     |
+|   nationalchamps  |     18     |     6      |     12     |
+|    collegehoops   |     19     |     11     |     8      |
+|       uboat       |     20     |     39     |    -19     |
++-------------------+------------+------------+------------+
+
+
+Similar words to racquet
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   racquets   |     1      |     1      |     0      |
+|   babolat    |     2      |     2      |     0      |
+| shuffleboard |     3      |     4      |     -1     |
+|    bocce     |     4      |     6      |     -2     |
+|   croquet    |     5      |     5      |     0      |
+| racquetball  |     6      |     7      |     -1     |
+|    racket    |     7      |     3      |     4      |
+|   rackets    |     8      |     8      |     0      |
+|  pickleball  |     9      |     29     |    -20     |
+|    quoits    |     10     |     9      |     1      |
+|     ball     |     11     |     14     |     -3     |
+|  taylormade  |     12     |     22     |    -10     |
+| basketballs  |     13     |     44     |    -31     |
+|   mallets    |     14     |     10     |     4      |
+|  racketball  |     15     |     16     |     -1     |
+|    boules    |     16     |     15     |     1      |
+|  hardcourt   |     17     |     28     |    -11     |
+|   pétanque   |     18     |     19     |     -1     |
+|   skittles   |     19     |     25     |     -6     |
+|    srixon    |     20     |     41     |    -21     |
++--------------+------------+------------+------------+
+
+
+Similar words to rally
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|    rallies     |     1      |     1      |     0      |
+|     rallye     |     2      |     2      |     0      |
+|     event      |     3      |     8      |     -5     |
+|    rallying    |     4      |     3      |     1      |
+| demonstration  |     5      |     4      |     1      |
+|      race      |     6      |     6      |     0      |
+|    protest     |     7      |     5      |     2      |
+|   rallycross   |     8      |     9      |     -1     |
+|      jwrc      |     9      |     16     |     -7     |
+|     parade     |     10     |     17     |     -7     |
+|   hillclimb    |     11     |     14     |     -3     |
+| demonstrations |     12     |     13     |     -1     |
+|    protests    |     13     |     11     |     2      |
+|   kankkunen    |     14     |     12     |     2      |
+|     märtin     |     15     |     7      |     8      |
+|      wrc       |     16     |     10     |     6      |
+|    contest     |     17     |     15     |     2      |
+| demonstrators  |     18     |     18     |     0      |
+|    campaign    |     19     |     19     |     0      |
+|    marchers    |     20     |     20     |     0      |
++----------------+------------+------------+------------+
+
+
+Similar words to referee
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   referees  |     1      |     2      |     -1     |
+|   linesman  |     2      |     1      |     1      |
+|    umpire   |     3      |     3      |     0      |
+|  refereeing |     4      |     4      |     0      |
+|   umpires   |     5      |     5      |     0      |
+|   linesmen  |     6      |     9      |     -3     |
+|  goalkeeper |     7      |     7      |     0      |
+|    chioda   |     8      |     8      |     0      |
+|    smoger   |     9      |     6      |     3      |
+|    player   |     10     |     16     |     -6     |
+|    hebner   |     11     |     12     |     -1     |
+|  timekeeper |     12     |     10     |     2      |
+|    javie    |     13     |     36     |    -23     |
+|   offside   |     14     |     15     |     -1     |
+|  headbutted |     15     |     30     |    -15     |
+|  cornerman  |     16     |     18     |     -2     |
+|   ringside  |     17     |     14     |     3      |
+|    match    |     18     |     20     |     -2     |
+|   headbutt  |     19     |     22     |     -3     |
+| headbutting |     20     |     32     |    -12     |
++-------------+------------+------------+------------+
+
+
+Similar words to saina
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   nehwal  |     1      |     1      |     0      |
+|   saketh  |     2      |     3      |     -1     |
+|  pallikal |     3      |     2      |     1      |
+|  ponnappa |     4      |     4      |     0      |
+|   joshna  |     5      |     5      |     0      |
+|   khade   |     6      |     22     |    -16     |
+| virdhawal |     7      |     16     |     -9     |
+|   myneni  |     8      |     6      |     2      |
+|  chinappa |     9      |     12     |     -3     |
+|   chanu   |     10     |     11     |     -1     |
+|   uberoi  |     11     |     8      |     3      |
+|  laishram |     12     |     7      |     5      |
+|   somdev  |     13     |     21     |     -8     |
+|  poovamma |     14     |     17     |     -3     |
+|   dipika  |     15     |     24     |     -9     |
+|   ghosal  |     16     |     28     |    -12     |
+|   divij   |     17     |     56     |    -39     |
+| devvarman |     18     |     26     |     -8     |
+|   kunte   |     19     |     19     |     0      |
++-----------+------------+------------+------------+
+
+
+Similar words to serve
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   operate   |     1      |     1      |     0      |
+|  designate  |     2      |     2      |     0      |
+|   provide   |     3      |     3      |     0      |
+|    employ   |     4      |     5      |     -1     |
+|   serving   |     5      |     4      |     1      |
+|   appoint   |     6      |     6      |     0      |
+|   utilize   |     7      |     7      |     0      |
+|  represent  |     8      |     9      |     -1     |
+|    apply    |     9      |     10     |     -1     |
+|   fulfill   |     10     |     12     |     -2     |
+|    cater    |     11     |     13     |     -2     |
+|    carry    |     12     |     11     |     1      |
+|   instruct  |     13     |     8      |     5      |
+| accommodate |     14     |     15     |     -1     |
+|     hold    |     15     |     18     |     -3     |
+|  contribute |     16     |     14     |     2      |
+|   connect   |     17     |     22     |     -5     |
+|    accept   |     18     |     16     |     2      |
+|   replace   |     19     |     21     |     -2     |
+|  recognize  |     20     |     24     |     -4     |
++-------------+------------+------------+------------+
+
+
+Similar words to service
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|    services    |     1      |     1      |     0      |
+|   operations   |     2      |     2      |     0      |
+|      duty      |     3      |     3      |     0      |
+|   transport    |     4      |     4      |     0      |
+|    flights     |     5      |     5      |     0      |
+|   servicing    |     6      |     7      |     -1     |
+|     serco      |     7      |     6      |     1      |
+|      unit      |     8      |     10     |     -2     |
+|     office     |     9      |     12     |     -3     |
+|   operation    |     11     |     8      |     3      |
+|      nyct      |     12     |     44     |    -32     |
+|   personnel    |     13     |     9      |     4      |
+|   reservists   |     14     |     18     |     -4     |
+|    megabus     |     15     |     22     |     -7     |
+|   deployment   |     16     |     16     |     0      |
+|    skylink     |     18     |     29     |    -11     |
+| transportation |     19     |     14     |     5      |
+| administration |     20     |     20     |     0      |
++----------------+------------+------------+------------+
+
+
+Similar words to short
++--------------------+------------+------------+------------+
+|        Word        | Novice Pos | Expert Pos | Difference |
++--------------------+------------+------------+------------+
+|        long        |     1      |     1      |     0      |
+|       brief        |     2      |     2      |     0      |
+|      shorter       |     3      |     3      |     0      |
+|      lengthy       |     4      |     4      |     0      |
+|      shortest      |     5      |     5      |     0      |
+|        thin        |     6      |     8      |     -2     |
+|     shortening     |     7      |     13     |     -6     |
+|     prolonged      |     8      |     11     |     -3     |
+|      shortens      |     9      |     7      |     2      |
+|        full        |     10     |     9      |     1      |
+|     oceanauts      |     11     |     20     |     -9     |
+|       longer       |     12     |     17     |     -5     |
+|      deadtime      |     13     |     10     |     3      |
+|      frugally      |     14     |     16     |     -2     |
+|       minute       |     15     |     14     |     1      |
+|   neotherapsids    |     16     |     19     |     -3     |
+| dameraulevenshtein |     17     |     6      |     11     |
+|     hyperfocal     |     18     |     43     |    -25     |
+|        fast        |     19     |     21     |     -2     |
+|     shortened      |     20     |     24     |     -4     |
++--------------------+------------+------------+------------+
+
+
+Similar words to shot
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+| shooting |     1      |     1      |     0      |
+|  filmed  |     2      |     3      |     -1     |
+|  shots   |     3      |     2      |     1      |
+|  shoot   |     4      |     4      |     0      |
+| stabbed  |     5      |     5      |     0      |
+|  fired   |     6      |     7      |     -1     |
+|  shoots  |     7      |     6      |     1      |
+|  gunned  |     8      |     8      |     0      |
+| knocked  |     9      |     10     |     -1     |
+|  killed  |     10     |     9      |     1      |
+|  chased  |     11     |     11     |     0      |
+|  beaten  |     12     |     15     |     -3     |
+|  struck  |     13     |     12     |     1      |
+| injured  |     14     |     14     |     0      |
+| wounded  |     15     |     13     |     2      |
+|  knifed  |     16     |     16     |     0      |
+|  gunman  |     17     |     27     |    -10     |
+| stabbing |     18     |     20     |     -2     |
+| grabbed  |     19     |     26     |     -7     |
+|   hit    |     20     |     18     |     2      |
++----------+------------+------------+------------+
+
+
+Similar words to shuttlecock
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  battledore  |     1      |     5      |     -4     |
+| basketballs  |     2      |     14     |    -12     |
+|    quoits    |     4      |     38     |    -34     |
+|     ball     |     5      |     1      |     4      |
+|    wiffle    |     6      |     10     |     -4     |
+| shuffleboard |     7      |     98     |    -91     |
+|    carom     |     8      |     44     |    -36     |
+|    pucks     |     9      |     22     |    -13     |
+|  dodgeball   |     10     |     60     |    -50     |
+|    carrom    |     11     |     89     |    -78     |
+|   footbag    |     12     |     29     |    -17     |
+|    boules    |     13     |     20     |     -7     |
+|  footballs   |     14     |     50     |    -36     |
+|   skittles   |     15     |     65     |    -50     |
+|  baseballs   |     16     |     15     |     1      |
+| shuttlecocks |     17     |     57     |    -40     |
+|   frisbees   |     18     |     28     |    -10     |
+|  stickball   |     19     |     92     |    -73     |
+|   cornhole   |     20     |     62     |    -42     |
++--------------+------------+------------+------------+
+
+
+Similar words to singles
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|    albums    |     1      |     1      |     0      |
+|   remixes    |     2      |     2      |     0      |
+|     hits     |     3      |     3      |     0      |
+|    songs     |     4      |     4      |     0      |
+| compilations |     5      |     5      |     0      |
+|    tracks    |     6      |     7      |     -1     |
+|    album     |     7      |     8      |     -1     |
+|    charts    |     8      |     10     |     -2     |
+|   singles    |     9      |     14     |     -5     |
+|     lps      |     10     |     6      |     4      |
+|     eps      |     11     |     9      |     2      |
+|   mixtapes   |     12     |     13     |     -1     |
+|      ep      |     13     |     12     |     1      |
+|   releases   |     14     |     11     |     3      |
+|  billboard   |     15     |     15     |     0      |
+|     song     |     16     |     16     |     0      |
+|  recordings  |     17     |     17     |     0      |
+|   doubles    |     18     |     22     |     -4     |
+|    chart     |     19     |     24     |     -5     |
+|    single    |     20     |     20     |     0      |
++--------------+------------+------------+------------+
+
+
+Similar words to smash
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   surefire   |     1      |     2      |     -1     |
+|     hit      |     2      |     1      |     1      |
+|    stomp     |     3      |     3      |     0      |
+| sledgehammer |     4      |     12     |     -8     |
+|   ricochet   |     5      |     4      |     1      |
+|   hadouken   |     6      |     8      |     -2     |
+|    shove     |     7      |     29     |    -22     |
+|   smashes    |     8      |     5      |     3      |
+|     hits     |     9      |     6      |     3      |
+|  dancefloor  |     10     |     32     |    -22     |
+|    punch     |     11     |     9      |     2      |
+|    banger    |     12     |     13     |     -1     |
+|    disco     |     13     |     28     |    -15     |
+|   floigan    |     14     |     18     |     -4     |
+|   smashing   |     15     |     7      |     8      |
+|  crossover   |     16     |     45     |    -29     |
+|   monster    |     18     |     60     |    -42     |
+|   crowbar    |     19     |     21     |     -2     |
+|     keha     |     20     |     19     |     1      |
++--------------+------------+------------+------------+
+
+
+Similar words to spin
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   spins   |     1      |     1      |     0      |
+|    spun   |     2      |     2      |     0      |
+|  spinoff  |     3      |     5      |     -2     |
+|  brassed  |     4      |     3      |     1      |
+|   bounce  |     5      |     4      |     1      |
+|    rip    |     6      |     13     |     -7     |
+|   kilter  |     7      |     6      |     1      |
+|  spinning |     8      |     9      |     -1     |
+|  syphoned |     9      |     8      |     1      |
+| shrugging |     10     |     12     |     -2     |
+|    gett   |     11     |     14     |     -3     |
+|   hiving  |     12     |     11     |     1      |
+|  slacked  |     13     |     15     |     -2     |
+|   hived   |     14     |     16     |     -2     |
+|  sloughed |     15     |     18     |     -3     |
+|  spinner  |     16     |     17     |     -1     |
+|  slacking |     17     |     22     |     -5     |
+|  sendings |     18     |     20     |     -2     |
+|   reboot  |     19     |     35     |    -16     |
+|   pisses  |     20     |     49     |    -29     |
++-----------+------------+------------+------------+
+
+
+Similar words to string
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   strings   |     1      |     1      |     0      |
+|   woodwind  |     2      |     2      |     0      |
+|  pizzicato  |     3      |     3      |     0      |
+|   stringed  |     4      |     5      |     -1     |
+|   clarinet  |     5      |     4      |     1      |
+|  glissando  |     6      |     6      |     0      |
+|    cello    |     7      |     18     |    -11     |
+|   bassoon   |     8      |     19     |    -11     |
+|   plectrum  |     9      |     9      |     0      |
+| fingerboard |     10     |     7      |     3      |
+|    cellos   |     11     |     22     |    -11     |
+|  woodwinds  |     12     |     11     |     1      |
+|   violins   |     13     |     26     |    -13     |
+|    octet    |     14     |     14     |     0      |
+|   keyboard  |     15     |     20     |     -5     |
+|  resonator  |     16     |     33     |    -17     |
+|   soundbox  |     17     |     13     |     4      |
+|    chords   |     18     |     15     |     3      |
+|    chord    |     19     |     12     |     7      |
+|  contrabass |     20     |     10     |     10     |
++-------------+------------+------------+------------+
+
+
+Similar words to stroke
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   strokes    |     1      |     1      |     0      |
+|  hemorrhage  |     2      |     3      |     -1     |
+| haemorrhage  |     3      |     2      |     1      |
+|   illness    |     4      |     5      |     -1     |
+|  pneumonia   |     5      |     8      |     -3     |
+|   embolism   |     6      |     13     |     -7     |
+|   aneurysm   |     7      |     6      |     1      |
+|  concussion  |     8      |     4      |     4      |
+|  infarction  |     9      |     17     |     -8     |
+|  emphysema   |     10     |     9      |     1      |
+| appendicitis |     11     |     16     |     -5     |
+| septicaemia  |     12     |     15     |     -3     |
+|   cylinder   |     13     |     11     |     2      |
+|   pleurisy   |     14     |     7      |     7      |
+|  paralysis   |     15     |     31     |    -16     |
+|  hemiplegia  |     16     |     25     |     -9     |
+|   puncture   |     17     |     19     |     -2     |
+|   cardiac    |     18     |     18     |     0      |
+| peritonitis  |     19     |     20     |     -1     |
+|   ailment    |     20     |     22     |     -2     |
++--------------+------------+------------+------------+
+
+
+Similar words to thomas
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|    john   |     1      |     1      |     0      |
+|  william  |     2      |     3      |     -1     |
+|   james   |     3      |     2      |     1      |
+|   samuel  |     4      |     5      |     -1     |
+|   robert  |     5      |     6      |     -1     |
+|  francis  |     6      |     4      |     2      |
+|   edmund  |     7      |     10     |     -3     |
+|  richard  |     8      |     8      |     0      |
+|   joseph  |     9      |     9      |     0      |
+|  charles  |     10     |     11     |     -1     |
+|   edward  |     11     |     12     |     -1     |
+|   andrew  |     12     |     13     |     -1     |
+|   george  |     13     |     7      |     6      |
+|   henry   |     14     |     15     |     -1     |
+|    hugh   |     15     |     14     |     1      |
+|   edwin   |     16     |     16     |     0      |
+|  nicholas |     17     |     17     |     0      |
+| nathaniel |     18     |     19     |     -1     |
+|  herbert  |     19     |     24     |     -5     |
+|  stephen  |     20     |     22     |     -2     |
++-----------+------------+------------+------------+
+
+
+Similar words to tumbling
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|    tumbles    |     1      |     1      |     0      |
+|     tumble    |     2      |     4      |     -2     |
+|    tumbled    |     3      |     7      |     -4     |
+|    crashing   |     4      |     5      |     -1     |
+| somersaulting |     5      |     3      |     2      |
+|  cartwheeling |     6      |     2      |     4      |
+|    leaping    |     7      |     6      |     1      |
+|    jumping    |     8      |     12     |     -4     |
+|    swooping   |     9      |     8      |     1      |
+|    twisting   |     10     |     9      |     1      |
+|    throwing   |     11     |     26     |    -15     |
+|    wobbling   |     12     |     23     |    -11     |
+|     jumps     |     13     |     15     |     -2     |
+|   trampoline  |     14     |     14     |     0      |
+|   headfirst   |     15     |     11     |     4      |
+|  somersaults  |     16     |     21     |     -5     |
+|    flinging   |     17     |     10     |     7      |
+|    plummets   |     18     |     17     |     1      |
+|    bouncing   |     19     |     20     |     -1     |
+|    tossing    |     20     |     31     |    -11     |
++---------------+------------+------------+------------+
+
+
+Similar words to uber
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     lyft    |     1      |     1      |     0      |
+| ridesharing |     2      |     3      |     -1     |
+|    airbnb   |     3      |     2      |     1      |
+|    cabify   |     4      |     6      |     -2     |
+|    careem   |     5      |     5      |     0      |
+|    waymo    |     6      |     4      |     2      |
+|  deliveroo  |     7      |     17     |    -10     |
+|    zipcar   |     8      |     7      |     1      |
+|    paypal   |     9      |     14     |     -5     |
+|   zimride   |     10     |     9      |     1      |
+|   groupon   |     11     |     11     |     0      |
+|   grabtaxi  |     12     |     13     |     -1     |
+| stumbleupon |     13     |     21     |     -8     |
+|   expedia   |     14     |     28     |    -14     |
+|  postmates  |     15     |     15     |     0      |
+|  pinterest  |     16     |     10     |     6      |
+|   dropbox   |     17     |     20     |     -3     |
+|   hubspot   |     18     |     31     |    -13     |
+|  taskrabbit |     19     |     8      |     11     |
+|     taxi    |     20     |     26     |     -6     |
++-------------+------------+------------+------------+
+
+
+Similar words to yonex
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   babolat    |     1      |     1      |     0      |
+|    srixon    |     2      |     3      |     -1     |
+|   racquets   |     3      |     2      |     1      |
+|    vcore     |     4      |     4      |     0      |
+|   sunfeast   |     5      |     21     |    -16     |
+|     ittf     |     6      |     8      |     -2     |
+|   woodone    |     7      |     14     |     -7     |
+|  bitburger   |     8      |     7      |     1      |
+|  footvolley  |     9      |     15     |     -6     |
+|   maekyung   |     10     |     46     |    -36     |
+|    ordina    |     11     |     13     |     -2     |
+|    aegon     |     12     |     6      |     6      |
+|  ratchanok   |     13     |     5      |     8      |
+|     bpaa     |     14     |     11     |     3      |
+|     alpg     |     15     |     37     |    -22     |
+|  hardcourt   |     16     |     12     |     4      |
+|  prévadiès   |     17     |     57     |    -40     |
+| zhangjiagang |     18     |     16     |     2      |
+| invitational |     19     |     27     |     -8     |
+| euroformula  |     20     |     18     |     2      |
++--------------+------------+------------+------------+

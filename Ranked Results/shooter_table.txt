@@ -1,0 +1,1189 @@
+++
+||
+++
+++
+
+
+Similar words to shooter
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   shooters  |     1      |     1      |     0      |
+|    sniper   |     2      |     2      |     0      |
+|    fencer   |     3      |     5      |     -2     |
+|   marksman  |     4      |     7      |     -3     |
+|   athlete   |     5      |     6      |     -1     |
+|  afanasijs  |     6      |     30     |    -24     |
+|   swimmer   |     7      |     8      |     -1     |
+|    racer    |     8      |     10     |     -2     |
+|    skier    |     9      |     12     |     -3     |
+|    pistol   |     10     |     9      |     1      |
+| snowboarder |     11     |     11     |     0      |
+|    judoka   |     12     |     33     |    -21     |
+|  platformer |     13     |     3      |     10     |
+|   thrower   |     14     |     18     |     -4     |
+|  bobsledder |     15     |     38     |    -23     |
+|    rower    |     16     |     20     |     -4     |
+|   climber   |     17     |     32     |    -15     |
+|   cyclist   |     18     |     15     |     3      |
+|    skeet    |     19     |     14     |     5      |
+|     rpg     |     20     |     4      |     16     |
++-------------+------------+------------+------------+
+
+
+Similar words to bomb
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   bombs    |     1      |     1      |     0      |
+| explosives |     2      |     2      |     0      |
+|  bombing   |     3      |     3      |     0      |
+|   blast    |     4      |     4      |     0      |
+| detonation |     5      |     9      |     -4     |
+|  grenade   |     6      |     6      |     0      |
+|  tallboy   |     7      |     8      |     -1     |
+|   vbied    |     8      |     5      |     3      |
+| explosion  |     9      |     7      |     2      |
+| detonator  |     10     |     11     |     -1     |
+|   tarzon   |     11     |     29     |    -18     |
+|   bomber   |     12     |     14     |     -2     |
+|  firebomb  |     13     |     10     |     3      |
+|  munition  |     14     |     22     |     -8     |
+| detonated  |     15     |     13     |     2      |
+|  detonate  |     16     |     19     |     -3     |
+|  carbomb   |     17     |     21     |     -4     |
+|  bomblets  |     18     |     12     |     6      |
+|  warhead   |     19     |     17     |     2      |
+| detonating |     20     |     20     |     0      |
++------------+------------+------------+------------+
+
+
+Similar words to bots
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+|  robots  |     1      |     1      |     0      |
+|   bot    |     2      |     4      |     -2     |
+| botnets  |     3      |     3      |     0      |
+| chatbots |     4      |     2      |     2      |
+|  droids  |     5      |     7      |     -2     |
+|  mechs   |     6      |     5      |     1      |
+|  robot   |     7      |     6      |     1      |
+| spammers |     8      |     28     |    -20     |
+|  hacks   |     9      |     13     |     -4     |
+| spambots |     10     |     20     |    -10     |
+| hackers  |     11     |     22     |    -11     |
+|  wikis   |     12     |     33     |    -21     |
+| rootkits |     13     |     76     |    -63     |
+| crawlers |     14     |     9      |     5      |
+|   robo   |     15     |     36     |    -21     |
+|  botnet  |     16     |     16     |     0      |
+| phishing |     17     |     32     |    -15     |
+| daemons  |     18     |     26     |     -8     |
+| avatars  |     19     |     11     |     8      |
+| nanobots |     20     |     15     |     5      |
++----------+------------+------------+------------+
+
+
+Similar words to chief
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|     deputy     |     1      |     1      |     0      |
+|    chairman    |     2      |     2      |     0      |
+|   secretary    |     3      |     3      |     0      |
+|   president    |     4      |     5      |     -1     |
+| superintendent |     5      |     6      |     -1     |
+|   principal    |     6      |     4      |     2      |
+|   treasurer    |     7      |     8      |     -1     |
+|    director    |     8      |     7      |     1      |
+|   commander    |     9      |     9      |     0      |
+|  commissioner  |     10     |     10     |     0      |
+|   commandant   |     11     |     11     |     0      |
+|   appointed    |     12     |     12     |     0      |
+|    officer     |     13     |     13     |     0      |
+|      vice      |     14     |     14     |     0      |
+|     leader     |     15     |     15     |     0      |
+| superintending |     16     |     19     |     -3     |
+|      ceo       |     17     |     18     |     -1     |
+|   assistant    |     18     |     17     |     1      |
+|   chancellor   |     19     |     20     |     -1     |
+|   lieutenant   |     20     |     22     |     -2     |
++----------------+------------+------------+------------+
+
+
+Similar words to computer
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   computers    |     1      |     1      |     0      |
+|    software    |     2      |     2      |     0      |
+|   computing    |     3      |     4      |     -1     |
+| microcomputer  |     4      |     3      |     1      |
+|  minicomputer  |     5      |     5      |     0      |
+|   mainframe    |     6      |     6      |     0      |
+|  computerized  |     7      |     7      |     0      |
+|    hardware    |     8      |     8      |     0      |
+| supercomputer  |     9      |     11     |     -2     |
+|  workstation   |     10     |     10     |     0      |
+| microprocessor |     11     |     9      |     2      |
+|   calculator   |     12     |     13     |     -1     |
+|   simulation   |     13     |     12     |     1      |
+|      cad       |     14     |     24     |    -10     |
+|  programmable  |     15     |     17     |     -2     |
+|    realtime    |     16     |     18     |     -2     |
+| microcomputers |     17     |     15     |     2      |
+|      ibm       |     18     |     16     |     2      |
+|  electronics   |     19     |     19     |     0      |
+|   electronic   |     20     |     22     |     -2     |
++----------------+------------+------------+------------+
+
+
+Similar words to deathmatch
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+| deathmatches |     1      |     1      |     0      |
+|  gametypes   |     2      |     2      |     0      |
+|     pvp      |     3      |     5      |     -2     |
+|     czw      |     4      |     8      |     -4     |
+|    musou     |     5      |     15     |    -10     |
+|   minigame   |     6      |     4      |     2      |
+|     tag      |     7      |     9      |     -2     |
+|  streetball  |     8      |     20     |    -12     |
+|    joust     |     9      |     13     |     -4     |
+|    xtreme    |     10     |     12     |     -2     |
+|  dodgeball   |     11     |     25     |    -14     |
+|   gauntlet   |     12     |     11     |     1      |
+|  battlebowl  |     13     |     84     |    -71     |
+|   splatoon   |     14     |     21     |     -7     |
+| multiplayer  |     15     |     6      |     9      |
+|    melee     |     16     |     14     |     2      |
+|    rumble    |     17     |     87     |    -70     |
+| hearthstone  |     18     |     27     |     -9     |
+| splitscreen  |     20     |     30     |    -10     |
++--------------+------------+------------+------------+
+
+
+Similar words to display
++--------------------+------------+------------+------------+
+|        Word        | Novice Pos | Expert Pos | Difference |
++--------------------+------------+------------+------------+
+|      displays      |     1      |     1      |     0      |
+|     displayed      |     2      |     2      |     0      |
+|      exhibit       |     3      |     3      |     0      |
+|     displaying     |     4      |     4      |     0      |
+|      exhibits      |     5      |     5      |     0      |
+|      backlit       |     6      |     6      |     0      |
+|    touchscreen     |     7      |     8      |     -1     |
+|      pentile       |     8      |     37     |    -29     |
+| electroluminescent |     9      |     17     |     -8     |
+|        lcds        |     10     |     18     |     -8     |
+|    touchscreens    |     11     |     9      |     2      |
+|        qhd         |     12     |     23     |    -11     |
+|  autostereoscopic  |     13     |     13     |     0      |
+|        oled        |     14     |     7      |     7      |
+|      rollable      |     15     |     30     |    -15     |
+|      screens       |     16     |     11     |     5      |
+|     backlight      |     17     |     10     |     7      |
+|        mfds        |     18     |     19     |     -1     |
+|    refreshable     |     19     |     56     |    -37     |
+|      touchpad      |     20     |     40     |    -20     |
++--------------------+------------+------------+------------+
+
+
+Similar words to doom
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    thulsa   |     1      |     2      |     -1     |
+|    eggman   |     2      |     1      |     1      |
+|    mordru   |     3      |     3      |     0      |
+|   warlock   |     4      |     7      |     -3     |
+|   robotnik  |     5      |     9      |     -4     |
+|  novembers  |     6      |     13     |     -7     |
+| necromancer |     7      |     8      |     -1     |
+|    belial   |     8      |     14     |     -6     |
+|   latveria  |     9      |     6      |     3      |
+| deathstroke |     10     |     69     |    -59     |
+|   illidan   |     11     |     4      |     7      |
+|  apocalypse |     12     |     26     |    -14     |
+|    sivana   |     13     |     22     |     -9     |
+|   dormammu  |     14     |     15     |     -1     |
+|    sutekh   |     15     |     32     |    -17     |
+|   brajira   |     16     |     47     |    -31     |
+|   darkness  |     17     |     24     |     -7     |
+|    dooma    |     18     |     5      |     13     |
+|   behemoth  |     19     |     10     |     9      |
++-------------+------------+------------+------------+
+
+
+Similar words to enemies
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     foes    |     1      |     1      |     0      |
+| adversaries |     2      |     2      |     0      |
+|    enemy    |     3      |     3      |     0      |
+|   minions   |     4      |     4      |     0      |
+|    allies   |     5      |     6      |     -1     |
+|  opponents  |     6      |     5      |     1      |
+|  aggressors |     7      |     9      |     -2     |
+|     foe     |     8      |     7      |     1      |
+|    bosses   |     9      |     8      |     1      |
+|   villains  |     10     |     10     |     0      |
+|  adversary  |     11     |     11     |     0      |
+|    demons   |     12     |     13     |     -1     |
+|   monsters  |     13     |     12     |     1      |
+|   lackeys   |     14     |     21     |     -7     |
+|    hordes   |     15     |     15     |     0      |
+|  oppressors |     16     |     22     |     -6     |
+|  tormentors |     17     |     34     |    -17     |
+|  creatures  |     18     |     14     |     4      |
+|  familiars  |     19     |     16     |     3      |
+|  underlings |     20     |     18     |     2      |
++-------------+------------+------------+------------+
+
+
+Similar words to engine
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|    engines    |     1      |     1      |     0      |
+|   powerplant  |     2      |     2      |     0      |
+|    cylinder   |     3      |     3      |     0      |
+|    chassis    |     4      |     7      |     -3     |
+|  turbocharger |     5      |     5      |     0      |
+|       hp      |     6      |     4      |     2      |
+|  supercharger |     7      |     6      |     1      |
+|    gearbox    |     8      |     8      |     0      |
+|     boiler    |     9      |     11     |     -2     |
+| turbochargers |     10     |     10     |     0      |
+|    turbine    |     11     |     17     |     -6     |
+|    pushrod    |     12     |     14     |     -2     |
+|  carburettor  |     13     |     9      |     4      |
+|   carburetor  |     14     |     12     |     2      |
+|   propeller   |     15     |     19     |     -4     |
+|    camshaft   |     16     |     27     |    -11     |
+|   crankshaft  |     17     |     13     |     4      |
+|     turbo     |     18     |     16     |     2      |
+|      ohc      |     19     |     22     |     -3     |
+|   powertrain  |     20     |     30     |    -10     |
++---------------+------------+------------+------------+
+
+
+Similar words to features
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   includes   |     1      |     2      |     -1     |
+|   contains   |     2      |     1      |     1      |
+|  featuring   |     3      |     3      |     0      |
+| incorporates |     4      |     4      |     0      |
+|   feature    |     5      |     5      |     0      |
+|   featured   |     6      |     6      |     0      |
+|   displays   |     7      |     7      |     0      |
+|  showcases   |     8      |     9      |     -1     |
+|   utilizes   |     9      |     8      |     1      |
+|   consists   |     10     |     10     |     0      |
+|    covers    |     11     |     11     |     0      |
+|  contained   |     12     |     13     |     -1     |
+|     uses     |     13     |     12     |     1      |
+|  highlights  |     14     |     17     |     -3     |
+|   combines   |     15     |     15     |     0      |
+|    boasts    |     16     |     16     |     0      |
+|  comprises   |     17     |     14     |     3      |
+|   exhibits   |     18     |     22     |     -4     |
+|   presents   |     19     |     19     |     0      |
+|   elements   |     20     |     24     |     -4     |
++--------------+------------+------------+------------+
+
+
+Similar words to first
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    second   |     1      |     1      |     0      |
+|    third    |     2      |     4      |     -2     |
+|     last    |     3      |     2      |     1      |
+|    fourth   |     4      |     3      |     1      |
+|    fifth    |     5      |     5      |     0      |
+|  inaugural  |     6      |     6      |     0      |
+|   seventh   |     7      |     7      |     0      |
+|    sixth    |     8      |     8      |     0      |
+|    final    |     9      |     9      |     0      |
+|    ninth    |     10     |     10     |     0      |
+|    eighth   |     11     |     11     |     0      |
+|    tenth    |     12     |     12     |     0      |
+|     next    |     13     |     13     |     0      |
+|      nd     |     14     |     14     |     0      |
+|      rd     |     15     |     15     |     0      |
+|   eleventh  |     16     |     16     |     0      |
+|      th     |     17     |     17     |     0      |
+|  thirteenth |     18     |     18     |     0      |
+|   twelfth   |     19     |     19     |     0      |
+| penultimate |     20     |     22     |     -2     |
++-------------+------------+------------+------------+
+
+
+Similar words to fps
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|     mpq      |     1      |     2      |     -1     |
+|     apq      |     2      |     1      |     1      |
+|     tpq      |     3      |     4      |     -1     |
+|     arsr     |     4      |     5      |     -1     |
+|     sqs      |     5      |     11     |     -6     |
+|     fsq      |     6      |     9      |     -3     |
+|     aaq      |     7      |     15     |     -8     |
+|     slq      |     8      |     7      |     1      |
+|     tsq      |     9      |     17     |     -8     |
+|     alq      |     10     |     8      |     2      |
+|     hdtv     |     11     |     19     |     -8     |
+|     hdr      |     12     |     10     |     2      |
+|     uyk      |     13     |     16     |     -3     |
+|   encoder    |     14     |     12     |     2      |
+| uncompressed |     15     |     26     |    -11     |
+|     fpq      |     16     |     3      |     13     |
+|    radar     |     17     |     28     |    -11     |
+|      hd      |     18     |     14     |     4      |
+|     awg      |     19     |     20     |     -1     |
+|    radars    |     20     |     30     |    -10     |
++--------------+------------+------------+------------+
+
+
+Similar words to gameplay
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|  platforming  |     1      |     1      |     0      |
+|  multiplayer  |     2      |     2      |     0      |
+|   cutscenes   |     3      |     3      |     0      |
+|   minigames   |     4      |     4      |     0      |
+|      rpg      |     5      |     6      |     -1     |
+|    visuals    |     6      |     7      |     -1     |
+|    puzzles    |     7      |     8      |     -1     |
+|   platformer  |     8      |     5      |     3      |
+|    gamespot   |     9      |     13     |     -4     |
+|    graphics   |     10     |     10     |     0      |
+|      rpgs     |     11     |     9      |     2      |
+|      game     |     12     |     17     |     -5     |
+| replayability |     13     |     21     |     -8     |
+|  platformers  |     14     |     14     |     0      |
+|   gameworld   |     15     |     23     |     -8     |
+|  playability  |     16     |     11     |     5      |
+|      snes     |     17     |     24     |     -7     |
+|     tetris    |     18     |     12     |     6      |
+|    minigame   |     19     |     16     |     3      |
+|    splatoon   |     20     |     18     |     2      |
++---------------+------------+------------+------------+
+
+
+Similar words to games
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|      game     |     1      |     1      |     0      |
+|    matches    |     2      |     2      |     0      |
+|  tournaments  |     3      |     3      |     0      |
+|     teams     |     4      |     4      |     0      |
+|    seasons    |     5      |     5      |     0      |
+|   tournament  |     6      |     6      |     0      |
+|    contests   |     7      |     7      |     0      |
+|     match     |     8      |     10     |     -2     |
+|    players    |     9      |     8      |     1      |
+|     titles    |     10     |     9      |     1      |
+|     season    |     11     |     11     |     0      |
+|   qualifiers  |     12     |     14     |     -2     |
+| championships |     13     |     12     |     1      |
+|     rounds    |     14     |     16     |     -2     |
+|    playoffs   |     15     |     13     |     2      |
+|      team     |     16     |     15     |     1      |
+|     finals    |     17     |     20     |     -3     |
+|  championship |     18     |     17     |     1      |
+|    fixtures   |     19     |     19     |     0      |
+|   postseason  |     20     |     18     |     2      |
++---------------+------------+------------+------------+
+
+
+Similar words to gun
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|     guns     |     1      |     1      |     0      |
+|    cannon    |     2      |     2      |     0      |
+|    pistol    |     3      |     3      |     0      |
+|   handgun    |     4      |     4      |     0      |
+|   revolver   |     5      |     6      |     -1     |
+|   howitzer   |     6      |     10     |     -4     |
+|    weapon    |     7      |     8      |     -1     |
+|  autocannon  |     8      |     5      |     3      |
+|  carronade   |     9      |     13     |     -4     |
+|    rifle     |     10     |     7      |     3      |
+| flamethrower |     11     |     20     |     -9     |
+|  machinegun  |     12     |     16     |     -4     |
+|    gunner    |     13     |     12     |     1      |
+|   minigun    |     14     |     9      |     5      |
+|   gatling    |     15     |     36     |    -21     |
+|   firearm    |     16     |     18     |     -2     |
+|   shotgun    |     17     |     17     |     0      |
+|   cannons    |     18     |     14     |     4      |
+|     dshk     |     19     |     11     |     8      |
+|    turret    |     20     |     15     |     5      |
++--------------+------------+------------+------------+
+
+
+Similar words to halo
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   halos   |     1      |     2      |     -1     |
+|    odst   |     2      |     1      |     1      |
+|    orb    |     3      |     33     |    -30     |
+|   bungie  |     4      |     4      |     0      |
+|   gaiden  |     5      |     5      |     0      |
+|    glow   |     6      |     36     |    -30     |
+| overwatch |     7      |     6      |     1      |
+|    haho   |     8      |     12     |     -4     |
+|   cuspy   |     9      |     8      |     1      |
+|   nebula  |     10     |     44     |    -34     |
+|  universe |     11     |     22     |    -11     |
+| bejeweled |     12     |     25     |    -13     |
+|  bioshock |     13     |     7      |     6      |
+|   crysis  |     14     |     3      |     11     |
+|  splatoon |     16     |     17     |     -1     |
+|   galaxy  |     17     |     26     |     -9     |
+|   flame   |     18     |     70     |    -52     |
+|  cortana  |     19     |     16     |     3      |
+|   avatar  |     20     |     62     |    -42     |
++-----------+------------+------------+------------+
+
+
+Similar words to levels
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|     level      |     1      |     1      |     0      |
+| concentrations |     2      |     2      |     0      |
+|     rates      |     3      |     3      |     0      |
+|   thresholds   |     4      |     4      |     0      |
+|   densities    |     5      |     5      |     0      |
+|     ratios     |     6      |     6      |     0      |
+|    dosages     |     7      |     7      |     0      |
+|     tiers      |     8      |     8      |     0      |
+|  frequencies   |     9      |     9      |     0      |
+|     types      |     10     |     10     |     0      |
+|   elevations   |     11     |     12     |     -1     |
+|     doses      |     12     |     13     |     -1     |
+|     speeds     |     13     |     11     |     2      |
+|     layers     |     14     |     15     |     -1     |
+|     titers     |     15     |     33     |    -18     |
+|      rate      |     16     |     17     |     -1     |
+|     modes      |     17     |     14     |     3      |
+|    pathways    |     18     |     19     |     -1     |
+|  temperatures  |     19     |     18     |     1      |
+|    bitrates    |     20     |     28     |     -8     |
++----------------+------------+------------+------------+
+
+
+Similar words to looking
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   looked  |     1      |     1      |     0      |
+|   looks   |     2      |     2      |     0      |
+|    look   |     3      |     3      |     0      |
+| searching |     4      |     4      |     0      |
+|  staring  |     5      |     5      |     0      |
+|   gazes   |     6      |     8      |     -2     |
+|   gazing  |     7      |     6      |     1      |
+|   stared  |     8      |     9      |     -1     |
+|   stares  |     9      |     7      |     2      |
+|   trying  |     10     |     11     |     -1     |
+|  pushing  |     11     |     10     |     1      |
+|  clawing  |     12     |     19     |     -7     |
+|   going   |     13     |     12     |     1      |
+|   seeing  |     14     |     13     |     1      |
+|  yelling  |     15     |     18     |     -3     |
+|   eyeing  |     16     |     20     |     -4     |
+|   aiming  |     17     |     14     |     3      |
+|  waiting  |     18     |     23     |     -5     |
+|   lunges  |     19     |     21     |     -2     |
+|  smiling  |     20     |     16     |     4      |
++-----------+------------+------------+------------+
+
+
+Similar words to map
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|      maps     |     1      |     1      |     0      |
+|    mapping    |     2      |     3      |     -1     |
+|    diagram    |     3      |     4      |     -1     |
+|  planisphere  |     4      |     2      |     2      |
+|   franquelin  |     5      |     5      |     0      |
+|    atlases    |     6      |     11     |     -5     |
+|    minimap    |     7      |     6      |     1      |
+|    cantino    |     8      |     14     |     -6     |
+|   flowchart   |     9      |     22     |    -13     |
+|    vallard    |     10     |     26     |    -16     |
+|   schematic   |     11     |     17     |     -6     |
+|   landranger  |     12     |     15     |     -3     |
+| stereographic |     13     |     23     |    -10     |
+|  cartographic |     14     |     13     |     1      |
+|   thumbnail   |     15     |     42     |    -27     |
+|      grid     |     16     |     7      |     9      |
+|    karnaugh   |     17     |     31     |    -14     |
+|    infobox    |     18     |     45     |    -27     |
+|    dataset    |     19     |     12     |     7      |
+|    gnomonic   |     20     |     28     |     -8     |
++---------------+------------+------------+------------+
+
+
+Similar words to military
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|       naval       |     1      |     1      |     0      |
+|        army       |     2      |     2      |     0      |
+|      civilian     |     3      |     3      |     0      |
+|       armed       |     4      |     4      |     0      |
+|     diplomatic    |     5      |     5      |     0      |
+|        nato       |     6      |     9      |     -3     |
+|        navy       |     7      |     8      |     -1     |
+|     wehrmacht     |     8      |     6      |     2      |
+|    gendarmerie    |     9      |     7      |     2      |
+|    paramilitary   |     10     |     10     |     0      |
+|       forces      |     11     |     11     |     0      |
+|       troops      |     12     |     13     |     -1     |
+| counterinsurgency |     13     |     12     |     1      |
+|     peacetime     |     14     |     17     |     -3     |
+|       kpraf       |     15     |     54     |    -39     |
+|     government    |     16     |     16     |     0      |
+|       soviet      |     17     |     14     |     3      |
+|      militia      |     18     |     19     |     -1     |
+|     militaries    |     19     |     20     |     -1     |
+|       allied      |     20     |     15     |     5      |
++-------------------+------------+------------+------------+
+
+
+Similar words to mission
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   missions   |     1      |     1      |     0      |
+|  objective   |     2      |     2      |     0      |
+|  expedition  |     3      |     4      |     -1     |
+|     task     |     4      |     3      |     1      |
+|  objectives  |     5      |     5      |     0      |
+|  missionary  |     6      |     6      |     0      |
+|   wascopam   |     7      |     17     |    -10     |
+|   euromir    |     8      |     54     |    -46     |
+|  spacecraft  |     9      |     13     |     -4     |
+|  operation   |     10     |     7      |     3      |
+|  operations  |     11     |     12     |     -1     |
+| missionaries |     12     |     10     |     2      |
+| bepicolombo  |     13     |     86     |    -73     |
+|  deployment  |     14     |     9      |     5      |
+|   mandate    |     15     |     19     |     -4     |
+|   spacelab   |     16     |     49     |    -33     |
+|   squadron   |     17     |     18     |     -1     |
+|     iss      |     18     |     15     |     3      |
+|  endeavour   |     19     |     11     |     8      |
+|     aim      |     20     |     14     |     6      |
++--------------+------------+------------+------------+
+
+
+Similar words to mode
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     modes     |     1      |     1      |     0      |
+| functionality |     2      |     5      |     -3     |
+| configuration |     3      |     2      |     1      |
+|    gameplay   |     4      |     4      |     0      |
+|  multiplayer  |     5      |     3      |     2      |
+|   interface   |     6      |     6      |     0      |
+|   selectable  |     7      |     11     |     -4     |
+|     setup     |     8      |     13     |     -5     |
+|     device    |     9      |     7      |     2      |
+|   mechanism   |     10     |     8      |     2      |
+|     module    |     11     |     10     |     1      |
+|    minigame   |     12     |     9      |     3      |
+|   scenarios   |     13     |     14     |     -1     |
+|    gamepad    |     14     |     16     |     -2     |
+|    scenario   |     15     |     12     |     3      |
+|      cpu      |     16     |     15     |     1      |
+|      pvp      |     17     |     18     |     -1     |
+|  touchscreen  |     18     |     26     |     -8     |
+|   subsystem   |     19     |     23     |     -4     |
+|  singleplayer |     20     |     38     |    -18     |
++---------------+------------+------------+------------+
+
+
+Similar words to movement
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   movements    |     1      |     1      |     0      |
+|    activism    |     2      |     2      |     0      |
+|   agitation    |     3      |     3      |     0      |
+|  nationalism   |     4      |     4      |     0      |
+|    ideology    |     5      |     5      |     0      |
+|   militancy    |     6      |     8      |     -2     |
+|   radicalism   |     7      |     7      |     0      |
+|    radical     |     8      |     10     |     -2     |
+|   revivalism   |     9      |     9      |     0      |
+|  organization  |     10     |     11     |     -1     |
+|  anticolonial  |     11     |     16     |     -5     |
+|  organisation  |     12     |     13     |     -1     |
+|    völkisch    |     13     |     14     |     -1     |
+|  movementthe   |     14     |     76     |    -62     |
+|    leftwing    |     15     |     23     |     -8     |
+|  antifascist   |     16     |     12     |     4      |
+|  identitarian  |     17     |     44     |    -27     |
+|   movementa    |     18     |     6      |     12     |
+| independentist |     19     |     25     |     -6     |
+|   dissidence   |     20     |     21     |     -1     |
++----------------+------------+------------+------------+
+
+
+Similar words to multiplayer
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|      gameplay     |     1      |     1      |     0      |
+|    singleplayer   |     2      |     4      |     -2     |
+|        pvp        |     3      |     3      |     0      |
+|        pve        |     4      |     5      |     -1     |
+|    splitscreen    |     5      |     2      |     3      |
+| microtransactions |     6      |     9      |     -3     |
+|    platforming    |     7      |     6      |     1      |
+|        mmo        |     8      |     11     |     -3     |
+|      minigame     |     9      |     7      |     2      |
+|    leaderboards   |     10     |     10     |     0      |
+|      splatoon     |     11     |     15     |     -4     |
+|       mmorpg      |     12     |     16     |     -4     |
+|      playable     |     13     |     8      |     5      |
+|     minigames     |     14     |     14     |     0      |
+|      sandbox      |     15     |     17     |     -2     |
+|  littlebigplanet  |     16     |     28     |    -12     |
+|     quickplay     |     17     |     21     |     -4     |
+|      fortnite     |     18     |     22     |     -4     |
+|     permadeath    |     19     |     31     |    -12     |
+|   customization   |     20     |     13     |     7      |
++-------------------+------------+------------+------------+
+
+
+Similar words to person
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    woman    |     1      |     1      |     0      |
+|   someone   |     2      |     2      |     0      |
+|   persons   |     3      |     4      |     -1     |
+|   patient   |     4      |     3      |     1      |
+|     man     |     5      |     5      |     0      |
+|  defendant  |     6      |     6      |     0      |
+|    anyone   |     7      |     8      |     -1     |
+|    victim   |     8      |     7      |     1      |
+|    child    |     9      |     9      |     0      |
+| individuals |     10     |     10     |     0      |
+|    people   |     11     |     11     |     0      |
+|   offender  |     12     |     12     |     0      |
+|  applicant  |     13     |     13     |     0      |
+|    object   |     14     |     15     |     -1     |
+|   oneself   |     15     |     14     |     1      |
+|    thing    |     16     |     16     |     0      |
+|     jew     |     17     |     17     |     0      |
+| perpetrator |     18     |     18     |     0      |
+|  respondent |     19     |     20     |     -1     |
+|    spouse   |     20     |     21     |     -1     |
++-------------+------------+------------+------------+
+
+
+Similar words to player
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  players   |     1      |     1      |     0      |
+| goalkeeper |     2      |     2      |     0      |
+|  athlete   |     3      |     3      |     0      |
+|  striker   |     4      |     4      |     0      |
+|   goalie   |     5      |     5      |     0      |
+|  pitcher   |     6      |     8      |     -2     |
+|  wrestler  |     7      |     9      |     -2     |
+| defenseman |     8      |     7      |     1      |
+| midfielder |     9      |     11     |     -2     |
+| contestant |     10     |     13     |     -3     |
+| goaltender |     11     |     6      |     5      |
+|    team    |     12     |     10     |     2      |
+|  defender  |     13     |     15     |     -2     |
+|    game    |     14     |     12     |     2      |
+| defenceman |     15     |     14     |     1      |
+|  referee   |     16     |     16     |     0      |
+|   rookie   |     17     |     17     |     0      |
+|  starter   |     18     |     19     |     -1     |
+|  lineman   |     19     |     21     |     -2     |
+|    mvp     |     20     |     20     |     0      |
++------------+------------+------------+------------+
+
+
+Similar words to players
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|    teams     |     1      |     1      |     0      |
+|    player    |     2      |     2      |     0      |
+| footballers  |     3      |     3      |     0      |
+| goalkeepers  |     4      |     4      |     0      |
+|  wrestlers   |     5      |     5      |     0      |
+|   athletes   |     6      |     6      |     0      |
+|   goalies    |     7      |     9      |     -2     |
+|   rookies    |     8      |     8      |     0      |
+|   referees   |     9      |     7      |     2      |
+|    riders    |     10     |     11     |     -1     |
+|   golfers    |     11     |     10     |     1      |
+|  cricketers  |     12     |     12     |     0      |
+|   bowlers    |     13     |     16     |     -3     |
+| competitors  |     14     |     14     |     0      |
+|    clubs     |     15     |     15     |     0      |
+| tournaments  |     16     |     17     |     -1     |
+|    boxers    |     17     |     13     |     4      |
+|   coaches    |     18     |     18     |     0      |
+| quarterbacks |     19     |     20     |     -1     |
+| contestants  |     20     |     23     |     -3     |
++--------------+------------+------------+------------+
+
+
+Similar words to playstation
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|     xbox     |     1      |     2      |     -1     |
+|  dreamcast   |     2      |     1      |     1      |
+|   gamecube   |     3      |     4      |     -1     |
+|     wii      |     4      |     3      |     1      |
+|   nintendo   |     5      |     5      |     0      |
+|     psp      |     6      |     6      |     0      |
+|     snes     |     7      |     7      |     0      |
+|     ios      |     8      |     10     |     -2     |
+|     xbla     |     9      |     11     |     -2     |
+|     sega     |     10     |     9      |     1      |
+|   wiiware    |     11     |     12     |     -1     |
+|   famicom    |     12     |     8      |     4      |
+|     gba      |     13     |     13     |     0      |
+| colecovision |     14     |     17     |     -3     |
+|      pc      |     15     |     18     |     -3     |
+|  turbografx  |     16     |     15     |     1      |
+|     nes      |     17     |     16     |     1      |
+|   dsiware    |     18     |     14     |     4      |
+|      ds      |     19     |     19     |     0      |
+|    konami    |     20     |     22     |     -2     |
++--------------+------------+------------+------------+
+
+
+Similar words to point
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   points   |     1      |     1      |     0      |
+|   jmlab    |     2      |     5      |     -3     |
+|   moment   |     3      |     2      |     1      |
+|  juncture  |     4      |     4      |     0      |
+|   angle    |     5      |     3      |     2      |
+|  pointthe  |     6      |     17     |    -11     |
+|  milepost  |     7      |     8      |     -1     |
+| trailhead  |     8      |     12     |     -4     |
+|  midpoint  |     9      |     7      |     2      |
+|    tip     |     10     |     6      |     4      |
+| ridgeline  |     11     |     9      |     2      |
+|    spot    |     12     |     13     |     -1     |
+|   angles   |     13     |     11     |     2      |
+|  stretch   |     14     |     16     |     -2     |
+| promontory |     15     |     21     |     -6     |
+|  distance  |     16     |     23     |     -7     |
+|  pointers  |     17     |     22     |     -5     |
+| extremity  |     18     |     14     |     4      |
+|  headland  |     19     |     33     |    -14     |
+|   vertex   |     20     |     10     |     10     |
++------------+------------+------------+------------+
+
+
+Similar words to power
++------------------+------------+------------+------------+
+|       Word       | Novice Pos | Expert Pos | Difference |
++------------------+------------+------------+------------+
+|      powers      |     1      |     1      |     0      |
+|      energy      |     2      |     2      |     0      |
+|     control      |     3      |     3      |     0      |
+|   electricity    |     4      |     4      |     0      |
+|     strength     |     5      |     5      |     0      |
+|    authority     |     6      |     8      |     -2     |
+|      torque      |     7      |     6      |     1      |
+|      clout       |     8      |     9      |     -1     |
+|    hydropower    |     9      |     7      |     2      |
+|    capability    |     10     |     10     |     0      |
+|    legitimacy    |     11     |     13     |     -2     |
+|    stability     |     12     |     15     |     -3     |
+|     leverage     |     13     |     12     |     1      |
+|      thrust      |     14     |     32     |    -18     |
+|    efficiency    |     15     |     16     |     -1     |
+| hydroelectricity |     16     |     17     |     -1     |
+|     autonomy     |     17     |     14     |     3      |
+|       fuel       |     18     |     22     |     -4     |
+|     voltage      |     19     |     20     |     -1     |
+|     pressure     |     20     |     30     |    -10     |
++------------------+------------+------------+------------+
+
+
+Similar words to precise
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|      exact      |     1      |     2      |     -1     |
+|     accurate    |     2      |     1      |     1      |
+|    precisely    |     3      |     3      |     0      |
+|    accurately   |     4      |     4      |     0      |
+|     correct     |     5      |     5      |     0      |
+|    imprecise    |     6      |     6      |     0      |
+| straightforward |     7      |     11     |     -4     |
+|     reliable    |     8      |     10     |     -2     |
+|      actual     |     9      |     14     |     -5     |
+|     careful     |     10     |     8      |     2      |
+|     specific    |     11     |     7      |     4      |
+|     detailed    |     12     |     9      |     3      |
+|      proper     |     13     |     12     |     1      |
+|   complicated   |     14     |     16     |     -2     |
+|   descriptive   |     15     |     17     |     -2     |
+|    consistent   |     16     |     18     |     -2     |
+|   unambiguous   |     17     |     13     |     4      |
+|    repeatable   |     18     |     15     |     3      |
+|      subtle     |     19     |     20     |     -1     |
+|    realistic    |     20     |     26     |     -6     |
++-----------------+------------+------------+------------+
+
+
+Similar words to quake
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|  earthquake |     1      |     1      |     0      |
+|  aftershock |     2      |     2      |     0      |
+|  mainshock  |     3      |     4      |     -1     |
+|   tsunami   |     4      |     3      |     1      |
+| earthquakes |     5      |     5      |     0      |
+| aftershocks |     6      |     9      |     -3     |
+|  foreshock  |     7      |     10     |     -3     |
+|    quakes   |     8      |     7      |     1      |
+|   tremors   |     9      |     15     |     -6     |
+|  cataclysm  |     10     |     13     |     -3     |
+|   blizzard  |     11     |     8      |     3      |
+|   quakecon  |     12     |     6      |     6      |
+|   mudslide  |     13     |     12     |     1      |
+|   eruption  |     14     |     16     |     -2     |
+|  foreshocks |     15     |     38     |    -23     |
+|   tsunamis  |     16     |     23     |     -7     |
+|   tornado   |     17     |     22     |     -5     |
+|    storm    |     18     |     19     |     -1     |
+|   disaster  |     19     |     28     |     -9     |
+|   mudflow   |     20     |     32     |    -12     |
++-------------+------------+------------+------------+
+
+
+Similar words to reaction
++--------------------+------------+------------+------------+
+|        Word        | Novice Pos | Expert Pos | Difference |
++--------------------+------------+------------+------------+
+|     reactions      |     1      |     1      |     0      |
+|      response      |     2      |     2      |     0      |
+|     dielsalder     |     3      |     9      |     -6     |
+|   cycloaddition    |     4      |     3      |     1      |
+|    cyclization     |     5      |     5      |     0      |
+|     hydrolysis     |     6      |     10     |     -4     |
+|   isomerization    |     7      |     6      |     1      |
+|     solvolysis     |     8      |     26     |    -18     |
+| disproportionation |     9      |     4      |     5      |
+|      enolate       |     10     |     20     |    -10     |
+|   hydroboration    |     11     |     11     |     0      |
+|       aldol        |     12     |     13     |     -1     |
+|    halogenation    |     13     |     14     |     -1     |
+|  decarbonylation   |     14     |     22     |     -8     |
+|   deprotonation    |     15     |     8      |     7      |
+|     reactivity     |     16     |     18     |     -2     |
+|     alkylation     |     17     |     16     |     1      |
+|     acylation      |     18     |     27     |     -9     |
+|  decarboxylation   |     19     |     15     |     4      |
+|  tautomerization   |     20     |     46     |    -26     |
++--------------------+------------+------------+------------+
+
+
+Similar words to rifle
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     pistol    |     1      |     1      |     0      |
+|     rifles    |     2      |     2      |     0      |
+|    carbine    |     3      |     3      |     0      |
+|    carbines   |     4      |     4      |     0      |
+|    rimfire    |     5      |     13     |     -8     |
+|      gun      |     6      |     6      |     0      |
+|   revolvers   |     7      |     10     |     -3     |
+|    handgun    |     8      |     5      |     3      |
+|    revolver   |     9      |     11     |     -2     |
+|  martinihenry |     10     |     7      |     3      |
+|    shotguns   |     11     |     12     |     -1     |
+| semiautomatic |     12     |     8      |     4      |
+|      smle     |     13     |     9      |     4      |
+|    shotgun    |     14     |     20     |     -6     |
+|    howitzer   |     15     |     17     |     -2     |
+|    bayonet    |     16     |     28     |    -12     |
+|   leeenfield  |     17     |     21     |     -4     |
+|    firearm    |     18     |     16     |     2      |
+|     garand    |     19     |     18     |     1      |
+|     mauser    |     20     |     29     |     -9     |
++---------------+------------+------------+------------+
+
+
+Similar words to space
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|    spaces    |     1      |     1      |     0      |
+|  workspace   |     2      |     4      |     -2     |
+|    module    |     3      |     2      |     1      |
+|  spacecraft  |     4      |     3      |     1      |
+| microgravity |     5      |     8      |     -3     |
+|     iss      |     6      |     6      |     0      |
+|   orbital    |     7      |     18     |    -11     |
+|   modules    |     8      |     12     |     -4     |
+|  nanoracks   |     9      |     17     |     -8     |
+|   capsule    |     10     |     9      |     1      |
+|    cavity    |     11     |     14     |     -3     |
+|   middeck    |     12     |     10     |     2      |
+|  wormholes   |     13     |     35     |    -22     |
+|   modular    |     14     |     13     |     1      |
+|   complex    |     15     |     15     |     0      |
+|  projection  |     16     |     32     |    -16     |
+|  hyperspace  |     17     |     19     |     -2     |
+|   payload    |     18     |     20     |     -2     |
+|  dimension   |     19     |     16     |     3      |
+|    rooms     |     20     |     21     |     -1     |
++--------------+------------+------------+------------+
+
+
+Similar words to strike
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|    strikes     |     1      |     1      |     0      |
+|    walkout     |     2      |     2      |     0      |
+|     attack     |     3      |     3      |     0      |
+|    lockout     |     4      |     6      |     -2     |
+| counterattack  |     5      |     4      |     1      |
+|    strikers    |     6      |     5      |     1      |
+|      raid      |     7      |     9      |     -2     |
+|   crackdown    |     8      |     7      |     1      |
+|  unionization  |     9      |     16     |     -7     |
+|   airstrikes   |     10     |     8      |     2      |
+|    assault     |     11     |     10     |     1      |
+|      swoc      |     12     |     20     |     -8     |
+|    protest     |     13     |     11     |     2      |
+|      ufw       |     14     |     13     |     1      |
+| strikebreakers |     15     |     21     |     -6     |
+|     hartal     |     16     |     12     |     4      |
+|    lockouts    |     17     |     25     |     -8     |
+|      rmt       |     18     |     45     |    -27     |
+|    uprising    |     19     |     15     |     4      |
+|    standoff    |     20     |     18     |     2      |
++----------------+------------+------------+------------+
+
+
+Similar words to team
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     teams     |     1      |     1      |     0      |
+|     squad     |     2      |     2      |     0      |
+|  championship |     3      |     3      |     0      |
+|     league    |     4      |     4      |     0      |
+|      club     |     5      |     6      |     -1     |
+|   tournament  |     6      |     5      |     1      |
+|     season    |     7      |     7      |     0      |
+| championships |     8      |     8      |     0      |
+|     player    |     9      |     10     |     -1     |
+|      cup      |     10     |     9      |     1      |
+|     coach     |     11     |     12     |     -1     |
+|    playoffs   |     12     |     11     |     1      |
+|     match     |     13     |     13     |     0      |
+|    bulldogs   |     14     |     16     |     -2     |
+|   teammates   |     15     |     15     |     0      |
+|      game     |     16     |     14     |     2      |
+|      bucs     |     17     |     21     |     -4     |
+|    leagues    |     18     |     20     |     -2     |
+|     games     |     19     |     19     |     0      |
+|   goalkeeper  |     20     |     18     |     2      |
++---------------+------------+------------+------------+
+
+
+Similar words to terrorist
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  terrorists  |     1      |     1      |     0      |
+|  terrorism   |     2      |     2      |     0      |
+|   jihadist   |     3      |     3      |     0      |
+|  extremist   |     4      |     4      |     0      |
+|    qaeda     |     5      |     5      |     0      |
+|    jihadi    |     6      |     6      |     0      |
+|  extremists  |     7      |     11     |     -4     |
+|    terror    |     8      |     10     |     -2     |
+|   islamist   |     9      |     7      |     2      |
+|  jundallah   |     10     |     8      |     2      |
+|   militant   |     11     |     12     |     -1     |
+|   takfiri    |     12     |     13     |     -1     |
+|    qaida     |     13     |     9      |     4      |
+| paramilitary |     14     |     14     |     0      |
+|  hezbollah   |     15     |     16     |     -1     |
+| bioterrorist |     16     |     20     |     -4     |
+|    daesh     |     17     |     15     |     2      |
+|  espionage   |     18     |     22     |     -4     |
+|    hamas     |     19     |     17     |     2      |
+|  insurgent   |     20     |     23     |     -3     |
++--------------+------------+------------+------------+
+
+
+Similar words to tournament
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|  championship |     1      |     1      |     0      |
+|  tournaments  |     2      |     2      |     0      |
+|     match     |     3      |     3      |     0      |
+|    tourney    |     4      |     6      |     -2     |
+|  competition  |     5      |     4      |     1      |
+|     finals    |     6      |     8      |     -2     |
+|   semifinals  |     7      |     5      |     2      |
+|      cup      |     8      |     7      |     1      |
+| championships |     9      |     9      |     0      |
+|   qualifier   |     10     |     10     |     0      |
+| quarterfinals |     11     |     12     |     -1     |
+|   qualifiers  |     12     |     14     |     -2     |
+|   semifinal   |     13     |     11     |     2      |
+|  invitational |     14     |     13     |     1      |
+|      team     |     15     |     16     |     -1     |
+|    playoff    |     16     |     15     |     1      |
+|    playoffs   |     17     |     18     |     -1     |
+|    matches    |     18     |     17     |     1      |
+|  quarterfinal |     19     |     19     |     0      |
+|     season    |     20     |     20     |     0      |
++---------------+------------+------------+------------+
+
+
+Similar words to twitch
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|   livestream  |     1      |     1      |     0      |
+|    ustream    |     2      |     2      |     0      |
+|   streaming   |     3      |     4      |     -1     |
+|  livestreams  |     4      |     3      |     1      |
+| livestreaming |     5      |     11     |     -6     |
+|  gametrailers |     6      |     15     |     -9     |
+|   newgrounds  |     7      |     12     |     -5     |
+|    stickam    |     8      |     6      |     2      |
+|   pewdiepie   |     9      |     13     |     -4     |
+|     vimeo     |     10     |     8      |     2      |
+|    youtube    |     11     |     5      |     6      |
+|     gtlive    |     12     |     24     |    -12     |
+|    netplay    |     13     |     97     |    -84     |
+|   markiplier  |     14     |     25     |    -11     |
+|     scifi     |     15     |     10     |     5      |
+|  venturebeat  |     16     |     23     |     -7     |
+|     kotaku    |     17     |     14     |     3      |
+|     younow    |     18     |     7      |     11     |
+|   afreecatv   |     19     |     30     |    -11     |
+|    joystiq    |     20     |     16     |     4      |
++---------------+------------+------------+------------+
+
+
+Similar words to unreal
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+| cryengine  |     1      |     1      |     0      |
+|  gamebryo  |     2      |     2      |     0      |
+|    mmo     |     3      |     7      |     -4     |
+|   scumm    |     4      |     6      |     -2     |
+|  lithtech  |     5      |     16     |    -11     |
+| roguelike  |     6      |     5      |     1      |
+|  fortnite  |     7      |     14     |     -7     |
+|    myst    |     8      |     4      |     4      |
+| shadowrun  |     9      |     9      |     0      |
+| renderware |     10     |     47     |    -37     |
+| geneforge  |     11     |     84     |    -73     |
+|  nethack   |     12     |     40     |    -28     |
+|  scummvm   |     13     |     21     |     -8     |
+| minecraft  |     14     |     3      |     11     |
+|  bioshock  |     15     |     23     |     -8     |
+|  simcity   |     16     |     35     |    -19     |
+| morrowind  |     17     |     72     |    -55     |
+| virtuality |     18     |     24     |     -6     |
+|  reality   |     19     |     51     |    -32     |
+|   crysis   |     20     |     11     |     9      |
++------------+------------+------------+------------+
+
+
+Similar words to weapons
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|    weaponry   |     1      |     1      |     0      |
+|     weapon    |     2      |     2      |     0      |
+|    firearms   |     3      |     3      |     0      |
+|   munitions   |     4      |     4      |     0      |
+|   armaments   |     5      |     5      |     0      |
+|   ammunition  |     6      |     7      |     -1     |
+|    warheads   |     7      |     8      |     -1     |
+|    missiles   |     8      |     6      |     2      |
+|   explosives  |     9      |     10     |     -1     |
+|    munition   |     10     |     12     |     -2     |
+| flamethrowers |     11     |     11     |     0      |
+|  ammunitions  |     12     |     9      |     3      |
+|    handguns   |     13     |     14     |     -1     |
+|  projectiles  |     14     |     16     |     -2     |
+|      ieds     |     15     |     13     |     2      |
+|     armor     |     16     |     18     |     -2     |
+|     atgms     |     17     |     19     |     -2     |
+|    grenades   |     18     |     17     |     1      |
+|   crossbows   |     19     |     15     |     4      |
+|      guns     |     20     |     22     |     -2     |
++---------------+------------+------------+------------+
+
+
+Similar words to xbox
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+| playstation  |     1      |     1      |     0      |
+|  dreamcast   |     2      |     2      |     0      |
+|     xbla     |     3      |     3      |     0      |
+|   gamecube   |     4      |     5      |     -1     |
+|     wii      |     5      |     4      |     1      |
+|     ios      |     6      |     6      |     0      |
+|   nintendo   |     7      |     7      |     0      |
+|     snes     |     8      |     8      |     0      |
+|     psp      |     9      |     9      |     0      |
+|   wiiware    |     10     |     11     |     -1     |
+|      pc      |     11     |     12     |     -1     |
+|     ouya     |     12     |     10     |     2      |
+|     zune     |     13     |     18     |     -5     |
+|     sega     |     14     |     19     |     -5     |
+| colecovision |     15     |     14     |     1      |
+|   dsiware    |     16     |     13     |     3      |
+|     gba      |     17     |     16     |     1      |
+|   console    |     18     |     15     |     3      |
+|    kinect    |     19     |     17     |     2      |
+|   famicom    |     20     |     20     |     0      |
++--------------+------------+------------+------------+

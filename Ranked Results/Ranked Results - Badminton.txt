@@ -1,0 +1,2650 @@
+For the word 'badminton', the nearest words are: 
+
+Novice List (Top 20): 
+['tennis', 'squash', 'handball', 'volleyball', 'netball', 'futsal', 'takraw', 'kabaddi', 'sepak', 'racquetball', 'throwball', 'korfball', 'archery', 'basketball', 'gymnastics', 'snooker', 'sport', 'pbsi', 'floorball', 'racketball']
+
+Expert List (Top 100): 
+['tennis', 'squash', 'handball', 'volleyball', 'netball', 'futsal', 'gymnastics', 'kabaddi', 'takraw', 'racquetball', 'sepak', 'archery', 'basketball', 'taekwondo', 'throwball', 'chess', 'sport', 'korfball', 'hockey', 'bandy', 'pétanque', 'judo', 'cricket', 'weightlifting', 'snooker', 'petanque', 'carrom', 'floorball', 'billiards', 'yonex', 'goalball', 'racketball', 'polo', 'fistball', 'sepaktakraw', 'clearone', 'pbsi', 'kabbadi', 'athletics', 'croquet', 'pickleball', 'wushu', 'tournaments', 'ittf', 'softball', 'football', 'pullela', 'dancesport', 'waterpolo', 'borned', 'cycling', 'suryanaga', 'taekwando', 'djarum', 'tenpin', 'rugby', 'sports', 'darts', 'boccia', 'trampolining', 'soccer', 'sdat', 'frontenis', 'equestrian', 'athlete', 'competitions', 'bwf', 'sdar', 'tournamentsoftware', 'orienteering', 'renju', 'sevens', 'championships', 'triathlon', 'racquets', 'swimming', 'nehwal', 'skating', 'lacrosse', 'tournament', 'paddleball', 'bocce', 'panipak', 'doubles', 'boxing', 'battledore', 'shuttler', 'draughts', 'iwbf', 'intercrosse', 'golf', 'jakabaring', 'gymnast', 'backgammon', 'decathlete', 'karate', 'mahjong', 'indoor', 'paralympic', 'weighlifting']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'tennis' found at position 1 in both lists
+
+Word 'squash' found at position 2 in both lists
+
+Word 'handball' found at position 3 in both lists
+
+Word 'volleyball' found at position 4 in both lists
+
+Word 'netball' found at position 5 in both lists
+
+Word 'futsal' found at position 6 in both lists
+
+Word 'takraw' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'kabaddi' found at position 8 in both lists
+
+Word 'sepak' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'racquetball' found at position 10 in both lists
+
+Word 'throwball' found at position 11 and 15
+Difference between the positions: 4
+
+Word 'korfball' found at position 12 and 18
+Difference between the positions: 6
+
+Word 'archery' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'basketball' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'gymnastics' found at position 15 and 7
+Difference between the positions: 8
+
+Word 'snooker' found at position 16 and 25
+Difference between the positions: 9
+
+Word 'sport' found at position 17 in both lists
+
+Word 'pbsi' found at position 18 and 37
+Difference between the positions: 19
+
+Word 'floorball' found at position 19 and 28
+Difference between the positions: 9
+
+Word 'racketball' found at position 20 and 32
+Difference between the positions: 12
+
+
+For the word 'ace', the nearest words are: 
+
+Novice List (Top 20): 
+['aces', 'danguard', 'jumborg', 'dangard', 'rocasa', 'immelmann', 'siletta', 'stroker', 'bathound', 'merky', 'kerokero', 'deuce', 'ntsoelengoe', 'aviator', 'frehley', 'ratclaw', 'masta', 'follington', 'hellfish', 'airman']
+
+Expert List (Top 100): 
+['aces', 'danguard', 'rocasa', 'jumborg', 'dangard', 'immelmann', 'stroker', 'siletta', 'deuce', 'yuing', 'kerokero', 'vraciu', 'chopper', 'merky', 'ntsoelengoe', 'skystriker', 'gollob', 'frehley', 'airman', 'experte', 'warhawk', 'aviator', 'lowball', 'kefford', 'masta', 'buster', 'hellfish', 'pilot', 'deuces', 'fighter', 'bathound', 'follington', 'robo', 'luttenbachers', 'spades', 'asmik', 'ghostrider', 'starfighter', 'ratclaw', 'jetpack', 'joker', 'blackhawk', 'experten', 'barnstormer', 'spitfire', 'jagdbombergeschwader', 'eindecker', 'rider', 'mc', 'yeager', 'strutter', 'cdchd', 'priller', 'daredevil', 'avenger', 'wingsuit', 'imelmann', 'collishaw', 'fgr', 'hellcat', 'gutowsky', 'vf', 'airboy', 'kittyhawk', 'stahlschmidt', 'mölders', 'goerth', 'rumey', 'buddecke', 'lance', 'wingman', 'skyhawk', 'tailgunner', 'oberfeldwebel', 'staffelführer', 'skydiver', 'risner', 'cobra', 'omega', 'johnny', 'mccudden', 'parschau', 'kuttelwascher', 'ventus', 'uffz', 'veritech', 'richthofen', 'qfi', 'canuck', 'hardlight', 'mudfighter', 'darkus', 'a♥', 'platin', 'unteroffizier', 'senshi', 'cobby', 'exterminator', 'hantelmann', 'navigator']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'aces' found at position 1 in both lists
+
+Word 'danguard' found at position 2 in both lists
+
+Word 'jumborg' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'dangard' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'rocasa' found at position 5 and 3
+Difference between the positions: 2
+
+Word 'immelmann' found at position 6 in both lists
+
+Word 'siletta' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'stroker' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'bathound' found at position 9 and 31
+Difference between the positions: 22
+
+Word 'merky' found at position 10 and 14
+Difference between the positions: 4
+
+Word 'kerokero' found at position 11 in both lists
+
+Word 'deuce' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'ntsoelengoe' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'aviator' found at position 14 and 22
+Difference between the positions: 8
+
+Word 'frehley' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'ratclaw' found at position 16 and 39
+Difference between the positions: 23
+
+Word 'masta' found at position 17 and 25
+Difference between the positions: 8
+
+Word 'follington' found at position 18 and 32
+Difference between the positions: 14
+
+Word 'hellfish' found at position 19 and 27
+Difference between the positions: 8
+
+Word 'airman' found at position 20 and 19
+Difference between the positions: 1
+
+
+For the word 'alley', the nearest words are: 
+
+Novice List (Top 20): 
+['alleyway', 'alleys', 'sidewalk', 'street', 'cafe', 'pub', 'tavern', 'bowery', 'nightclub', 'hallway', 'café', 'knockturn', 'parlor', 'shop', 'lane', 'garage', 'cellar', 'lounge', 'upstairs', 'streets']
+
+Expert List (Top 100): 
+['alleyway', 'alleys', 'street', 'sidewalk', 'cafe', 'tavern', 'pub', 'creeque', 'bowery', 'loft', 'nightclub', 'skittle', 'cellar', 'elfreth', 'café', 'lounge', 'shop', 'garage', 'diner', 'upstairs', 'hallway', 'parlor', 'knockturn', 'lane', 'motel', 'streets', 'ringold', 'apartment', 'arcade', 'macdougal', 'willings', 'driveway', 'fynsworth', 'eatery', 'alcove', 'backyard', 'roadhouse', 'esplanade', 'alehouse', 'inn', 'gutter', 'basement', 'hutong', 'speakeasy', 'restaurant', 'warehouse', 'outhouse', 'shack', 'midaq', 'passageway', 'storefront', 'baggensgatan', 'patio', 'oop', 'corner', 'room', 'terrace', 'bistro', 'nygränd', 'ballroom', 'walkway', 'saloon', 'bredgränd', 'cheapside', 'firehouse', 'laneway', 'green–south', 'gulch', 'dixie', 'fairway', 'lawn', 'grändh', 'tracktor', 'taproom', 'diagon', 'birdcage', 'limehouse', 'rue', 'seedy', 'playground', 'skeppar', 'grill', 'avenue', 'archway', 'entryway', 'strip', 'cornmarket', 'barn', 'unlit', 'poolroom', 'duckpin', 'orchard', 'stairway', 'gaffelgränd', 'rooftop', 'wormy', 'nanluoguxiang', 'courtyard', 'alleyways', 'uptown']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'alleyway' found at position 1 in both lists
+
+Word 'alleys' found at position 2 in both lists
+
+Word 'sidewalk' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'street' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'cafe' found at position 5 in both lists
+
+Word 'pub' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'tavern' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'bowery' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'nightclub' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'hallway' found at position 10 and 21
+Difference between the positions: 11
+
+Word 'café' found at position 11 and 15
+Difference between the positions: 4
+
+Word 'knockturn' found at position 12 and 23
+Difference between the positions: 11
+
+Word 'parlor' found at position 13 and 22
+Difference between the positions: 9
+
+Word 'shop' found at position 14 and 17
+Difference between the positions: 3
+
+Word 'lane' found at position 15 and 24
+Difference between the positions: 9
+
+Word 'garage' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'cellar' found at position 17 and 13
+Difference between the positions: 4
+
+Word 'lounge' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'upstairs' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'streets' found at position 20 and 26
+Difference between the positions: 6
+
+
+For the word 'backcourt', the nearest words are: 
+
+Novice List (Top 20): 
+['frontcourt', 'swingman', 'backfield', 'goaltending', 'helterbrand', 'offensively', 'rebounder', 'pippen', 'latrell', 'mutombo', 'tailback', 'netminder', 'olajuwon', 'dwyane', 'bogues', 'backline', 'jalen', 'defensively', 'cornerbacks', 'deandre']
+
+Expert List (Top 100): 
+['frontcourt', 'backfield', 'swingman', 'goaltending', 'helterbrand', 'offensively', 'rebounder', 'tailback', 'rebounders', 'netminder', 'latrell', 'dwyane', 'defensively', 'pippen', 'linemates', 'deron', 'sprewell', 'trevon', 'caguioa', 'defensemen', 'hardaway', 'olajuwon', 'cornerbacks', 'backline', 'rebounding', 'linemate', 'defenseman', 'jalen', 'isiah', 'teammates', 'iguodala', 'teammate', 'stephon', 'mutombo', 'outfielders', 'sixers', 'fullbacks', 'bogues', 'cavs', 'billups', 'defencemen', 'jeron', 'stauskas', 'deandre', 'tyus', 'goalie', 'getzlaf', 'redhage', 'knicks', 'derozan', 'ainge', 'mavs', 'shaquille', 'quarterback', 'offense', 'wideout', 'benching', 'jayjay', 'scottie', 'quarterbacks', 'okafor', 'dikembe', 'trawick', 'halfbacks', 'tackler', 'udonis', 'emmitt', 'deshawn', 'türkoğlu', 'ginebra', 'ilgauskas', 'rookies', 'bosh', 'liangelo', 'nowitzki', 'divac', 'demarcus', 'vlade', 'hasheem', 'jimmer', 'anfernee', 'sabonis', 'antawn', 'maggette', 'infielders', 'jarome', 'olynyk', 'quarterbacking', 'balkman', 'offseason', 'thabeet', 'sweetney', 'pittsnogle', 'linemen', 'catchings', 'chára', 'mashburn', 'wideouts', 'lakers', 'playmaking']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'frontcourt' found at position 1 in both lists
+
+Word 'swingman' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'backfield' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'goaltending' found at position 4 in both lists
+
+Word 'helterbrand' found at position 5 in both lists
+
+Word 'offensively' found at position 6 in both lists
+
+Word 'rebounder' found at position 7 in both lists
+
+Word 'pippen' found at position 8 and 14
+Difference between the positions: 6
+
+Word 'latrell' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'mutombo' found at position 10 and 34
+Difference between the positions: 24
+
+Word 'tailback' found at position 11 and 8
+Difference between the positions: 3
+
+Word 'netminder' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'olajuwon' found at position 13 and 22
+Difference between the positions: 9
+
+Word 'dwyane' found at position 14 and 12
+Difference between the positions: 2
+
+Word 'bogues' found at position 15 and 38
+Difference between the positions: 23
+
+Word 'backline' found at position 16 and 24
+Difference between the positions: 8
+
+Word 'jalen' found at position 17 and 28
+Difference between the positions: 11
+
+Word 'defensively' found at position 18 and 13
+Difference between the positions: 5
+
+Word 'cornerbacks' found at position 19 and 23
+Difference between the positions: 4
+
+Word 'deandre' found at position 20 and 44
+Difference between the positions: 24
+
+
+For the word 'baddy', the nearest words are: 
+
+Novice List (Top 20): 
+['pumpkinhead', 'carraclough', 'lad', 'bloke', 'lass', 'wormy', 'digger', 'beanstalk', 'barmaid', 'steed', 'giantess', 'redhead', 'grizzle', 'cuddles', 'redheaded', 'churchmouse', 'prospector', 'wench', 'aunty', 'halloway']
+
+Expert List (Top 100): 
+['digger', 'jewsbury', 'salesbury', 'smaug', 'biddy', 'gwalch', 'quarryman', 'andvari', 'fflewddur', 'llaw', 'llangeitho', 'blackham', 'grug', 'rhosymedre', 'meagher', 'lad', 'lyfrau', 'lass', 'angharad', 'quirk', 'skellington', 'shadrack', 'nadolig', 'ffynnon', 'rhapps', 'llech', 'togepi', 'tregear', 'carty', 'hedd', 'welshman', 'bunford', 'gwynfryn', 'ynis', 'prys', 'warpstone', 'kelsall', 'ruthin', 'mathern', 'howarth', 'bryniau', 'fflur', 'fflam', 'llwyd', 'enlli', 'meurig', 'wisewoman', 'rattlin', 'hamshaw', 'chaseling', 'threepwood', 'creley', 'miner', 'coch', 'blewitt', 'brân', 'owd', 'carreg', 'twm', 'llandegla', 'inky', 'guiry', 'twentyman', 'dolwyddelan', 'gwillim', 'nyth', 'cymraeg', 'gwenllian', 'babbington', 'llangelynnin', 'llef', 'peñate', 'sharpe', 'watcyn', 'buggane', 'dagogo', 'dalyngridge', 'lafar', 'rapicauda', 'savoretti', 'llanrhian', 'miser', 'sparhawk', 'manafon', 'botwnnog', 'giantess', 'calon', 'llanbedr', 'gibbins', 'furrball', 'moorcock', 'blodwen', 'eraint', 'johnes', 'llan', 'shakely', 'llanegryn', 'pardoe', 'randerson', 'bwch']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+'pumpkinhead' at position 1 is not present in Expert list
+
+'carraclough' at position 2 is not present in Expert list
+
+Word 'lad' found at position 3 and 16
+Difference between the positions: 13
+
+'bloke' at position 4 is not present in Expert list
+
+Word 'lass' found at position 5 and 18
+Difference between the positions: 13
+
+'wormy' at position 6 is not present in Expert list
+
+Word 'digger' found at position 7 and 1
+Difference between the positions: 6
+
+'beanstalk' at position 8 is not present in Expert list
+
+'barmaid' at position 9 is not present in Expert list
+
+'steed' at position 10 is not present in Expert list
+
+Word 'giantess' found at position 11 and 86
+Difference between the positions: 75
+
+'redhead' at position 12 is not present in Expert list
+
+'grizzle' at position 13 is not present in Expert list
+
+'cuddles' at position 14 is not present in Expert list
+
+'redheaded' at position 15 is not present in Expert list
+
+'churchmouse' at position 16 is not present in Expert list
+
+'prospector' at position 17 is not present in Expert list
+
+'wench' at position 18 is not present in Expert list
+
+'aunty' at position 19 is not present in Expert list
+
+'halloway' at position 20 is not present in Expert list
+
+
+For the word 'baseline', the nearest words are: 
+
+Novice List (Top 20): 
+['baselines', 'benchmark', 'calibration', 'thresholds', 'measurement', 'threshold', 'dataset', 'parameters', 'optimal', 'endpoint', 'minimum', 'indicators', 'reflectance', 'comparator', 'benchmarks', 'data', 'creatinine', 'normal', 'variance', 'quantitative']
+
+Expert List (Top 100): 
+['baselines', 'calibration', 'benchmark', 'measurement', 'thresholds', 'parameters', 'quantitative', 'optimal', 'dataset', 'gravimetric', 'calculation', 'cutoff', 'data', 'calibrations', 'predictive', 'waveform', 'gfr', 'prf', 'calibrated', 'luminance', 'reflectance', 'rmsd', 'measurements', 'threshold', 'minimum', 'latency', 'vlba', 'endpoint', 'benchmarks', 'variance', 'interferometry', 'normal', 'frequency', 'metrics', 'mse', 'deviation', 'indicators', 'attenuation', 'parameter', 'irradiance', 'optimum', 'creatinine', 'avhrr', 'amplitude', 'quantifying', 'interval', 'radiometer', 'hemodynamic', 'spectrophotometric', 'trajectory', 'ghg', 'spirometry', 'guideline', 'measure', 'durations', 'histogram', 'echocardiographic', 'measured', 'systolic', 'weighting', 'microsatellite', 'ppm', 'climatological', 'target', 'sample', 'quantitatively', 'hz', 'standard', 'dxa', 'outputs', 'benchmarking', 'fmeca', 'setpoint', '±', 'spectrophotometer', 'mtf', 'ecg', 'measurable', 'comparator', 'bioassay', 'endpoints', 'gy', 'predefined', 'biomarker', 'azimuth', 'speckle', 'maximum', 'repeatability', 'haemodynamic', 'computed', 'accuracy', 'saturation', 'ratios', 'pharmacokinetic', 'doppler', 'cumulative', 'repeatable', 'localizer', 'reproducibility', 'reproducible']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'baselines' found at position 1 in both lists
+
+Word 'benchmark' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'calibration' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'thresholds' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'measurement' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'threshold' found at position 6 and 24
+Difference between the positions: 18
+
+Word 'dataset' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'parameters' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'optimal' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'endpoint' found at position 10 and 28
+Difference between the positions: 18
+
+Word 'minimum' found at position 11 and 25
+Difference between the positions: 14
+
+Word 'indicators' found at position 12 and 37
+Difference between the positions: 25
+
+Word 'reflectance' found at position 13 and 21
+Difference between the positions: 8
+
+Word 'comparator' found at position 14 and 79
+Difference between the positions: 65
+
+Word 'benchmarks' found at position 15 and 29
+Difference between the positions: 14
+
+Word 'data' found at position 16 and 13
+Difference between the positions: 3
+
+Word 'creatinine' found at position 17 and 42
+Difference between the positions: 25
+
+Word 'normal' found at position 18 and 32
+Difference between the positions: 14
+
+Word 'variance' found at position 19 and 30
+Difference between the positions: 11
+
+Word 'quantitative' found at position 20 and 7
+Difference between the positions: 13
+
+
+For the word 'carry', the nearest words are: 
+
+Novice List (Top 20): 
+['deliver', 'send', 'carrying', 'operate', 'pull', 'bring', 'handle', 'transmit', 'hold', 'take', 'smuggle', 'deploy', 'carve', 'provide', 'carried', 'attach', 'wipe', 'give', 'add', 'keep']
+
+Expert List (Top 100): 
+['deliver', 'carrying', 'send', 'pull', 'operate', 'handle', 'bring', 'take', 'hold', 'transmit', 'provide', 'smuggle', 'deploy', 'carried', 'procure', 'give', 'utilize', 'unload', 'add', 'attach', 'carve', 'wipe', 'keep', 'obtain', 'sell', 'assign', 'produce', 'undertake', 'extend', 'apply', 'receive', 'execute', 'straighten', 'carries', 'offload', 'displace', 'distribute', 'reach', 'get', 'employ', 'find', 'collect', 'acquire', 'wring', 'accompany', 'serve', 'utilise', 'propel', 'retain', 'opt', 'perform', 'convey', 'impose', 'proceed', 'generate', 'adhere', 'buy', 'fulfill', 'divert', 'incorporate', 'wear', 'maintain', 'accommodate', 'go', 'assemble', 'penetrate', 'exert', 'flatten', 'hang', 'coax', 'contribute', 'clamber', 'consume', 'bind', 'contain', 'make', 'follow', 'remove', 'dispense', 'accelerate', 'fly', 'withstand', 'enforce', 'sustain', 'initiate', 'implement', 'render', 'activate', 'convert', 'respond', 'allocate', 'embed', 'lend', 'furnish', 'redirect', 'introduce', 'accomplish', 'fill', 'detect', 'inject']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'deliver' found at position 1 in both lists
+
+Word 'send' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'carrying' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'operate' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'pull' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'bring' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'handle' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'transmit' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'hold' found at position 9 in both lists
+
+Word 'take' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'smuggle' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'deploy' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'carve' found at position 13 and 21
+Difference between the positions: 8
+
+Word 'provide' found at position 14 and 11
+Difference between the positions: 3
+
+Word 'carried' found at position 15 and 14
+Difference between the positions: 1
+
+Word 'attach' found at position 16 and 20
+Difference between the positions: 4
+
+Word 'wipe' found at position 17 and 22
+Difference between the positions: 5
+
+Word 'give' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'add' found at position 19 in both lists
+
+Word 'keep' found at position 20 and 23
+Difference between the positions: 3
+
+
+For the word 'court', the nearest words are: 
+
+Novice List (Top 20): 
+['courts', 'tribunal', 'judge', 'jcpc', 'ecthr', 'magistrate', 'judicial', 'appellants', 'icj', 'prosecutors', 'appellant', 'judiciary', 'ecj', 'prosecutor', 'chancery', 'jury', 'demurrer', 'petitioner', 'retrial', 'parliament']
+
+Expert List (Top 100): 
+['courts', 'tribunal', 'judge', 'jcpc', 'ecthr', 'judicial', 'appellants', 'magistrate', 'icj', 'vcat', 'appellant', 'prosecutors', 'ccj', 'sandiganbayan', 'interlocutory', 'prosecutor', 'petitioner', 'chancery', 'judiciary', 'ecj', 'jury', 'reichskammergericht', 'arbitrators', 'factortame', 'commission', 'brinkema', 'alj', 'illston', 'magistrates', 'defendant', 'parlement', 'parliament', 'scheindlin', 'retrials', 'bpai', 'rehearing', 'jurymen', 'demurrer', 'writ', 'tribunals', 'prosecution', 'griesa', 'plaintiff', 'hcj', 'ttab', 'petitioners', 'judgeship', 'moldaver', 'justia', 'reichshofrat', 'statute', 'echr', 'mandamus', 'appellate', 'arbitrator', 'procuratorate', 'legislature', 'disbarment', 'recusal', 'remittitur', 'attorney', 'ruling', 'plaintiffs', 'chutkan', 'icty', 'retrial', 'adjudication', 'fisc', 'senate', 'writs', 'eeoc', 'ictr', 'arbitration', 'drybones', 'assize', 'justices', 'scsl', 'cjeu', 'sirica', 'remand', 'kotelly', 'decrete', 'assizes', 'asosai', 'nlrb', 'doj', 'judges', 'docketed', 'verdict', 'judgment', 'alito', 'acquittals', 'moseneke', 'resentencing', 'probate', 'certiorari', 'constitutionality', 'council', 'sousvide', 'mitting']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'courts' found at position 1 in both lists
+
+Word 'tribunal' found at position 2 in both lists
+
+Word 'judge' found at position 3 in both lists
+
+Word 'jcpc' found at position 4 in both lists
+
+Word 'ecthr' found at position 5 in both lists
+
+Word 'magistrate' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'judicial' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'appellants' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'icj' found at position 9 in both lists
+
+Word 'prosecutors' found at position 10 and 12
+Difference between the positions: 2
+
+Word 'appellant' found at position 11 in both lists
+
+Word 'judiciary' found at position 12 and 19
+Difference between the positions: 7
+
+Word 'ecj' found at position 13 and 20
+Difference between the positions: 7
+
+Word 'prosecutor' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'chancery' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'jury' found at position 16 and 21
+Difference between the positions: 5
+
+Word 'demurrer' found at position 17 and 38
+Difference between the positions: 21
+
+Word 'petitioner' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'retrial' found at position 19 and 66
+Difference between the positions: 47
+
+Word 'parliament' found at position 20 and 32
+Difference between the positions: 12
+
+
+For the word 'deception', the nearest words are: 
+
+Novice List (Top 20): 
+['deceit', 'subterfuge', 'deceptions', 'misdirection', 'duplicity', 'trickery', 'treachery', 'ruse', 'concealment', 'disinformation', 'betrayal', 'seduction', 'ruses', 'falsehood', 'dishonesty', 'perfidy', 'underhanded', 'brainwashing', 'obfuscation', 'coercion']
+
+Expert List (Top 100): 
+['deceit', 'subterfuge', 'deceptions', 'trickery', 'duplicity', 'misdirection', 'treachery', 'ruse', 'betrayal', 'seduction', 'disinformation', 'concealment', 'dishonesty', 'falsehood', 'ruses', 'coverup', 'deceptive', 'espionage', 'gullibility', 'brainwashing', 'ignorance', 'recklessness', 'nefarious', 'cunning', 'deceitful', 'blackmail', 'infidelity', 'obfuscation', 'fakery', 'machinations', 'coercion', 'ploy', 'manipulation', 'incompetence', 'underhanded', 'machiavellian', 'maskirovka', 'cowardice', 'stupidity', 'misinformation', 'hubris', 'indiscretion', 'tradecraft', 'truth', 'sabotage', 'overconfidence', 'perfidy', 'invisibility', 'misrepresentation', 'imposture', 'manipulative', 'forgery', 'covert', 'evasion', 'deviousness', 'flattery', 'backstabbing', 'misdeeds', 'conspiracies', 'deceits', 'diabolical', 'fraudulent', 'eavesdropping', 'guilt', 'dissimulation', 'disguise', 'duplicitous', 'cheating', 'persuasion', 'fraud', 'malicious', 'unmasking', 'complacency', 'kidnapping', 'false', 'foolishness', 'deliberate', 'guile', 'tactics', 'frauds', 'secrets', 'intimidation', 'faking', 'falsification', 'spies', 'villainy', 'hypnosis', 'conspiracy', 'chicanery', 'perpetrating', 'illusions', 'subversion', 'ploys', 'greed', 'gaslighting', 'bluffing', 'betrayals', 'falsehoods', 'craftiness', 'selfishness']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'deceit' found at position 1 in both lists
+
+Word 'subterfuge' found at position 2 in both lists
+
+Word 'deceptions' found at position 3 in both lists
+
+Word 'misdirection' found at position 4 and 6
+Difference between the positions: 2
+
+Word 'duplicity' found at position 5 in both lists
+
+Word 'trickery' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'treachery' found at position 7 in both lists
+
+Word 'ruse' found at position 8 in both lists
+
+Word 'concealment' found at position 9 and 12
+Difference between the positions: 3
+
+Word 'disinformation' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'betrayal' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'seduction' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'ruses' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'falsehood' found at position 14 in both lists
+
+Word 'dishonesty' found at position 15 and 13
+Difference between the positions: 2
+
+Word 'perfidy' found at position 16 and 47
+Difference between the positions: 31
+
+Word 'underhanded' found at position 17 and 35
+Difference between the positions: 18
+
+Word 'brainwashing' found at position 18 and 20
+Difference between the positions: 2
+
+Word 'obfuscation' found at position 19 and 28
+Difference between the positions: 9
+
+Word 'coercion' found at position 20 and 31
+Difference between the positions: 11
+
+
+For the word 'doubles', the nearest words are: 
+
+Novice List (Top 20): 
+['marray', 'hingis', 'singles', 'slam', 'unseeded', 'mladenovic', 'regu', 'wimbledon', 'men´s', 'quarterfinalist', 'aisam', 'coxless', 'navratilova', 'quarterfinals', 'itf', 'rodionova', 'vesnina', 'srebotnik', 'sculls', 'kokkinakis']
+
+Expert List (Top 100): 
+['hingis', 'noppawan', 'aisam', 'lertcheewakarn', 'marray', 'itf', 'slam', 'wimbledon', 'singles', 'quarterfinals', 'radwańska', 'rajsich', 'unseeded', 'srebotnik', 'dokic', 'championships', 'quarterfinalist', 'regu', 'llodra', 'pospisil', 'mercedescup', 'semifinals', 'sculls', 'gajdošová', 'wta', 'hantuchová', 'babos', 'men´s', 'hardcourts', 'garbiñe', 'mladenovic', 'vesnina', 'navratilova', 'jeļena', 'tomljanović', 'rodionova', 'coxless', 'zimonjić', 'tanasugarn', 'shvedova', 'quarterfinal', 'plíšková', 'coxed', 'mauresmo', 'wickmayer', 'griffioen', 'tennis', 'partnering', 'tamarine', 'deheart', 'berdych', 'cibulková', 'edberg', 'hercog', 'lendl', 'devvarman', 'henin', 'recurve', 'rezaï', 'bacsinszky', 'corretja', 'heptathlon', 'gulbis', 'prenko', 'vergeer', 'rybáriková', 'dementieva', 'tauziat', 'stosur', 'tournament', 'pennetta', 'clijsters', 'krajicek', 'peschke', 'berankis', 'jiske', 'challenger', 'kuerten', 'dechy', 'garros', 'hardcourt', 'büyükakçay', 'nishikori', 'sasnovich', 'kokkinakis', 'vasek', 'bhupathi', 'tecău', 'tournamentsoftware', 'sampras', 'pironkova', 'dulko', 'ajla', 'federer', 'kvitová', 'ordina', 'skupski', 'petrokokkinos', 'fragnière', 'mirnyi']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'marray' found at position 1 and 5
+Difference between the positions: 4
+
+Word 'hingis' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'singles' found at position 3 and 9
+Difference between the positions: 6
+
+Word 'slam' found at position 4 and 7
+Difference between the positions: 3
+
+Word 'unseeded' found at position 5 and 13
+Difference between the positions: 8
+
+Word 'mladenovic' found at position 6 and 31
+Difference between the positions: 25
+
+Word 'regu' found at position 7 and 18
+Difference between the positions: 11
+
+Word 'wimbledon' found at position 8 in both lists
+
+Word 'men´s' found at position 9 and 28
+Difference between the positions: 19
+
+Word 'quarterfinalist' found at position 10 and 17
+Difference between the positions: 7
+
+Word 'aisam' found at position 11 and 3
+Difference between the positions: 8
+
+Word 'coxless' found at position 12 and 37
+Difference between the positions: 25
+
+Word 'navratilova' found at position 13 and 33
+Difference between the positions: 20
+
+Word 'quarterfinals' found at position 14 and 10
+Difference between the positions: 4
+
+Word 'itf' found at position 15 and 6
+Difference between the positions: 9
+
+Word 'rodionova' found at position 16 and 36
+Difference between the positions: 20
+
+Word 'vesnina' found at position 17 and 32
+Difference between the positions: 15
+
+Word 'srebotnik' found at position 18 and 14
+Difference between the positions: 4
+
+Word 'sculls' found at position 19 and 23
+Difference between the positions: 4
+
+Word 'kokkinakis' found at position 20 and 85
+Difference between the positions: 65
+
+
+For the word 'dribble', the nearest words are: 
+
+Novice List (Top 20): 
+['dribbling', 'dribbles', 'dribbled', 'lob', 'ball', 'volleying', 'dunks', 'kick', 'backhand', 'lineout', 'bounce', 'forehand', 'tacklers', 'downfield', 'onrushing', 'flicked', 'handpass', 'topspin', 'goalpost', 'kicking']
+
+Expert List (Top 100): 
+['dribbling', 'dribbles', 'lob', 'dribbled', 'kick', 'lineout', 'backhand', 'ball', 'volleying', 'dunks', 'flicked', 'handpass', 'bounce', 'somersault', 'kicking', 'topspin', 'acrobatically', 'tacklers', 'rabona', 'dribbler', 'downfield', 'dunking', 'kicks', 'dummied', 'forehands', 'lunge', 'mistimed', 'puck', 'volleyed', 'bobbled', 'playmaking', 'swerve', 'quickness', 'layups', 'backboard', 'inbounded', 'parried', 'lofted', 'forehand', 'lunging', 'throw', 'jinking', 'backheel', 'inbounding', 'backflip', 'goalline', 'onrushing', 'fumbling', 'mishit', 'backpass', 'ducking', 'lobs', 'parrying', 'scamper', 'goalpost', 'palmed', 'flicking', 'fastbreak', 'midcourt', 'leaping', 'layup', 'putback', 'bounces', 'ballhandler', 'footwork', 'rebound', 'bobbling', 'slotting', 'catch', 'backspin', 'quaffle', 'volley', 'handpassing', 'lobbed', 'halfcourt', 'grubber', 'baserunner', 'tackler', 'freekick', 'snap', 'handoff', 'backhands', 'capoeirista', 'dunked', 'rucking', 'midfield', 'jairzinho', 'shuttlecock', 'wriggle', 'mazy', 'handstand', 'rucks', 'jambga', 'pucks', 'pickoff', 'ballhandling', 'faceoff', 'athleticism', 'outplay', 'swerving']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'dribbling' found at position 1 in both lists
+
+Word 'dribbles' found at position 2 in both lists
+
+Word 'dribbled' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'lob' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'ball' found at position 5 and 8
+Difference between the positions: 3
+
+Word 'volleying' found at position 6 and 9
+Difference between the positions: 3
+
+Word 'dunks' found at position 7 and 10
+Difference between the positions: 3
+
+Word 'kick' found at position 8 and 5
+Difference between the positions: 3
+
+Word 'backhand' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'lineout' found at position 10 and 6
+Difference between the positions: 4
+
+Word 'bounce' found at position 11 and 13
+Difference between the positions: 2
+
+Word 'forehand' found at position 12 and 39
+Difference between the positions: 27
+
+Word 'tacklers' found at position 13 and 18
+Difference between the positions: 5
+
+Word 'downfield' found at position 14 and 21
+Difference between the positions: 7
+
+Word 'onrushing' found at position 15 and 47
+Difference between the positions: 32
+
+Word 'flicked' found at position 16 and 11
+Difference between the positions: 5
+
+Word 'handpass' found at position 17 and 12
+Difference between the positions: 5
+
+Word 'topspin' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'goalpost' found at position 19 and 55
+Difference between the positions: 36
+
+Word 'kicking' found at position 20 and 15
+Difference between the positions: 5
+
+
+For the word 'drive', the nearest words are: 
+
+Novice List (Top 20): 
+['drives', 'walk', 'ride', 'pass', 'pull', 'driving', 'push', 'run', 'stretch', 'jog', 'move', 'freewheel', 'parkway', 'road', 'ramp', 'drove', 'pkwy', 'jackshaft', 'boulevard', 'sheave']
+
+Expert List (Top 100): 
+['drives', 'ride', 'walk', 'driving', 'pass', 'pull', 'run', 'push', 'jackshaft', 'stretch', 'ramp', 'move', 'parkway', 'jog', 'road', 'drove', 'exit', 'boulevard', 'freeway', 'sheave', 'slip', 'bayshore', 'slide', 'idylwyld', 'crawl', 'freewheel', 'spur', 'loop', 'blvd', 'driveway', 'snowplow', 'swerve', 'turnoff', 'careered', 'strandherd', 'steer', 'turn', 'driveshaft', 'drivin', 'lift', 'bypass', 'flywheel', 'hwy', 'downshift', 'stop', 'braking', 'trail', 'switch', 'running', 'go', 'chase', 'highway', 'careens', 'connector', 'parking', 'float', 'avenue', 'kick', 'ramps', 'nuvinci', 'pulley', 'wheelspin', 'hike', 'runs', 'fairway', 'pump', 'gearshift', 'muffler', 'lock', 'scramble', 'sprockets', 'beltline', 'swerving', 'yard', 'reroute', 'overtake', 'mulsanne', 'drop', 'jogged', 'pkwy', 'mopar', 'line', 'car', 'careen', 'brake', 'eastbound', 'block', 'uhrik', 'gearing', 'stroll', 'qew', 'climb', 'countershaft', 'gearless', 'get', 'truck', 'shortcut', 'chainrings', 'glide', 'route']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'drives' found at position 1 in both lists
+
+Word 'walk' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'ride' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'pass' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'pull' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'driving' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'push' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'run' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'stretch' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'jog' found at position 10 and 14
+Difference between the positions: 4
+
+Word 'move' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'freewheel' found at position 12 and 26
+Difference between the positions: 14
+
+Word 'parkway' found at position 13 in both lists
+
+Word 'road' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'ramp' found at position 15 and 11
+Difference between the positions: 4
+
+Word 'drove' found at position 16 in both lists
+
+Word 'pkwy' found at position 17 and 80
+Difference between the positions: 63
+
+Word 'jackshaft' found at position 18 and 9
+Difference between the positions: 9
+
+Word 'boulevard' found at position 19 and 18
+Difference between the positions: 1
+
+Word 'sheave' found at position 20 in both lists
+
+
+For the word 'drop', the nearest words are: 
+
+Novice List (Top 20): 
+['dropping', 'drops', 'pull', 'plummet', 'bounce', 'decrease', 'falling', 'dip', 'plummeting', 'throw', 'lift', 'slide', 'switch', 'dropped', 'increase', 'dive', 'float', 'move', 'cut', 'climb']
+
+Expert List (Top 100): 
+['dropping', 'drops', 'pull', 'plummet', 'bounce', 'decrease', 'falling', 'slide', 'switch', 'dip', 'plummeting', 'fall', 'lift', 'dive', 'dropped', 'throw', 'cut', 'increase', 'move', 'float', 'climb', 'shoot', 'slipping', 'break', 'glide', 'plunge', 'slip', 'knock', 'sink', 'flatten', 'melt', 'push', 'skyrocket', 'turn', 'explode', 'bleed', 'jump', 'shift', 'burn', 'crack', 'pulling', 'fly', 'squeeze', 'evaporate', 'tumble', 'freeze', 'bump', 'dropoff', 'grab', 'lose', 'swerve', 'flip', 'kick', 'overshoot', 'creep', 'rebound', 'go', 'drip', 'dipped', 'carry', 'scrape', 'inflate', 'burst', 'change', 'jumps', 'decelerate', 'fade', 'eject', 'get', 'snap', 'tumbled', 'overshooting', 'bite', 'tear', 'shrink', 'overheat', 'seep', 'lowering', 'rotate', 'plummeted', 'hang', 'cancel', 'surge', 'jettison', 'plummets', 'splashing', 'percolate', 'take', 'catch', 'tap', 'accelerate', 'reach', 'add', 'swings', 'disappear', 'jetting', 'sliding', 'cutback', 'tumbles', 'choking']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'dropping' found at position 1 in both lists
+
+Word 'drops' found at position 2 in both lists
+
+Word 'pull' found at position 3 in both lists
+
+Word 'plummet' found at position 4 in both lists
+
+Word 'bounce' found at position 5 in both lists
+
+Word 'decrease' found at position 6 in both lists
+
+Word 'falling' found at position 7 in both lists
+
+Word 'dip' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'plummeting' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'throw' found at position 10 and 16
+Difference between the positions: 6
+
+Word 'lift' found at position 11 and 13
+Difference between the positions: 2
+
+Word 'slide' found at position 12 and 8
+Difference between the positions: 4
+
+Word 'switch' found at position 13 and 9
+Difference between the positions: 4
+
+Word 'dropped' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'increase' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'dive' found at position 16 and 14
+Difference between the positions: 2
+
+Word 'float' found at position 17 and 20
+Difference between the positions: 3
+
+Word 'move' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'cut' found at position 19 and 17
+Difference between the positions: 2
+
+Word 'climb' found at position 20 and 21
+Difference between the positions: 1
+
+
+For the word 'fault', the nearest words are: 
+
+Novice List (Top 20): 
+['faults', 'faulting', 'subduction', 'lineament', 'anticline', 'liquiñe', 'footwall', 'tectonic', 'listric', 'monocline', 'anticlines', 'extensional', 'dextral', 'scarps', 'transpressional', 'crustal', 'newport–inglewood', 'intraplate', 'megathrust', 'grabens']
+
+Expert List (Top 100): 
+['faults', 'faulting', 'subduction', 'lineament', 'anticline', 'listric', 'monocline', 'tectonic', 'footwall', 'transpressive', 'anticlines', 'syncline', 'newport–inglewood', 'liquiñe', 'dextral', 'transcurrent', 'overthrust', 'extensional', 'scarps', 'orogenic', 'crustal', 'intraplate', 'megathrust', 'fissure', 'aseismic', 'graben', 'deformation', 'seismogenic', 'grabens', 'rmfz', 'forearc', 'mylonites', 'decollement', 'transpressional', 'transtensional', 'foreland', 'scarp', 'orogen', 'anticlinal', 'lineaments', 'horsts', 'rifting', 'longmenshan', 'lithosphere', 'orogeny', 'volcanism', 'flaw', 'discontinuity', 'décollement', 'subsidence', 'compressional', 'seismicity', 'slope', 'ofqui', 'synclinal', 'synclines', 'foredeep', 'magmatism', 'monoclinal', 'sedimentary', 'seismic', 'transtension', 'volcanic', 'lithospheric', 'magmatic', 'terrane', 'temblor', 'arcing', 'unconformity', 'nappe', 'toroweap', 'fracture', 'subducting', 'swif', 'downthrow', 'dauki', 'tectonically', 'variscan', 'transpression', 'nw–se', 'accretionary', 'batholith', 'rift', 'microplate', 'mylonitic', 'caldera', 'interplate', 'bedrock', 'ophiolites', 'fissures', 'boundary', 'tintina', 'ophiolite', 'reigolil', 'metamorphic', 'nappes', 'forebulge', 'uplift', 'crosscuts', 'forelands']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'faults' found at position 1 in both lists
+
+Word 'faulting' found at position 2 in both lists
+
+Word 'subduction' found at position 3 in both lists
+
+Word 'lineament' found at position 4 in both lists
+
+Word 'anticline' found at position 5 in both lists
+
+Word 'liquiñe' found at position 6 and 14
+Difference between the positions: 8
+
+Word 'footwall' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'tectonic' found at position 8 in both lists
+
+Word 'listric' found at position 9 and 6
+Difference between the positions: 3
+
+Word 'monocline' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'anticlines' found at position 11 in both lists
+
+Word 'extensional' found at position 12 and 18
+Difference between the positions: 6
+
+Word 'dextral' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'scarps' found at position 14 and 19
+Difference between the positions: 5
+
+Word 'transpressional' found at position 15 and 34
+Difference between the positions: 19
+
+Word 'crustal' found at position 16 and 21
+Difference between the positions: 5
+
+Word 'newport–inglewood' found at position 17 and 13
+Difference between the positions: 4
+
+Word 'intraplate' found at position 18 and 22
+Difference between the positions: 4
+
+Word 'megathrust' found at position 19 and 23
+Difference between the positions: 4
+
+Word 'grabens' found at position 20 and 29
+Difference between the positions: 9
+
+
+For the word 'feather', the nearest words are: 
+
+Novice List (Top 20): 
+['feathers', 'quills', 'ruffled', 'ruffling', 'feathered', 'plumed', 'hackle', 'ruffle', 'ptilon', 'pennaceous', 'beak', 'mittens', 'feathery', 'tasseled', 'tertial', 'headpiece', 'ostrich', 'vaned', 'barbules', 'tail']
+
+Expert List (Top 100): 
+['feathers', 'ruffled', 'feathered', 'plumed', 'quills', 'beak', 'ruffle', 'pennaceous', 'ruffling', 'ptilon', 'hackle', 'vaned', 'feathery', 'headpiece', 'tail', 'tasseled', 'kerchief', 'ostrich', 'ruffles', 'quilled', 'cravat', 'comb', 'bristle', 'tassels', 'topknot', 'horsehair', 'earlobes', 'fluffy', 'bedspread', 'tufted', 'sinew', 'gossamer', 'drooping', 'cottony', 'matted', 'mittens', 'tertial', 'gorget', 'hair', 'fluttering', 'knobbed', 'barbules', 'headdress', 'tassel', 'bird', 'snakeskin', 'headdresses', 'taloned', 'tricolored', 'belly', 'tasselled', 'fishtail', 'filoplumes', 'glistening', 'shawl', 'scaly', 'ballgown', 'winged', 'swishing', 'forelock', 'featherless', 'handkerchief', 'fingernail', 'ουρά', 'chauliacia', 'vulturine', 'spurfowl', 'parasol', 'starched', 'hairnet', 'scarf', 'browband', 'felted', 'earflaps', 'caudipteryx', 'knotted', 'skullcap', 'garters', 'coverlet', 'jeweled', 'outspread', 'frilly', 'bicolored', 'headband', 'singed', 'necktie', 'hairlike', 'deerskin', 'loincloth', 'spiky', 'dewlap', 'antler', 'bristly', 'jewelled', 'twig', 'manucode', 'beaded', 'claw', 'toenails', 'eyering']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'feathers' found at position 1 in both lists
+
+Word 'quills' found at position 2 and 5
+Difference between the positions: 3
+
+Word 'ruffled' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'ruffling' found at position 4 and 9
+Difference between the positions: 5
+
+Word 'feathered' found at position 5 and 3
+Difference between the positions: 2
+
+Word 'plumed' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'hackle' found at position 7 and 11
+Difference between the positions: 4
+
+Word 'ruffle' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'ptilon' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'pennaceous' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'beak' found at position 11 and 6
+Difference between the positions: 5
+
+Word 'mittens' found at position 12 and 36
+Difference between the positions: 24
+
+Word 'feathery' found at position 13 in both lists
+
+Word 'tasseled' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'tertial' found at position 15 and 37
+Difference between the positions: 22
+
+Word 'headpiece' found at position 16 and 14
+Difference between the positions: 2
+
+Word 'ostrich' found at position 17 and 18
+Difference between the positions: 1
+
+Word 'vaned' found at position 18 and 12
+Difference between the positions: 6
+
+Word 'barbules' found at position 19 and 42
+Difference between the positions: 23
+
+Word 'tail' found at position 20 and 15
+Difference between the positions: 5
+
+
+For the word 'feathers', the nearest words are: 
+
+Novice List (Top 20): 
+['quills', 'rectrices', 'feather', 'tertials', 'retrices', 'hairs', 'tails', 'feathered', 'remiges', 'barbules', 'bristles', 'tail', 'plumes', 'forelegs', 'beak', 'pennaceous', 'underwings', 'ruffling', 'teeth', 'plumage']
+
+Expert List (Top 100): 
+['quills', 'rectrices', 'feather', 'feathered', 'hairs', 'retrices', 'bristles', 'remiges', 'tail', 'beak', 'tails', 'pennaceous', 'plumes', 'plumage', 'ruffled', 'undertail', 'barbules', 'tertials', 'spines', 'forelegs', 'coverts', 'earlobes', 'wings', 'teeth', 'scapulars', 'underwings', 'ruffles', 'vaned', 'feathery', 'lappets', 'tusks', 'hindfeet', 'birds', 'headdresses', 'tassels', 'filoplumes', 'cloaks', 'fins', 'claws', 'dewlap', 'appendages', 'hindlegs', 'horns', 'underparts', 'nape', 'protuberances', 'upperwing', 'bones', 'limbs', 'tertial', 'upperparts', 'undersides', 'featherless', 'setae', 'secondaries', 'ringlets', 'antlers', 'whiskers', 'horsehair', 'drooping', 'eyelashes', 'beaks', 'frill', 'hair', 'legs', 'ruffle', 'vibrissae', 'hairlike', 'sheaths', 'tegmina', 'hackle', 'abdomens', 'petals', 'eyespots', 'pycnofibres', 'ossicones', 'wattles', 'coloration', 'upperpart', 'tarsi', 'tubercles', 'tentacles', 'markings', 'papery', 'uppertail', 'mouthparts', 'gills', 'cheeks', 'nipples', 'plumed', 'pubescence', 'hooves', 'fangs', 'necks', 'barbs', 'plaits', 'prickles', 'skins', 'ostrich', 'silvery']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'quills' found at position 1 in both lists
+
+Word 'rectrices' found at position 2 in both lists
+
+Word 'feather' found at position 3 in both lists
+
+Word 'tertials' found at position 4 and 18
+Difference between the positions: 14
+
+Word 'retrices' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'hairs' found at position 6 and 5
+Difference between the positions: 1
+
+Word 'tails' found at position 7 and 11
+Difference between the positions: 4
+
+Word 'feathered' found at position 8 and 4
+Difference between the positions: 4
+
+Word 'remiges' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'barbules' found at position 10 and 17
+Difference between the positions: 7
+
+Word 'bristles' found at position 11 and 7
+Difference between the positions: 4
+
+Word 'tail' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'plumes' found at position 13 in both lists
+
+Word 'forelegs' found at position 14 and 20
+Difference between the positions: 6
+
+Word 'beak' found at position 15 and 10
+Difference between the positions: 5
+
+Word 'pennaceous' found at position 16 and 12
+Difference between the positions: 4
+
+Word 'underwings' found at position 17 and 26
+Difference between the positions: 9
+
+'ruffling' at position 18 is not present in Expert list
+
+Word 'teeth' found at position 19 and 24
+Difference between the positions: 5
+
+Word 'plumage' found at position 20 and 14
+Difference between the positions: 6
+
+
+For the word 'flick', the nearest words are: 
+
+Novice List (Top 20): 
+['flicks', 'romp', 'screwball', 'campy', 'filosopher', 'slasher', 'trashy', 'actioner', 'slap', 'cheesy', 'thriller', 'tearjerker', 'giggle', 'melodrama', 'schlocky', 'horror', 'movie', 'classy', 'caper', 'slick']
+
+Expert List (Top 100): 
+['flicks', 'filosopher', 'romp', 'campy', 'slasher', 'cheesy', 'trashy', 'slinky', 'screwball', 'slap', 'fluff', 'actioner', 'tearjerker', 'giggle', 'flicking', 'schlocky', 'thrills', 'thriller', 'cheeky', 'melodrama', 'raunchy', 'caper', 'allmovie', 'chuckle', 'horror', 'deliciously', 'classy', 'slick', 'movie', 'chops', 'bounce', 'punchy', 'cheezy', 'schtick', 'goofy', 'rollicking', 'hilarious', 'squirm', 'offbeat', 'sleaze', 'giddy', 'hilariously', 'sappy', 'spoof', 'kooky', 'oddball', 'cliches', 'splatter', 'giggles', 'silliness', 'twist', 'sexy', 'corny', 'slapstick', 'scary', 'breezy', 'sophomoric', 'creeps', 'creepy', 'stomps', 'stuff', 'escapist', 'sweaty', 'snappy', 'twitchy', 'schmaltz', 'clever', 'sendup', 'nifty', 'chop', 'indiaglitz', 'schlock', 'deliriously', 'potboiler', 'wink', 'sify', 'twirl', 'frights', 'brainy', 'quirky', 'hokey', 'slice', 'shtick', 'suspense', 'thrill', 'thump', 'pulpy', 'cliche', 'slyly', 'clichés', 'badass', 'terrifically', 'zany', 'silly', 'woozy', 'smash', 'sleazy', 'sizzling', 'dribble', 'punch']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'flicks' found at position 1 in both lists
+
+Word 'romp' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'screwball' found at position 3 and 9
+Difference between the positions: 6
+
+Word 'campy' found at position 4 in both lists
+
+Word 'filosopher' found at position 5 and 2
+Difference between the positions: 3
+
+Word 'slasher' found at position 6 and 5
+Difference between the positions: 1
+
+Word 'trashy' found at position 7 in both lists
+
+Word 'actioner' found at position 8 and 12
+Difference between the positions: 4
+
+Word 'slap' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'cheesy' found at position 10 and 6
+Difference between the positions: 4
+
+Word 'thriller' found at position 11 and 18
+Difference between the positions: 7
+
+Word 'tearjerker' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'giggle' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'melodrama' found at position 14 and 20
+Difference between the positions: 6
+
+Word 'schlocky' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'horror' found at position 16 and 25
+Difference between the positions: 9
+
+Word 'movie' found at position 17 and 29
+Difference between the positions: 12
+
+Word 'classy' found at position 18 and 27
+Difference between the positions: 9
+
+Word 'caper' found at position 19 and 22
+Difference between the positions: 3
+
+Word 'slick' found at position 20 and 28
+Difference between the positions: 8
+
+
+For the word 'grip', the nearest words are: 
+
+Novice List (Top 20): 
+['grips', 'handguard', 'cleat', 'buttstock', 'handlebars', 'knurled', 'forend', 'lugs', 'forearm', 'handgrip', 'detent', 'handlebar', 'clamps', 'checkering', 'straps', 'blade', 'wrist', 'forearms', 'bushing', 'bipod']
+
+Expert List (Top 100): 
+['grips', 'buttstock', 'knurled', 'cleat', 'handlebars', 'handguard', 'forend', 'forearm', 'wrist', 'forearms', 'bushing', 'bipod', 'lugs', 'handgrip', 'detent', 'handlebar', 'instep', 'clamps', 'checkering', 'straps', 'handguards', 'arm', 'flange', 'plunger', 'screws', 'strap', 'flanges', 'webbing', 'cheekpiece', 'bushings', 'recoil', 'holster', 'sling', 'bolt', 'pliers', 'foregrip', 'gripper', 'ferrule', 'blade', 'fastener', 'fingers', 'forelegs', 'hand', 'slider', 'lever', 'breechblock', 'swivels', 'forefinger', 'carabiner', 'noseband', 'baseplate', 'barrel', 'fasteners', 'fingertip', 'forehand', 'springy', 'backspin', 'mainspring', 'shank', 'floorplate', 'latch', 'decocker', 'thumb', 'elbows', 'hinge', 'cushioning', 'handhold', 'levers', 'hindquarters', 'lug', 'counterweights', 'rope', 'sidewall', 'knees', 'limbs', 'vise', 'hilt', 'trunnion', 'crimping', 'wrists', 'footrest', 'finger', 'dowel', 'pivoting', 'grasp', 'detachable', 'shoulder', 'pronated', 'ambidextrous', 'thighs', 'crankshaft', 'supinated', 'mandrel', 'lacing', 'haunches', 'pivots', 'cleats', 'stick', 'bearings', 'extractor']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'grips' found at position 1 in both lists
+
+Word 'handguard' found at position 2 and 6
+Difference between the positions: 4
+
+Word 'cleat' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'buttstock' found at position 4 and 2
+Difference between the positions: 2
+
+Word 'handlebars' found at position 5 in both lists
+
+Word 'knurled' found at position 6 and 3
+Difference between the positions: 3
+
+Word 'forend' found at position 7 in both lists
+
+Word 'lugs' found at position 8 and 13
+Difference between the positions: 5
+
+Word 'forearm' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'handgrip' found at position 10 and 14
+Difference between the positions: 4
+
+Word 'detent' found at position 11 and 15
+Difference between the positions: 4
+
+Word 'handlebar' found at position 12 and 16
+Difference between the positions: 4
+
+Word 'clamps' found at position 13 and 18
+Difference between the positions: 5
+
+Word 'checkering' found at position 14 and 19
+Difference between the positions: 5
+
+Word 'straps' found at position 15 and 20
+Difference between the positions: 5
+
+Word 'blade' found at position 16 and 39
+Difference between the positions: 23
+
+Word 'wrist' found at position 17 and 9
+Difference between the positions: 8
+
+Word 'forearms' found at position 18 and 10
+Difference between the positions: 8
+
+Word 'bushing' found at position 19 and 11
+Difference between the positions: 8
+
+Word 'bipod' found at position 20 and 12
+Difference between the positions: 8
+
+
+For the word 'hidayat', the nearest words are: 
+
+Novice List (Top 20): 
+['taufik', 'achmad', 'arifin', 'arief', 'saiful', 'amirul', 'muhamad', 'natsir', 'husin', 'lubis', 'anuar', 'latiff', 'teuku', 'sutan', 'fauzi', 'ramli', 'rahmat', 'hussin', 'yusoff', 'aishah']
+
+Expert List (Top 100): 
+['taufik', 'achmad', 'natsir', 'saiful', 'sutan', 'amirul', 'arifin', 'fauziah', 'anuar', 'arief', 'husin', 'hussin', 'awang', 'teuku', 'hamzah', 'suhaimi', 'muhamad', 'latiff', 'rahmat', 'hasyim', 'fauzi', 'yusoff', 'aminuddin', 'lubis', 'prasetyo', 'effendy', 'nurul', 'ishak', 'razali', 'harahap', 'kamaruddin', 'idham', 'badrul', 'lukman', 'mohamad', 'alatas', 'munawar', 'syamsul', 'kamaluddin', 'djoko', 'dahlan', 'yusof', 'jamaluddin', 'ariff', 'ariffin', 'ehsan', 'sharifah', 'ramli', 'muhd', 'setiawan', 'muhaimin', 'irwan', 'tontowi', 'azman', 'baharuddin', 'marzuki', 'tantowi', 'sidek', 'megat', 'roslan', 'haziq', 'taufiq', 'asyraf', 'syekh', 'fandi', 'jiwa', 'yusri', 'abidin', 'mohd', 'titiek', 'zainal', 'syaiful', 'santoso', 'faizal', 'binte', 'sadikin', 'gelar', 'rahardjo', 'momen', 'sofyan', 'zainuddin', 'abdurrahman', 'zulkifli', 'aidil', 'wahid', 'bachdim', 'idrus', 'oesman', 'irfan', 'zamri', 'tajuddin', 'albar', 'qari', 'faizul', 'patinggi', 'khairul', 'nazmi', 'belal', 'jauhari', 'mansor']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'taufik' found at position 1 in both lists
+
+Word 'achmad' found at position 2 in both lists
+
+Word 'arifin' found at position 3 and 7
+Difference between the positions: 4
+
+Word 'arief' found at position 4 and 10
+Difference between the positions: 6
+
+Word 'saiful' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'amirul' found at position 6 in both lists
+
+Word 'muhamad' found at position 7 and 17
+Difference between the positions: 10
+
+Word 'natsir' found at position 8 and 3
+Difference between the positions: 5
+
+Word 'husin' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'lubis' found at position 10 and 24
+Difference between the positions: 14
+
+Word 'anuar' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'latiff' found at position 12 and 18
+Difference between the positions: 6
+
+Word 'teuku' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'sutan' found at position 14 and 5
+Difference between the positions: 9
+
+Word 'fauzi' found at position 15 and 21
+Difference between the positions: 6
+
+Word 'ramli' found at position 16 and 48
+Difference between the positions: 32
+
+Word 'rahmat' found at position 17 and 19
+Difference between the positions: 2
+
+Word 'hussin' found at position 18 and 12
+Difference between the positions: 6
+
+Word 'yusoff' found at position 19 and 22
+Difference between the positions: 3
+
+'aishah' at position 20 is not present in Expert list
+
+
+For the word 'let', the nearest words are: 
+
+Novice List (Top 20): 
+['letting', 'lets', 'gonna', 'll', 'will', 'gotta', 'wants', 'want', 'wanting', 'would', 'should', 'pretend', 'wanna', 'must', 'cannot', 'might', 'okay', 'shall', 'yourself', 'could']
+
+Expert List (Top 100): 
+['letting', 'lets', 'gonna', 'll', 'will', 'wants', 'want', 'gotta', 'wanting', 'would', 'should', 'pretend', 'must', 'wanna', 'cannot', 'yourself', 'might', 'please', 'okay', 'could', 'shall', 'allowed', 'pretending', 'alright', 'ready', 'lettin', 'able', 'afraid', 'wanted', 'ought', 'allowing', 'you', 'asks', 't', 'willing', 'anymore', 'going', 'decides', 'supposed', 'urges', 'glad', 'seemed', 'we', 'tempted', 'anyway', 'pretends', 'can', 'agrees', 'begs', 'lest', 'wish', 'wouldn', 'urge', 'convinces', 'seems', 'happy', 'tends', 'oughta', 'enough', 'somebody', 'refuses', 'chrool', 'expected', 'your', 'expecting', 'dare', 'scared', 'asking', 'asked', 'forcing', 'try', 'hopefully', 'chooses', 'trying', 'wishing', 'sure', 'fuck', 'allows', 'wont', 'wishes', 'me', 'pretended', 'does', 'expects', 'maybe', 'forever', 'easy', 'dares', 'desire', 'hurry', 'telling', 'hoping', 'ok', 'turnin', 'yourselves', 'couldn', 'cryin', 'begged', 'awhile', 'tries']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'letting' found at position 1 in both lists
+
+Word 'lets' found at position 2 in both lists
+
+Word 'gonna' found at position 3 in both lists
+
+Word 'll' found at position 4 in both lists
+
+Word 'will' found at position 5 in both lists
+
+Word 'gotta' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'wants' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'want' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'wanting' found at position 9 in both lists
+
+Word 'would' found at position 10 in both lists
+
+Word 'should' found at position 11 in both lists
+
+Word 'pretend' found at position 12 in both lists
+
+Word 'wanna' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'must' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'cannot' found at position 15 in both lists
+
+Word 'might' found at position 16 and 17
+Difference between the positions: 1
+
+Word 'okay' found at position 17 and 19
+Difference between the positions: 2
+
+Word 'shall' found at position 18 and 21
+Difference between the positions: 3
+
+Word 'yourself' found at position 19 and 16
+Difference between the positions: 3
+
+Word 'could' found at position 20 in both lists
+
+
+For the word 'lets', the nearest words are: 
+
+Novice List (Top 20): 
+['letting', 'helps', 'instructs', 'convinces', 'wants', 'asks', 'urges', 'encourages', 'manages', 'invites', 'allows', 'chooses', 'sees', 'persuades', 'let', 'decides', 'prompts', 'pushes', 'enables', 'threatens']
+
+Expert List (Top 100): 
+['letting', 'helps', 'convinces', 'instructs', 'urges', 'wants', 'asks', 'invites', 'allows', 'manages', 'let', 'encourages', 'chooses', 'persuades', 'sees', 'decides', 'pushes', 'sends', 'begs', 'tells', 'threatens', 'advises', 'agrees', 'enables', 'warns', 'pulls', 'prompts', 'puts', 'compels', 'prepares', 'informs', 'gives', 'reminds', 'does', 'refuses', 'assures', 'pretends', 'makes', 'will', 'arranges', 'confronts', 'fails', 'opts', 'doesn', 'gets', 'must', 'implores', 'intends', 'accepts', 'finds', 'tries', 'forgets', 'keeps', 'obliges', 'drags', 'cannot', 'expects', 'grabs', 'inspires', 'entices', 'can', 'accompanies', 'beckons', 'frees', 'brings', 'interrupts', 'reveals', 'turns', 'realizes', 'manipulates', 'learns', 'hears', 'insists', 'abandons', 'resolves', 'introduces', 'discovers', 'removes', 'declares', 'll', 'shuts', 'might', 'captures', 'pleads', 'yells', 'frightens', 'dares', 'knocks', 'distracts', 'proposes', 'seeks', 'prefers', 'directs', 'shoves', 'activates', 'uses', 'overpowers', 'tosses', 'could', 'takes']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'letting' found at position 1 in both lists
+
+Word 'helps' found at position 2 in both lists
+
+Word 'instructs' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'convinces' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'wants' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'asks' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'urges' found at position 7 and 5
+Difference between the positions: 2
+
+Word 'encourages' found at position 8 and 12
+Difference between the positions: 4
+
+Word 'manages' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'invites' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'allows' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'chooses' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'sees' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'persuades' found at position 14 in both lists
+
+Word 'let' found at position 15 and 11
+Difference between the positions: 4
+
+Word 'decides' found at position 16 in both lists
+
+Word 'prompts' found at position 17 and 27
+Difference between the positions: 10
+
+Word 'pushes' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'enables' found at position 19 and 24
+Difference between the positions: 5
+
+Word 'threatens' found at position 20 and 21
+Difference between the positions: 1
+
+
+For the word 'net', the nearest words are: 
+
+Novice List (Top 20): 
+['lwn', 'faygoluvers', 'speedtest', 'christianrock', 'climateprediction', 'worldfootball', 'yaroze', 'imperiumi', 'theforce', 'fótbolti', 'totalgaming', 'gamedev', 'theonering', 'brinkster', 'comingsoon', 'sfreviews', 'halftimeonline', 'nationalchamps', 'collegehoops', 'uboat']
+
+Expert List (Top 100): 
+['lwn', 'brucespringsteen', 'climateprediction', 'openad', 'theforce', 'nationalchamps', 'fótbolti', 'comingsoon', 'theonering', 'christianrock', 'collegehoops', 'worldfootball', 'gaygamer', 'firstshowing', 'yaroze', 'fotbolti', 'speedtest', 'translatewiki', 'imperiumi', 'totalgaming', 'fulltiltpoker', 'nbadraft', 'nohomers', 'faygoluvers', 'acclaimedmusic', 'everydns', 'neumu', 'waldwissen', 'twocircles', 'schooldirectory', 'thatgrapejuice', 'dvcreators', 'dfmo', 'mansionpoker', 'gamedev', 'guifi', 'onmyhonor', 'scidev', 'uboat', 'pwwew', 'sfreviews', 'malariacontrol', 'locationid', 'metalstorm', 'huuto', 'slideshare', 'partypoker', 'elbakin', 'mediatama', 'shakingthrough', 'tarstarkas', 'diktyon', 'islamonline', 'consequenceofsound', 'ebitda', 'tornadovideos', 'nets', 'teachingbooks', 'nergies', 'halftimeonline', 'queerplanet', 'opendemocracy', 'lsusports', 'twitchfilm', 'php', 'jalbum', 'actionbutton', 'value', 'djbooth', 'ropolis', 'brinkster', 'npv', 'aamargeet', 'nutaku', 'starmen', 'maximum', 'participedia', 'dataobjects', 'uznews', 'billion', 'globethics', 'zero', 'chinadialogue', 'lettable', 'lycidae', 'torservers', 'cumulative', 'bugguide', 'pretax', 'revenue', '‡biblios', 'rockfreaks', 'servedby', 'zynet', 'deadweight', 'dwightyoakamacoustic', 'blabbermouth', 'excess', 'icmai', 'nrr']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'lwn' found at position 1 in both lists
+
+Word 'faygoluvers' found at position 2 and 24
+Difference between the positions: 22
+
+Word 'speedtest' found at position 3 and 17
+Difference between the positions: 14
+
+Word 'christianrock' found at position 4 and 10
+Difference between the positions: 6
+
+Word 'climateprediction' found at position 5 and 3
+Difference between the positions: 2
+
+Word 'worldfootball' found at position 6 and 12
+Difference between the positions: 6
+
+Word 'yaroze' found at position 7 and 15
+Difference between the positions: 8
+
+Word 'imperiumi' found at position 8 and 19
+Difference between the positions: 11
+
+Word 'theforce' found at position 9 and 5
+Difference between the positions: 4
+
+Word 'fótbolti' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'totalgaming' found at position 11 and 20
+Difference between the positions: 9
+
+Word 'gamedev' found at position 12 and 35
+Difference between the positions: 23
+
+Word 'theonering' found at position 13 and 9
+Difference between the positions: 4
+
+Word 'brinkster' found at position 14 and 71
+Difference between the positions: 57
+
+Word 'comingsoon' found at position 15 and 8
+Difference between the positions: 7
+
+Word 'sfreviews' found at position 16 and 41
+Difference between the positions: 25
+
+Word 'halftimeonline' found at position 17 and 60
+Difference between the positions: 43
+
+Word 'nationalchamps' found at position 18 and 6
+Difference between the positions: 12
+
+Word 'collegehoops' found at position 19 and 11
+Difference between the positions: 8
+
+Word 'uboat' found at position 20 and 39
+Difference between the positions: 19
+
+
+For the word 'racquet', the nearest words are: 
+
+Novice List (Top 20): 
+['racquets', 'babolat', 'shuffleboard', 'bocce', 'croquet', 'racquetball', 'racket', 'rackets', 'pickleball', 'quoits', 'ball', 'taylormade', 'basketballs', 'mallets', 'racketball', 'boules', 'hardcourt', 'pétanque', 'skittles', 'srixon']
+
+Expert List (Top 100): 
+['racquets', 'babolat', 'racket', 'shuffleboard', 'croquet', 'bocce', 'racquetball', 'rackets', 'quoits', 'mallets', 'shuttlecock', 'forehand', 'paddleball', 'ball', 'boules', 'racketball', 'golf', 'cleat', 'pétanque', 'titleist', 'cleats', 'taylormade', 'restringing', 'shuttlecocks', 'skittles', 'carom', 'petanque', 'hardcourt', 'pickleball', 'yonex', 'backhand', 'hoops', 'topspin', 'trampolines', 'tennis', 'shoe', 'ektelon', 'balls', 'paddles', 'squash', 'srixon', 'putters', 'sportsclub', 'basketballs', 'footballs', 'frontenis', 'horseshoes', 'handlebar', 'apawamis', 'shoes', 'battledore', 'baseballs', 'volkl', 'aspria', 'dumbbells', 'surfboard', 'midplus', 'bowls', 'paddle', 'aronimink', 'xare', 'headstock', 'frisbee', 'cornhole', 'wiffle', 'billiards', 'takraw', 'onwentsia', 'mowers', 'drumsticks', 'sdat', 'slazenger', 'raquet', 'sneakers', 'tetherball', 'longboard', 'plexicushion', 'pigskin', 'barbells', 'kettlebell', 'trampoline', 'drumstick', 'carrom', 'volleyballs', 'gloves', 'nunchuk', 'vcore', 'laykold', 'skateboard', 'sphairistike', 'dodgeball', 'waterski', 'clubhouse', 'backspin', 'ebonite', 'plectrum', 'baltusrol', 'dartboards', 'skates', 'pitch']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'racquets' found at position 1 in both lists
+
+Word 'babolat' found at position 2 in both lists
+
+Word 'shuffleboard' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'bocce' found at position 4 and 6
+Difference between the positions: 2
+
+Word 'croquet' found at position 5 in both lists
+
+Word 'racquetball' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'racket' found at position 7 and 3
+Difference between the positions: 4
+
+Word 'rackets' found at position 8 in both lists
+
+Word 'pickleball' found at position 9 and 29
+Difference between the positions: 20
+
+Word 'quoits' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'ball' found at position 11 and 14
+Difference between the positions: 3
+
+Word 'taylormade' found at position 12 and 22
+Difference between the positions: 10
+
+Word 'basketballs' found at position 13 and 44
+Difference between the positions: 31
+
+Word 'mallets' found at position 14 and 10
+Difference between the positions: 4
+
+Word 'racketball' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'boules' found at position 16 and 15
+Difference between the positions: 1
+
+Word 'hardcourt' found at position 17 and 28
+Difference between the positions: 11
+
+Word 'pétanque' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'skittles' found at position 19 and 25
+Difference between the positions: 6
+
+Word 'srixon' found at position 20 and 41
+Difference between the positions: 21
+
+
+For the word 'rally', the nearest words are: 
+
+Novice List (Top 20): 
+['rallies', 'rallye', 'event', 'rallying', 'demonstration', 'race', 'protest', 'rallycross', 'jwrc', 'parade', 'hillclimb', 'demonstrations', 'protests', 'kankkunen', 'märtin', 'wrc', 'contest', 'demonstrators', 'campaign', 'marchers']
+
+Expert List (Top 100): 
+['rallies', 'rallye', 'rallying', 'demonstration', 'protest', 'race', 'märtin', 'event', 'rallycross', 'wrc', 'protests', 'kankkunen', 'demonstrations', 'hillclimb', 'contest', 'jwrc', 'parade', 'demonstrators', 'campaign', 'marchers', 'protestors', 'pwrc', 'interserie', 'rovanperä', 'protesters', 'mosport', 'aprc', 'hillclimbing', 'paris–dakar', 'hirvonen', 'autocross', 'enduro', 'bersih', 'btcc', 'nürburgring', 'celebration', 'walkout', 'ttxgp', 'meeting', 'esapekka', 'rallysprint', 'torph', 'velinov', 'automaidan', 'prorally', 'hindraf', 'victory', 'alén', 'peterhansel', 'fundraiser', 'walkathon', 'euromaidan', 'hockenheimring', 'norisring', 'dharna', 'jamboree', 'etcc', 'parades', 'celebrations', 'bullrun', 'mishyn', 'mintex', 'brscc', 'autopolis', 'speedcar', 'dmack', 'amaroo', 'hungaroring', 'adapta', 'summernats', 'stwc', 'thruxton', 'slutwalk', 'sprint', 'hkfs', 'glimmerati', 'party', 'interlagos', 'modball', 'nurburgring', 'inrc', 'miglia', 'meeke', 'counterprotest', 'codasur', 'speedway', 'hockenheim', 'referendum', 'motorsport', 'snetterton', 'races', 'gt', 'marathon', 'tour', 'crowd', 'riot', 'hackathon', 'antimaidan', 'raceway', 'usrrc']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'rallies' found at position 1 in both lists
+
+Word 'rallye' found at position 2 in both lists
+
+Word 'event' found at position 3 and 8
+Difference between the positions: 5
+
+Word 'rallying' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'demonstration' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'race' found at position 6 in both lists
+
+Word 'protest' found at position 7 and 5
+Difference between the positions: 2
+
+Word 'rallycross' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'jwrc' found at position 9 and 16
+Difference between the positions: 7
+
+Word 'parade' found at position 10 and 17
+Difference between the positions: 7
+
+Word 'hillclimb' found at position 11 and 14
+Difference between the positions: 3
+
+Word 'demonstrations' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'protests' found at position 13 and 11
+Difference between the positions: 2
+
+Word 'kankkunen' found at position 14 and 12
+Difference between the positions: 2
+
+Word 'märtin' found at position 15 and 7
+Difference between the positions: 8
+
+Word 'wrc' found at position 16 and 10
+Difference between the positions: 6
+
+Word 'contest' found at position 17 and 15
+Difference between the positions: 2
+
+Word 'demonstrators' found at position 18 in both lists
+
+Word 'campaign' found at position 19 in both lists
+
+Word 'marchers' found at position 20 in both lists
+
+
+For the word 'referee', the nearest words are: 
+
+Novice List (Top 20): 
+['referees', 'linesman', 'umpire', 'refereeing', 'umpires', 'linesmen', 'goalkeeper', 'chioda', 'smoger', 'player', 'hebner', 'timekeeper', 'javie', 'offside', 'headbutted', 'cornerman', 'ringside', 'match', 'headbutt', 'headbutting']
+
+Expert List (Top 100): 
+['linesman', 'referees', 'umpire', 'refereeing', 'umpires', 'smoger', 'goalkeeper', 'chioda', 'linesmen', 'timekeeper', 'cornermen', 'hebner', 'markbreit', 'ringside', 'offside', 'player', 'clattenburg', 'cornerman', 'officiating', 'match', 'dreith', 'headbutt', 'micheľ', 'scorekeeper', 'strebre', 'korderas', 'koharski', 'striker', 'irmatov', 'headbutted', 'wrestler', 'headbutting', 'disqualification', 'umpiring', 'elbowing', 'javie', 'coach', 'hopoate', 'stoppage', 'kick', 'goalie', 'bout', 'zbyszko', 'penalty', 'ahlenfelder', 'judge', 'kneeing', 'delovski', 'koscheck', 'golota', 'yafai', 'unsportsmanlike', 'touchline', 'calzaghe', 'cantona', 'groundsman', 'goaltender', 'lawler', 'futch', 'cornette', 'sammartino', 'bisping', 'changleng', 'teammate', 'mazzagatti', 'hochuli', 'knockout', 'boxing', 'refereed', 'blatnick', 'triplette', 'rascagneres', 'gyōji', 'gomersall', 'meyran', 'players', 'stasiak', 'chisora', 'dimuro', 'nzolo', 'spinks', 'langenus', 'pillman', 'foul', 'belloise', 'fouls', 'ball', 'kreitlein', 'nzonzi', 'announcer', 'hagler', 'defender', 'mcmahon', 'cheffers', 'malignaggi', 'zwayer', 'crolla', 'xistra', 'laurinaitis', 'undertaker']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'referees' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'linesman' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'umpire' found at position 3 in both lists
+
+Word 'refereeing' found at position 4 in both lists
+
+Word 'umpires' found at position 5 in both lists
+
+Word 'linesmen' found at position 6 and 9
+Difference between the positions: 3
+
+Word 'goalkeeper' found at position 7 in both lists
+
+Word 'chioda' found at position 8 in both lists
+
+Word 'smoger' found at position 9 and 6
+Difference between the positions: 3
+
+Word 'player' found at position 10 and 16
+Difference between the positions: 6
+
+Word 'hebner' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'timekeeper' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'javie' found at position 13 and 36
+Difference between the positions: 23
+
+Word 'offside' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'headbutted' found at position 15 and 30
+Difference between the positions: 15
+
+Word 'cornerman' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'ringside' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'match' found at position 18 and 20
+Difference between the positions: 2
+
+Word 'headbutt' found at position 19 and 22
+Difference between the positions: 3
+
+Word 'headbutting' found at position 20 and 32
+Difference between the positions: 12
+
+
+For the word 'saina', the nearest words are: 
+
+Novice List (Top 20): 
+['nehwal', 'saketh', 'pallikal', 'ponnappa', 'joshna', 'khade', 'virdhawal', 'myneni', 'chinappa', 'chanu', 'uberoi', 'laishram', 'somdev', 'poovamma', 'dipika', 'ghosal', 'divij', 'devvarman', 'kunte', 'prenko']
+
+Expert List (Top 100): 
+['nehwal', 'pallikal', 'saketh', 'ponnappa', 'joshna', 'myneni', 'laishram', 'uberoi', 'diju', 'parupalli', 'chanu', 'chinappa', 'sheoran', 'rushmi', 'pullela', 'virdhawal', 'poovamma', 'santhi', 'kunte', 'mandeep', 'somdev', 'khade', 'lakra', 'dipika', 'sangwan', 'devvarman', 'keerti', 'ghosal', 'dronavalli', 'panigrahi', 'khanvilkar', 'poojashree', 'purav', 'intanon', 'vinesh', 'kidambi', 'sasikiran', 'geetika', 'tejaswini', 'ankita', 'prajakta', 'dipali', 'maharjan', 'babita', 'bombayla', 'ratchanok', 'pramanik', 'nirupama', 'saurav', 'thipsay', 'sasidharan', 'koneru', 'krishinda', 'jangra', 'renjith', 'divij', 'namita', 'sunitha', 'thakkar', 'jwala', 'sathe', 'samyuktha', 'moidu', 'majumder', 'rajak', 'sushila', 'mookhey', 'yogeshwar', 'sangeeta', 'borkar', 'yarlagadda', 'sukhatme', 'rohatgi', 'himani', 'banerji', 'gopichand', 'sucheta', 'madhoo', 'narender', 'kanchan', 'vardhineni', 'phogat', 'moreshwar', 'sapre', 'nalini', 'nanjappa', 'roshini', 'shrikant', 'bapat', 'punia', 'dayaram', 'mahajan', 'parameswaran', 'parul', 'nedunchezhiyan', 'chennupati', 'bhupathi', 'chandini', 'jyotsna', 'rajashree']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'nehwal' found at position 1 in both lists
+
+Word 'saketh' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'pallikal' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'ponnappa' found at position 4 in both lists
+
+Word 'joshna' found at position 5 in both lists
+
+Word 'khade' found at position 6 and 22
+Difference between the positions: 16
+
+Word 'virdhawal' found at position 7 and 16
+Difference between the positions: 9
+
+Word 'myneni' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'chinappa' found at position 9 and 12
+Difference between the positions: 3
+
+Word 'chanu' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'uberoi' found at position 11 and 8
+Difference between the positions: 3
+
+Word 'laishram' found at position 12 and 7
+Difference between the positions: 5
+
+Word 'somdev' found at position 13 and 21
+Difference between the positions: 8
+
+Word 'poovamma' found at position 14 and 17
+Difference between the positions: 3
+
+Word 'dipika' found at position 15 and 24
+Difference between the positions: 9
+
+Word 'ghosal' found at position 16 and 28
+Difference between the positions: 12
+
+Word 'divij' found at position 17 and 56
+Difference between the positions: 39
+
+Word 'devvarman' found at position 18 and 26
+Difference between the positions: 8
+
+Word 'kunte' found at position 19 in both lists
+
+'prenko' at position 20 is not present in Expert list
+
+
+For the word 'serve', the nearest words are: 
+
+Novice List (Top 20): 
+['operate', 'designate', 'provide', 'employ', 'serving', 'appoint', 'utilize', 'represent', 'apply', 'fulfill', 'cater', 'carry', 'instruct', 'accommodate', 'hold', 'contribute', 'connect', 'accept', 'replace', 'recognize']
+
+Expert List (Top 100): 
+['operate', 'designate', 'provide', 'serving', 'employ', 'appoint', 'utilize', 'instruct', 'represent', 'apply', 'carry', 'fulfill', 'cater', 'contribute', 'accommodate', 'accept', 'respond', 'hold', 'remain', 'administer', 'replace', 'connect', 'receive', 'recognize', 'participate', 'succeed', 'deliver', 'fill', 'advise', 'deploy', 'attend', 'serves', 'meet', 'govern', 'fulfil', 'occupy', 'furnish', 'compete', 'served', 'add', 'join', 'oversee', 'undertake', 'adopt', 'utilise', 'assign', 'perform', 'satisfy', 'incorporate', 'redesignate', 'displace', 'send', 'accompany', 'teach', 'enter', 'elect', 'establish', 'identify', 'convene', 'retain', 'defer', 'supplant', 'assist', 'reconstitute', 'develop', 'consult', 'assume', 'engage', 'supervise', 'introduce', 'seek', 'adhere', 'certify', 'sit', 'allocate', 'enroll', 'preside', 'extend', 'equip', 'maintain', 'acquire', 'manage', 'mobilize', 'outrank', 'ordain', 'impose', 'procure', 'attract', 'reposition', 'select', 'patronize', 'expand', 'supersede', 'organize', 'enlist', 'assemble', 'handle', 'nominate', 'attach', 'proceed']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'operate' found at position 1 in both lists
+
+Word 'designate' found at position 2 in both lists
+
+Word 'provide' found at position 3 in both lists
+
+Word 'employ' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'serving' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'appoint' found at position 6 in both lists
+
+Word 'utilize' found at position 7 in both lists
+
+Word 'represent' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'apply' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'fulfill' found at position 10 and 12
+Difference between the positions: 2
+
+Word 'cater' found at position 11 and 13
+Difference between the positions: 2
+
+Word 'carry' found at position 12 and 11
+Difference between the positions: 1
+
+Word 'instruct' found at position 13 and 8
+Difference between the positions: 5
+
+Word 'accommodate' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'hold' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'contribute' found at position 16 and 14
+Difference between the positions: 2
+
+Word 'connect' found at position 17 and 22
+Difference between the positions: 5
+
+Word 'accept' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'replace' found at position 19 and 21
+Difference between the positions: 2
+
+Word 'recognize' found at position 20 and 24
+Difference between the positions: 4
+
+
+For the word 'service', the nearest words are: 
+
+Novice List (Top 20): 
+['services', 'operations', 'duty', 'transport', 'flights', 'servicing', 'serco', 'unit', 'office', 'scdf', 'operation', 'nyct', 'personnel', 'reservists', 'megabus', 'deployment', 'seabus', 'skylink', 'transportation', 'administration']
+
+Expert List (Top 100): 
+['services', 'operations', 'duty', 'transport', 'flights', 'serco', 'servicing', 'operation', 'personnel', 'unit', 'rdc', 'office', 'hoverlloyd', 'transportation', 'servies', 'deployment', 'duties', 'reservists', 'operational', 'administration', 'aviation', 'megabus', 'program', 'hoverspeed', 'maintenance', 'airline', 'communications', 'bls', 'skylink', 'network', 'trains', 'airlink', 'volunteer', 'kiwirail', 'bundeswehr', 'freightliner', 'logistics', 'patrol', 'procurement', 'fleet', 'transcare', 'assistance', 'rtc', 'nyct', 'traffic', 'countrylink', 'ambulances', 'wcr', 'eurotunnel', 'telco', 'trainline', 'rdcs', 'depot', 'tricare', 'sealift', 'employment', 'civilian', 'sealink', 'peacetime', 'sandf', 'amtrak', 'buses', 'training', 'ministry', 'kmb', 'rcn', 'operators', 'nctd', 'patrols', 'airwork', 'centrex', 'pilotage', 'deployments', 'usps', 'atc', 'atw', 'njt', 'phs', 'translink', 'vdsl', 'navy', 'propjets', 'dayjet', 'rma', 'rnzaf', 'interislander', 'vsat', 'transnet', 'agency', 'freight', 'passenger', 'corps', 'korail', 'system', 'terminals', 'airfreight', 'department', 'vtc', 'rtd', 'fy']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'services' found at position 1 in both lists
+
+Word 'operations' found at position 2 in both lists
+
+Word 'duty' found at position 3 in both lists
+
+Word 'transport' found at position 4 in both lists
+
+Word 'flights' found at position 5 in both lists
+
+Word 'servicing' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'serco' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'unit' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'office' found at position 9 and 12
+Difference between the positions: 3
+
+'scdf' at position 10 is not present in Expert list
+
+Word 'operation' found at position 11 and 8
+Difference between the positions: 3
+
+Word 'nyct' found at position 12 and 44
+Difference between the positions: 32
+
+Word 'personnel' found at position 13 and 9
+Difference between the positions: 4
+
+Word 'reservists' found at position 14 and 18
+Difference between the positions: 4
+
+Word 'megabus' found at position 15 and 22
+Difference between the positions: 7
+
+Word 'deployment' found at position 16 in both lists
+
+'seabus' at position 17 is not present in Expert list
+
+Word 'skylink' found at position 18 and 29
+Difference between the positions: 11
+
+Word 'transportation' found at position 19 and 14
+Difference between the positions: 5
+
+Word 'administration' found at position 20 in both lists
+
+
+For the word 'short', the nearest words are: 
+
+Novice List (Top 20): 
+['long', 'brief', 'shorter', 'lengthy', 'shortest', 'thin', 'shortening', 'prolonged', 'shortens', 'full', 'oceanauts', 'longer', 'deadtime', 'frugally', 'minute', 'neotherapsids', 'damerau–levenshtein', 'hyperfocal', 'fast', 'shortened']
+
+Expert List (Top 100): 
+['long', 'brief', 'shorter', 'lengthy', 'shortest', 'damerau–levenshtein', 'shortens', 'thin', 'full', 'deadtime', 'prolonged', 'interpupillary', 'shortening', 'minute', 'chackkalyil', 'frugally', 'longer', 'levenshtein', 'neotherapsids', 'oceanauts', 'fast', 'narrow', 'minutes', 'shortened', '이야기', 'small', 'neverending', 'quick', 'uneventful', 'lengthened', 'longest', 'shorts', 'simple', 'sharp', 'flat', 'adidon', 'badtime', 'slow', 'silent', 'straight', 'seconds', 'thick', 'hyperfocal', 'extra', 'lengthens', 'stiff', 'rough', 'sidewise', 'loose', 'clemensstraße', 'nanosecond', 'maranaw', 'interfocal', 'salsburys', 'off', 'příběhy', 'angariae', 'slight', 'length', 'longish', 'neverwas', 'slender', 'monthlong', 'broad', 'massstar', 'rootabaga', 'wonderous', 'shallow', 'second', 'clobberin', 'limited', 'phorusrhacos', 'fixed', '少女', 'bedtime', 'cancerslug', 'jaro–winkler', 'backwards', 'during', 'barbatteius', 'hour', 'reclusively', 'interaxial', 'shorten', 'bushy', 'timequest', 'capsule', 'халх', 'twisty', 'linear', 'that—from', 'low', 'dull', 'saaab', 'creepage', 'double', 'lengthening', 'praše', 'continuous', 'emebt']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'long' found at position 1 in both lists
+
+Word 'brief' found at position 2 in both lists
+
+Word 'shorter' found at position 3 in both lists
+
+Word 'lengthy' found at position 4 in both lists
+
+Word 'shortest' found at position 5 in both lists
+
+Word 'thin' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'shortening' found at position 7 and 13
+Difference between the positions: 6
+
+Word 'prolonged' found at position 8 and 11
+Difference between the positions: 3
+
+Word 'shortens' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'full' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'oceanauts' found at position 11 and 20
+Difference between the positions: 9
+
+Word 'longer' found at position 12 and 17
+Difference between the positions: 5
+
+Word 'deadtime' found at position 13 and 10
+Difference between the positions: 3
+
+Word 'frugally' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'minute' found at position 15 and 14
+Difference between the positions: 1
+
+Word 'neotherapsids' found at position 16 and 19
+Difference between the positions: 3
+
+Word 'damerau–levenshtein' found at position 17 and 6
+Difference between the positions: 11
+
+Word 'hyperfocal' found at position 18 and 43
+Difference between the positions: 25
+
+Word 'fast' found at position 19 and 21
+Difference between the positions: 2
+
+Word 'shortened' found at position 20 and 24
+Difference between the positions: 4
+
+
+For the word 'shot', the nearest words are: 
+
+Novice List (Top 20): 
+['shooting', 'filmed', 'shots', 'shoot', 'stabbed', 'fired', 'shoots', 'gunned', 'knocked', 'killed', 'chased', 'beaten', 'struck', 'injured', 'wounded', 'knifed', 'gunman', 'stabbing', 'grabbed', 'hit']
+
+Expert List (Top 100): 
+['shooting', 'shots', 'filmed', 'shoot', 'stabbed', 'shoots', 'fired', 'gunned', 'killed', 'knocked', 'chased', 'struck', 'wounded', 'injured', 'beaten', 'knifed', 'bayoneted', 'hit', 'speared', 'stabbing', 'electrocuted', 'pinned', 'lunged', 'headshot', 'bullet', 'grabbed', 'gunman', 'gunshot', 'misfired', 'captured', 'tripped', 'handcuffed', 'bloodied', 'gunshots', 'tasered', 'shoved', 'bayonetted', 'smashed', 'gunfight', 'thrown', 'splashed', 'caught', 'pulled', 'decapitated', 'bullets', 'lobbed', 'murdered', 'pummeled', 'stab', 'closeup', 'nightstick', 'stabs', 'slapped', 'bashed', 'kills', 'brandished', 'jabbed', 'blasted', 'ambushed', 'shootout', 'impaled', 'swooped', 'headbutted', 'photographed', 'slashed', 'assaulted', 'chasing', 'knocking', 'punched', 'sniper', 'uninjured', 'hitting', 'apprehended', 'holed', 'fatally', 'ducked', 'spotted', 'injures', 'downed', 'hanged', 'manhandled', 'attacked', 'scalped', 'bitten', 'firing', 'ricochets', 'tased', 'fouled', 'wounding', 'unhurt', 'hurled', 'buckshot', 'mishit', 'strangled', 'shrapnel', 'reshot', 'mauled', 'clubbed', 'dodged', 'bayoneting']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'shooting' found at position 1 in both lists
+
+Word 'filmed' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'shots' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'shoot' found at position 4 in both lists
+
+Word 'stabbed' found at position 5 in both lists
+
+Word 'fired' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'shoots' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'gunned' found at position 8 in both lists
+
+Word 'knocked' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'killed' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'chased' found at position 11 in both lists
+
+Word 'beaten' found at position 12 and 15
+Difference between the positions: 3
+
+Word 'struck' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'injured' found at position 14 in both lists
+
+Word 'wounded' found at position 15 and 13
+Difference between the positions: 2
+
+Word 'knifed' found at position 16 in both lists
+
+Word 'gunman' found at position 17 and 27
+Difference between the positions: 10
+
+Word 'stabbing' found at position 18 and 20
+Difference between the positions: 2
+
+Word 'grabbed' found at position 19 and 26
+Difference between the positions: 7
+
+Word 'hit' found at position 20 and 18
+Difference between the positions: 2
+
+
+For the word 'shuttlecock', the nearest words are: 
+
+Novice List (Top 20): 
+['battledore', 'basketballs', 'kickball', 'quoits', 'ball', 'wiffle', 'shuffleboard', 'carom', 'pucks', 'dodgeball', 'carrom', 'footbag', 'boules', 'footballs', 'skittles', 'baseballs', 'shuttlecocks', 'frisbees', 'stickball', 'cornhole']
+
+Expert List (Top 100): 
+['ball', 'backspin', 'balls', 'backboard', 'battledore', 'topspin', 'puck', 'lofted', 'poké', 'wiffle', 'racquet', 'goalpost', 'backhand', 'basketballs', 'baseballs', 'bounces', 'lobs', 'forehand', 'forehands', 'boules', 'tetherball', 'pucks', 'stick', 'takraw', 'quaffle', 'groundstroke', 'sidespin', 'frisbees', 'footbag', 'bounce', 'dribble', 'paddles', 'sliotar', 'lob', 'flicking', 'racquets', 'crossbar', 'quoits', 'midair', 'trompo', 'boomerangs', 'caber', 'slingshot', 'carom', 'midcourt', 'sepak', 'pitch', 'awkwardly', 'broomstick', 'footballs', 'mallets', 'waboba', 'clubhead', 'sideways', 'ducking', 'lunge', 'shuttlecocks', 'flicked', 'cleat', 'dodgeball', 'volleying', 'cornhole', 'kite', 'swatting', 'skittles', 'handpass', 'kimbomba', 'projectile', 'sticks', 'lunging', 'zorb', 'hoop', 'skewer', 'ricochets', 'drawknife', 'shuriken', 'projectiles', 'dropkicks', 'caroms', 'beaters', 'snowballs', 'swatter', 'buzzer', 'dartboard', 'peen', 'clacken', 'superballs', 'parrying', 'carrom', 'cartwheeling', 'acrobatically', 'stickball', 'dice', 'pétanque', 'fireballs', 'diabolo', 'headfirst', 'shuffleboard', 'drumhead', 'bouncing']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'battledore' found at position 1 and 5
+Difference between the positions: 4
+
+Word 'basketballs' found at position 2 and 14
+Difference between the positions: 12
+
+'kickball' at position 3 is not present in Expert list
+
+Word 'quoits' found at position 4 and 38
+Difference between the positions: 34
+
+Word 'ball' found at position 5 and 1
+Difference between the positions: 4
+
+Word 'wiffle' found at position 6 and 10
+Difference between the positions: 4
+
+Word 'shuffleboard' found at position 7 and 98
+Difference between the positions: 91
+
+Word 'carom' found at position 8 and 44
+Difference between the positions: 36
+
+Word 'pucks' found at position 9 and 22
+Difference between the positions: 13
+
+Word 'dodgeball' found at position 10 and 60
+Difference between the positions: 50
+
+Word 'carrom' found at position 11 and 89
+Difference between the positions: 78
+
+Word 'footbag' found at position 12 and 29
+Difference between the positions: 17
+
+Word 'boules' found at position 13 and 20
+Difference between the positions: 7
+
+Word 'footballs' found at position 14 and 50
+Difference between the positions: 36
+
+Word 'skittles' found at position 15 and 65
+Difference between the positions: 50
+
+Word 'baseballs' found at position 16 and 15
+Difference between the positions: 1
+
+Word 'shuttlecocks' found at position 17 and 57
+Difference between the positions: 40
+
+Word 'frisbees' found at position 18 and 28
+Difference between the positions: 10
+
+Word 'stickball' found at position 19 and 92
+Difference between the positions: 73
+
+Word 'cornhole' found at position 20 and 62
+Difference between the positions: 42
+
+
+For the word 'singles', the nearest words are: 
+
+Novice List (Top 20): 
+['albums', 'remixes', 'hits', 'songs', 'compilations', 'tracks', 'album', 'charts', 'singles—', 'lps', 'eps', 'mixtapes', 'ep', 'releases', 'billboard', 'song', 'recordings', 'doubles', 'chart', 'single']
+
+Expert List (Top 100): 
+['albums', 'remixes', 'hits', 'songs', 'compilations', 'lps', 'tracks', 'album', 'eps', 'charts', 'releases', 'ep', 'mixtapes', 'singles—', 'billboard', 'song', 'recordings', 'cds', 'singles—the', 'single', 'remix', 'doubles', 'duets', 'chart', 'instrumentals', 'lp', 'album—', 'soundtracks', 'vocalists', 'titles', 'toppers', 'charted', 'demos', 'videoclips', 'cd', 'medley', 'teardrops', 'heartbreaker', 'itunes', 'megamixes', 'albums—', 'duet', 'reissues', 'videos', 'editions', 'tour', 'solo', 'disco', 'hit', 'medleys', 'remixed', 'charting', 'beatport', 'freestyles', 'roxette', 'bananarama', 'peaking', 'supremes', 'airplay', 'multiplatinum', 'outtakes', 'versions', 'vinyls', 'compilation', 'soundtrack', 'sugababes', 'peaked', 'dancin', 'slam', 'reissue', 'track', 'clubland', 'jamelia', 'noisettes', 'megamix', 'nominations', 'zoegirl', 'preluding', 'kimbra', 'records', 'sverigetopplistan', 'songs—', 'bootlegs', 'favorites', 'superstars', 'kaskade', 'unreleased', 'veronicas', 'walkin', 'fours', 'pressings', 'esthero', 'désenchantée', 'disc', 'eurythmics', 'performances', 'tunes', 'originals', 'vocals', 'potbelleez']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'albums' found at position 1 in both lists
+
+Word 'remixes' found at position 2 in both lists
+
+Word 'hits' found at position 3 in both lists
+
+Word 'songs' found at position 4 in both lists
+
+Word 'compilations' found at position 5 in both lists
+
+Word 'tracks' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'album' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'charts' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'singles—' found at position 9 and 14
+Difference between the positions: 5
+
+Word 'lps' found at position 10 and 6
+Difference between the positions: 4
+
+Word 'eps' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'mixtapes' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'ep' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'releases' found at position 14 and 11
+Difference between the positions: 3
+
+Word 'billboard' found at position 15 in both lists
+
+Word 'song' found at position 16 in both lists
+
+Word 'recordings' found at position 17 in both lists
+
+Word 'doubles' found at position 18 and 22
+Difference between the positions: 4
+
+Word 'chart' found at position 19 and 24
+Difference between the positions: 5
+
+Word 'single' found at position 20 in both lists
+
+
+For the word 'smash', the nearest words are: 
+
+Novice List (Top 20): 
+['surefire', 'hit', 'stomp', 'sledgehammer', 'ricochet', 'hadouken', 'shove', 'smashes', 'hits', 'dancefloor', 'punch', 'banger', 'disco', 'floigan', 'smashing', 'crossover', 'koopa', 'monster', 'crowbar', 'ke$ha']
+
+Expert List (Top 100): 
+['hit', 'surefire', 'stomp', 'ricochet', 'smashes', 'hits', 'smashing', 'hadouken', 'punch', 'parader', 'eurobeat', 'sledgehammer', 'banger', 'slap', 'shake', 'bangers', 'duper', 'floigan', 'ke$ha', 'mamacita', 'crowbar', 'slither', 'megamix', 'grab', 'jackhammer', 'zapper', 'flick', 'disco', 'shove', 'boombox', 'shine', 'dancefloor', 'combo', 'breakin', 'shatter', 'poppin', 'bonk', 'hypno', 'scoop', 'pogo', 'dazz', 'remix', 'lmfao', 'crazy', 'crossover', 'xxxoxox', 'bubblegum', 'singstar', 'lakitu', 'mega', 'scream', 'breakout', 'bullseye', 'snag', 'stomper', 'pop', 'skank', 'thump', 'leftfield', 'monster', 'slingshot', 'stunner', 'bounce', 'sonic', 'throwdown', 'whiplash', 'thumper', 'bazooka', 'spank', 'multiformat', 'dancin', 'box', 'freakin', 'smack', 'big', 'snot', 'muzic', 'funky', 'pummel', 'spiderman', 'razer', 'lollipop', 'superfly', 'muñeco', 'ninja', 'pinata', 'fuzz', 'shout', 'slinky', 'supa', 'mosh', 'bludgeon', 'superstar', 'blam', 'beyblade', 'song', 'headbanger', 'abracadabra', 'biz', 'chop']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'surefire' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'hit' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'stomp' found at position 3 in both lists
+
+Word 'sledgehammer' found at position 4 and 12
+Difference between the positions: 8
+
+Word 'ricochet' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'hadouken' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'shove' found at position 7 and 29
+Difference between the positions: 22
+
+Word 'smashes' found at position 8 and 5
+Difference between the positions: 3
+
+Word 'hits' found at position 9 and 6
+Difference between the positions: 3
+
+Word 'dancefloor' found at position 10 and 32
+Difference between the positions: 22
+
+Word 'punch' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'banger' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'disco' found at position 13 and 28
+Difference between the positions: 15
+
+Word 'floigan' found at position 14 and 18
+Difference between the positions: 4
+
+Word 'smashing' found at position 15 and 7
+Difference between the positions: 8
+
+Word 'crossover' found at position 16 and 45
+Difference between the positions: 29
+
+'koopa' at position 17 is not present in Expert list
+
+Word 'monster' found at position 18 and 60
+Difference between the positions: 42
+
+Word 'crowbar' found at position 19 and 21
+Difference between the positions: 2
+
+Word 'ke$ha' found at position 20 and 19
+Difference between the positions: 1
+
+
+For the word 'spin', the nearest words are: 
+
+Novice List (Top 20): 
+['spins', 'spun', 'spinoff', 'brassed', 'bounce', 'rip', 'kilter', 'spinning', 'syphoned', 'shrugging', 'gett', 'hiving', 'slacked', 'hived', 'sloughed', 'spinner', 'slacking', 'sendings', 'reboot', 'pisses']
+
+Expert List (Top 100): 
+['spins', 'spun', 'brassed', 'bounce', 'spinoff', 'kilter', 'boresight', 'syphoned', 'spinning', 'fobbed', 'hiving', 'shrugging', 'rip', 'gett', 'slacked', 'hived', 'spinner', 'sloughed', 'goofing', 'sendings', 'roader', 'slacking', 'staving', 'shake', 'damping', 'awntyrs', 'mooches', 'spinoffs', 'spinned', 'goof', 'squared', 'bouncing', 'crossover', 'branching', 'reboot', 'toggled', 'twist', 'lopped', 'dozed', 'shrug', 'drop', 'flip', 'pull', 'cheesed', 'bounces', 'glide', 'cannoning', 'settings—', 'pisses', 'jershöft', 'palming', 'raffled', 'caromed', 'worlders', 'springboarding', 'cannoned', 'anime', 'blender', 'warding', 'series', 'tetrarhanis', 'dozes', 'sequel', 'slagged', 'prequel', 'rotation', 'roading', 'switch', 'boogaloo', 'atom', 'buzz', 'kick', 'pensioning', 'shrugs', 'soundin', 'syphoning', 'shryff', 'slagging', 'cordoning', 'vibe', 'squaring', 'fakie', 'burq', 'slice', 'infinity', 'ricochet', 'photon', 'vortex', 'sponged', 'pissed', 'show', 'raffling', 'fends', 'sheered', 'ricochets', 'cuff', 'knock', 'podcast', 'scifi', 'flips']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'spins' found at position 1 in both lists
+
+Word 'spun' found at position 2 in both lists
+
+Word 'spinoff' found at position 3 and 5
+Difference between the positions: 2
+
+Word 'brassed' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'bounce' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'rip' found at position 6 and 13
+Difference between the positions: 7
+
+Word 'kilter' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'spinning' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'syphoned' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'shrugging' found at position 10 and 12
+Difference between the positions: 2
+
+Word 'gett' found at position 11 and 14
+Difference between the positions: 3
+
+Word 'hiving' found at position 12 and 11
+Difference between the positions: 1
+
+Word 'slacked' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'hived' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'sloughed' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'spinner' found at position 16 and 17
+Difference between the positions: 1
+
+Word 'slacking' found at position 17 and 22
+Difference between the positions: 5
+
+Word 'sendings' found at position 18 and 20
+Difference between the positions: 2
+
+Word 'reboot' found at position 19 and 35
+Difference between the positions: 16
+
+Word 'pisses' found at position 20 and 49
+Difference between the positions: 29
+
+
+For the word 'string', the nearest words are: 
+
+Novice List (Top 20): 
+['strings', 'woodwind', 'pizzicato', 'stringed', 'clarinet', 'glissando', 'cello', 'bassoon', 'plectrum', 'fingerboard', 'cellos', 'woodwinds', 'violins', 'octet', 'keyboard', 'resonator', 'soundbox', 'chords', 'chord', 'contrabass']
+
+Expert List (Top 100): 
+['strings', 'woodwind', 'pizzicato', 'clarinet', 'stringed', 'glissando', 'fingerboard', 'fretless', 'plectrum', 'contrabass', 'woodwinds', 'chord', 'soundbox', 'octet', 'chords', 'arpeggio', 'contraguitar', 'cello', 'bassoon', 'keyboard', 'mandoline', 'cellos', 'fret', 'xylophone', 'tuning', 'violins', 'ostinato', 'violoncello', 'unfretted', 'septet', 'glissandi', 'flute', 'resonator', 'sextets', 'cadenza', 'quintets', 'metallophone', 'vibraphone', 'mandolins', 'fretboard', 'violin', 'violas', 'frets', 'tremolos', 'semiquavers', 'sarrusophone', 'tremolo', 'rotosound', 'pizzicati', 'tailpiece', 'octave', 'pegbox', 'marimba', 'flatwound', 'vibrato', 'harmonic', 'glockenspiel', 'mandolin', 'arpeggios', 'sextet', 'octaves', 'glissandos', 'saxophones', 'spiccato', 'marimbas', 'monochord', 'trumpet', 'timpani', 'shawm', 'pianoless', 'piccolos', 'piano', 'rebab', 'strummed', 'oboe', 'bits', 'euphonium', 'pedal', 'fretted', 'piece', 'ukulele', 'solos', 'melody', 'saxophone', 'portamento', 'psaltery', 'flutes', 'adagio', 'harpsichord', 'basses', 'ritornello', 'yozakura', 'percussion', 'fingering', 'harmonics', 'kazoo', 'mandola', 'drumroll', 'léner', 'trombones']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'strings' found at position 1 in both lists
+
+Word 'woodwind' found at position 2 in both lists
+
+Word 'pizzicato' found at position 3 in both lists
+
+Word 'stringed' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'clarinet' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'glissando' found at position 6 in both lists
+
+Word 'cello' found at position 7 and 18
+Difference between the positions: 11
+
+Word 'bassoon' found at position 8 and 19
+Difference between the positions: 11
+
+Word 'plectrum' found at position 9 in both lists
+
+Word 'fingerboard' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'cellos' found at position 11 and 22
+Difference between the positions: 11
+
+Word 'woodwinds' found at position 12 and 11
+Difference between the positions: 1
+
+Word 'violins' found at position 13 and 26
+Difference between the positions: 13
+
+Word 'octet' found at position 14 in both lists
+
+Word 'keyboard' found at position 15 and 20
+Difference between the positions: 5
+
+Word 'resonator' found at position 16 and 33
+Difference between the positions: 17
+
+Word 'soundbox' found at position 17 and 13
+Difference between the positions: 4
+
+Word 'chords' found at position 18 and 15
+Difference between the positions: 3
+
+Word 'chord' found at position 19 and 12
+Difference between the positions: 7
+
+Word 'contrabass' found at position 20 and 10
+Difference between the positions: 10
+
+
+For the word 'stroke', the nearest words are: 
+
+Novice List (Top 20): 
+['strokes', 'hemorrhage', 'haemorrhage', 'illness', 'pneumonia', 'embolism', 'aneurysm', 'concussion', 'infarction', 'emphysema', 'appendicitis', 'septicaemia', 'cylinder', 'pleurisy', 'paralysis', 'hemiplegia', 'puncture', 'cardiac', 'peritonitis', 'ailment']
+
+Expert List (Top 100): 
+['strokes', 'haemorrhage', 'hemorrhage', 'concussion', 'illness', 'aneurysm', 'pleurisy', 'pneumonia', 'emphysema', 'apoplexy', 'cylinder', 'paralytic', 'embolism', 'miscarriage', 'septicaemia', 'appendicitis', 'infarction', 'cardiac', 'puncture', 'peritonitis', 'injury', 'ailment', 'piston', 'sciatica', 'hemiplegia', 'arteriosclerosis', 'tonsillitis', 'contusion', 'dropsy', 'pulmonary', 'paralysis', 'carburetor', 'quadriplegia', 'gout', 'bronchitis', 'crankshaft', 'laceration', 'complications', 'bronchopneumonia', 'injuries', 'gearbox', 'paraplegia', 'surgery', 'cerebral', 'coma', 'knee', 'fracture', 'hernia', 'cc', 'dementia', 'lung', 'overdose', 'septicemia', 'coronary', 'ulcer', 'subdural', 'poliomyelitis', 'meningitis', 'pancreatitis', 'colic', 'sohc', 'thrombosis', 'sidevalve', 'dartitis', 'polio', 'asthma', 'arthritis', 'engine', 'gunshot', 'tumour', 'haemorrhages', 'wrist', 'heatstroke', 'hematoma', 'relapse', 'infarct', 'hemorrage', 'hypothermia', 'carburettor', 'pushrod', 'ꝁ', 'putts', 'tetraplegic', 'tendinitis', 'propeller', 'leukaemia', 'clot', 'leg', 'putt', 'myocardial', 'cancer', 'accident', 'litre', 'spasms', 'embolic', 'arrhythmia', 'ohc', 'valve', 'carburetors', 'seconds']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'strokes' found at position 1 in both lists
+
+Word 'hemorrhage' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'haemorrhage' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'illness' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'pneumonia' found at position 5 and 8
+Difference between the positions: 3
+
+Word 'embolism' found at position 6 and 13
+Difference between the positions: 7
+
+Word 'aneurysm' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'concussion' found at position 8 and 4
+Difference between the positions: 4
+
+Word 'infarction' found at position 9 and 17
+Difference between the positions: 8
+
+Word 'emphysema' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'appendicitis' found at position 11 and 16
+Difference between the positions: 5
+
+Word 'septicaemia' found at position 12 and 15
+Difference between the positions: 3
+
+Word 'cylinder' found at position 13 and 11
+Difference between the positions: 2
+
+Word 'pleurisy' found at position 14 and 7
+Difference between the positions: 7
+
+Word 'paralysis' found at position 15 and 31
+Difference between the positions: 16
+
+Word 'hemiplegia' found at position 16 and 25
+Difference between the positions: 9
+
+Word 'puncture' found at position 17 and 19
+Difference between the positions: 2
+
+Word 'cardiac' found at position 18 in both lists
+
+Word 'peritonitis' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'ailment' found at position 20 and 22
+Difference between the positions: 2
+
+
+For the word 'thomas', the nearest words are: 
+
+Novice List (Top 20): 
+['john', 'william', 'james', 'samuel', 'robert', 'francis', 'edmund', 'richard', 'joseph', 'charles', 'edward', 'andrew', 'george', 'henry', 'hugh', 'edwin', 'nicholas', 'nathaniel', 'herbert', 'stephen']
+
+Expert List (Top 100): 
+['john', 'james', 'william', 'francis', 'samuel', 'robert', 'george', 'richard', 'joseph', 'edmund', 'charles', 'edward', 'andrew', 'hugh', 'henry', 'edwin', 'nicholas', 'walter', 'nathaniel', 'anthony', 'matthew', 'stephen', 'christopher', 'herbert', 'reginald', 'percy', 'ralph', 'arthur', 'benjamin', 'david', 'wiliam', 'patrick', 'timothy', 'clarence', 'michael', 'mathew', 'gerald', 'horace', 'peter', 'alfred', 'j', 'frank', 'frances', 'lawrence', 'oliver', 'ernest', 'mary', 'daniel', 'roger', 'leonard', 'josiah', 'clifford', 'frederic', 'gilbert', 'paul', 'geoffrey', 'margaret', 'laurence', 'harold', 'isaac', 'bernard', 'frederick', 'philip', 'rowland', 'alexander', 'martin', 'hubert', 'giles', 'kenneth', 'tom', 'cornelius', 'cecil', 'archibald', 'clement', 'theodore', 'gerard', 'theophilus', 'willis', 'maurice', 'launcelot', 'clayton', 'harriot', 'katherine', 'vincent', 'elizabeth', 'owen', 'harry', 'raymond', 'ambrose', 'scott', 'jerome', 'humphrey', 'sidney', 'jonathan', 'cyril', 'gawen', 'heywood', 'jeremiah', 'graham', 'w']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'john' found at position 1 in both lists
+
+Word 'william' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'james' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'samuel' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'robert' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'francis' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'edmund' found at position 7 and 10
+Difference between the positions: 3
+
+Word 'richard' found at position 8 in both lists
+
+Word 'joseph' found at position 9 in both lists
+
+Word 'charles' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'edward' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'andrew' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'george' found at position 13 and 7
+Difference between the positions: 6
+
+Word 'henry' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'hugh' found at position 15 and 14
+Difference between the positions: 1
+
+Word 'edwin' found at position 16 in both lists
+
+Word 'nicholas' found at position 17 in both lists
+
+Word 'nathaniel' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'herbert' found at position 19 and 24
+Difference between the positions: 5
+
+Word 'stephen' found at position 20 and 22
+Difference between the positions: 2
+
+
+For the word 'tumbling', the nearest words are: 
+
+Novice List (Top 20): 
+['tumbles', 'tumble', 'tumbled', 'crashing', 'somersaulting', 'cartwheeling', 'leaping', 'jumping', 'swooping', 'twisting', 'throwing', 'wobbling', 'jumps', 'trampoline', 'headfirst', 'somersaults', 'flinging', 'plummets', 'bouncing', 'tossing']
+
+Expert List (Top 100): 
+['tumbles', 'cartwheeling', 'somersaulting', 'tumble', 'crashing', 'leaping', 'tumbled', 'swooping', 'twisting', 'flinging', 'headfirst', 'jumping', 'crawling', 'trampoline', 'jumps', 'stomps', 'plummets', 'flips', 'swaying', 'bouncing', 'somersaults', 'splashing', 'wobbling', 'spinning', 'cartwheels', 'throwing', 'rappels', 'darting', 'cascading', 'somersault', 'tossing', 'slipping', 'swoops', 'climbing', 'skidding', 'careening', 'spiraling', 'slide', 'midair', 'pirouettes', 'ducking', 'flailing', 'slithering', 'lunging', 'trickling', 'tumbleweeds', 'handstands', 'topples', 'leaps', 'stomping', 'bounces', 'bounce', 'levitating', 'swinging', 'plunges', 'looping', 'abseiling', 'trampolines', 'falling', 'wriggling', 'glides', 'grinds', 'glided', 'corkscrew', 'cartwheel', 'abseil', 'pulling', 'clambering', 'whirls', 'rippling', 'flicking', 'plunging', 'hurtling', 'whirling', 'bending', 'bumping', 'flipping', 'gyrating', 'slides', 'rappel', 'sideways', 'slamming', 'wobbles', 'droops', 'crouches', 'wiggling', 'heaving', 'trickles', 'twirls', 'hurtled', 'sliding', 'swings', 'spins', 'acrobatics', 'rocking', 'tripping', 'crumpling', 'dragging', 'writhing', 'pirouette']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'tumbles' found at position 1 in both lists
+
+Word 'tumble' found at position 2 and 4
+Difference between the positions: 2
+
+Word 'tumbled' found at position 3 and 7
+Difference between the positions: 4
+
+Word 'crashing' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'somersaulting' found at position 5 and 3
+Difference between the positions: 2
+
+Word 'cartwheeling' found at position 6 and 2
+Difference between the positions: 4
+
+Word 'leaping' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'jumping' found at position 8 and 12
+Difference between the positions: 4
+
+Word 'swooping' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'twisting' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'throwing' found at position 11 and 26
+Difference between the positions: 15
+
+Word 'wobbling' found at position 12 and 23
+Difference between the positions: 11
+
+Word 'jumps' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'trampoline' found at position 14 in both lists
+
+Word 'headfirst' found at position 15 and 11
+Difference between the positions: 4
+
+Word 'somersaults' found at position 16 and 21
+Difference between the positions: 5
+
+Word 'flinging' found at position 17 and 10
+Difference between the positions: 7
+
+Word 'plummets' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'bouncing' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'tossing' found at position 20 and 31
+Difference between the positions: 11
+
+
+For the word 'uber', the nearest words are: 
+
+Novice List (Top 20): 
+['lyft', 'ridesharing', 'airbnb', 'cabify', 'careem', 'waymo', 'deliveroo', 'zipcar', 'paypal', 'zimride', 'groupon', 'grabtaxi', 'stumbleupon', 'expedia', 'postmates', 'pinterest', 'dropbox', 'hubspot', 'taskrabbit', 'taxi']
+
+Expert List (Top 100): 
+['lyft', 'airbnb', 'ridesharing', 'waymo', 'careem', 'cabify', 'zipcar', 'taskrabbit', 'zimride', 'pinterest', 'groupon', 'mobike', 'grabtaxi', 'paypal', 'postmates', 'shopify', 'deliveroo', 'baidu', 'google', 'dropbox', 'stumbleupon', 'blacklane', 'salesforce', 'greyball', 'twilio', 'taxi', 'eventbrite', 'expedia', 'kalanick', 'rideshare', 'hubspot', 'orbitz', 'evernote', 'servicenow', 'ridesourcing', 'alipay', 'wechat', 'zappos', 'plaxo', 'uberx', 'godaddy', 'xoom', 'carsharing', 'haxi', 'cloudflare', 'linkedin', 'zendesk', 'akamai', 'pathao', 'realnetworks', 'citrix', 'kuaidi', 'jetsmarter', 'taxicab', 'microsoft', 'flipkart', 'novell', 'carpooling', 'blablacar', 'truecar', 'startup', 'doubleclick', 'yelp', 'tencent', 'lazada', 'onstar', 'rackspace', 'app', 'instacart', 'priceline', 'whatsapp', 'etsy', 'zomato', 'vonage', 'fedex', 'zalando', 'gmail', 'newegg', 'mapquest', 'ojek', 'venmo', 'mailchimp', 'yahoo', 'yammer', 'huawei', 'napster', 'snapdeal', 'phorm', 'hootsuite', 'fortinet', 'admob', 'kazaa', 'foodpanda', 'mastercard', 'wingz', 'woocommerce', 'uberpool', 'mobi', 'loopt', 'friendster']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'lyft' found at position 1 in both lists
+
+Word 'ridesharing' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'airbnb' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'cabify' found at position 4 and 6
+Difference between the positions: 2
+
+Word 'careem' found at position 5 in both lists
+
+Word 'waymo' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'deliveroo' found at position 7 and 17
+Difference between the positions: 10
+
+Word 'zipcar' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'paypal' found at position 9 and 14
+Difference between the positions: 5
+
+Word 'zimride' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'groupon' found at position 11 in both lists
+
+Word 'grabtaxi' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'stumbleupon' found at position 13 and 21
+Difference between the positions: 8
+
+Word 'expedia' found at position 14 and 28
+Difference between the positions: 14
+
+Word 'postmates' found at position 15 in both lists
+
+Word 'pinterest' found at position 16 and 10
+Difference between the positions: 6
+
+Word 'dropbox' found at position 17 and 20
+Difference between the positions: 3
+
+Word 'hubspot' found at position 18 and 31
+Difference between the positions: 13
+
+Word 'taskrabbit' found at position 19 and 8
+Difference between the positions: 11
+
+Word 'taxi' found at position 20 and 26
+Difference between the positions: 6
+
+
+For the word 'yonex', the nearest words are: 
+
+Novice List (Top 20): 
+['babolat', 'srixon', 'racquets', 'vcore', 'sunfeast', 'ittf', 'woodone', 'bitburger', 'footvolley', 'maekyung', 'ordina', 'aegon', 'ratchanok', 'bpaa', 'alpg', 'hardcourt', 'prévadiès', 'zhangjiagang', 'invitational', 'euroformula']
+
+Expert List (Top 100): 
+['babolat', 'racquets', 'srixon', 'vcore', 'ratchanok', 'aegon', 'bitburger', 'ittf', 'racquet', 'badminton', 'bpaa', 'hardcourt', 'ordina', 'woodone', 'footvolley', 'zhangjiagang', 'korfball', 'euroformula', 'adidas', 'eurocard', 'sunfeast', 'uspta', 'tournaments', 'shuttlecocks', 'titleist', 'toray', 'invitational', 'bassmaster', 'usta', 'midplus', 'feiyue', 'munsingwear', 'internazionali', 'umbro', 'intanon', 'ajga', 'alpg', 'tennis', 'tuwankotta', 'hardcourts', 'stiga', 'hayago', 'frontenis', 'istaf', 'wongteanchai', 'maekyung', 'tournament', 'wickmayer', 'restringing', 'wsob', 'wispa', 'quarterfinalist', 'panipak', 'usvba', 'taylormade', 'sepak', 'prévadiès', 'wismilak', 'qtf', 'ezone', 'racketball', 'oneasia', 'skusa', 'nestea', 'ikf', 'clearone', 'jtcc', 'wct', 'panasonic', 'vögele', 'rolex', 'asics', 'doubles', 'carebaco', 'oqs', 'nehwal', 'petanque', 'saint–brieuc', 'iltf', 'aspria', 'prenko', 'boonsak', 'aisam', 'karatedo', 'taikyu', 'nike', 'solarcar', 'killerspin', 'varatchaya', 'internationaux', 'racquetball', 'pickleball', 'greysia', 'rapidplay', 'sabalenka', 'uslta', 'hkfc', 'betway', 'pdga', 'båstad']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'babolat' found at position 1 in both lists
+
+Word 'srixon' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'racquets' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'vcore' found at position 4 in both lists
+
+Word 'sunfeast' found at position 5 and 21
+Difference between the positions: 16
+
+Word 'ittf' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'woodone' found at position 7 and 14
+Difference between the positions: 7
+
+Word 'bitburger' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'footvolley' found at position 9 and 15
+Difference between the positions: 6
+
+Word 'maekyung' found at position 10 and 46
+Difference between the positions: 36
+
+Word 'ordina' found at position 11 and 13
+Difference between the positions: 2
+
+Word 'aegon' found at position 12 and 6
+Difference between the positions: 6
+
+Word 'ratchanok' found at position 13 and 5
+Difference between the positions: 8
+
+Word 'bpaa' found at position 14 and 11
+Difference between the positions: 3
+
+Word 'alpg' found at position 15 and 37
+Difference between the positions: 22
+
+Word 'hardcourt' found at position 16 and 12
+Difference between the positions: 4
+
+Word 'prévadiès' found at position 17 and 57
+Difference between the positions: 40
+
+Word 'zhangjiagang' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'invitational' found at position 19 and 27
+Difference between the positions: 8
+
+Word 'euroformula' found at position 20 and 18
+Difference between the positions: 2
+
+

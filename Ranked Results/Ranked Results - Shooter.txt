@@ -1,0 +1,2869 @@
+For the word 'shooter', the nearest words are: 
+
+Novice List (Top 20): 
+['shooters', 'sniper', 'fencer', 'marksman', 'athlete', 'afanasijs', 'swimmer', 'racer', 'skier', 'pistol', 'snowboarder', 'judoka', 'platformer', 'thrower', 'bobsledder', 'rower', 'climber', 'cyclist', 'skeet', 'rpg']
+
+Expert List (Top 100): 
+['shooters', 'sniper', 'platformer', 'rpg', 'fencer', 'athlete', 'marksman', 'swimmer', 'pistol', 'racer', 'snowboarder', 'skier', 'platforming', 'skeet', 'cyclist', 'roguelike', 'diver', 'thrower', 'player', 'rower', 'stealth', 'psikyo', 'varmint', 'kuzmins', 'shooting', 'rpgs', 'wrestler', 'motorcyclist', 'biathlete', 'afanasijs', 'sidescrolling', 'climber', 'judoka', 'multidirectional', 'jumper', 'weightlifter', 'game', 'bobsledder', 'gameplay', 'assassin', 'paintball', 'sprinter', 'hurdler', 'benchrest', 'zapper', 'skater', 'gymnast', 'hitman', 'multiplayer', 'revolver', 'jetpack', 'darkwatch', 'decathlete', 'putter', 'skydiver', 'gunman', 'airgun', 'rifleman', 'scrolling', 'sharpshooter', 'frangoudis', 'milsim', 'adventure', 'crossbow', 'brawler', 'bullseye', 'frogwares', 'boxer', 'shotgun', 'driver', 'minigun', 'puzzle', 'centerfire', 'windsurfer', 'flamethrower', 'sidescroller', 'semiautomatic', 'triathlete', 'carbine', 'danmaku', 'racewalker', 'plinking', 'handgun', 'battletoads', 'shot', 'canoeist', 'splatoon', 'zaxxon', 'sledgehammer', 'minigame', 'puzzler', 'rifle', 'tripwire', 'ambidextrous', 'morakis', 'copter', 'mdk', 'rider', 'skateboarder', 'avenger']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'shooters' found at position 1 in both lists
+
+Word 'sniper' found at position 2 in both lists
+
+Word 'fencer' found at position 3 and 5
+Difference between the positions: 2
+
+Word 'marksman' found at position 4 and 7
+Difference between the positions: 3
+
+Word 'athlete' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'afanasijs' found at position 6 and 30
+Difference between the positions: 24
+
+Word 'swimmer' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'racer' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'skier' found at position 9 and 12
+Difference between the positions: 3
+
+Word 'pistol' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'snowboarder' found at position 11 in both lists
+
+Word 'judoka' found at position 12 and 33
+Difference between the positions: 21
+
+Word 'platformer' found at position 13 and 3
+Difference between the positions: 10
+
+Word 'thrower' found at position 14 and 18
+Difference between the positions: 4
+
+Word 'bobsledder' found at position 15 and 38
+Difference between the positions: 23
+
+Word 'rower' found at position 16 and 20
+Difference between the positions: 4
+
+Word 'climber' found at position 17 and 32
+Difference between the positions: 15
+
+Word 'cyclist' found at position 18 and 15
+Difference between the positions: 3
+
+Word 'skeet' found at position 19 and 14
+Difference between the positions: 5
+
+Word 'rpg' found at position 20 and 4
+Difference between the positions: 16
+
+
+For the word 'bomb', the nearest words are: 
+
+Novice List (Top 20): 
+['bombs', 'explosives', 'bombing', 'blast', 'detonation', 'grenade', 'tallboy', 'vbied', 'explosion', 'detonator', 'tarzon', 'bomber', 'firebomb', 'munition', 'detonated', 'detonate', 'carbomb', 'bomblets', 'warhead', 'detonating']
+
+Expert List (Top 100): 
+['bombs', 'explosives', 'bombing', 'blast', 'vbied', 'grenade', 'explosion', 'tallboy', 'detonation', 'firebomb', 'detonator', 'bomblets', 'detonated', 'bomber', 'ied', 'incendiaries', 'warhead', 'vbieds', 'detonate', 'detonating', 'carbomb', 'munition', 'submunitions', 'rocket', 'explosive', 'explode', 'ieds', 'undetonated', 'tarzon', 'kiloton', 'doodlebug', 'rockeye', 'detonators', 'flamethrower', 'torpex', 'bombings', 'landmine', 'detonations', 'incendiary', 'panzerfaust', 'explosions', 'torpedo', 'airstrike', 'weapon', 'exploding', 'thermobaric', 'missile', 'firebombs', 'detonates', 'semtex', 'bockscar', 'svbieds', 'lightmass', 'gelignite', 'gbu', 'blasts', 'munitions', 'megaton', 'shrapnel', 'weteye', 'dustbin', 'attack', 'submunition', 'canister', 'petn', 'kamikaze', 'drone', 'grenades', 'exploded', 'jdam', 'sarin', 'beragee', 'nuke', 'bombers', 'bomblet', 'unexploded', 'defusal', 'bunker', 'dynamite', 'scud', 'helicopter', 'bullet', 'bazooka', 'parachute', 'fuzed', 'flamethrowers', 'jdams', 'airburst', 'booby', 'cordtex', 'bombardment', 'warheads', 'missiles', 'weapons', 'melinite', 'tatp', 'strafe', 'crash', 'tallboys', 'fireball']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'bombs' found at position 1 in both lists
+
+Word 'explosives' found at position 2 in both lists
+
+Word 'bombing' found at position 3 in both lists
+
+Word 'blast' found at position 4 in both lists
+
+Word 'detonation' found at position 5 and 9
+Difference between the positions: 4
+
+Word 'grenade' found at position 6 in both lists
+
+Word 'tallboy' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'vbied' found at position 8 and 5
+Difference between the positions: 3
+
+Word 'explosion' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'detonator' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'tarzon' found at position 11 and 29
+Difference between the positions: 18
+
+Word 'bomber' found at position 12 and 14
+Difference between the positions: 2
+
+Word 'firebomb' found at position 13 and 10
+Difference between the positions: 3
+
+Word 'munition' found at position 14 and 22
+Difference between the positions: 8
+
+Word 'detonated' found at position 15 and 13
+Difference between the positions: 2
+
+Word 'detonate' found at position 16 and 19
+Difference between the positions: 3
+
+Word 'carbomb' found at position 17 and 21
+Difference between the positions: 4
+
+Word 'bomblets' found at position 18 and 12
+Difference between the positions: 6
+
+Word 'warhead' found at position 19 and 17
+Difference between the positions: 2
+
+Word 'detonating' found at position 20 in both lists
+
+
+For the word 'bots', the nearest words are: 
+
+Novice List (Top 20): 
+['robots', 'bot', 'botnets', 'chatbots', 'droids', 'mechs', 'robot', 'spammers', 'hacks', 'spambots', 'hackers', 'wikis', 'rootkits', 'crawlers', 'robo', 'botnet', 'phishing', 'daemons', 'avatars', 'nanobots']
+
+Expert List (Top 100): 
+['robots', 'chatbots', 'botnets', 'bot', 'mechs', 'robot', 'droids', 'cyborgs', 'crawlers', 'npcs', 'avatars', 'replicators', 'hacks', 'aliens', 'nanobots', 'botnet', 'nanites', 'drones', 'mods', 'spambots', 'malware', 'hackers', 'ninjas', 'captchas', 'minigames', 'daemons', 'zombies', 'spammers', 'gadgets', 'miis', 'trolls', 'phishing', 'wikis', 'mech', 'nanomachines', 'robo', 'servers', 'mecha', 'spam', 'spyware', 'minions', 'automatons', 'androids', 'starships', 'clones', 'keyloggers', 'emojis', 'battlemechs', 'bakugan', 'widgets', 'telepresence', 'spamming', 'mechas', 'captcha', 'spaceships', 'dnaliens', 'droid', 'jumpgates', 'monsters', 'passwords', 'robos', 'admins', 'roomba', 'keylogging', 'mechanoids', 'applets', 'apps', 'urls', 'scammers', 'ai', 'machines', 'yeerks', 'robotic', 'mmorpgs', 'chatbot', 'rootkits', 'sentinels', 'decepticons', 'plugins', 'goblins', 'hashtags', 'minecraft', 'golems', 'honeypots', 'phishers', 'reploids', 'modders', 'minion', 'emulators', 'adware', 'ransomware', 'mmogs', 'laserbeak', 'skynet', 'contraptions', 'supers', 'addons', 'backdoors', 'autobots', 'usernames']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'robots' found at position 1 in both lists
+
+Word 'bot' found at position 2 and 4
+Difference between the positions: 2
+
+Word 'botnets' found at position 3 in both lists
+
+Word 'chatbots' found at position 4 and 2
+Difference between the positions: 2
+
+Word 'droids' found at position 5 and 7
+Difference between the positions: 2
+
+Word 'mechs' found at position 6 and 5
+Difference between the positions: 1
+
+Word 'robot' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'spammers' found at position 8 and 28
+Difference between the positions: 20
+
+Word 'hacks' found at position 9 and 13
+Difference between the positions: 4
+
+Word 'spambots' found at position 10 and 20
+Difference between the positions: 10
+
+Word 'hackers' found at position 11 and 22
+Difference between the positions: 11
+
+Word 'wikis' found at position 12 and 33
+Difference between the positions: 21
+
+Word 'rootkits' found at position 13 and 76
+Difference between the positions: 63
+
+Word 'crawlers' found at position 14 and 9
+Difference between the positions: 5
+
+Word 'robo' found at position 15 and 36
+Difference between the positions: 21
+
+Word 'botnet' found at position 16 in both lists
+
+Word 'phishing' found at position 17 and 32
+Difference between the positions: 15
+
+Word 'daemons' found at position 18 and 26
+Difference between the positions: 8
+
+Word 'avatars' found at position 19 and 11
+Difference between the positions: 8
+
+Word 'nanobots' found at position 20 and 15
+Difference between the positions: 5
+
+
+For the word 'chief', the nearest words are: 
+
+Novice List (Top 20): 
+['deputy', 'chairman', 'secretary', 'president', 'superintendent', 'principal', 'treasurer', 'director', 'commander', 'commissioner', 'commandant', 'appointed', 'officer', 'vice', 'leader', 'superintending', 'ceo', 'assistant', 'chancellor', 'lieutenant']
+
+Expert List (Top 100): 
+['deputy', 'chairman', 'secretary', 'principal', 'president', 'superintendent', 'director', 'treasurer', 'commander', 'commissioner', 'commandant', 'appointed', 'officer', 'vice', 'leader', 'provost', 'assistant', 'ceo', 'superintending', 'chancellor', 'head', 'lieutenant', 'administrator', 'chairperson', '從事', 'cfo', 'colonel', 'betro', 'presiding', 'governor', 'sergeant', 'supervisor', 'general', 'senior', 'supt', 'commanding', 'provedor', 'comptroller', 'mayor', 'marshal', 'chieff', 'adviser', 'supervising', 'captain', 'chair', 'adjutant', 'coordinator', 'minister', 'progp', 'gpex', 'boxhall', 'advisor', 'inspector', 'asst', 'undersecretary', 'seargent', 'stabsführer', 'rector', 'raborn', 'seconded', 'paymaster', 'quartermaster', 'chaplain', 'afisra', 'mpdc', 'lfec', 'admiralstabsoffizier', 'liaison', 'voltaman', 'cominch', 'gabasheane', 'editor', 'kimmitt', 'registrar', 'heikes', 'offizierstellvertreter', 'admiral', 'retd', 'cincnelm', '趙行實', 'radm', 'scherger', 'executive', 'manager', 'mponda', 'reichsjustizamt', 'incharge', 'member', 'ilisoni', 'spokesman', 'taluto', 'clerk', 'poncherello', 'affor', 'founder', 'nirbahi', 'ltcol', '軍師', 'vadm', 'professor']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'deputy' found at position 1 in both lists
+
+Word 'chairman' found at position 2 in both lists
+
+Word 'secretary' found at position 3 in both lists
+
+Word 'president' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'superintendent' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'principal' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'treasurer' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'director' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'commander' found at position 9 in both lists
+
+Word 'commissioner' found at position 10 in both lists
+
+Word 'commandant' found at position 11 in both lists
+
+Word 'appointed' found at position 12 in both lists
+
+Word 'officer' found at position 13 in both lists
+
+Word 'vice' found at position 14 in both lists
+
+Word 'leader' found at position 15 in both lists
+
+Word 'superintending' found at position 16 and 19
+Difference between the positions: 3
+
+Word 'ceo' found at position 17 and 18
+Difference between the positions: 1
+
+Word 'assistant' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'chancellor' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'lieutenant' found at position 20 and 22
+Difference between the positions: 2
+
+
+For the word 'computer', the nearest words are: 
+
+Novice List (Top 20): 
+['computers', 'software', 'computing', 'microcomputer', 'minicomputer', 'mainframe', 'computerized', 'hardware', 'supercomputer', 'workstation', 'microprocessor', 'calculator', 'simulation', 'cad', 'programmable', 'realtime', 'microcomputers', 'ibm', 'electronics', 'electronic']
+
+Expert List (Top 100): 
+['computers', 'software', 'microcomputer', 'computing', 'minicomputer', 'mainframe', 'computerized', 'hardware', 'microprocessor', 'workstation', 'supercomputer', 'simulation', 'calculator', 'microcontroller', 'microcomputers', 'ibm', 'programmable', 'realtime', 'electronics', 'microchip', 'digitizer', 'electronic', 'pc', 'cad', 'vlsi', 'minicomputers', 'automation', 'technology', 'programmer', 'interface', 'graphics', 'virtual', 'reconfigurable', 'digital', 'workbench', 'multiprocessor', 'rootkit', 'emulator', 'multimedia', 'processor', 'user', 'device', 'spreadsheet', 'cpu', 'server', 'simulink', 'digitizers', 'pcs', 'computational', 'database', 'cromemco', 'graphing', 'appleworks', 'macintosh', 'laptop', 'visicalc', 'imlac', 'whiteboard', 'lab', 'desktop', 'wetware', 'symbolics', 'superpaint', 'eniac', 'console', 'robotics', 'hypercard', 'graphical', 'palmtop', 'microcode', 'comx', 'fpga', 'dataflow', 'microsoft', 'workstations', 'scada', 'servomechanisms', 'besm', 'telepresence', 'rom', 'debugging', 'interactive', 'framebuffer', 'ansys', 'videoconferencing', 'debug', 'gpgpu', 'breadboard', 'smartphone', 'reprogrammable', 'neuromorphic', 'lightwave', 'labview', 'data', 'debugged', 'datapoint', 'csound', 'decstation', 'visualizer', 'teletype']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'computers' found at position 1 in both lists
+
+Word 'software' found at position 2 in both lists
+
+Word 'computing' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'microcomputer' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'minicomputer' found at position 5 in both lists
+
+Word 'mainframe' found at position 6 in both lists
+
+Word 'computerized' found at position 7 in both lists
+
+Word 'hardware' found at position 8 in both lists
+
+Word 'supercomputer' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'workstation' found at position 10 in both lists
+
+Word 'microprocessor' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'calculator' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'simulation' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'cad' found at position 14 and 24
+Difference between the positions: 10
+
+Word 'programmable' found at position 15 and 17
+Difference between the positions: 2
+
+Word 'realtime' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'microcomputers' found at position 17 and 15
+Difference between the positions: 2
+
+Word 'ibm' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'electronics' found at position 19 in both lists
+
+Word 'electronic' found at position 20 and 22
+Difference between the positions: 2
+
+
+For the word 'deathmatch', the nearest words are: 
+
+Novice List (Top 20): 
+['deathmatches', 'gametypes', 'pvp', 'czw', 'musou', 'minigame', 'tag', 'streetball', 'joust', 'xtreme', 'dodgeball', 'gauntlet', 'battlebowl', 'splatoon', 'multiplayer', 'melee', 'rumble', 'hearthstone', 'tenkaichi', 'splitscreen']
+
+Expert List (Top 100): 
+['deathmatches', 'gametypes', 'gametype', 'minigame', 'pvp', 'multiplayer', 'gamemode', 'czw', 'tag', 'gamemodes', 'gauntlet', 'xtreme', 'joust', 'melee', 'musou', 'mycareer', 'overwatch', 'gameplay', 'bomberman', 'streetball', 'splatoon', 'tekken', 'unlockable', 'ninjas', 'dodgeball', 'tetris', 'hearthstone', 'digimon', 'akuma', 'splitscreen', 'brawlers', 'galaga', 'fortnite', 'protoman', 'stratego', 'pve', 'singleplayer', 'galaxian', 'tokido', 'konquest', 'kintaro', 'platforming', 'raiden', 'blitzball', 'liger', 'ninja', 'mode', 'wargames', 'pancrase', 'xpw', 'darkstalkers', 'movesets', 'onita', 'tetsuhiro', 'speedball', 'ruleset', 'moveset', 'kanemura', 'gradius', 'amw', 'fmw', 'shinobi', 'jcw', 'permadeath', 'budokai', 'kof', 'aleste', 'tenchu', 'brawling', 'dota', 'mokujin', 'battletoads', 'armageddon', 'roguelike', 'game', 'haku', 'yujiro', 'battlegrounds', 'doomfist', 'toshinden', 'minigames', 'genki', 'excitebike', 'battlebowl', 'killzone', 'ultraviolent', 'rumble', 'jousting', 'jenga', 'kamaitachi', 'shinjiro', 'rock–paper–scissors', 'rikishi', 'tursas', 'nethack', 'rayquaza', 'hido', 'michinoku', 'liero', 'mazinkaiser']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'deathmatches' found at position 1 in both lists
+
+Word 'gametypes' found at position 2 in both lists
+
+Word 'pvp' found at position 3 and 5
+Difference between the positions: 2
+
+Word 'czw' found at position 4 and 8
+Difference between the positions: 4
+
+Word 'musou' found at position 5 and 15
+Difference between the positions: 10
+
+Word 'minigame' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'tag' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'streetball' found at position 8 and 20
+Difference between the positions: 12
+
+Word 'joust' found at position 9 and 13
+Difference between the positions: 4
+
+Word 'xtreme' found at position 10 and 12
+Difference between the positions: 2
+
+Word 'dodgeball' found at position 11 and 25
+Difference between the positions: 14
+
+Word 'gauntlet' found at position 12 and 11
+Difference between the positions: 1
+
+Word 'battlebowl' found at position 13 and 84
+Difference between the positions: 71
+
+Word 'splatoon' found at position 14 and 21
+Difference between the positions: 7
+
+Word 'multiplayer' found at position 15 and 6
+Difference between the positions: 9
+
+Word 'melee' found at position 16 and 14
+Difference between the positions: 2
+
+Word 'rumble' found at position 17 and 87
+Difference between the positions: 70
+
+Word 'hearthstone' found at position 18 and 27
+Difference between the positions: 9
+
+'tenkaichi' at position 19 is not present in Expert list
+
+Word 'splitscreen' found at position 20 and 30
+Difference between the positions: 10
+
+
+For the word 'display', the nearest words are: 
+
+Novice List (Top 20): 
+['displays', 'displayed', 'exhibit', 'displaying', 'exhibits', 'backlit', 'touchscreen', 'pentile', 'electroluminescent', 'lcds', 'touchscreens', 'qhd', 'autostereoscopic', 'oled', 'rollable', 'screens', 'backlight', 'mfds', 'refreshable', 'touchpad']
+
+Expert List (Top 100): 
+['displays', 'displayed', 'exhibit', 'displaying', 'exhibits', 'backlit', 'oled', 'touchscreen', 'touchscreens', 'backlight', 'screens', 'viewport', 'autostereoscopic', 'deimatic', 'transparencies', 'installation', 'electroluminescent', 'lcds', 'mfds', 'multifunction', 'crt', 'scrollbars', 'qhd', 'museo', 'use', 'multicolored', 'lcd', 'whiteboard', 'backlighting', 'rollable', 'illuminated', 'decal', 'images', 'multitouch', 'stored', 'tft', 'pentile', 'viewing', 'monochrome', 'touchpad', 'viewable', 'lcos', 'presentation', 'plexiglas', 'static', 'screen', 'amoled', 'musée', 'projector', 'dioramas', 'lightings', 'trackpad', 'tooltip', 'electrochromic', 'taskbar', 'refreshable', 'backglass', 'readouts', 'tabletops', 'overlay', 'qvga', 'scan', 'vfd', 'crts', 'signage', 'keypad', 'gobos', 'magnifier', 'huds', 'wvga', 'mounted', 'thumbnails', 'glovebox', 'bitmapped', 'tactile', 'imprinted', 'readout', 'resize', 'annunciator', 'multicoloured', 'interlace', 'bezel', 'holograms', 'image', 'projection', 'scanner', 'crosshair', 'tokonoma', 'holographic', 'miniature', 'grayscale', 'superimposed', 'clicking', 'digitizer', 'pixelated', 'flashing', 'capacitive', 'magnifiers', 'pfd', 'popup']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'displays' found at position 1 in both lists
+
+Word 'displayed' found at position 2 in both lists
+
+Word 'exhibit' found at position 3 in both lists
+
+Word 'displaying' found at position 4 in both lists
+
+Word 'exhibits' found at position 5 in both lists
+
+Word 'backlit' found at position 6 in both lists
+
+Word 'touchscreen' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'pentile' found at position 8 and 37
+Difference between the positions: 29
+
+Word 'electroluminescent' found at position 9 and 17
+Difference between the positions: 8
+
+Word 'lcds' found at position 10 and 18
+Difference between the positions: 8
+
+Word 'touchscreens' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'qhd' found at position 12 and 23
+Difference between the positions: 11
+
+Word 'autostereoscopic' found at position 13 in both lists
+
+Word 'oled' found at position 14 and 7
+Difference between the positions: 7
+
+Word 'rollable' found at position 15 and 30
+Difference between the positions: 15
+
+Word 'screens' found at position 16 and 11
+Difference between the positions: 5
+
+Word 'backlight' found at position 17 and 10
+Difference between the positions: 7
+
+Word 'mfds' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'refreshable' found at position 19 and 56
+Difference between the positions: 37
+
+Word 'touchpad' found at position 20 and 40
+Difference between the positions: 20
+
+
+For the word 'doom', the nearest words are: 
+
+Novice List (Top 20): 
+['thulsa', 'eggman', 'mordru', 'warlock', 'robotnik', 'novembers', 'necromancer', 'belial', 'latveria', 'deathstroke', 'illidan', 'apocalypse', 'sivana', 'dormammu', 'sutekh', 'brajira', 'darkness', 'dooma', 'behemoth', 'darkhawk']
+
+Expert List (Top 100): 
+['eggman', 'thulsa', 'mordru', 'illidan', 'dooma', 'latveria', 'warlock', 'necromancer', 'robotnik', 'behemoth', 'skaven', 'raiden', 'novembers', 'belial', 'dormammu', 'wraith', 'nemesis', 'ganon', 'undead', 'armageddon', 'doomsday', 'sivana', 'darkseid', 'darkness', 'mayhem', 'apocalypse', 'cyborg', 'asmodeus', 'eradicator', 'cyberdemon', 'sith', 'sutekh', 'ragnarok', 'surtur', 'minion', 'chaos', 'fingerpoke', 'morrigan', 'ravager', 'nidhogg', 'blackheart', 'namor', 'morbius', 'havok', 'vanisher', 'rassilon', 'brajira', 'sargeras', 'abyss', 'pandemonium', 'zombie', 'scalphunter', 'gehenna', 'juggernaut', 'carnage', 'banshee', 'beyonder', 'mindbender', 'brainiac', 'reaper', 'hexen', 'starman', 'asgard', 'necron', 'gloom', 'minions', 'bizarro', 'grimlord', 'deathstroke', 'thanos', 'colossus', 'superman', 'hawkgirl', 'doombots', 'abaddon', 'stormbringer', 'nekron', 'astaroth', 'lucifer', 'sandman', 'strucker', 'mordo', 'demon', 'azazel', 'ripto', 'spectre', 'tiamat', 'evil', 'hawkmoon', 'mephisto', 'gallifrey', 'metamorpho', 'darkside', 'loki', 'darkstar', 'avengers', 'drakken', 'cybermen', 'takhisis', 'doomstadt']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'thulsa' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'eggman' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'mordru' found at position 3 in both lists
+
+Word 'warlock' found at position 4 and 7
+Difference between the positions: 3
+
+Word 'robotnik' found at position 5 and 9
+Difference between the positions: 4
+
+Word 'novembers' found at position 6 and 13
+Difference between the positions: 7
+
+Word 'necromancer' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'belial' found at position 8 and 14
+Difference between the positions: 6
+
+Word 'latveria' found at position 9 and 6
+Difference between the positions: 3
+
+Word 'deathstroke' found at position 10 and 69
+Difference between the positions: 59
+
+Word 'illidan' found at position 11 and 4
+Difference between the positions: 7
+
+Word 'apocalypse' found at position 12 and 26
+Difference between the positions: 14
+
+Word 'sivana' found at position 13 and 22
+Difference between the positions: 9
+
+Word 'dormammu' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'sutekh' found at position 15 and 32
+Difference between the positions: 17
+
+Word 'brajira' found at position 16 and 47
+Difference between the positions: 31
+
+Word 'darkness' found at position 17 and 24
+Difference between the positions: 7
+
+Word 'dooma' found at position 18 and 5
+Difference between the positions: 13
+
+Word 'behemoth' found at position 19 and 10
+Difference between the positions: 9
+
+'darkhawk' at position 20 is not present in Expert list
+
+
+For the word 'enemies', the nearest words are: 
+
+Novice List (Top 20): 
+['foes', 'adversaries', 'enemy', 'minions', 'allies', 'opponents', 'aggressors', 'foe', 'bosses', 'villains', 'adversary', 'demons', 'monsters', 'lackeys', 'hordes', 'oppressors', 'tormentors', 'creatures', 'familiars', 'underlings']
+
+Expert List (Top 100): 
+['foes', 'adversaries', 'enemy', 'minions', 'opponents', 'allies', 'foe', 'bosses', 'aggressors', 'villains', 'adversary', 'monsters', 'demons', 'creatures', 'hordes', 'familiars', 'comrades', 'underlings', 'attackers', 'menaces', 'lackeys', 'oppressors', 'shurikens', 'npcs', 'nemeses', 'cultists', 'henchmen', 'invaders', 'obstacles', 'zombies', 'pursuers', 'darkspawn', 'companions', 'tormentors', 'followers', 'them', 'fiends', 'sorcerers', 'aliens', 'parademons', 'droids', 'opponent', 'criminals', 'mechs', 'beastmen', 'weapons', 'enchantments', 'traitors', 'persecutors', 'orcs', 'defenders', 'vampires', 'powerups', 'goblins', 'minion', 'melee', 'necromorphs', 'evildoers', 'weapon', 'reavers', 'golems', 'assassins', 'factions', 'nemesis', 'skrulls', 'decepticons', 'unbelievers', 'merciless', 'scourge', 'goseigers', 'darklings', 'cyborgs', 'zyuohgers', 'terrorists', 'weaponry', 'intruders', 'orbs', 'telepaths', 'belial', 'werewolves', 'armies', 'treachery', 'triceratons', 'beasts', 'parrying', 'subordinates', 'aragami', 'targets', 'mages', 'roidmudes', 'skaven', 'fireballs', 'respawning', 'projectiles', 'mercenaries', 'ally', 'saviors', 'undead', 'doppelgangers', 'drakh']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'foes' found at position 1 in both lists
+
+Word 'adversaries' found at position 2 in both lists
+
+Word 'enemy' found at position 3 in both lists
+
+Word 'minions' found at position 4 in both lists
+
+Word 'allies' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'opponents' found at position 6 and 5
+Difference between the positions: 1
+
+Word 'aggressors' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'foe' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'bosses' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'villains' found at position 10 in both lists
+
+Word 'adversary' found at position 11 in both lists
+
+Word 'demons' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'monsters' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'lackeys' found at position 14 and 21
+Difference between the positions: 7
+
+Word 'hordes' found at position 15 in both lists
+
+Word 'oppressors' found at position 16 and 22
+Difference between the positions: 6
+
+Word 'tormentors' found at position 17 and 34
+Difference between the positions: 17
+
+Word 'creatures' found at position 18 and 14
+Difference between the positions: 4
+
+Word 'familiars' found at position 19 and 16
+Difference between the positions: 3
+
+Word 'underlings' found at position 20 and 18
+Difference between the positions: 2
+
+
+For the word 'engine', the nearest words are: 
+
+Novice List (Top 20): 
+['engines', 'powerplant', 'cylinder', 'chassis', 'turbocharger', 'hp', 'supercharger', 'gearbox', 'boiler', 'turbochargers', 'turbine', 'pushrod', 'carburettor', 'carburetor', 'propeller', 'camshaft', 'crankshaft', 'turbo', 'ohc', 'powertrain']
+
+Expert List (Top 100): 
+['engines', 'powerplant', 'cylinder', 'hp', 'turbocharger', 'supercharger', 'chassis', 'gearbox', 'carburettor', 'turbochargers', 'boiler', 'carburetor', 'crankshaft', 'pushrod', 'valvetrain', 'turbo', 'turbine', 'compressor', 'propeller', 'powerplants', 'valve', 'ohc', 'engined', 'drivetrain', 'sidevalve', 'sohc', 'camshaft', 'airframe', 'ohv', 'powertrain', 'pulsejet', 'turbojet', 'intercooler', 'superchargers', 'piston', 'afterburner', 'prototype', 'radiator', 'vortec', 'rotor', 'crankcase', 'carburetted', 'turbocharged', 'intercooled', 'turbopump', 'anzani', 'turbojets', 'litre', 'locomotive', 'carbureted', 'uprated', 'axle', 'transaxle', 'dohc', 'diesels', 'intercoolers', 'exhaust', 'injector', 'horsepower', 'alternator', 'cvh', 'diesel', 'jumo', 'turbodiesel', 'in³', 'fuselage', 'carburetors', 'cylinders', 'turboshaft', 'turbomeca', 'driveshaft', 'configuration', 'fuel', 'generator', 'carburettors', 'aircraft', 'gear', 'kw', 'carburated', 'driveline', 'multifuel', 'crossflow', 'turbocharging', 'wankel', 'torque', 'biturbo', 'ecotec', 'propfan', 'mpfi', 'wheel', 'zmz', 'vehicle', 'nacelle', 'turbofans', 'turbofan', 'aerospike', 'jz', 'flywheel', 'duratec', 'carburetter']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'engines' found at position 1 in both lists
+
+Word 'powerplant' found at position 2 in both lists
+
+Word 'cylinder' found at position 3 in both lists
+
+Word 'chassis' found at position 4 and 7
+Difference between the positions: 3
+
+Word 'turbocharger' found at position 5 in both lists
+
+Word 'hp' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'supercharger' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'gearbox' found at position 8 in both lists
+
+Word 'boiler' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'turbochargers' found at position 10 in both lists
+
+Word 'turbine' found at position 11 and 17
+Difference between the positions: 6
+
+Word 'pushrod' found at position 12 and 14
+Difference between the positions: 2
+
+Word 'carburettor' found at position 13 and 9
+Difference between the positions: 4
+
+Word 'carburetor' found at position 14 and 12
+Difference between the positions: 2
+
+Word 'propeller' found at position 15 and 19
+Difference between the positions: 4
+
+Word 'camshaft' found at position 16 and 27
+Difference between the positions: 11
+
+Word 'crankshaft' found at position 17 and 13
+Difference between the positions: 4
+
+Word 'turbo' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'ohc' found at position 19 and 22
+Difference between the positions: 3
+
+Word 'powertrain' found at position 20 and 30
+Difference between the positions: 10
+
+
+For the word 'features', the nearest words are: 
+
+Novice List (Top 20): 
+['includes', 'contains', 'featuring', 'incorporates', 'feature', 'featured', 'displays', 'showcases', 'utilizes', 'consists', 'covers', 'contained', 'uses', 'highlights', 'combines', 'boasts', 'comprises', 'exhibits', 'presents', 'elements']
+
+Expert List (Top 100): 
+['contains', 'includes', 'featuring', 'incorporates', 'feature', 'featured', 'displays', 'utilizes', 'showcases', 'consists', 'covers', 'uses', 'contained', 'comprises', 'combines', 'boasts', 'highlights', 'utilises', 'presents', 'integrates', 'emulates', 'exhibits', 'reuses', 'elements', 'included', 'encompasses', 'overlays', 'provides', 'containing', 'depicts', 'showcased', 'spawned', 'produces', 'forms', 'incorporating', 'characteristics', 'enhancements', 'showcasing', 'offers', 'mixes', 'adds', 'omits', 'screensavers', 'replaces', 'mimics', 'plus', 'versions', 'lacks', 'retains', 'supports', 'hosts', 'modes', 'introduces', 'shows', 'resembles', 'blends', 'layouts', 'simulates', 'themed', 'reworks', 'involves', 'snippets', 'spans', 'bookending', 'profiles', 'creates', 'complements', 'clips', 'encapsulates', 'tweaks', 'differs', 'inserts', 'replicates', 'utilizing', 'wraparound', 'borrows', 'wallpapers', 'include', 'unlockables', 'settings', 'segments', 'previewing', 'consisted', 'variations', 'parodies', 'possesses', 'recreates', 'sidebars', 'surrounds', 'accentuates', 'complemented', 'preserves', 'themes', 'examples', 'spotlighting', 'variants', 'customizations', 'customizable', 'complementing', 'animations']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'includes' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'contains' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'featuring' found at position 3 in both lists
+
+Word 'incorporates' found at position 4 in both lists
+
+Word 'feature' found at position 5 in both lists
+
+Word 'featured' found at position 6 in both lists
+
+Word 'displays' found at position 7 in both lists
+
+Word 'showcases' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'utilizes' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'consists' found at position 10 in both lists
+
+Word 'covers' found at position 11 in both lists
+
+Word 'contained' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'uses' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'highlights' found at position 14 and 17
+Difference between the positions: 3
+
+Word 'combines' found at position 15 in both lists
+
+Word 'boasts' found at position 16 in both lists
+
+Word 'comprises' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'exhibits' found at position 18 and 22
+Difference between the positions: 4
+
+Word 'presents' found at position 19 in both lists
+
+Word 'elements' found at position 20 and 24
+Difference between the positions: 4
+
+
+For the word 'first', the nearest words are: 
+
+Novice List (Top 20): 
+['second', 'third', 'last', 'fourth', 'fifth', 'inaugural', 'seventh', 'sixth', 'final', 'ninth', 'eighth', 'tenth', 'next', 'nd', 'rd', 'eleventh', 'th', 'thirteenth', 'twelfth', 'penultimate']
+
+Expert List (Top 100): 
+['second', 'last', 'fourth', 'third', 'fifth', 'inaugural', 'seventh', 'sixth', 'final', 'ninth', 'eighth', 'tenth', 'next', 'nd', 'rd', 'eleventh', 'th', 'thirteenth', 'twelfth', 'longest', 'youngest', 'penultimate', 'latest', 'earliest', 'debut', 'fifteenth', 'newest', 'fastest', 'consecutive', 'biggest', 'only', 'later', 'in', 'fourteenth', 'highest', 'beginning', 'best', 'during', 'previous', 'worst', 'lowest', 'initial', 'officially', 'top', 'opening', 'shortest', 'sixteenth', 'heaviest', 'sole', 'originally', 'maiden', 'breakthrough', 'greatest', 'early', 'again', 'strongest', 'before', 'millionth', 'another', 'finest', 'finals', 'prior', 'november', 'september', 'latter', 'october', 'same', 'newly', 'inception', 'premiere', 'début', 'following', 'centenary', 'fillo', 'tsagarakis', 'entirety', 'signature', 'every', 'oldest', 'february', 'january', 'barreirense', 'june', 'december', 'morabeza', 'april', 'a', 'swrc', 'sugo', 'brasileirão', 'july', 'quarterfinal', 'premier', 'august', 'march', 'starting', 'ever', 'slowest', 'paris–brest–paris', 'diaraf']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'second' found at position 1 in both lists
+
+Word 'third' found at position 2 and 4
+Difference between the positions: 2
+
+Word 'last' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'fourth' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'fifth' found at position 5 in both lists
+
+Word 'inaugural' found at position 6 in both lists
+
+Word 'seventh' found at position 7 in both lists
+
+Word 'sixth' found at position 8 in both lists
+
+Word 'final' found at position 9 in both lists
+
+Word 'ninth' found at position 10 in both lists
+
+Word 'eighth' found at position 11 in both lists
+
+Word 'tenth' found at position 12 in both lists
+
+Word 'next' found at position 13 in both lists
+
+Word 'nd' found at position 14 in both lists
+
+Word 'rd' found at position 15 in both lists
+
+Word 'eleventh' found at position 16 in both lists
+
+Word 'th' found at position 17 in both lists
+
+Word 'thirteenth' found at position 18 in both lists
+
+Word 'twelfth' found at position 19 in both lists
+
+Word 'penultimate' found at position 20 and 22
+Difference between the positions: 2
+
+
+For the word 'fps', the nearest words are: 
+
+Novice List (Top 20): 
+['mpq', 'apq', 'tpq', 'arsr', 'sqs', 'fsq', 'aaq', 'slq', 'tsq', 'alq', 'hdtv', 'hdr', 'uyk', 'encoder', 'uncompressed', 'fpq', 'radar', 'hd', 'awg', 'radars']
+
+Expert List (Top 100): 
+['apq', 'mpq', 'fpq', 'tpq', 'arsr', 'peq', 'slq', 'alq', 'fsq', 'hdr', 'sqs', 'encoder', 'msq', 'hd', 'aaq', 'uyk', 'tsq', 'upscaled', 'hdtv', 'awg', 'fyq', 'tps', 'mhz', 'megapixels', 'ntsc', 'uncompressed', 'rangefinder', 'radar', 'ionosonde', 'radars', 'fst', 'omnidirectional', 'autofocus', 'accelerometer', 'qvga', 'accurized', 'fullhd', 'sps', 'uyq', 'gyk', 'avchd', 'hdv', 'aps', 'ultrawide', 'svga', 'intervalometer', 'hevc', 'oscilloscope', 'hdmi', 'bqq', 'arriflex', 'aesa', 'hz', 'ghz', 'vga', 'tlq', 'zpy', 'xt', 'megapixel', 'autoloader', 'analog', 'arri', 'gsq', 'bmews', 'codec', 'inbuilt', 'isometric', 'uprated', 'camcorder', 'rgb', 'fsg', 'adc', 'iphone', 'cps', 'airgun', 'dvcpro', 'firefinder', 'dslr', 'msr', 'intercooler', 'afterburner', 'xvid', 'sqr', 'tpy', 'mb', 'lcd', 'interlaced', 'pixel', 'optocoupler', 'overboost', 'adapter', 'antenna', 'khz', 'uhd', 'extender', 'spg', 'unguided', 'update', 'aqs', 'hdd']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'mpq' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'apq' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'tpq' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'arsr' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'sqs' found at position 5 and 11
+Difference between the positions: 6
+
+Word 'fsq' found at position 6 and 9
+Difference between the positions: 3
+
+Word 'aaq' found at position 7 and 15
+Difference between the positions: 8
+
+Word 'slq' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'tsq' found at position 9 and 17
+Difference between the positions: 8
+
+Word 'alq' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'hdtv' found at position 11 and 19
+Difference between the positions: 8
+
+Word 'hdr' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'uyk' found at position 13 and 16
+Difference between the positions: 3
+
+Word 'encoder' found at position 14 and 12
+Difference between the positions: 2
+
+Word 'uncompressed' found at position 15 and 26
+Difference between the positions: 11
+
+Word 'fpq' found at position 16 and 3
+Difference between the positions: 13
+
+Word 'radar' found at position 17 and 28
+Difference between the positions: 11
+
+Word 'hd' found at position 18 and 14
+Difference between the positions: 4
+
+Word 'awg' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'radars' found at position 20 and 30
+Difference between the positions: 10
+
+
+For the word 'gameplay', the nearest words are: 
+
+Novice List (Top 20): 
+['platforming', 'multiplayer', 'cutscenes', 'minigames', 'rpg', 'visuals', 'puzzles', 'platformer', 'gamespot', 'graphics', 'rpgs', 'game', 'replayability', 'platformers', 'gameworld', 'playability', 'snes', 'tetris', 'minigame', 'splatoon']
+
+Expert List (Top 100): 
+['platforming', 'multiplayer', 'cutscenes', 'minigames', 'platformer', 'rpg', 'visuals', 'puzzles', 'rpgs', 'graphics', 'playability', 'tetris', 'gamespot', 'platformers', 'roguelike', 'minigame', 'game', 'splatoon', 'arkanoid', 'metroidvania', 'replayability', 'unlockables', 'gameworld', 'snes', 'customization', 'roguelikes', 'myst', 'puzzle', 'gamepro', 'movesets', 'storyline', 'mode', 'scrolling', 'artstyle', 'cinematics', 'permadeath', 'dungeon', 'overworld', 'littlebigplanet', 'kameo', 'gametrailers', 'animations', 'quests', 'playstyle', 'castlevania', 'microtransactions', 'metroid', 'fmv', 'stealth', 'gamespy', 'gradius', 'pvp', 'dreamcast', 'gba', 'minecraft', 'unlockable', 'sprites', 'microgames', 'sidescrolling', 'qix', 'functionality', 'gamepad', 'graphical', 'ruleset', 'melee', 'jrpg', 'gunplay', 'mdk', 'mmo', 'moveset', 'videogame', 'nethack', 'puzzler', 'sidequests', 'zaxxon', 'tweaks', 'wii', 'playtesting', 'eurogamer', 'singleplayer', 'interactivity', 'playstation', 'mmorpg', 'playable', 'dualshock', 'dlc', 'mycareer', 'nes', 'pve', 'bioshock', 'glitches', 'ign', 'gamecube', 'gamezone', 'kof', 'tekken', 'bomberman', 'hydlide', 'framerate', 'battletoads']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'platforming' found at position 1 in both lists
+
+Word 'multiplayer' found at position 2 in both lists
+
+Word 'cutscenes' found at position 3 in both lists
+
+Word 'minigames' found at position 4 in both lists
+
+Word 'rpg' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'visuals' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'puzzles' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'platformer' found at position 8 and 5
+Difference between the positions: 3
+
+Word 'gamespot' found at position 9 and 13
+Difference between the positions: 4
+
+Word 'graphics' found at position 10 in both lists
+
+Word 'rpgs' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'game' found at position 12 and 17
+Difference between the positions: 5
+
+Word 'replayability' found at position 13 and 21
+Difference between the positions: 8
+
+Word 'platformers' found at position 14 in both lists
+
+Word 'gameworld' found at position 15 and 23
+Difference between the positions: 8
+
+Word 'playability' found at position 16 and 11
+Difference between the positions: 5
+
+Word 'snes' found at position 17 and 24
+Difference between the positions: 7
+
+Word 'tetris' found at position 18 and 12
+Difference between the positions: 6
+
+Word 'minigame' found at position 19 and 16
+Difference between the positions: 3
+
+Word 'splatoon' found at position 20 and 18
+Difference between the positions: 2
+
+
+For the word 'games', the nearest words are: 
+
+Novice List (Top 20): 
+['game', 'matches', 'tournaments', 'teams', 'seasons', 'tournament', 'contests', 'match', 'players', 'titles', 'season', 'qualifiers', 'championships', 'rounds', 'playoffs', 'team', 'finals', 'championship', 'fixtures', 'postseason']
+
+Expert List (Top 100): 
+['game', 'matches', 'tournaments', 'teams', 'seasons', 'tournament', 'contests', 'players', 'titles', 'match', 'season', 'championships', 'playoffs', 'qualifiers', 'team', 'rounds', 'championship', 'postseason', 'fixtures', 'finals', 'competitions', 'arenabowls', 'matchups', 'postseasons', 'playoff', 'golds', 'friendlies', 'races', 'giants', 'doubleheaders', 'franchises', 'nba', 'games—the', 'wins', 'bouts', 'hitters', 'jerseys', 'starters', 'shooters', 'rookies', 'tourney', 'minigames', 'appearances', 'ers', 'leagues', 'goalies', 'braves', 'semifinals', 'preseason', 'homers', 'scrimmages', 'shutouts', 'cup', 'touchdowns', 'competition', 'outfielders', 'rpgs', 'medals', 'tigers', 'lakers', 'cups', 'olympics', 'falcons', 'games—including', 'league', 'shutout', 'olympians', 'victories', 'goals', 'champions', 'pawsox', 'batters', 'innings', 'competitors', 'clubs', 'pitchers', 'wildcats', 'quarterbacks', 'gladiators', 'points', 'franchise', 'semifinal', 'bruins', 'scoring', 'outings', 'trophies', 'rbis', 'mets', 'yankees', 'bonspiels', 'nlcs', 'stickball', 'matchup', 'interceptions', 'stadiums', 'ibl', 'olympiads', 'racers', 'athletes', 'alcs']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'game' found at position 1 in both lists
+
+Word 'matches' found at position 2 in both lists
+
+Word 'tournaments' found at position 3 in both lists
+
+Word 'teams' found at position 4 in both lists
+
+Word 'seasons' found at position 5 in both lists
+
+Word 'tournament' found at position 6 in both lists
+
+Word 'contests' found at position 7 in both lists
+
+Word 'match' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'players' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'titles' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'season' found at position 11 in both lists
+
+Word 'qualifiers' found at position 12 and 14
+Difference between the positions: 2
+
+Word 'championships' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'rounds' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'playoffs' found at position 15 and 13
+Difference between the positions: 2
+
+Word 'team' found at position 16 and 15
+Difference between the positions: 1
+
+Word 'finals' found at position 17 and 20
+Difference between the positions: 3
+
+Word 'championship' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'fixtures' found at position 19 in both lists
+
+Word 'postseason' found at position 20 and 18
+Difference between the positions: 2
+
+
+For the word 'gun', the nearest words are: 
+
+Novice List (Top 20): 
+['guns', 'cannon', 'pistol', 'handgun', 'revolver', 'howitzer', 'weapon', 'autocannon', 'carronade', 'rifle', 'flamethrower', 'machinegun', 'gunner', 'minigun', 'gatling', 'firearm', 'shotgun', 'cannons', 'dshk', 'turret']
+
+Expert List (Top 100): 
+['guns', 'cannon', 'pistol', 'handgun', 'autocannon', 'revolver', 'rifle', 'weapon', 'minigun', 'howitzer', 'dshk', 'gunner', 'carronade', 'cannons', 'turret', 'machinegun', 'shotgun', 'firearm', 'shvak', 'flamethrower', 'autocannons', 'grenade', 'gunners', 'firing', 'ammunition', 'bipod', 'howitzers', 'carbine', 'holstered', 'machineguns', 'grapeshot', 'bullet', 'gunfire', 'miniguns', 'bazooka', 'gatling', 'gpmg', 'mortars', 'pounder', 'flechette', 'mitrailleuse', 'battery', 'launcher', 'crossbow', 'kanone', 'flak', 'silencer', 'bayonet', 'knife', 'musket', 'shkas', 'flamethrowers', 'firearms', 'kwk', 'bipods', 'bofors', 'grenades', 'caliber', 'sniper', 'canister', 'shotguns', 'autoloader', 'handguns', 'weapons', 'flakvierling', 'bazookas', 'mörser', 'breechblock', 'artillery', 'rifles', 'barbette', 'barrel', 'harpoon', 'oerlikons', 'recoilless', 'holster', 'breech', 'atgms', 'smoothbore', 'taser', 'carronades', 'mortar', 'armor', 'muskets', 'pintle', 'torpedo', 'misfired', 'casemate', 'reloads', 'ciws', 'revolvers', 'spigot', 'pillbox', 'apfsds', 'muzzle', 'quadmount', 'motorkanone', 'smoothbores', 'turrets', 'bullets']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'guns' found at position 1 in both lists
+
+Word 'cannon' found at position 2 in both lists
+
+Word 'pistol' found at position 3 in both lists
+
+Word 'handgun' found at position 4 in both lists
+
+Word 'revolver' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'howitzer' found at position 6 and 10
+Difference between the positions: 4
+
+Word 'weapon' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'autocannon' found at position 8 and 5
+Difference between the positions: 3
+
+Word 'carronade' found at position 9 and 13
+Difference between the positions: 4
+
+Word 'rifle' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'flamethrower' found at position 11 and 20
+Difference between the positions: 9
+
+Word 'machinegun' found at position 12 and 16
+Difference between the positions: 4
+
+Word 'gunner' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'minigun' found at position 14 and 9
+Difference between the positions: 5
+
+Word 'gatling' found at position 15 and 36
+Difference between the positions: 21
+
+Word 'firearm' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'shotgun' found at position 17 in both lists
+
+Word 'cannons' found at position 18 and 14
+Difference between the positions: 4
+
+Word 'dshk' found at position 19 and 11
+Difference between the positions: 8
+
+Word 'turret' found at position 20 and 15
+Difference between the positions: 5
+
+
+For the word 'halo', the nearest words are: 
+
+Novice List (Top 20): 
+['halos', 'odst', 'orb', 'bungie', 'gaiden', 'glow', 'overwatch', 'haho', 'cuspy', 'nebula', 'universe', 'bejeweled', 'bioshock', 'crysis', 'quasar', 'splatoon', 'galaxy', 'flame', 'cortana', 'avatar']
+
+Expert List (Top 100): 
+['odst', 'halos', 'crysis', 'bungie', 'gaiden', 'overwatch', 'bioshock', 'cuspy', 'minecraft', 'littlebigplanet', 'killzone', 'haho', 'bioware', 'videogame', 'kinect', 'cortana', 'splatoon', 'starcraft', 'capcom', 'warhammer', 'mechwarrior', 'universe', 'multiplayer', 'metroid', 'bejeweled', 'galaxy', 'mdk', 'earthbound', 'actraiser', 'arkanoid', 'ragnarok', 'myst', 'orb', 'gameplay', 'shadowrun', 'glow', 'gundam', 'bayonetta', 'saturn', 'sonic', 'tenchu', 'battlezone', 'rpg', 'nebula', 'titanfall', 'starburst', 'tiberium', 'razer', 'terminator', 'nethack', 'zoids', 'disgaea', 'dota', 'sigil', 'mmo', 'psyonix', 'galactic', 'robot', 'oculus', 'tetris', 'motorstorm', 'avatar', 'infinity', 'patch', 'battletech', 'kameo', 'timesplitters', 'telltale', 'retro', 'flame', 'dark', 'spyro', 'bulletstorm', 'cyberpunk', 'hourglass', 'blob', 'castlevania', 'skyrim', 'gravemind', 'miku', 'lambent', 'mmorpg', 'xcom', 'starbursts', 'rayquaza', 'tensei', 'psychonauts', 'sephiroth', 'rings', 'lightsabers', 'everquest', 'playstation', 'video', 'clouds', 'skylanders', 'bomberman', 'megami', 'blobs', 'stickman', 'activision']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'halos' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'odst' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'orb' found at position 3 and 33
+Difference between the positions: 30
+
+Word 'bungie' found at position 4 in both lists
+
+Word 'gaiden' found at position 5 in both lists
+
+Word 'glow' found at position 6 and 36
+Difference between the positions: 30
+
+Word 'overwatch' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'haho' found at position 8 and 12
+Difference between the positions: 4
+
+Word 'cuspy' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'nebula' found at position 10 and 44
+Difference between the positions: 34
+
+Word 'universe' found at position 11 and 22
+Difference between the positions: 11
+
+Word 'bejeweled' found at position 12 and 25
+Difference between the positions: 13
+
+Word 'bioshock' found at position 13 and 7
+Difference between the positions: 6
+
+Word 'crysis' found at position 14 and 3
+Difference between the positions: 11
+
+'quasar' at position 15 is not present in Expert list
+
+Word 'splatoon' found at position 16 and 17
+Difference between the positions: 1
+
+Word 'galaxy' found at position 17 and 26
+Difference between the positions: 9
+
+Word 'flame' found at position 18 and 70
+Difference between the positions: 52
+
+Word 'cortana' found at position 19 and 16
+Difference between the positions: 3
+
+Word 'avatar' found at position 20 and 62
+Difference between the positions: 42
+
+
+For the word 'levels', the nearest words are: 
+
+Novice List (Top 20): 
+['level', 'concentrations', 'rates', 'thresholds', 'densities', 'ratios', 'dosages', 'tiers', 'frequencies', 'types', 'elevations', 'doses', 'speeds', 'layers', 'titers', 'rate', 'modes', 'pathways', 'temperatures', 'bitrates']
+
+Expert List (Top 100): 
+['level', 'concentrations', 'rates', 'thresholds', 'densities', 'ratios', 'dosages', 'tiers', 'frequencies', 'types', 'speeds', 'elevations', 'doses', 'modes', 'layers', 'potencies', 'rate', 'temperatures', 'pathways', 'intensities', 'outcomes', 'altitudes', 'humidities', 'voltages', 'efficiencies', 'salinities', 'dimensions', 'bitrates', 'values', 'factors', 'exposures', 'conditions', 'titers', 'categories', 'osmolarity', 'salinity', 'catecholamines', 'pressures', 'indicators', 'phases', 'requirements', 'velocities', 'standards', 'purities', 'mechanisms', 'components', 'parameters', 'osmolality', 'scenarios', 'viscosities', 'environments', 'amounts', 'magnifications', 'glucocorticoids', 'percentages', 'threshold', 'inputs', 'capacities', 'solubilities', 'prevalences', 'stages', 'fluxes', 'subtypes', 'concentration', 'sensitivity', 'processes', 'indices', 'risk', 'efficiency', 'prices', 'abundances', 'metabolisms', 'configurations', 'degrees', 'subscales', 'quality', 'periods', 'sizes', 'uptake', 'selectivities', 'haematocrit', 'modalities', 'classes', 'genotypes', 'isozymes', 'deficits', 'corticosterone', 'options', 'sections', 'gravities', 'areas', 'sectors', 'tests', 'profiles', 'floors', 'latencies', 'outputs', 'incidence', 'neuroticism', 'kinds']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'level' found at position 1 in both lists
+
+Word 'concentrations' found at position 2 in both lists
+
+Word 'rates' found at position 3 in both lists
+
+Word 'thresholds' found at position 4 in both lists
+
+Word 'densities' found at position 5 in both lists
+
+Word 'ratios' found at position 6 in both lists
+
+Word 'dosages' found at position 7 in both lists
+
+Word 'tiers' found at position 8 in both lists
+
+Word 'frequencies' found at position 9 in both lists
+
+Word 'types' found at position 10 in both lists
+
+Word 'elevations' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'doses' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'speeds' found at position 13 and 11
+Difference between the positions: 2
+
+Word 'layers' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'titers' found at position 15 and 33
+Difference between the positions: 18
+
+Word 'rate' found at position 16 and 17
+Difference between the positions: 1
+
+Word 'modes' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'pathways' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'temperatures' found at position 19 and 18
+Difference between the positions: 1
+
+Word 'bitrates' found at position 20 and 28
+Difference between the positions: 8
+
+
+For the word 'looking', the nearest words are: 
+
+Novice List (Top 20): 
+['looked', 'looks', 'look', 'searching', 'staring', 'gazes', 'gazing', 'stared', 'stares', 'trying', 'pushing', 'clawing', 'going', 'seeing', 'yelling', 'eyeing', 'aiming', 'waiting', 'lunges', 'smiling']
+
+Expert List (Top 100): 
+['looked', 'looks', 'look', 'searching', 'staring', 'gazing', 'stares', 'gazes', 'stared', 'pushing', 'trying', 'going', 'seeing', 'aiming', 'lunged', 'smiling', 'watching', 'yelling', 'clawing', 'eyeing', 'lunges', 'chasing', 'waiting', 'seeking', 'leering', 'asking', 'yells', 'behaving', 'beckoning', 'groping', 'gazed', 'finding', 'laughing', 'peered', 'striving', 'glared', 'nudging', 'enticing', 'ogling', 'contemplating', 'poking', 'sneaking', 'gesturing', 'getting', 'glances', 'talking', 'auditioning', 'preparing', 'mistaking', 'struggling', 'hurrying', 'winking', 'grinning', 'hinting', 'peeking', 'thinking', 'putting', 'yearns', 'glares', 'smirking', 'caring', 'pining', 'hoping', 'asks', 'eager', 'wondering', 'pointing', 'scowling', 'amazed', 'searched', 'crying', 'hurls', 'peering', 'glance', 'grins', 'inching', 'pulling', 'chatting', 'darting', 'pushes', 'digging', 'berating', 'nudged', 'lookin', 'sneer', 'lunging', 'fooling', 'chastising', 'longingly', 'nudges', 'noticing', 'smiles', 'flinging', 'really', 'barreling', 'beckons', 'pondering', 'doing', 'gestured', 'clamors']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'looked' found at position 1 in both lists
+
+Word 'looks' found at position 2 in both lists
+
+Word 'look' found at position 3 in both lists
+
+Word 'searching' found at position 4 in both lists
+
+Word 'staring' found at position 5 in both lists
+
+Word 'gazes' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'gazing' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'stared' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'stares' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'trying' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'pushing' found at position 11 and 10
+Difference between the positions: 1
+
+Word 'clawing' found at position 12 and 19
+Difference between the positions: 7
+
+Word 'going' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'seeing' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'yelling' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'eyeing' found at position 16 and 20
+Difference between the positions: 4
+
+Word 'aiming' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'waiting' found at position 18 and 23
+Difference between the positions: 5
+
+Word 'lunges' found at position 19 and 21
+Difference between the positions: 2
+
+Word 'smiling' found at position 20 and 16
+Difference between the positions: 4
+
+
+For the word 'map', the nearest words are: 
+
+Novice List (Top 20): 
+['maps', 'mapping', 'diagram', 'planisphere', 'franquelin', 'atlases', 'minimap', 'cantino', 'flowchart', 'vallard', 'schematic', 'landranger', 'stereographic', 'cartographic', 'thumbnail', 'grid', 'karnaugh', 'infobox', 'dataset', 'gnomonic']
+
+Expert List (Top 100): 
+['maps', 'planisphere', 'mapping', 'diagram', 'franquelin', 'minimap', 'grid', 'isoseismal', 'datum', 'gridded', 'atlases', 'dataset', 'cartographic', 'cantino', 'landranger', 'isochrone', 'schematic', 'topographical', 'peutinger', 'viewport', 'graph', 'flowchart', 'stereographic', 'diagrams', 'graticule', 'vallard', 'choropleth', 'gnomonic', 'overlay', 'bijectively', 'karnaugh', 'outline', 'topographic', 'clickable', 'thumbnails', 'atlas', 'survey', 'contour', 'triangulation', 'peutingeriana', 'glyph', 'thumbnail', 'overlays', 'mercator', 'infobox', 'screenshot', 'cartograms', 'cursor', 'dimetric', 'coordinates', 'analemma', 'projection', 'raster', 'blaeu', 'cartography', 'histogram', 'folder', 'gameboard', 'rectangle', 'topography', 'isopach', 'pictogram', 'document', 'description', 'quantu', 'layout', 'cartographer', 'data', 'axonometric', 'problematique', 'mapper', 'retinotopic', 'cartographical', 'graphically', 'pixel', 'cropmarks', 'pizzigano', 'waldseemüller', 'gazetteer', 'mapped', 'astrolabe', 'chessboard', 'alidade', 'torus', 'gcj', 'schematically', 'geographia', 'histograms', 'waypoints', 'wgs', 'isometric', 'openstreetmap', 'annotations', 'inventory', 'sundial', 'tooltip', 'bathymetric', 'playfield', 'tracings', 'bitmap']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'maps' found at position 1 in both lists
+
+Word 'mapping' found at position 2 and 3
+Difference between the positions: 1
+
+Word 'diagram' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'planisphere' found at position 4 and 2
+Difference between the positions: 2
+
+Word 'franquelin' found at position 5 in both lists
+
+Word 'atlases' found at position 6 and 11
+Difference between the positions: 5
+
+Word 'minimap' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'cantino' found at position 8 and 14
+Difference between the positions: 6
+
+Word 'flowchart' found at position 9 and 22
+Difference between the positions: 13
+
+Word 'vallard' found at position 10 and 26
+Difference between the positions: 16
+
+Word 'schematic' found at position 11 and 17
+Difference between the positions: 6
+
+Word 'landranger' found at position 12 and 15
+Difference between the positions: 3
+
+Word 'stereographic' found at position 13 and 23
+Difference between the positions: 10
+
+Word 'cartographic' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'thumbnail' found at position 15 and 42
+Difference between the positions: 27
+
+Word 'grid' found at position 16 and 7
+Difference between the positions: 9
+
+Word 'karnaugh' found at position 17 and 31
+Difference between the positions: 14
+
+Word 'infobox' found at position 18 and 45
+Difference between the positions: 27
+
+Word 'dataset' found at position 19 and 12
+Difference between the positions: 7
+
+Word 'gnomonic' found at position 20 and 28
+Difference between the positions: 8
+
+
+For the word 'military', the nearest words are: 
+
+Novice List (Top 20): 
+['naval', 'army', 'civilian', 'armed', 'diplomatic', 'nato', 'navy', 'wehrmacht', 'gendarmerie', 'paramilitary', 'forces', 'troops', 'counterinsurgency', 'peacetime', 'kpraf', 'government', 'soviet', 'militia', 'militaries', 'allied']
+
+Expert List (Top 100): 
+['naval', 'army', 'civilian', 'armed', 'diplomatic', 'wehrmacht', 'gendarmerie', 'navy', 'nato', 'paramilitary', 'forces', 'counterinsurgency', 'troops', 'soviet', 'allied', 'government', 'peacetime', 'combat', 'militia', 'militaries', 'bundeswehr', 'wartime', 'artillery', 'commanders', 'defence', 'airforce', 'consular', 'force', 'corps', 'personnel', 'peacekeeping', 'pngdf', 'imperial', 'soldiers', 'war', 'jannisary', 'usaf', 'armies', 'irgc', 'sadf', 'civil', 'schutztruppe', 'idf', 'foreign', 'officers', 'governmental', 'hmeymim', 'militarized', 'militarily', 'chetnik', 'pacification', 'infantry', 'manpower', 'kpraf', 'rpkad', 'cavalry', 'tactical', 'falintil', 'luftwaffe', 'maritime', 'daylamite', 'fardc', 'guerrilla', 'koevoet', 'nzdf', 'mobilization', 'afghanistan', 'security', 'janissary', 'combatant', 'nprc', 'conscript', 'strategic', 'nco', 'insurgents', 'reichswehr', 'syria', 'commandants', 'materiel', 'pla', 'pasdaran', 'warfare', 'kopassus', 'iraq', 'political', 'paratroopers', 'cidg', 'paratrooper', 'freikorps', 'paf', 'zanla', 'libya', 'omon', 'uncro', 'insurgency', 'kostrad', 'defense', 'airpower', 'haganah', 'demobilizing']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'naval' found at position 1 in both lists
+
+Word 'army' found at position 2 in both lists
+
+Word 'civilian' found at position 3 in both lists
+
+Word 'armed' found at position 4 in both lists
+
+Word 'diplomatic' found at position 5 in both lists
+
+Word 'nato' found at position 6 and 9
+Difference between the positions: 3
+
+Word 'navy' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'wehrmacht' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'gendarmerie' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'paramilitary' found at position 10 in both lists
+
+Word 'forces' found at position 11 in both lists
+
+Word 'troops' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'counterinsurgency' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'peacetime' found at position 14 and 17
+Difference between the positions: 3
+
+Word 'kpraf' found at position 15 and 54
+Difference between the positions: 39
+
+Word 'government' found at position 16 in both lists
+
+Word 'soviet' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'militia' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'militaries' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'allied' found at position 20 and 15
+Difference between the positions: 5
+
+
+For the word 'mission', the nearest words are: 
+
+Novice List (Top 20): 
+['missions', 'objective', 'expedition', 'task', 'objectives', 'missionary', 'wascopam', 'euromir', 'spacecraft', 'operation', 'operations', 'missionaries', 'bepicolombo', 'deployment', 'mandate', 'spacelab', 'squadron', 'iss', 'endeavour', 'aim']
+
+Expert List (Top 100): 
+['missions', 'objective', 'task', 'expedition', 'objectives', 'missionary', 'operation', 'pharmasat', 'deployment', 'missionaries', 'endeavour', 'operations', 'spacecraft', 'aim', 'iss', 'monusco', 'wascopam', 'squadron', 'mandate', 'cassini–huygens', 'lcross', 'assignment', 'mulwewa', 'recce', 'initiative', 'interministérielle', 'endeavor', 'sfor', 'organization', 'cryosat', 'pathfinder', 'istaanbul', 'photoreconnaissance', 'unmiss', 'detachment', 'taskings', 'ramsi', 'apostolate', 'seasat', 'plan', 'etrangères', 'reconnaissance', 'uniimog', 'ywam', 'epoxi', 'umcor', 'flyby', 'efforts', 'spacelab', 'unamir', 'unamsil', 'purpose', 'jtf', 'euromir', 'jaxa', 'xfuge', 'karema', 'guevavi', 'warfighting', 'tullahassee', 'peniel', 'sts', 'outpost', 'demining', 'spacewalk', 'astp', 'héliographiques', 'cjtf', 'midstar', 'nanoracks', 'falconsat', 'chinmaya', 'airlift', 'monuc', 'sigint', 'peacekeeping', 'evangelisation', 'voulet', 'project', 'resupply', 'evangelism', 'orbiter', 'unitaf', 'usaf', 'reflight', 'bepicolombo', 'usstratcom', 'salyut', 'payload', 'abcfm', 'elint', 'lubwa', 'chandrayaan', 'unmee', 'killalpaninna', 'esa', 'unmih', 'spaceflight', 'genesat', 'unoci']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'missions' found at position 1 in both lists
+
+Word 'objective' found at position 2 in both lists
+
+Word 'expedition' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'task' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'objectives' found at position 5 in both lists
+
+Word 'missionary' found at position 6 in both lists
+
+Word 'wascopam' found at position 7 and 17
+Difference between the positions: 10
+
+Word 'euromir' found at position 8 and 54
+Difference between the positions: 46
+
+Word 'spacecraft' found at position 9 and 13
+Difference between the positions: 4
+
+Word 'operation' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'operations' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'missionaries' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'bepicolombo' found at position 13 and 86
+Difference between the positions: 73
+
+Word 'deployment' found at position 14 and 9
+Difference between the positions: 5
+
+Word 'mandate' found at position 15 and 19
+Difference between the positions: 4
+
+Word 'spacelab' found at position 16 and 49
+Difference between the positions: 33
+
+Word 'squadron' found at position 17 and 18
+Difference between the positions: 1
+
+Word 'iss' found at position 18 and 15
+Difference between the positions: 3
+
+Word 'endeavour' found at position 19 and 11
+Difference between the positions: 8
+
+Word 'aim' found at position 20 and 14
+Difference between the positions: 6
+
+
+For the word 'mode', the nearest words are: 
+
+Novice List (Top 20): 
+['modes', 'functionality', 'configuration', 'gameplay', 'multiplayer', 'interface', 'selectable', 'setup', 'device', 'mechanism', 'module', 'minigame', 'scenarios', 'gamepad', 'scenario', 'cpu', 'pvp', 'touchscreen', 'subsystem', 'singleplayer']
+
+Expert List (Top 100): 
+['modes', 'configuration', 'multiplayer', 'gameplay', 'functionality', 'interface', 'device', 'mechanism', 'minigame', 'module', 'selectable', 'scenario', 'setup', 'scenarios', 'cpu', 'gamepad', 'system', 'pvp', 'encoder', 'joystick', 'gamemode', 'settings', 'subsystem', 'synchronous', 'bootloader', 'touchscreen', 'minigames', 'method', 'modules', 'configurations', 'type', 'asynchronous', 'adapter', 'simulator', 'powerup', 'dynamic', 'user', 'singleplayer', 'keypad', 'splitscreen', 'sandbox', 'modulation', 'phase', 'simulation', 'kernel', 'switchable', 'waveform', 'firmware', 'sequence', 'setups', 'optionally', 'emulator', 'pve', 'element', 'static', 'scrolling', 'capability', 'unlockable', 'preset', 'emulation', 'accelerometer', 'matrix', 'multitasking', 'pwm', 'multitap', 'circuitry', 'latency', 'devices', 'bios', 'sensor', 'mycareer', 'spotpass', 'configurable', 'processor', 'browser', 'synchronization', 'console', 'platforming', 'modem', 'ruleset', 'vga', 'actuator', 'gears', 'parameters', 'autoplay', 'decoder', 'gear', 'outputs', 'paradigm', 'button', 'sequential', 'oscillator', 'environments', 'autofocus', 'dualshock', 'quickplay', 'interfaces', 'deathmatch', 'acceleration', 'function']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'modes' found at position 1 in both lists
+
+Word 'functionality' found at position 2 and 5
+Difference between the positions: 3
+
+Word 'configuration' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'gameplay' found at position 4 in both lists
+
+Word 'multiplayer' found at position 5 and 3
+Difference between the positions: 2
+
+Word 'interface' found at position 6 in both lists
+
+Word 'selectable' found at position 7 and 11
+Difference between the positions: 4
+
+Word 'setup' found at position 8 and 13
+Difference between the positions: 5
+
+Word 'device' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'mechanism' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'module' found at position 11 and 10
+Difference between the positions: 1
+
+Word 'minigame' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'scenarios' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'gamepad' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'scenario' found at position 15 and 12
+Difference between the positions: 3
+
+Word 'cpu' found at position 16 and 15
+Difference between the positions: 1
+
+Word 'pvp' found at position 17 and 18
+Difference between the positions: 1
+
+Word 'touchscreen' found at position 18 and 26
+Difference between the positions: 8
+
+Word 'subsystem' found at position 19 and 23
+Difference between the positions: 4
+
+Word 'singleplayer' found at position 20 and 38
+Difference between the positions: 18
+
+
+For the word 'movement', the nearest words are: 
+
+Novice List (Top 20): 
+['movements', 'activism', 'agitation', 'nationalism', 'ideology', 'militancy', 'radicalism', 'radical', 'revivalism', 'organization', 'anticolonial', 'organisation', 'völkisch', 'movement—the', 'leftwing', 'antifascist', 'identitarian', 'movement—a', 'independentist', 'dissidence']
+
+Expert List (Top 100): 
+['movements', 'activism', 'agitation', 'nationalism', 'ideology', 'movement—a', 'radicalism', 'militancy', 'revivalism', 'radical', 'organization', 'antifascist', 'organisation', 'völkisch', 'mouvement', 'anticolonial', 'catalanist', 'leftist', 'socialism', 'fascism', 'dissidence', 'operaismo', 'leftwing', 'counterculture', 'independentist', 'narodnik', 'socialist', 'reformist', 'separatism', 'reformism', 'anarchism', 'militant', 'autonomism', 'pachakutik', 'socialists', 'faction', 'boulangist', 'autonomist', 'secularist', 'democracy', 'coalition', 'maoism', 'party', 'identitarian', 'abolitionism', 'zionism', 'haskalah', 'hehalutz', 'trotskyism', 'anticolonialist', 'anticommunist', 'modernism', 'nationalist', 'feminism', 'nasserist', 'wandervogel', 'eurocommunism', 'liberalism', 'syndicalist', 'intelligentsia', 'sąjūdis', 'precisionism', 'poporanism', 'futurism', 'internationalism', 'liberationist', 'chipko', 'reformasi', 'insurrectionist', 'islamism', 'radicalization', 'insurrectionary', 'endecja', 'khidmatgar', 'traditionalism', 'movement—the', 'movimiento', 'zikist', 'populism', 'jadidism', 'faraizi', 'négritude', 'integralism', 'revolution', 'ennahda', 'agitations', 'republicanism', 'chartism', 'manifesto', 'peronism', 'radicals', 'hungarist', 'revivalist', 'unity', 'frontbeweging', 'fennoman', 'integrationism', 'nasserite', 'shaykhí', 'activists']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'movements' found at position 1 in both lists
+
+Word 'activism' found at position 2 in both lists
+
+Word 'agitation' found at position 3 in both lists
+
+Word 'nationalism' found at position 4 in both lists
+
+Word 'ideology' found at position 5 in both lists
+
+Word 'militancy' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'radicalism' found at position 7 in both lists
+
+Word 'radical' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'revivalism' found at position 9 in both lists
+
+Word 'organization' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'anticolonial' found at position 11 and 16
+Difference between the positions: 5
+
+Word 'organisation' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'völkisch' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'movement—the' found at position 14 and 76
+Difference between the positions: 62
+
+Word 'leftwing' found at position 15 and 23
+Difference between the positions: 8
+
+Word 'antifascist' found at position 16 and 12
+Difference between the positions: 4
+
+Word 'identitarian' found at position 17 and 44
+Difference between the positions: 27
+
+Word 'movement—a' found at position 18 and 6
+Difference between the positions: 12
+
+Word 'independentist' found at position 19 and 25
+Difference between the positions: 6
+
+Word 'dissidence' found at position 20 and 21
+Difference between the positions: 1
+
+
+For the word 'multiplayer', the nearest words are: 
+
+Novice List (Top 20): 
+['gameplay', 'singleplayer', 'pvp', 'pve', 'splitscreen', 'microtransactions', 'platforming', 'mmo', 'minigame', 'leaderboards', 'splatoon', 'mmorpg', 'playable', 'minigames', 'sandbox', 'littlebigplanet', 'quickplay', 'fortnite', 'permadeath', 'customization']
+
+Expert List (Top 100): 
+['gameplay', 'splitscreen', 'pvp', 'singleplayer', 'pve', 'platforming', 'minigame', 'playable', 'microtransactions', 'leaderboards', 'mmo', 'netcode', 'customization', 'minigames', 'splatoon', 'mmorpg', 'sandbox', 'rpg', 'dlc', 'killzone', 'quickplay', 'fortnite', 'xbox', 'minecraft', 'multitap', 'mode', 'unlockable', 'littlebigplanet', 'mechwarrior', 'tetris', 'permadeath', 'overworld', 'dreamcast', 'unlockables', 'mycareer', 'gba', 'playstation', 'roguelike', 'mmorpgs', 'eashl', 'xbla', 'scrolling', 'titanfall', 'deathmatch', 'rpgs', 'snes', 'platformer', 'downloadable', 'arkanoid', 'modding', 'customizable', 'starcraft', 'gamemode', 'gameworld', 'gamepad', 'gamespy', 'wii', 'cutscenes', 'crysis', 'psp', 'nethack', 'bulletstorm', 'runescape', 'bomberman', 'ouya', 'darkfall', 'simcity', 'konquest', 'quests', 'microtransaction', 'replayability', 'stealth', 'skyrim', 'skullgirls', 'dungeon', 'customisable', 'myst', 'gamespot', 'boardgame', 'mdk', 'colecovision', 'everquest', 'gametypes', 'videogame', 'gamecube', 'streetpass', 'hearthstone', 'planetside', 'purchasable', 'gaming', 'sidescrolling', 'moddable', 'sidescroller', 'uplay', 'battlegrounds', 'cinematics', 'directx', 'console', 'platformers', 'matchmaking']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'gameplay' found at position 1 in both lists
+
+Word 'singleplayer' found at position 2 and 4
+Difference between the positions: 2
+
+Word 'pvp' found at position 3 in both lists
+
+Word 'pve' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'splitscreen' found at position 5 and 2
+Difference between the positions: 3
+
+Word 'microtransactions' found at position 6 and 9
+Difference between the positions: 3
+
+Word 'platforming' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'mmo' found at position 8 and 11
+Difference between the positions: 3
+
+Word 'minigame' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'leaderboards' found at position 10 in both lists
+
+Word 'splatoon' found at position 11 and 15
+Difference between the positions: 4
+
+Word 'mmorpg' found at position 12 and 16
+Difference between the positions: 4
+
+Word 'playable' found at position 13 and 8
+Difference between the positions: 5
+
+Word 'minigames' found at position 14 in both lists
+
+Word 'sandbox' found at position 15 and 17
+Difference between the positions: 2
+
+Word 'littlebigplanet' found at position 16 and 28
+Difference between the positions: 12
+
+Word 'quickplay' found at position 17 and 21
+Difference between the positions: 4
+
+Word 'fortnite' found at position 18 and 22
+Difference between the positions: 4
+
+Word 'permadeath' found at position 19 and 31
+Difference between the positions: 12
+
+Word 'customization' found at position 20 and 13
+Difference between the positions: 7
+
+
+For the word 'person', the nearest words are: 
+
+Novice List (Top 20): 
+['woman', 'someone', 'persons', 'patient', 'man', 'defendant', 'anyone', 'victim', 'child', 'individuals', 'people', 'offender', 'applicant', 'object', 'oneself', 'thing', 'jew', 'perpetrator', 'respondent', 'spouse']
+
+Expert List (Top 100): 
+['woman', 'someone', 'patient', 'persons', 'man', 'defendant', 'victim', 'anyone', 'child', 'individuals', 'people', 'offender', 'applicant', 'oneself', 'object', 'thing', 'jew', 'perpetrator', 'foreigner', 'respondent', 'spouse', 'user', 'organism', 'bystander', 'god', 'individual', 'debtor', 'psychopath', 'everyone', 'client', 'plaintiff', 'listener', 'juror', 'claimant', 'devotee', 'reader', 'complainant', 'creature', 'beings', 'viewer', 'caller', 'offence', 'caregiver', 'question', 'patients', 'felon', 'somebody', 'layperson', 'kind', 'borrower', 'fetus', 'item', 'prostitute', 'participant', 'humans', 'contestant', 'citizen', 'girl', 'narrator', 'attacker', 'sufferer', 'prophet', 'substance', 'if', 'inmate', 'monarch', 'litigant', 'murderer', 'firearm', 'trespasser', 'verb', 'witness', 'sense', 'motorist', 'stranger', 'deity', 'practitioner', 'manifestation', 'petitioner', 'wrongdoer', 'suspect', 'possessor', 'utterance', 'entity', 'malefactor', 'rescuer', 'circumstance', 'pedophile', 'worshipper', 'sociopath', 'hearer', 'meditator', 'villager', 'shaman', 'narcissist', 'gentleman', 'passerby', 'learner', 'bodhisattva', 'beneficiary']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'woman' found at position 1 in both lists
+
+Word 'someone' found at position 2 in both lists
+
+Word 'persons' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'patient' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'man' found at position 5 in both lists
+
+Word 'defendant' found at position 6 in both lists
+
+Word 'anyone' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'victim' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'child' found at position 9 in both lists
+
+Word 'individuals' found at position 10 in both lists
+
+Word 'people' found at position 11 in both lists
+
+Word 'offender' found at position 12 in both lists
+
+Word 'applicant' found at position 13 in both lists
+
+Word 'object' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'oneself' found at position 15 and 14
+Difference between the positions: 1
+
+Word 'thing' found at position 16 in both lists
+
+Word 'jew' found at position 17 in both lists
+
+Word 'perpetrator' found at position 18 in both lists
+
+Word 'respondent' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'spouse' found at position 20 and 21
+Difference between the positions: 1
+
+
+For the word 'player', the nearest words are: 
+
+Novice List (Top 20): 
+['players', 'goalkeeper', 'athlete', 'striker', 'goalie', 'pitcher', 'wrestler', 'defenseman', 'midfielder', 'contestant', 'goaltender', 'team', 'defender', 'game', 'defenceman', 'referee', 'rookie', 'starter', 'lineman', 'mvp']
+
+Expert List (Top 100): 
+['players', 'goalkeeper', 'athlete', 'striker', 'goalie', 'goaltender', 'defenseman', 'pitcher', 'wrestler', 'team', 'midfielder', 'game', 'contestant', 'defenceman', 'defender', 'referee', 'rookie', 'golfer', 'starter', 'mvp', 'lineman', 'footballer', 'playmaker', 'winger', 'draftee', 'teammate', 'playing', 'fullback', 'swingman', 'coach', 'goalkeepers', 'play', 'catcher', 'placekicker', 'swimmer', 'quarterback', 'scorer', 'hurler', 'performer', 'infielder', 'handballer', 'basketballer', 'outfielder', 'youngster', 'punter', 'bowler', 'rider', 'umpire', 'gymnast', 'teammates', 'tournament', 'kicker', 'ruckman', 'goalscorer', 'cricketer', 'skater', 'football', 'batsman', 'attackman', 'hitter', 'ballplayer', 'sportsman', 'footballers', 'championship', 'driver', 'selector', 'champion', 'socceroo', 'shortstop', 'opponent', 'fielder', 'attacker', 'boxer', 'rower', 'sprinter', 'ball', 'runner', 'sportsperson', 'match', 'teams', 'goalies', 'marksman', 'triathlete', 'shooter', 'sportscaster', 'batter', 'jumper', 'winner', 'forwards', 'league', 'netminder', 'linebacker', 'midfielders', 'playable', 'cyclist', 'inductee', 'rookies', 'slotback', 'skateboarder', 'semiprofessional']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'players' found at position 1 in both lists
+
+Word 'goalkeeper' found at position 2 in both lists
+
+Word 'athlete' found at position 3 in both lists
+
+Word 'striker' found at position 4 in both lists
+
+Word 'goalie' found at position 5 in both lists
+
+Word 'pitcher' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'wrestler' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'defenseman' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'midfielder' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'contestant' found at position 10 and 13
+Difference between the positions: 3
+
+Word 'goaltender' found at position 11 and 6
+Difference between the positions: 5
+
+Word 'team' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'defender' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'game' found at position 14 and 12
+Difference between the positions: 2
+
+Word 'defenceman' found at position 15 and 14
+Difference between the positions: 1
+
+Word 'referee' found at position 16 in both lists
+
+Word 'rookie' found at position 17 in both lists
+
+Word 'starter' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'lineman' found at position 19 and 21
+Difference between the positions: 2
+
+Word 'mvp' found at position 20 in both lists
+
+
+For the word 'players', the nearest words are: 
+
+Novice List (Top 20): 
+['teams', 'player', 'footballers', 'goalkeepers', 'wrestlers', 'athletes', 'goalies', 'rookies', 'referees', 'riders', 'golfers', 'cricketers', 'bowlers', 'competitors', 'clubs', 'tournaments', 'boxers', 'coaches', 'quarterbacks', 'contestants']
+
+Expert List (Top 100): 
+['teams', 'player', 'footballers', 'goalkeepers', 'wrestlers', 'athletes', 'referees', 'rookies', 'goalies', 'golfers', 'riders', 'cricketers', 'boxers', 'competitors', 'clubs', 'bowlers', 'tournaments', 'coaches', 'starters', 'quarterbacks', 'teammates', 'fans', 'contestants', 'pitchers', 'youngsters', 'umpires', 'racers', 'matches', 'punters', 'gamers', 'games', 'grandmasters', 'participants', 'ballplayers', 'skaters', 'drivers', 'ruckmen', 'performers', 'entrants', 'forwards', 'game', 'franchises', 'shooters', 'strikers', 'goaltenders', 'leagues', 'team', 'draftees', 'selectors', 'midfielders', 'gymnasts', 'invitees', 'winners', 'amateurs', 'olympians', 'swimmers', 'pros', 'newcomers', 'linemen', 'rowers', 'underclassmen', 'scorers', 'batsmen', 'goalkeeper', 'triathletes', 'cyclists', 'squads', 'opponents', 'juniors', 'outfielders', 'goalie', 'trophies', 'sportswriters', 'captains', 'cards', 'trialists', 'hitters', 'finalists', 'minigames', 'play', 'signings', 'placekickers', 'qualifiers', 'standouts', 'contenders', 'jerseys', 'hopefuls', 'greats', 'internationals', 'fullbacks', 'drummers', 'selections', 'inductees', 'loanees', 'fighters', 'candidates', 'jumpers', 'goaltender', 'freshmen', 'competitions']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'teams' found at position 1 in both lists
+
+Word 'player' found at position 2 in both lists
+
+Word 'footballers' found at position 3 in both lists
+
+Word 'goalkeepers' found at position 4 in both lists
+
+Word 'wrestlers' found at position 5 in both lists
+
+Word 'athletes' found at position 6 in both lists
+
+Word 'goalies' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'rookies' found at position 8 in both lists
+
+Word 'referees' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'riders' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'golfers' found at position 11 and 10
+Difference between the positions: 1
+
+Word 'cricketers' found at position 12 in both lists
+
+Word 'bowlers' found at position 13 and 16
+Difference between the positions: 3
+
+Word 'competitors' found at position 14 in both lists
+
+Word 'clubs' found at position 15 in both lists
+
+Word 'tournaments' found at position 16 and 17
+Difference between the positions: 1
+
+Word 'boxers' found at position 17 and 13
+Difference between the positions: 4
+
+Word 'coaches' found at position 18 in both lists
+
+Word 'quarterbacks' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'contestants' found at position 20 and 23
+Difference between the positions: 3
+
+
+For the word 'playstation', the nearest words are: 
+
+Novice List (Top 20): 
+['xbox', 'dreamcast', 'gamecube', 'wii', 'nintendo', 'psp', 'snes', 'ios', 'xbla', 'sega', 'wiiware', 'famicom', 'gba', 'colecovision', 'pc', 'turbografx', 'nes', 'dsiware', 'ds', 'konami']
+
+Expert List (Top 100): 
+['dreamcast', 'xbox', 'wii', 'gamecube', 'nintendo', 'psp', 'snes', 'famicom', 'sega', 'ios', 'xbla', 'wiiware', 'gba', 'dsiware', 'turbografx', 'nes', 'colecovision', 'pc', 'ds', 'console', 'ouya', 'konami', 'eshop', 'splatoon', 'kinect', 'msx', 'littlebigplanet', 'namco', 'capcom', 'sunsoft', 'psn', 'ps', 'iphone', 'snk', 'wonderswan', 'gameloft', 'amiga', 'dualshock', 'arkanoid', 'thq', 'intellivision', 'taito', 'android', 'atari', 'pocketstation', 'playism', 'ubisoft', 'mobage', 'consoles', 'eyetoy', 'dlc', 'satellaview', 'handhelds', 'mdk', 'atlus', 'banpresto', 'codemasters', 'handheld', 'dotemu', 'djmax', 'psvr', 'videogame', 'eyepet', 'madworld', 'gametap', 'ipad', 'killzone', 'multiplayer', 'downloadable', 'turboduo', 'famitsu', 'kemco', 'arcade', 'activision', 'playfirst', 'tecmo', 'galaga', 'bayonetta', 'motorstorm', 'psone', 'tetris', 'gametek', 'epyx', 'zeebo', 'nicalis', 'ea', 'singstar', 'macos', 'zune', 'fromsoftware', 'gamehouse', 'vectrex', 'frozenbyte', 'laserdisc', 'gameplay', 'crysis', 'nyko', 'joypad', 'app', 'gameshark']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'xbox' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'dreamcast' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'gamecube' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'wii' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'nintendo' found at position 5 in both lists
+
+Word 'psp' found at position 6 in both lists
+
+Word 'snes' found at position 7 in both lists
+
+Word 'ios' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'xbla' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'sega' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'wiiware' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'famicom' found at position 12 and 8
+Difference between the positions: 4
+
+Word 'gba' found at position 13 in both lists
+
+Word 'colecovision' found at position 14 and 17
+Difference between the positions: 3
+
+Word 'pc' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'turbografx' found at position 16 and 15
+Difference between the positions: 1
+
+Word 'nes' found at position 17 and 16
+Difference between the positions: 1
+
+Word 'dsiware' found at position 18 and 14
+Difference between the positions: 4
+
+Word 'ds' found at position 19 in both lists
+
+Word 'konami' found at position 20 and 22
+Difference between the positions: 2
+
+
+For the word 'point', the nearest words are: 
+
+Novice List (Top 20): 
+['points', 'jmlab', 'moment', 'juncture', 'angle', 'point—the', 'milepost', 'trailhead', 'midpoint', 'tip', 'ridgeline', 'spot', 'angles', 'stretch', 'promontory', 'distance', 'pointers', 'extremity', 'headland', 'vertex']
+
+Expert List (Top 100): 
+['points', 'moment', 'angle', 'juncture', 'jmlab', 'tip', 'midpoint', 'milepost', 'ridgeline', 'vertex', 'angles', 'trailhead', 'spot', 'extremity', 'tide', 'stretch', 'point—the', 'curve', 'time', 'knob', 'promontory', 'pointers', 'distance', 'intersection', 'scarp', 'tangent', 'arête', 'outcrop', 'sandbar', 'mile', 'end', 'node', 'headland', 'junction', 'buzzer', 'cusp', 'base', 'pointer', 'height', 'altitude', 'peak', 'centroid', 'apex', 'slope', 'farthest', 'centerline', 'bluff', 'level', 'airspeeds', 'path', 'treeline', 'endpoint', 'disadvantage', 'apoapsis', 'subpeak', 'midcourt', 'bottom', 'ledge', '°', 'hyperplane', 'notch', 'trajectory', 'protrusion', 'elevation', 'hillock', 'velocity', 'edge', 'lunged', 'icefall', 'lunging', 'coign', 'line', 'altitudes', 'gradient', 'ramp', 'probability', 'hyperbola', 'outcropping', 'ridge', 'periapsis', 'headwall', 'parameter', 'terminus', 'layup', 'terminates', 'loop', 'regalmspitze', 'elevations', 'speeds', 'dartmeet', 'spur', 'midsection', 'pivot', 'concavity', 'nunatak', 'parabola', 'interval', 'buoy', 'lbir', 'asymptote']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'points' found at position 1 in both lists
+
+Word 'jmlab' found at position 2 and 5
+Difference between the positions: 3
+
+Word 'moment' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'juncture' found at position 4 in both lists
+
+Word 'angle' found at position 5 and 3
+Difference between the positions: 2
+
+Word 'point—the' found at position 6 and 17
+Difference between the positions: 11
+
+Word 'milepost' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'trailhead' found at position 8 and 12
+Difference between the positions: 4
+
+Word 'midpoint' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'tip' found at position 10 and 6
+Difference between the positions: 4
+
+Word 'ridgeline' found at position 11 and 9
+Difference between the positions: 2
+
+Word 'spot' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'angles' found at position 13 and 11
+Difference between the positions: 2
+
+Word 'stretch' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'promontory' found at position 15 and 21
+Difference between the positions: 6
+
+Word 'distance' found at position 16 and 23
+Difference between the positions: 7
+
+Word 'pointers' found at position 17 and 22
+Difference between the positions: 5
+
+Word 'extremity' found at position 18 and 14
+Difference between the positions: 4
+
+Word 'headland' found at position 19 and 33
+Difference between the positions: 14
+
+Word 'vertex' found at position 20 and 10
+Difference between the positions: 10
+
+
+For the word 'power', the nearest words are: 
+
+Novice List (Top 20): 
+['powers', 'energy', 'control', 'electricity', 'strength', 'authority', 'torque', 'clout', 'hydropower', 'capability', 'legitimacy', 'stability', 'leverage', 'thrust', 'efficiency', 'hydroelectricity', 'autonomy', 'fuel', 'voltage', 'pressure']
+
+Expert List (Top 100): 
+['powers', 'energy', 'control', 'electricity', 'strength', 'torque', 'hydropower', 'authority', 'clout', 'capability', 'supremacy', 'leverage', 'legitimacy', 'autonomy', 'stability', 'efficiency', 'hydroelectricity', 'horsepower', 'sovereignty', 'voltage', 'kva', 'fuel', 'inverter', 'energies', 'traction', 'capacity', 'cogeneration', 'megawatts', 'hegemony', 'pressure', 'momentum', 'thrust', 'inverters', 'powerful', 'flexibility', 'prerogatives', 'generators', 'bandwidth', 'wealth', 'mw', 'mwth', 'gigawatts', 'mwe', 'transformer', 'capabilities', 'advantage', 'output', 'utility', 'kw', 'downforce', 'resistances', 'prerogative', 'dominance', 'voltages', 'willpower', 'power—the', 'firepower', 'microturbines', 'confidence', 'ability', 'supercontinuum', 'baseload', 'kilowatts', 'efficiencies', 'effectively', 'thus', 'renewables', 'igbts', 'wattage', 'propulsion', 'grip', 'converter', 'invincibility', 'imperium', 'energon', 'hydro', 'gwh', 'prestige', 'turbocharging', 'photovoltaics', 'eirp', 'weakness', 'superpowers', 'kingship', 'hydroelectrical', 'vacuum', 'turbogenerators', 'regenerator', 'biomass', 'manpower', 'alternators', 'milliwatts', 'dispatchable', 'generator', 'impedance', 'load', 'speed', 'thermoelectric', 'force', 'supercharging']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'powers' found at position 1 in both lists
+
+Word 'energy' found at position 2 in both lists
+
+Word 'control' found at position 3 in both lists
+
+Word 'electricity' found at position 4 in both lists
+
+Word 'strength' found at position 5 in both lists
+
+Word 'authority' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'torque' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'clout' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'hydropower' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'capability' found at position 10 in both lists
+
+Word 'legitimacy' found at position 11 and 13
+Difference between the positions: 2
+
+Word 'stability' found at position 12 and 15
+Difference between the positions: 3
+
+Word 'leverage' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'thrust' found at position 14 and 32
+Difference between the positions: 18
+
+Word 'efficiency' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'hydroelectricity' found at position 16 and 17
+Difference between the positions: 1
+
+Word 'autonomy' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'fuel' found at position 18 and 22
+Difference between the positions: 4
+
+Word 'voltage' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'pressure' found at position 20 and 30
+Difference between the positions: 10
+
+
+For the word 'precise', the nearest words are: 
+
+Novice List (Top 20): 
+['exact', 'accurate', 'precisely', 'accurately', 'correct', 'imprecise', 'straightforward', 'reliable', 'actual', 'careful', 'specific', 'detailed', 'proper', 'complicated', 'descriptive', 'consistent', 'unambiguous', 'repeatable', 'subtle', 'realistic']
+
+Expert List (Top 100): 
+['accurate', 'exact', 'precisely', 'accurately', 'correct', 'imprecise', 'specific', 'careful', 'detailed', 'reliable', 'straightforward', 'proper', 'unambiguous', 'actual', 'repeatable', 'complicated', 'descriptive', 'consistent', 'appropriate', 'subtle', 'reproducible', 'spatial', 'simple', 'inexact', 'precision', 'realistic', 'accuracy', 'useful', 'ambiguous', 'flexible', 'nuanced', 'plausible', 'concise', 'definite', 'intuitive', 'robust', 'vague', 'geometrical', 'definitive', 'convenient', 'sophisticated', 'coherent', 'approximate', 'explicit', 'practical', 'quantitative', 'logical', 'measurement', 'succinct', 'optimal', 'meaningful', 'sensitive', 'variable', 'predictable', 'dynamic', 'equivocal', 'delicate', 'literal', 'clarity', 'geometric', 'relevant', 'meticulous', 'simplest', 'timing', 'efficient', 'simplistic', 'repeatability', 'desired', 'intricate', 'problematic', 'conclusive', 'clearer', 'angular', 'consistency', 'thorough', 'numerical', 'subjective', 'calculation', 'uncertain', 'satisfactory', 'methodical', 'parameters', 'fixed', 'sparse', 'suggestive', 'functional', 'coherence', 'rigorous', 'expressive', 'certain', 'rigid', 'inaccurate', 'arbitrary', 'clear', 'instantaneous', 'conventional', 'exactness', 'tractable', 'difficult', 'calibration']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'exact' found at position 1 and 2
+Difference between the positions: 1
+
+Word 'accurate' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'precisely' found at position 3 in both lists
+
+Word 'accurately' found at position 4 in both lists
+
+Word 'correct' found at position 5 in both lists
+
+Word 'imprecise' found at position 6 in both lists
+
+Word 'straightforward' found at position 7 and 11
+Difference between the positions: 4
+
+Word 'reliable' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'actual' found at position 9 and 14
+Difference between the positions: 5
+
+Word 'careful' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'specific' found at position 11 and 7
+Difference between the positions: 4
+
+Word 'detailed' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'proper' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'complicated' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'descriptive' found at position 15 and 17
+Difference between the positions: 2
+
+Word 'consistent' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'unambiguous' found at position 17 and 13
+Difference between the positions: 4
+
+Word 'repeatable' found at position 18 and 15
+Difference between the positions: 3
+
+Word 'subtle' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'realistic' found at position 20 and 26
+Difference between the positions: 6
+
+
+For the word 'quake', the nearest words are: 
+
+Novice List (Top 20): 
+['earthquake', 'aftershock', 'mainshock', 'tsunami', 'earthquakes', 'aftershocks', 'foreshock', 'quakes', 'tremors', 'cataclysm', 'blizzard', 'quakecon', 'mudslide', 'eruption', 'foreshocks', 'tsunamis', 'tornado', 'storm', 'disaster', 'mudflow']
+
+Expert List (Top 100): 
+['earthquake', 'aftershock', 'tsunami', 'mainshock', 'earthquakes', 'quakecon', 'quakes', 'blizzard', 'aftershocks', 'foreshock', 'minecraft', 'mudslide', 'cataclysm', 'quakeworld', 'tremors', 'eruption', 'myst', 'everquest', 'storm', 'warcraft', 'lumines', 'tornado', 'tsunamis', 'hypocenter', 'crysis', 'shenmue', 'kqak', 'disaster', 'explosion', 'soulcalibur', 'arkanoid', 'mudflow', 'turrican', 'grandia', 'blast', 'fallout', 'starcraft', 'foreshocks', 'unreal', 'cloudburst', 'witchaven', 'battlezone', 'outage', 'landslides', 'daikatana', 'gradius', 'suikoden', 'deluge', 'choplifter', 'multiplayer', 'skyrim', 'syberia', 'hailstorm', 'mercalli', 'lufia', 'sandstorm', 'gameplay', 'lahar', 'wildfire', 'shockwave', 'flood', 'firestorm', 'speedrunning', 'explosions', 'darksiders', 'soulblighter', 'simcity', 'flashfloods', 'dota', 'castlevania', 'devastation', 'mudslides', 'xbox', 'epicenter', 'metroid', 'tremor', 'snowstorm', 'megawars', 'dreamcast', 'rpg', 'wolfenstein', 'heatwave', 'ashfall', 'hurricane', 'cryengine', 'fireball', 'bungie', 'floods', 'tetris', 'firaxis', 'detonation', 'galaxian', 'mechagodzilla', 'firestorms', 'chūetsu', 'rockfall', 'freespace', 'epicentral', 'conflagration', 'sheepshaver']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'earthquake' found at position 1 in both lists
+
+Word 'aftershock' found at position 2 in both lists
+
+Word 'mainshock' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'tsunami' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'earthquakes' found at position 5 in both lists
+
+Word 'aftershocks' found at position 6 and 9
+Difference between the positions: 3
+
+Word 'foreshock' found at position 7 and 10
+Difference between the positions: 3
+
+Word 'quakes' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'tremors' found at position 9 and 15
+Difference between the positions: 6
+
+Word 'cataclysm' found at position 10 and 13
+Difference between the positions: 3
+
+Word 'blizzard' found at position 11 and 8
+Difference between the positions: 3
+
+Word 'quakecon' found at position 12 and 6
+Difference between the positions: 6
+
+Word 'mudslide' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'eruption' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'foreshocks' found at position 15 and 38
+Difference between the positions: 23
+
+Word 'tsunamis' found at position 16 and 23
+Difference between the positions: 7
+
+Word 'tornado' found at position 17 and 22
+Difference between the positions: 5
+
+Word 'storm' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'disaster' found at position 19 and 28
+Difference between the positions: 9
+
+Word 'mudflow' found at position 20 and 32
+Difference between the positions: 12
+
+
+For the word 'reaction', the nearest words are: 
+
+Novice List (Top 20): 
+['reactions', 'response', 'diels–alder', 'cycloaddition', 'cyclization', 'hydrolysis', 'isomerization', 'solvolysis', 'disproportionation', 'enolate', 'hydroboration', 'aldol', 'halogenation', 'decarbonylation', 'deprotonation', 'reactivity', 'alkylation', 'acylation', 'decarboxylation', 'tautomerization']
+
+Expert List (Top 100): 
+['reactions', 'response', 'cycloaddition', 'disproportionation', 'cyclization', 'isomerization', 'transmetalation', 'deprotonation', 'diels–alder', 'hydrolysis', 'hydroboration', 'cyclisation', 'aldol', 'halogenation', 'decarboxylation', 'alkylation', 'regioselectivity', 'reactivity', 'responses', 'enolate', 'friedel–crafts', 'decarbonylation', 'diazomethane', 'dimethylamine', 'reacting', 'solvolysis', 'acylation', 'protonation', 'dehydrochlorination', 'uncatalyzed', 'hydrogenolysis', 'mannich', 'epoxidation', 'dissociation', 'backlash', 'benzannulation', 'cyclizations', 'hydrogenation', 'amination', 'cheletropic', 'cycloadditions', 'esterification', 'hydroformylation', 'adduct', 'rearrangement', 'tautomerization', 'sandmeyer', 'bromination', 'unimolecular', 'transesterification', 'autoxidation', 'ylide', 'oxidation', 'dienophile', 'cyclopropanation', 'stereospecificity', 'borylation', 'scission', 'alkene', 'dehydrogenation', 'deoxygenation', 'cyclopentadiene', 'pinacol', 'arylation', 'homolysis', 'polymerisation', 'diene', 'sulfonation', 'complexation', 'fluorination', 'imine', 'allylation', 'electrophile', 'tautomerism', 'nitration', 'allylic', 'benzyne', 'norbornene', 'diazotization', 'photolytic', 'ozonolysis', 'dichlorocarbene', 'dimerization', 'disrotatory', 'transamination', 'dihydroxylation', 'alcoholysis', 'cycloaromatization', 'claisen', 'deamination', 'carbanion', 'buchwald–hartwig', 'polycondensation', 'polymerization', 'regiochemistry', 'photochemical', 'nitrosation', 'racemization', 'bimolecular', 'metalation']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'reactions' found at position 1 in both lists
+
+Word 'response' found at position 2 in both lists
+
+Word 'diels–alder' found at position 3 and 9
+Difference between the positions: 6
+
+Word 'cycloaddition' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'cyclization' found at position 5 in both lists
+
+Word 'hydrolysis' found at position 6 and 10
+Difference between the positions: 4
+
+Word 'isomerization' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'solvolysis' found at position 8 and 26
+Difference between the positions: 18
+
+Word 'disproportionation' found at position 9 and 4
+Difference between the positions: 5
+
+Word 'enolate' found at position 10 and 20
+Difference between the positions: 10
+
+Word 'hydroboration' found at position 11 in both lists
+
+Word 'aldol' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'halogenation' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'decarbonylation' found at position 14 and 22
+Difference between the positions: 8
+
+Word 'deprotonation' found at position 15 and 8
+Difference between the positions: 7
+
+Word 'reactivity' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'alkylation' found at position 17 and 16
+Difference between the positions: 1
+
+Word 'acylation' found at position 18 and 27
+Difference between the positions: 9
+
+Word 'decarboxylation' found at position 19 and 15
+Difference between the positions: 4
+
+Word 'tautomerization' found at position 20 and 46
+Difference between the positions: 26
+
+
+For the word 'rifle', the nearest words are: 
+
+Novice List (Top 20): 
+['pistol', 'rifles', 'carbine', 'carbines', 'rimfire', 'gun', 'revolvers', 'handgun', 'revolver', 'martini–henry', 'shotguns', 'semiautomatic', 'smle', 'shotgun', 'howitzer', 'bayonet', 'lee–enfield', 'firearm', 'garand', 'mauser']
+
+Expert List (Top 100): 
+['pistol', 'rifles', 'carbine', 'carbines', 'handgun', 'gun', 'martini–henry', 'semiautomatic', 'smle', 'revolvers', 'revolver', 'shotguns', 'rimfire', 'nagant', 'gewehr', 'firearm', 'howitzer', 'garand', 'benchrest', 'shotgun', 'lee–enfield', 'bullpup', 'sturmgewehr', 'breechloader', 'breechloading', 'grenade', 'mannlicher', 'bayonet', 'mauser', 'jarmann', 'musket', 'smallbore', 'centerfire', 'bipods', 'mosin–nagant', 'krag–jørgensen', 'mosin', 'lee–metford', 'cartridge', 'minigun', 'buttstock', 'airgun', 'weapon', 'bipod', 'qbz', 'akm', 'sniper', 'rpk', 'riflemen', 'pistols', 'firearms', 'parabellum', 'krag–petersson', 'caseless', 'muskets', 'artillery', 'hammerless', 'handguns', 'centrefire', 'crossbow', 'armalite', 'caliber', 'karabiner', 'kalashnikov', 'kropatschek', 'ammunition', 'muzzleloader', 'infantry', 'gpmg', 'flamethrower', 'smoothbore', 'sporter', 'lmg', 'flintlock', 'chambering', 'autoloading', 'muzzleloading', 'varmint', 'rifleman', 'chassepot', 'flobert', 'accurized', 'mannlicher–schönauer', 'autocannon', 'avtomat', 'cheytac', 'lapua', 'barreled', 'tantal', 'sks', 'holster', 'voere', 'minimi', 'dragunov', 'forend', 'beretta', 'ruger', 'flechette', 'glock', 'fullbore']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'pistol' found at position 1 in both lists
+
+Word 'rifles' found at position 2 in both lists
+
+Word 'carbine' found at position 3 in both lists
+
+Word 'carbines' found at position 4 in both lists
+
+Word 'rimfire' found at position 5 and 13
+Difference between the positions: 8
+
+Word 'gun' found at position 6 in both lists
+
+Word 'revolvers' found at position 7 and 10
+Difference between the positions: 3
+
+Word 'handgun' found at position 8 and 5
+Difference between the positions: 3
+
+Word 'revolver' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'martini–henry' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'shotguns' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'semiautomatic' found at position 12 and 8
+Difference between the positions: 4
+
+Word 'smle' found at position 13 and 9
+Difference between the positions: 4
+
+Word 'shotgun' found at position 14 and 20
+Difference between the positions: 6
+
+Word 'howitzer' found at position 15 and 17
+Difference between the positions: 2
+
+Word 'bayonet' found at position 16 and 28
+Difference between the positions: 12
+
+Word 'lee–enfield' found at position 17 and 21
+Difference between the positions: 4
+
+Word 'firearm' found at position 18 and 16
+Difference between the positions: 2
+
+Word 'garand' found at position 19 and 18
+Difference between the positions: 1
+
+Word 'mauser' found at position 20 and 29
+Difference between the positions: 9
+
+
+For the word 'space', the nearest words are: 
+
+Novice List (Top 20): 
+['spaces', 'workspace', 'module', 'spacecraft', 'microgravity', 'iss', 'orbital', 'modules', 'nanoracks', 'capsule', 'cavity', 'middeck', 'wormholes', 'modular', 'complex', 'projection', 'hyperspace', 'payload', 'dimension', 'rooms']
+
+Expert List (Top 100): 
+['spaces', 'module', 'spacecraft', 'workspace', 'cislunar', 'iss', 'airlocks', 'microgravity', 'capsule', 'middeck', 'spaceship', 'modules', 'modular', 'cavity', 'complex', 'dimension', 'nanoracks', 'orbital', 'hyperspace', 'payload', 'rooms', 'storage', 'spaceships', 'm²', 'workspaces', 'configuration', 'sqm', 'disk', 'atrium', 'space—the', 'room', 'projection', 'interplanetary', 'spacetime', 'wormholes', 'spacesuit', 'orbit', 'nasa', 'airlock', 'dimensions', 'subspace', 'intermembrane', 'environments', 'skylab', 'energy', 'rentable', 'spacelab', 'bandwidth', 'environment', 'wormhole', 'reconfigurable', 'virtual', 'transhab', 'floorspace', 'simulation', 'sensor', 'torus', 'interface', 'arrays', 'robonaut', 'surface', 'shuttlecraft', 'earth', 'objects', 'solar', 'functionality', 'planetoid', 'hangar', 'classroom', 'planetary', 'stargates', 'telerobotics', 'satellites', 'voids', 'glassed', 'robotic', 'interstellar', 'sphere', 'deployer', 'function', 'gsfc', 'concourse', 'periplasmic', 'structure', 'classrooms', 'cube', 'footprint', 'atmosphere', 'compartment', 'msfc', 'spaceflight', 'container', 'data', 'heliosphere', 'frame', 'spacehab', 'geodesic', 'spacesuits', 'matrix', 'platform']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'spaces' found at position 1 in both lists
+
+Word 'workspace' found at position 2 and 4
+Difference between the positions: 2
+
+Word 'module' found at position 3 and 2
+Difference between the positions: 1
+
+Word 'spacecraft' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'microgravity' found at position 5 and 8
+Difference between the positions: 3
+
+Word 'iss' found at position 6 in both lists
+
+Word 'orbital' found at position 7 and 18
+Difference between the positions: 11
+
+Word 'modules' found at position 8 and 12
+Difference between the positions: 4
+
+Word 'nanoracks' found at position 9 and 17
+Difference between the positions: 8
+
+Word 'capsule' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'cavity' found at position 11 and 14
+Difference between the positions: 3
+
+Word 'middeck' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'wormholes' found at position 13 and 35
+Difference between the positions: 22
+
+Word 'modular' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'complex' found at position 15 in both lists
+
+Word 'projection' found at position 16 and 32
+Difference between the positions: 16
+
+Word 'hyperspace' found at position 17 and 19
+Difference between the positions: 2
+
+Word 'payload' found at position 18 and 20
+Difference between the positions: 2
+
+Word 'dimension' found at position 19 and 16
+Difference between the positions: 3
+
+Word 'rooms' found at position 20 and 21
+Difference between the positions: 1
+
+
+For the word 'strike', the nearest words are: 
+
+Novice List (Top 20): 
+['strikes', 'walkout', 'attack', 'lockout', 'counterattack', 'strikers', 'raid', 'crackdown', 'unionization', 'airstrikes', 'assault', 'swoc', 'protest', 'ufw', 'strikebreakers', 'hartal', 'lockouts', 'rmt', 'uprising', 'standoff']
+
+Expert List (Top 100): 
+['strikes', 'walkout', 'attack', 'counterattack', 'strikers', 'lockout', 'crackdown', 'airstrikes', 'raid', 'assault', 'protest', 'hartal', 'ufw', 'firefight', 'uprising', 'unionization', 'airstrike', 'standoff', 'unionize', 'swoc', 'strikebreakers', 'picketing', 'offensive', 'boycott', 'lockouts', 'protests', 'walkouts', 'iww', 'fight', 'dockworkers', 'retaliatory', 'rioting', 'coup', 'attacks', 'revolt', 'insurrection', 'samasamajists', 'cgt', 'teamsters', 'layoff', 'ufawu', 'shutdown', 'umwa', 'campaign', 'rmt', 'utw', 'mutiny', 'insurgency', 'strikebreaking', 'hartals', 'twu', 'riot', 'wfm', 'blast', 'bombardment', 'filibuster', 'demonstration', 'bombing', 'picketers', 'shoot', 'deployment', 'sortie', 'clampdown', 'blockade', 'mobilisations', 'ilwu', 'longshoremen', 'brawl', 'action', 'explosion', 'ceasefire', 'operation', 'marikana', 'iwgb', 'pickets', 'retaliate', 'raids', 'countervalue', 'cawiu', 'unionizing', 'layoffs', 'firing', 'counterstrike', 'barrage', 'unionise', 'lonmin', 'upwa', 'cupw', 'cloakmakers', 'sitdown', 'incident', 'confrontation', 'blow', 'blockades', 'manhunt', 'riots', 'break', 'mobilization', 'csea', 'crisis']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'strikes' found at position 1 in both lists
+
+Word 'walkout' found at position 2 in both lists
+
+Word 'attack' found at position 3 in both lists
+
+Word 'lockout' found at position 4 and 6
+Difference between the positions: 2
+
+Word 'counterattack' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'strikers' found at position 6 and 5
+Difference between the positions: 1
+
+Word 'raid' found at position 7 and 9
+Difference between the positions: 2
+
+Word 'crackdown' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'unionization' found at position 9 and 16
+Difference between the positions: 7
+
+Word 'airstrikes' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'assault' found at position 11 and 10
+Difference between the positions: 1
+
+Word 'swoc' found at position 12 and 20
+Difference between the positions: 8
+
+Word 'protest' found at position 13 and 11
+Difference between the positions: 2
+
+Word 'ufw' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'strikebreakers' found at position 15 and 21
+Difference between the positions: 6
+
+Word 'hartal' found at position 16 and 12
+Difference between the positions: 4
+
+Word 'lockouts' found at position 17 and 25
+Difference between the positions: 8
+
+Word 'rmt' found at position 18 and 45
+Difference between the positions: 27
+
+Word 'uprising' found at position 19 and 15
+Difference between the positions: 4
+
+Word 'standoff' found at position 20 and 18
+Difference between the positions: 2
+
+
+For the word 'team', the nearest words are: 
+
+Novice List (Top 20): 
+['teams', 'squad', 'championship', 'league', 'club', 'tournament', 'season', 'championships', 'player', 'cup', 'coach', 'playoffs', 'match', 'bulldogs', 'teammates', 'game', 'bucs', 'leagues', 'games', 'goalkeeper']
+
+Expert List (Top 100): 
+['teams', 'squad', 'championship', 'league', 'tournament', 'club', 'season', 'championships', 'cup', 'player', 'playoffs', 'coach', 'match', 'game', 'teammates', 'bulldogs', 'finals', 'goalkeeper', 'games', 'leagues', 'bucs', 'rookies', 'wildcats', 'tigers', 'teammate', 'football', 'players', 'squads', 'champions', 'huskies', 'juniors', 'wolfpack', 'division', 'wolverines', 'playoff', 'roster', 'semifinal', 'rams', 'semifinals', 'cougars', 'panthers', 'postseason', 'bruins', 'junior', 'franchise', 'socceroos', 'ers', 'gators', 'colts', 'coaching', 'matches', 'qualifiers', 'falcons', 'giants', 'goalie', 'basketball', 'athletics', 'usmnt', 'trophy', 'competition', 'eagles', 'aau', 'hornets', 'billikens', 'win', 'champion', 'fc', 'bearcats', 'qualifier', 'hockey', 'bundesliga', 'naia', 'gamecocks', 'broncos', 'soccer', 'lakers', 'mvp', 'rookie', 'uswnt', 'coaches', 'nbl', 'waterpolo', 'acc', 'undefeated', 'tournaments', 'standings', 'scac', 'preseason', 'steelers', 'buccaneers', 'wranglers', 'wpsl', 'nwbl', 'ntdp', 'oilers', 'premiership', 'ibl', 'ejhl', 'clubs', 'buckeyes']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'teams' found at position 1 in both lists
+
+Word 'squad' found at position 2 in both lists
+
+Word 'championship' found at position 3 in both lists
+
+Word 'league' found at position 4 in both lists
+
+Word 'club' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'tournament' found at position 6 and 5
+Difference between the positions: 1
+
+Word 'season' found at position 7 in both lists
+
+Word 'championships' found at position 8 in both lists
+
+Word 'player' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'cup' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'coach' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'playoffs' found at position 12 and 11
+Difference between the positions: 1
+
+Word 'match' found at position 13 in both lists
+
+Word 'bulldogs' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'teammates' found at position 15 in both lists
+
+Word 'game' found at position 16 and 14
+Difference between the positions: 2
+
+Word 'bucs' found at position 17 and 21
+Difference between the positions: 4
+
+Word 'leagues' found at position 18 and 20
+Difference between the positions: 2
+
+Word 'games' found at position 19 in both lists
+
+Word 'goalkeeper' found at position 20 and 18
+Difference between the positions: 2
+
+
+For the word 'terrorist', the nearest words are: 
+
+Novice List (Top 20): 
+['terrorists', 'terrorism', 'jihadist', 'extremist', 'qaeda', 'jihadi', 'extremists', 'terror', 'islamist', 'jundallah', 'militant', 'takfiri', 'qaida', 'paramilitary', 'hezbollah', 'bioterrorist', 'daesh', 'espionage', 'hamas', 'insurgent']
+
+Expert List (Top 100): 
+['terrorists', 'terrorism', 'jihadist', 'extremist', 'qaeda', 'jihadi', 'islamist', 'jundallah', 'qaida', 'terror', 'extremists', 'militant', 'takfiri', 'paramilitary', 'daesh', 'hezbollah', 'hamas', 'cyberwarfare', 'pkk', 'bioterrorist', 'bombings', 'espionage', 'insurgent', 'assassinations', 'cyberterrorism', 'terroristic', 'militants', 'fedayeen', 'osama', 'asala', 'islamiyah', 'cia', 'jihadists', 'mujahideen', 'neofascist', 'jihad', 'zarqawi', 'sabotage', 'vigilante', 'taliban', 'nidal', 'naxalite', 'jundullah', 'hijacking', 'pij', 'salafist', 'jemaah', 'bioterrorism', 'counterrevolutionary', 'pjak', 'separatist', 'extremism', 'masterminding', 'criminal', 'covert', 'naxal', 'gicm', 'haqqani', 'jihadis', 'aswj', 'farik', 'subversive', 'isil', 'maute', 'ergenekon', 'ttp', 'bioterror', 'perpetrating', 'subversives', 'aqim', 'counterterrorism', 'taiba', 'clandestine', 'fetö', 'hizbullah', 'cyberattack', 'assassination', 'mossad', 'sayyaf', 'shabaab', 'cointelpro', 'aqi', 'aqap', 'ringleader', 'huji', 'cjng', 'bombing', 'bojinka', 'kidnapping', 'guerrilla', 'khalistani', 'gülenist', 'naxalites', 'genocidal', 'barayev', 'kidnappings', 'perpetrators', 'montoneros', 'insurgency', 'wmd']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'terrorists' found at position 1 in both lists
+
+Word 'terrorism' found at position 2 in both lists
+
+Word 'jihadist' found at position 3 in both lists
+
+Word 'extremist' found at position 4 in both lists
+
+Word 'qaeda' found at position 5 in both lists
+
+Word 'jihadi' found at position 6 in both lists
+
+Word 'extremists' found at position 7 and 11
+Difference between the positions: 4
+
+Word 'terror' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'islamist' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'jundallah' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'militant' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'takfiri' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'qaida' found at position 13 and 9
+Difference between the positions: 4
+
+Word 'paramilitary' found at position 14 in both lists
+
+Word 'hezbollah' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'bioterrorist' found at position 16 and 20
+Difference between the positions: 4
+
+Word 'daesh' found at position 17 and 15
+Difference between the positions: 2
+
+Word 'espionage' found at position 18 and 22
+Difference between the positions: 4
+
+Word 'hamas' found at position 19 and 17
+Difference between the positions: 2
+
+Word 'insurgent' found at position 20 and 23
+Difference between the positions: 3
+
+
+For the word 'tournament', the nearest words are: 
+
+Novice List (Top 20): 
+['championship', 'tournaments', 'match', 'tourney', 'competition', 'finals', 'semifinals', 'cup', 'championships', 'qualifier', 'quarterfinals', 'qualifiers', 'semifinal', 'invitational', 'team', 'playoff', 'playoffs', 'matches', 'quarterfinal', 'season']
+
+Expert List (Top 100): 
+['championship', 'tournaments', 'match', 'competition', 'semifinals', 'tourney', 'cup', 'finals', 'championships', 'qualifier', 'semifinal', 'quarterfinals', 'invitational', 'qualifiers', 'playoff', 'team', 'matches', 'playoffs', 'quarterfinal', 'season', 'champions', 'teams', 'league', 'event', 'games', 'trophy', 'game', 'postseason', 'centrobasket', 'contest', 'round', 'copa', 'qualifying', 'sevens', 'torneo', 'champion', 'competitions', 'regionals', 'undefeated', 'conference', 'bowl', 'mundialito', 'basketball', 'knockout', 'football', 'beanpot', 'matchup', 'final', 'semis', 'squad', 'bout', 'ncaa', 'afrobasket', 'eurobasket', 'standings', 'semifinalist', 'rounds', 'win', 'tour', 'ncaas', 'leagues', 'stadium', 'seeded', 'wnit', 'finalists', 'rematch', 'olympics', 'billikens', 'bassmaster', 'race', 'seaba', 'doubles', 'rankings', 'supercup', 'ofsaa', 'wct', 'invitationals', 'khsaa', 'soccer', 'acc', 'torneio', 'juniors', 'unseeded', 'bonspiel', 'supertaça', 'bonspiels', 'futsal', 'athletics', 'aiaw', 'euroleague', 'winner', 'conmebol', 'naia', 'player', 'preseason', 'volleyball', 'winners', 'uconn', 'worldcup', 'semifinalists']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'championship' found at position 1 in both lists
+
+Word 'tournaments' found at position 2 in both lists
+
+Word 'match' found at position 3 in both lists
+
+Word 'tourney' found at position 4 and 6
+Difference between the positions: 2
+
+Word 'competition' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'finals' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'semifinals' found at position 7 and 5
+Difference between the positions: 2
+
+Word 'cup' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'championships' found at position 9 in both lists
+
+Word 'qualifier' found at position 10 in both lists
+
+Word 'quarterfinals' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'qualifiers' found at position 12 and 14
+Difference between the positions: 2
+
+Word 'semifinal' found at position 13 and 11
+Difference between the positions: 2
+
+Word 'invitational' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'team' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'playoff' found at position 16 and 15
+Difference between the positions: 1
+
+Word 'playoffs' found at position 17 and 18
+Difference between the positions: 1
+
+Word 'matches' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'quarterfinal' found at position 19 in both lists
+
+Word 'season' found at position 20 in both lists
+
+
+For the word 'twitch', the nearest words are: 
+
+Novice List (Top 20): 
+['livestream', 'ustream', 'streaming', 'livestreams', 'livestreaming', 'gametrailers', 'newgrounds', 'stickam', 'pewdiepie', 'vimeo', 'youtube', 'gtlive', 'netplay', 'markiplier', 'scifi', 'venturebeat', 'kotaku', 'younow', 'afreecatv', 'joystiq']
+
+Expert List (Top 100): 
+['livestream', 'ustream', 'livestreams', 'streaming', 'youtube', 'stickam', 'younow', 'vimeo', 'gametap', 'scifi', 'livestreaming', 'newgrounds', 'pewdiepie', 'kotaku', 'gametrailers', 'joystiq', 'smosh', 'shacknews', 'denino', 'gamespy', 'machinima', 'livestreamed', 'venturebeat', 'gtlive', 'markiplier', 'vlogging', 'retronauts', 'snapchat', 'watchespn', 'afreecatv', 'vrv', 'appspy', 'tunein', 'vod', 'sourcefed', 'dailymotion', 'niconico', 'aol', 'cinemablend', 'grumps', 'tubefilter', 'bulletstorm', 'gamasutra', 'twitter', 'engadget', 'podcast', 'hitbox', 'vudu', 'ijustine', 'fullscreen', 'palgn', 'gamespot', 'video', 'adrenaline', 'spotify', 'tumblr', 'cnet', 'fanboy', 'xfire', 'fearnet', 'rewind', 'bloggingheads', 'fortnite', 'crackle', 'vlog', 'ifilm', 'webseries', 'iqiyi', 'fnmtv', 'noggin', 'cravetv', 'ign', 'hooq', 'destructoid', 'quickflix', 'twitches', 'mashable', 'filmstruck', 'lovefilm', 'gerstmann', 'moviefone', 'multiplayer', 'hulu', 'mixlr', 'turbonick', 'youtubers', 'webcast', 'blastr', 'collegehumor', 'recaps', 'splitscreen', 'vlogs', 'reddit', 'teamxbox', 'axs', 'joblo', 'netplay', 'rifftrax', 'jiggle', 'uproxx']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'livestream' found at position 1 in both lists
+
+Word 'ustream' found at position 2 in both lists
+
+Word 'streaming' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'livestreams' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'livestreaming' found at position 5 and 11
+Difference between the positions: 6
+
+Word 'gametrailers' found at position 6 and 15
+Difference between the positions: 9
+
+Word 'newgrounds' found at position 7 and 12
+Difference between the positions: 5
+
+Word 'stickam' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'pewdiepie' found at position 9 and 13
+Difference between the positions: 4
+
+Word 'vimeo' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'youtube' found at position 11 and 5
+Difference between the positions: 6
+
+Word 'gtlive' found at position 12 and 24
+Difference between the positions: 12
+
+Word 'netplay' found at position 13 and 97
+Difference between the positions: 84
+
+Word 'markiplier' found at position 14 and 25
+Difference between the positions: 11
+
+Word 'scifi' found at position 15 and 10
+Difference between the positions: 5
+
+Word 'venturebeat' found at position 16 and 23
+Difference between the positions: 7
+
+Word 'kotaku' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'younow' found at position 18 and 7
+Difference between the positions: 11
+
+Word 'afreecatv' found at position 19 and 30
+Difference between the positions: 11
+
+Word 'joystiq' found at position 20 and 16
+Difference between the positions: 4
+
+
+For the word 'unreal', the nearest words are: 
+
+Novice List (Top 20): 
+['cryengine', 'gamebryo', 'mmo', 'scumm', 'lithtech', 'roguelike', 'fortnite', 'myst', 'shadowrun', 'renderware', 'geneforge', 'nethack', 'scummvm', 'minecraft', 'bioshock', 'simcity', 'morrowind', 'virtuality', 'reality', 'crysis']
+
+Expert List (Top 100): 
+['cryengine', 'gamebryo', 'minecraft', 'myst', 'roguelike', 'scumm', 'mmo', 'goldsrc', 'shadowrun', 'warcraft', 'crysis', 'fangame', 'splatoon', 'fortnite', 'bungie', 'lithtech', 'starcraft', 'timesplitters', 'mmorpg', 'actraiser', 'scummvm', 'freescape', 'bioshock', 'virtuality', 'immersive', 'skyrim', 'mechwarrior', 'machinima', 'quakecon', 'pokkén', 'xna', 'bayonetta', 'earthsiege', 'runescape', 'simcity', 'battletech', 'sandbox', 'superhot', 'treyarch', 'nethack', 'lucasarts', 'multiplayer', 'turbografx', 'realmz', 'daggerfall', 'dota', 'renderware', 'castlevania', 'adventurequest', 'megaglest', 'reality', 'warhammer', 'cinematics', 'mumbojumbo', 'littlebigplanet', 'bioware', 'wolfenstein', 'gameworld', 'freeware', 'gamemaker', 'unisystem', 'psychonauts', 'hearthstone', 'gamehouse', 'capcom', 'ruleset', 'tekken', 'everquest', 'surreal', 'naturalmotion', 'phyreengine', 'morrowind', 'cyberpunk', 'titanfall', 'rpg', 'ageia', 'rfactor', 'xbla', 'mmorts', 'gameplay', 'battlegrounds', 'cutscenes', 'nscripter', 'geneforge', 'tetris', 'killzone', 'firaxis', 'mdk', 'shadowgate', 'unreality', 'roleplaying', 'shenmue', 'earthbound', 'activision', 'speedtree', 'psyonix', 'katgames', 'darkplaces', 'grandia', 'heroquest']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'cryengine' found at position 1 in both lists
+
+Word 'gamebryo' found at position 2 in both lists
+
+Word 'mmo' found at position 3 and 7
+Difference between the positions: 4
+
+Word 'scumm' found at position 4 and 6
+Difference between the positions: 2
+
+Word 'lithtech' found at position 5 and 16
+Difference between the positions: 11
+
+Word 'roguelike' found at position 6 and 5
+Difference between the positions: 1
+
+Word 'fortnite' found at position 7 and 14
+Difference between the positions: 7
+
+Word 'myst' found at position 8 and 4
+Difference between the positions: 4
+
+Word 'shadowrun' found at position 9 in both lists
+
+Word 'renderware' found at position 10 and 47
+Difference between the positions: 37
+
+Word 'geneforge' found at position 11 and 84
+Difference between the positions: 73
+
+Word 'nethack' found at position 12 and 40
+Difference between the positions: 28
+
+Word 'scummvm' found at position 13 and 21
+Difference between the positions: 8
+
+Word 'minecraft' found at position 14 and 3
+Difference between the positions: 11
+
+Word 'bioshock' found at position 15 and 23
+Difference between the positions: 8
+
+Word 'simcity' found at position 16 and 35
+Difference between the positions: 19
+
+Word 'morrowind' found at position 17 and 72
+Difference between the positions: 55
+
+Word 'virtuality' found at position 18 and 24
+Difference between the positions: 6
+
+Word 'reality' found at position 19 and 51
+Difference between the positions: 32
+
+Word 'crysis' found at position 20 and 11
+Difference between the positions: 9
+
+
+For the word 'weapons', the nearest words are: 
+
+Novice List (Top 20): 
+['weaponry', 'weapon', 'firearms', 'munitions', 'armaments', 'ammunition', 'warheads', 'missiles', 'explosives', 'munition', 'flamethrowers', 'ammunitions', 'handguns', 'projectiles', 'ieds', 'armor', 'atgms', 'grenades', 'crossbows', 'guns']
+
+Expert List (Top 100): 
+['weaponry', 'weapon', 'firearms', 'munitions', 'armaments', 'missiles', 'ammunition', 'warheads', 'ammunitions', 'explosives', 'flamethrowers', 'munition', 'ieds', 'handguns', 'crossbows', 'projectiles', 'grenades', 'armor', 'atgms', 'manpads', 'bombs', 'guns', 'equipment', 'mortars', 'launchers', 'thermobaric', 'arsenals', 'armors', 'stockpiles', 'sidearms', 'arquebuses', 'antipersonnel', 'bazookas', 'muskets', 'cannons', 'tactics', 'mechs', 'railguns', 'nonlethal', 'shotguns', 'flamethrower', 'tanks', 'rifles', 'firepower', 'technicals', 'combat', 'countermeasures', 'warfare', 'missile', 'firearm', 'icbms', 'vehicles', 'switchblades', 'targets', 'harpoons', 'knives', 'detonators', 'warhead', 'fuzes', 'carbines', 'ammo', 'polearms', 'items', 'submunitions', 'wmd', 'catapults', 'caltrops', 'mraps', 'landmines', 'materiel', 'flechette', 'gadgets', 'javelins', 'ifvs', 'equipments', 'stockpiling', 'enemies', 'swords', 'submarines', 'shuriken', 'armament', 'humvees', 'bomblets', 'katanas', 'drones', 'afvs', 'gun', 'slbms', 'cutlasses', 'tasers', 'warships', 'mbts', 'kalashnikovs', 'lightsabers', 'warplanes', 'handgun', 'shurikens', 'tools', 'helicopters', 'armour']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'weaponry' found at position 1 in both lists
+
+Word 'weapon' found at position 2 in both lists
+
+Word 'firearms' found at position 3 in both lists
+
+Word 'munitions' found at position 4 in both lists
+
+Word 'armaments' found at position 5 in both lists
+
+Word 'ammunition' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'warheads' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'missiles' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'explosives' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'munition' found at position 10 and 12
+Difference between the positions: 2
+
+Word 'flamethrowers' found at position 11 in both lists
+
+Word 'ammunitions' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'handguns' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'projectiles' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'ieds' found at position 15 and 13
+Difference between the positions: 2
+
+Word 'armor' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'atgms' found at position 17 and 19
+Difference between the positions: 2
+
+Word 'grenades' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'crossbows' found at position 19 and 15
+Difference between the positions: 4
+
+Word 'guns' found at position 20 and 22
+Difference between the positions: 2
+
+
+For the word 'xbox', the nearest words are: 
+
+Novice List (Top 20): 
+['playstation', 'dreamcast', 'xbla', 'gamecube', 'wii', 'ios', 'nintendo', 'snes', 'psp', 'wiiware', 'pc', 'ouya', 'zune', 'sega', 'colecovision', 'dsiware', 'gba', 'console', 'kinect', 'famicom']
+
+Expert List (Top 100): 
+['playstation', 'dreamcast', 'xbla', 'wii', 'gamecube', 'ios', 'nintendo', 'snes', 'psp', 'ouya', 'wiiware', 'pc', 'dsiware', 'colecovision', 'console', 'gba', 'kinect', 'zune', 'sega', 'famicom', 'iphone', 'eshop', 'turbografx', 'nes', 'splatoon', 'dualshock', 'multiplayer', 'gametap', 'microsoft', 'psn', 'android', 'amiga', 'htc', 'littlebigplanet', 'ds', 'ipad', 'macos', 'lumines', 'dlc', 'app', 'capcom', 'ps', 'steamworks', 'konami', 'gameloft', 'onlive', 'activision', 'downloadable', 'intellivision', 'mobage', 'msx', 'arkanoid', 'mdk', 'bulletstorm', 'winamp', 'snk', 'atari', 'skullgirls', 'playism', 'satellaview', 'killzone', 'cinemaware', 'handhelds', 'gamersgate', 'desura', 'namco', 'dotemu', 'stardock', 'addon', 'streaming', 'psvr', 'pocketstation', 'rocksmith', 'directx', 'gamecom', 'eyetoy', 'ea', 'consoles', 'fortnite', 'sunsoft', 'arcade', 'singstar', 'ubisoft', 'minecraft', 'uplay', 'gameshark', 'download', 'macintosh', 'scummvm', 'addons', 'gameplay', 'cyanogenmod', 'bungie', 'itunes', 'udraw', 'videogame', 'frozenbyte', 'djmax', 'mplayer', 'nyko']
+
+Comparing the words between Novice and Expert list, we can observe: 
+
+Word 'playstation' found at position 1 in both lists
+
+Word 'dreamcast' found at position 2 in both lists
+
+Word 'xbla' found at position 3 in both lists
+
+Word 'gamecube' found at position 4 and 5
+Difference between the positions: 1
+
+Word 'wii' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'ios' found at position 6 in both lists
+
+Word 'nintendo' found at position 7 in both lists
+
+Word 'snes' found at position 8 in both lists
+
+Word 'psp' found at position 9 in both lists
+
+Word 'wiiware' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'pc' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'ouya' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'zune' found at position 13 and 18
+Difference between the positions: 5
+
+Word 'sega' found at position 14 and 19
+Difference between the positions: 5
+
+Word 'colecovision' found at position 15 and 14
+Difference between the positions: 1
+
+Word 'dsiware' found at position 16 and 13
+Difference between the positions: 3
+
+Word 'gba' found at position 17 and 16
+Difference between the positions: 1
+
+Word 'console' found at position 18 and 15
+Difference between the positions: 3
+
+Word 'kinect' found at position 19 and 17
+Difference between the positions: 2
+
+Word 'famicom' found at position 20 in both lists
+
+

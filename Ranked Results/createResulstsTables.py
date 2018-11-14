@@ -8,6 +8,20 @@ def removeNotLetter(word):
 	return re.sub('\W','', word)
 
 
+dataCounts = dict()
+#get the word frequncies from file
+with open("wordcounts.txt", "r") as f:
+	for cnt, line in enumerate(f):
+		wordC = re.match(r'(.*?)\: ([0-9]*) ([0-9]*)',line)
+		if wordC:
+			#print(wordC.group())
+			word = wordC.group(1)
+			word = removeNotLetter(word)
+			expC = (wordC.group(2))
+			expN = (wordC.group(3))
+			dataCounts[word] = [expC,expN]
+			
+
 table = PrettyTable()
 
 with open("Ranked Results - Dance.txt", "r") as fp:
@@ -18,12 +32,17 @@ with open("Ranked Results - Dance.txt", "r") as fp:
 		matchCompareWordSame = re.match(r'Word (.*?) found at position ([0-9]*) in both lists',line)
 		matchCompareWordDiff = re.match(r'Word (.*?) found at position ([0-9]*) and ([0-9]*)',line)
 		if matchNewWord:
-			
 			print(table)
 			print("\n")
 			descWord = matchNewWord.group(2)
 			descWord = removeNotLetter(descWord)
 			print("Similar words to " + descWord)
+			c = dataCounts.get(descWord)
+			if c:
+				#print()
+				print("expert count: " + c[0] + " | Novice has " + c[1] + " less")
+			else:
+				print(descWord + " has no count")
 			table = PrettyTable()
 			table.field_names = ["Word", "Novice Pos", "Expert Pos", "Difference"]
 		#then comes novicelist of words

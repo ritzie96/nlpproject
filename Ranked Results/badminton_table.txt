@@ -5,6 +5,7 @@
 
 
 Similar words to badminton
+expert count: 26162 | Novice has 615 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -32,6 +33,7 @@ Similar words to badminton
 
 
 Similar words to ace
+expert count: 27890 | Novice has 39 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -59,6 +61,7 @@ Similar words to ace
 
 
 Similar words to alley
+expert count: 16163 | Novice has 5 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -86,6 +89,7 @@ Similar words to alley
 
 
 Similar words to backcourt
+expert count: 393 | Novice has 1 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -113,6 +117,7 @@ Similar words to backcourt
 
 
 Similar words to baddy
+expert count: 26 | Novice has 0 less
 +----------+------------+------------+------------+
 |   Word   | Novice Pos | Expert Pos | Difference |
 +----------+------------+------------+------------+
@@ -124,6 +129,7 @@ Similar words to baddy
 
 
 Similar words to baseline
+expert count: 6613 | Novice has 40 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -151,6 +157,7 @@ Similar words to baseline
 
 
 Similar words to carry
+expert count: 106295 | Novice has 187 less
 +----------+------------+------------+------------+
 |   Word   | Novice Pos | Expert Pos | Difference |
 +----------+------------+------------+------------+
@@ -178,6 +185,7 @@ Similar words to carry
 
 
 Similar words to court
+expert count: 641250 | Novice has 427 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -205,6 +213,7 @@ Similar words to court
 
 
 Similar words to deception
+expert count: 9073 | Novice has 30 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -232,6 +241,7 @@ Similar words to deception
 
 
 Similar words to doubles
+expert count: 62418 | Novice has 160 less
 +-----------------+------------+------------+------------+
 |       Word      | Novice Pos | Expert Pos | Difference |
 +-----------------+------------+------------+------------+
@@ -259,6 +269,7 @@ Similar words to doubles
 
 
 Similar words to dribble
+expert count: 704 | Novice has 1 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -286,6 +297,7 @@ Similar words to dribble
 
 
 Similar words to drive
+expert count: 168029 | Novice has 193 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -313,6 +325,7 @@ Similar words to drive
 
 
 Similar words to drop
+expert count: 66576 | Novice has 163 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -340,6 +353,7 @@ Similar words to drop
 
 
 Similar words to fault
+expert count: 28604 | Novice has 52 less
 +------------------+------------+------------+------------+
 |       Word       | Novice Pos | Expert Pos | Difference |
 +------------------+------------+------------+------------+
@@ -367,6 +381,7 @@ Similar words to fault
 
 
 Similar words to feather
+expert count: 8504 | Novice has 25 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -394,6 +409,7 @@ Similar words to feather
 
 
 Similar words to feathers
+expert count: 16229 | Novice has 46 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -420,6 +436,7 @@ Similar words to feathers
 
 
 Similar words to flick
+expert count: 5497 | Novice has 7 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -447,6 +464,7 @@ Similar words to flick
 
 
 Similar words to grip
+expert count: 13455 | Novice has 102 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -474,6 +492,7 @@ Similar words to grip
 
 
 Similar words to hidayat
+expert count: 334 | Novice has 18 less
 +---------+------------+------------+------------+
 |   Word  | Novice Pos | Expert Pos | Difference |
 +---------+------------+------------+------------+
@@ -500,6 +519,7 @@ Similar words to hidayat
 
 
 Similar words to let
+expert count: 129764 | Novice has 120 less
 +----------+------------+------------+------------+
 |   Word   | Novice Pos | Expert Pos | Difference |
 +----------+------------+------------+------------+
@@ -527,6 +547,7 @@ Similar words to let
 
 
 Similar words to lets
+expert count: 11764 | Novice has 36 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -554,6 +575,7 @@ Similar words to lets
 
 
 Similar words to net
+expert count: 72720 | Novice has 179 less
 +-------------------+------------+------------+------------+
 |        Word       | Novice Pos | Expert Pos | Difference |
 +-------------------+------------+------------+------------+
@@ -581,6 +603,7 @@ Similar words to net
 
 
 Similar words to racquet
+expert count: 1311 | Novice has 66 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -608,6 +631,7 @@ Similar words to racquet
 
 
 Similar words to rally
+expert count: 45041 | Novice has 63 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -635,6 +659,7 @@ Similar words to rally
 
 
 Similar words to referee
+expert count: 28377 | Novice has 113 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -662,6 +687,7 @@ Similar words to referee
 
 
 Similar words to saina
+expert count: 155 | Novice has 15 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -688,6 +714,7 @@ Similar words to saina
 
 
 Similar words to serve
+expert count: 184947 | Novice has 272 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -715,6 +742,7 @@ Similar words to serve
 
 
 Similar words to service
+expert count: 826471 | Novice has 440 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -740,6 +768,7 @@ Similar words to service
 
 
 Similar words to short
+expert count: 507597 | Novice has 639 less
 +--------------------+------------+------------+------------+
 |        Word        | Novice Pos | Expert Pos | Difference |
 +--------------------+------------+------------+------------+
@@ -767,6 +796,7 @@ Similar words to short
 
 
 Similar words to shot
+expert count: 216321 | Novice has 296 less
 +----------+------------+------------+------------+
 |   Word   | Novice Pos | Expert Pos | Difference |
 +----------+------------+------------+------------+
@@ -794,6 +824,7 @@ Similar words to shot
 
 
 Similar words to shuttlecock
+expert count: 255 | Novice has 109 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -820,6 +851,7 @@ Similar words to shuttlecock
 
 
 Similar words to singles
+expert count: 205252 | Novice has 239 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -847,6 +879,7 @@ Similar words to singles
 
 
 Similar words to smash
+expert count: 11668 | Novice has 39 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -873,6 +906,7 @@ Similar words to smash
 
 
 Similar words to spin
+expert count: 52705 | Novice has 130 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -900,6 +934,7 @@ Similar words to spin
 
 
 Similar words to string
+expert count: 64764 | Novice has 123 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -927,6 +962,7 @@ Similar words to string
 
 
 Similar words to stroke
+expert count: 42526 | Novice has 114 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -954,6 +990,7 @@ Similar words to stroke
 
 
 Similar words to thomas
+thomas has no count
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -981,6 +1018,7 @@ Similar words to thomas
 
 
 Similar words to tumbling
+expert count: 1917 | Novice has 17 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -1008,6 +1046,7 @@ Similar words to tumbling
 
 
 Similar words to uber
+expert count: 2981 | Novice has 25 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -1035,6 +1074,7 @@ Similar words to uber
 
 
 Similar words to yonex
+expert count: 232 | Novice has 32 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+

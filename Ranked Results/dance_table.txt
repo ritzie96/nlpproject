@@ -5,6 +5,7 @@
 
 
 Similar words to dance
+expert count: 335959 | Novice has 5151 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -32,6 +33,7 @@ Similar words to dance
 
 
 Similar words to acrobatic
+expert count: 3532 | Novice has 60 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -59,6 +61,7 @@ Similar words to acrobatic
 
 
 Similar words to ballet
+expert count: 50366 | Novice has 264 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -86,6 +89,7 @@ Similar words to ballet
 
 
 Similar words to bellydance
+expert count: 118 | Novice has 7 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -111,6 +115,7 @@ Similar words to bellydance
 
 
 Similar words to breakdance
+expert count: 257 | Novice has 5 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -137,6 +142,7 @@ Similar words to breakdance
 
 
 Similar words to choreo
+expert count: 38 | Novice has 1 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -155,6 +161,7 @@ Similar words to choreo
 
 
 Similar words to choreographer
+expert count: 11112 | Novice has 48 less
 +-----------------+------------+------------+------------+
 |       Word      | Novice Pos | Expert Pos | Difference |
 +-----------------+------------+------------+------------+
@@ -182,6 +189,7 @@ Similar words to choreographer
 
 
 Similar words to choreography
+expert count: 18665 | Novice has 116 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -209,6 +217,7 @@ Similar words to choreography
 
 
 Similar words to culture
+expert count: 261488 | Novice has 532 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -236,6 +245,7 @@ Similar words to culture
 
 
 Similar words to dabke
+expert count: 87 | Novice has 32 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -263,6 +273,7 @@ Similar words to dabke
 
 
 Similar words to dancefloor
+expert count: 1989 | Novice has 1 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -290,6 +301,7 @@ Similar words to dancefloor
 
 
 Similar words to disco
+expert count: 18769 | Novice has 411 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -317,6 +329,7 @@ Similar words to disco
 
 
 Similar words to exercise
+expert count: 51811 | Novice has 202 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -344,6 +357,7 @@ Similar words to exercise
 
 
 Similar words to folkdance
+expert count: 48 | Novice has 7 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -367,6 +381,7 @@ Similar words to folkdance
 
 
 Similar words to footloose
+expert count: 1452 | Novice has 0 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -394,6 +409,7 @@ Similar words to footloose
 
 
 Similar words to hop
+expert count: 70909 | Novice has 250 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -421,6 +437,7 @@ Similar words to hop
 
 
 Similar words to kathak
+expert count: 1001 | Novice has 91 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -448,6 +465,7 @@ Similar words to kathak
 
 
 Similar words to lavani
+expert count: 126 | Novice has 26 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -475,6 +493,7 @@ Similar words to lavani
 
 
 Similar words to music
+expert count: 1222846 | Novice has 2738 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -502,6 +521,7 @@ Similar words to music
 
 
 Similar words to natyam
+expert count: 265 | Novice has 5 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -529,6 +549,7 @@ Similar words to natyam
 
 
 Similar words to rhythm
+expert count: 39104 | Novice has 367 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -556,6 +577,7 @@ Similar words to rhythm
 
 
 Similar words to salsa
+expert count: 5437 | Novice has 55 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -583,6 +605,7 @@ Similar words to salsa
 
 
 Similar words to sneakers
+expert count: 1341 | Novice has 2 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -610,6 +633,7 @@ Similar words to sneakers
 
 
 Similar words to steps
+expert count: 77415 | Novice has 525 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -637,6 +661,7 @@ Similar words to steps
 
 
 Similar words to stepup
+expert count: 19 | Novice has 0 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -652,6 +677,7 @@ Similar words to stepup
 
 
 Similar words to streetdance
+expert count: 213 | Novice has 0 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -677,6 +703,7 @@ Similar words to streetdance
 
 
 Similar words to sweat
+expert count: 6429 | Novice has 16 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -704,6 +731,7 @@ Similar words to sweat
 
 
 Similar words to tango
+expert count: 8916 | Novice has 170 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -731,6 +759,7 @@ Similar words to tango
 
 
 Similar words to tap
+expert count: 14176 | Novice has 128 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -758,6 +787,7 @@ Similar words to tap
 
 
 Similar words to therapy
+expert count: 48183 | Novice has 3364 less
 +-----------------+------------+------------+------------+
 |       Word      | Novice Pos | Expert Pos | Difference |
 +-----------------+------------+------------+------------+

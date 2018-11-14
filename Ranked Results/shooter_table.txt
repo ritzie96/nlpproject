@@ -5,6 +5,7 @@
 
 
 Similar words to shooter
+expert count: 25987 | Novice has 1240 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -32,6 +33,7 @@ Similar words to shooter
 
 
 Similar words to bomb
+expert count: 62642 | Novice has 162 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -59,6 +61,7 @@ Similar words to bomb
 
 
 Similar words to bots
+expert count: 1833 | Novice has 87 less
 +----------+------------+------------+------------+
 |   Word   | Novice Pos | Expert Pos | Difference |
 +----------+------------+------------+------------+
@@ -86,6 +89,7 @@ Similar words to bots
 
 
 Similar words to chief
+expert count: 404201 | Novice has 270 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -113,6 +117,7 @@ Similar words to chief
 
 
 Similar words to computer
+expert count: 199979 | Novice has 652 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -140,6 +145,7 @@ Similar words to computer
 
 
 Similar words to deathmatch
+expert count: 1587 | Novice has 301 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -166,6 +172,7 @@ Similar words to deathmatch
 
 
 Similar words to display
+expert count: 105615 | Novice has 206 less
 +--------------------+------------+------------+------------+
 |        Word        | Novice Pos | Expert Pos | Difference |
 +--------------------+------------+------------+------------+
@@ -193,6 +200,7 @@ Similar words to display
 
 
 Similar words to doom
+expert count: 15301 | Novice has 711 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -219,6 +227,7 @@ Similar words to doom
 
 
 Similar words to enemies
+expert count: 46469 | Novice has 970 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -246,6 +255,7 @@ Similar words to enemies
 
 
 Similar words to engine
+expert count: 237477 | Novice has 1057 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -273,6 +283,7 @@ Similar words to engine
 
 
 Similar words to features
+expert count: 367398 | Novice has 1494 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -300,6 +311,7 @@ Similar words to features
 
 
 Similar words to first
+expert count: 4872540 | Novice has 5454 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -327,6 +339,7 @@ Similar words to first
 
 
 Similar words to fps
+expert count: 6752 | Novice has 163 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -354,6 +367,7 @@ Similar words to fps
 
 
 Similar words to gameplay
+expert count: 29454 | Novice has 1321 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -381,6 +395,7 @@ Similar words to gameplay
 
 
 Similar words to games
+expert count: 794351 | Novice has 2915 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -408,6 +423,7 @@ Similar words to games
 
 
 Similar words to gun
+expert count: 147404 | Novice has 436 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -435,6 +451,7 @@ Similar words to gun
 
 
 Similar words to halo
+expert count: 9094 | Novice has 763 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -461,6 +478,7 @@ Similar words to halo
 
 
 Similar words to levels
+expert count: 184156 | Novice has 1492 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -488,6 +506,7 @@ Similar words to levels
 
 
 Similar words to looking
+expert count: 104878 | Novice has 274 less
 +-----------+------------+------------+------------+
 |    Word   | Novice Pos | Expert Pos | Difference |
 +-----------+------------+------------+------------+
@@ -515,6 +534,7 @@ Similar words to looking
 
 
 Similar words to map
+expert count: 83404 | Novice has 901 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -542,6 +562,7 @@ Similar words to map
 
 
 Similar words to military
+expert count: 577789 | Novice has 565 less
 +-------------------+------------+------------+------------+
 |        Word       | Novice Pos | Expert Pos | Difference |
 +-------------------+------------+------------+------------+
@@ -569,6 +590,7 @@ Similar words to military
 
 
 Similar words to mission
+expert count: 230359 | Novice has 746 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -596,6 +618,7 @@ Similar words to mission
 
 
 Similar words to mode
+expert count: 79403 | Novice has 1495 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -623,6 +646,7 @@ Similar words to mode
 
 
 Similar words to movement
+expert count: 323390 | Novice has 1006 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -650,6 +674,7 @@ Similar words to movement
 
 
 Similar words to multiplayer
+expert count: 13581 | Novice has 1779 less
 +-------------------+------------+------------+------------+
 |        Word       | Novice Pos | Expert Pos | Difference |
 +-------------------+------------+------------+------------+
@@ -677,6 +702,7 @@ Similar words to multiplayer
 
 
 Similar words to person
+expert count: 278361 | Novice has 2943 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -704,6 +730,7 @@ Similar words to person
 
 
 Similar words to player
+expert count: 611290 | Novice has 5534 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -731,6 +758,7 @@ Similar words to player
 
 
 Similar words to players
+expert count: 388803 | Novice has 3336 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -758,6 +786,7 @@ Similar words to players
 
 
 Similar words to playstation
+expert count: 37759 | Novice has 1203 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -785,6 +814,7 @@ Similar words to playstation
 
 
 Similar words to point
+expert count: 574797 | Novice has 873 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -812,6 +842,7 @@ Similar words to point
 
 
 Similar words to power
+expert count: 633189 | Novice has 752 less
 +------------------+------------+------------+------------+
 |       Word       | Novice Pos | Expert Pos | Difference |
 +------------------+------------+------------+------------+
@@ -839,6 +870,7 @@ Similar words to power
 
 
 Similar words to precise
+expert count: 23878 | Novice has 65 less
 +-----------------+------------+------------+------------+
 |       Word      | Novice Pos | Expert Pos | Difference |
 +-----------------+------------+------------+------------+
@@ -866,6 +898,7 @@ Similar words to precise
 
 
 Similar words to quake
+expert count: 4894 | Novice has 528 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -893,6 +926,7 @@ Similar words to quake
 
 
 Similar words to reaction
+expert count: 86268 | Novice has 210 less
 +--------------------+------------+------------+------------+
 |        Word        | Novice Pos | Expert Pos | Difference |
 +--------------------+------------+------------+------------+
@@ -920,6 +954,7 @@ Similar words to reaction
 
 
 Similar words to rifle
+expert count: 55233 | Novice has 140 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -947,6 +982,7 @@ Similar words to rifle
 
 
 Similar words to space
+expert count: 358013 | Novice has 623 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -974,6 +1010,7 @@ Similar words to space
 
 
 Similar words to strike
+expert count: 92639 | Novice has 325 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -1001,6 +1038,7 @@ Similar words to strike
 
 
 Similar words to team
+expert count: 1686527 | Novice has 2408 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -1028,6 +1066,7 @@ Similar words to team
 
 
 Similar words to terrorist
+expert count: 32106 | Novice has 100 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -1055,6 +1094,7 @@ Similar words to terrorist
 
 
 Similar words to tournament
+expert count: 332814 | Novice has 406 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -1082,6 +1122,7 @@ Similar words to tournament
 
 
 Similar words to twitch
+expert count: 2492 | Novice has 8 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -1109,6 +1150,7 @@ Similar words to twitch
 
 
 Similar words to unreal
+expert count: 2839 | Novice has 311 less
 +------------+------------+------------+------------+
 |    Word    | Novice Pos | Expert Pos | Difference |
 +------------+------------+------------+------------+
@@ -1136,6 +1178,7 @@ Similar words to unreal
 
 
 Similar words to weapons
+expert count: 110384 | Novice has 1610 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -1163,6 +1206,7 @@ Similar words to weapons
 
 
 Similar words to xbox
+expert count: 24037 | Novice has 1510 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+

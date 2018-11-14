@@ -5,6 +5,7 @@
 
 
 Similar words to addiction
+expert count: 16088 | Novice has 233 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -32,6 +33,7 @@ Similar words to addiction
 
 
 Similar words to antidepressants
+expert count: 2121 | Novice has 193 less
 +------------------+------------+------------+------------+
 |       Word       | Novice Pos | Expert Pos | Difference |
 +------------------+------------+------------+------------+
@@ -59,6 +61,7 @@ Similar words to antidepressants
 
 
 Similar words to brooding
+expert count: 2289 | Novice has 2 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -86,6 +89,7 @@ Similar words to brooding
 
 
 Similar words to cbt
+expert count: 1326 | Novice has 284 less
 +-------------------+------------+------------+------------+
 |        Word       | Novice Pos | Expert Pos | Difference |
 +-------------------+------------+------------+------------+
@@ -113,6 +117,7 @@ Similar words to cbt
 
 
 Similar words to conditioning
+expert count: 14167 | Novice has 117 less
 +------------------+------------+------------+------------+
 |       Word       | Novice Pos | Expert Pos | Difference |
 +------------------+------------+------------+------------+
@@ -140,6 +145,7 @@ Similar words to conditioning
 
 
 Similar words to ect
+expert count: 1112 | Novice has 47 less
 +-------------------+------------+------------+------------+
 |        Word       | Novice Pos | Expert Pos | Difference |
 +-------------------+------------+------------+------------+
@@ -166,6 +172,7 @@ Similar words to ect
 
 
 Similar words to exposure
+expert count: 50644 | Novice has 242 less
 +------------------+------------+------------+------------+
 |       Word       | Novice Pos | Expert Pos | Difference |
 +------------------+------------+------------+------------+
@@ -193,6 +200,7 @@ Similar words to exposure
 
 
 Similar words to freud
+expert count: 10409 | Novice has 312 less
 +------------------+------------+------------+------------+
 |       Word       | Novice Pos | Expert Pos | Difference |
 +------------------+------------+------------+------------+
@@ -220,6 +228,7 @@ Similar words to freud
 
 
 Similar words to health
+expert count: 538639 | Novice has 2220 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -247,6 +256,7 @@ Similar words to health
 
 
 Similar words to inhibitor
+expert count: 7946 | Novice has 23 less
 +----------------------+------------+------------+------------+
 |         Word         | Novice Pos | Expert Pos | Difference |
 +----------------------+------------+------------+------------+
@@ -274,6 +284,7 @@ Similar words to inhibitor
 
 
 Similar words to medication
+expert count: 13018 | Novice has 475 less
 +-----------------+------------+------------+------------+
 |       Word      | Novice Pos | Expert Pos | Difference |
 +-----------------+------------+------------+------------+
@@ -301,6 +312,7 @@ Similar words to medication
 
 
 Similar words to mental
+expert count: 76729 | Novice has 2576 less
 +--------------------+------------+------------+------------+
 |        Word        | Novice Pos | Expert Pos | Difference |
 +--------------------+------------+------------+------------+
@@ -328,6 +340,7 @@ Similar words to mental
 
 
 Similar words to ocd
+expert count: 1690 | Novice has 82 less
 +-----------------+------------+------------+------------+
 |       Word      | Novice Pos | Expert Pos | Difference |
 +-----------------+------------+------------+------------+
@@ -355,6 +368,7 @@ Similar words to ocd
 
 
 Similar words to placebo
+expert count: 4115 | Novice has 72 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -381,6 +395,7 @@ Similar words to placebo
 
 
 Similar words to psychosurgery
+expert count: 233 | Novice has 49 less
 +-------------------+------------+------------+------------+
 |        Word       | Novice Pos | Expert Pos | Difference |
 +-------------------+------------+------------+------------+
@@ -408,6 +423,7 @@ Similar words to psychosurgery
 
 
 Similar words to psychotherapy
+expert count: 4930 | Novice has 949 less
 +--------------------+------------+------------+------------+
 |        Word        | Novice Pos | Expert Pos | Difference |
 +--------------------+------------+------------+------------+
@@ -435,6 +451,7 @@ Similar words to psychotherapy
 
 
 Similar words to reinforcement
+expert count: 7731 | Novice has 96 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -462,6 +479,7 @@ Similar words to reinforcement
 
 
 Similar words to response
+expert count: 186107 | Novice has 625 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -489,6 +507,7 @@ Similar words to response
 
 
 Similar words to ruminate
+expert count: 126 | Novice has 8 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -511,6 +530,7 @@ Similar words to ruminate
 
 
 Similar words to ruminated
+expert count: 27 | Novice has 2 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -535,6 +555,7 @@ Similar words to ruminated
 
 
 Similar words to ruminates
+expert count: 74 | Novice has 2 less
 +--------------+------------+------------+------------+
 |     Word     | Novice Pos | Expert Pos | Difference |
 +--------------+------------+------------+------------+
@@ -562,6 +583,7 @@ Similar words to ruminates
 
 
 Similar words to ruminating
+expert count: 151 | Novice has 9 less
 +-------------+------------+------------+------------+
 |     Word    | Novice Pos | Expert Pos | Difference |
 +-------------+------------+------------+------------+
@@ -589,6 +611,7 @@ Similar words to ruminating
 
 
 Similar words to serotonin
+expert count: 3972 | Novice has 150 less
 +-------------------+------------+------------+------------+
 |        Word       | Novice Pos | Expert Pos | Difference |
 +-------------------+------------+------------+------------+
@@ -616,6 +639,7 @@ Similar words to serotonin
 
 
 Similar words to sleep
+expert count: 42292 | Novice has 1282 less
 +-----------------+------------+------------+------------+
 |       Word      | Novice Pos | Expert Pos | Difference |
 +-----------------+------------+------------+------------+
@@ -643,6 +667,7 @@ Similar words to sleep
 
 
 Similar words to ssri
+expert count: 407 | Novice has 44 less
 +----------------+------------+------------+------------+
 |      Word      | Novice Pos | Expert Pos | Difference |
 +----------------+------------+------------+------------+
@@ -670,6 +695,7 @@ Similar words to ssri
 
 
 Similar words to stimulus
+expert count: 11254 | Novice has 142 less
 +---------------+------------+------------+------------+
 |      Word     | Novice Pos | Expert Pos | Difference |
 +---------------+------------+------------+------------+
@@ -697,6 +723,7 @@ Similar words to stimulus
 
 
 Similar words to trichotillomania
+expert count: 148 | Novice has 84 less
 +---------------------+------------+------------+------------+
 |         Word        | Novice Pos | Expert Pos | Difference |
 +---------------------+------------+------------+------------+

@@ -1,8 +1,12 @@
 To remove duplicates in Notepad++:
 
-1. Sort the file. Add a new line at the end of the file.
+1. Sort the file (Edit -> Line Ops -> Sort Lines Lexico.. Asc..) 
+   Add a new line at the end of the file.
 
-2. In replace, search for: ^(.*\r?\n)(\1)+
+2. In search and replace, Choose Search mode as "Regular Expression"
+   Search for: ^(.*\r?\n)(\1)+
    Replace with: \1
+   
+   Replace All
    
 3. Remove the new line from the end.

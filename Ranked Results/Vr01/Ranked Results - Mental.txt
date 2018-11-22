@@ -1,7 +1,7 @@
 For the word 'addiction', the nearest words are: 
 
 Novice List (Top 20): 
-['addictions', 'alcoholism', 'addict', 'bulimia', 'painkiller', 'addicted', 'addicts', 'agoraphobia', 'anorexia', 'psychosis', 'relapse', 'ptsd', 'overdose', 'rehab', 'insomnia', 'abuse', 'kleptomania', 'quaaludes', 'demerol', 'obsession']
+['addictions', 'alcoholism', 'addict', 'bulimia', 'addicts', 'anorexia', 'psychosis', 'addicted', 'painkiller', 'agoraphobia', 'ptsd', 'overeating', 'insomnia', 'relapse', 'overdose', 'xanax', 'anxiety', 'schizophrenia', 'rehab', 'dementia']
 
 Expert List (Top 100): 
 ['addictions', 'alcoholism', 'addict', 'bulimia', 'addicts', 'painkiller', 'psychosis', 'anorexia', 'addicted', 'relapse', 'ptsd', 'xanax', 'kleptomania', 'quaaludes', 'painkillers', 'insomnia', 'vicodin', 'ativan', 'abuse', 'overeating', 'percocet', 'rehab', 'overdose', 'opiate', 'anxiety', 'valium', 'schizophrenia', 'dementia', 'binge', 'rohypnol', 'agoraphobia', 'abuser', 'obsession', 'alcohol', 'oxycontin', 'ibogaine', 'overdoses', 'prozac', 'obesity', 'heroin', 'compulsive', 'detox', 'epilepsy', 'relapses', 'addled', 'nervosa', 'opiates', 'paranoia', 'demerol', 'ritalin', 'hypersexuality', 'drugs', 'binges', 'overdosed', 'psychotic', 'overdosing', 'overindulgence', 'loneliness', 'hypochondria', 'amphetamines', 'neurosis', 'ocd', 'migraines', 'neurasthenia', 'amnesia', 'quaalude', 'homelessness', 'hangovers', 'abusers', 'deaddiction', 'phobias', 'intoxication', 'phobia', 'compulsivity', 'amphetamine', 'infidelity', 'neuroses', 'antiepileptic', 'morphine', 'asthma', 'sexuality', 'obsessive', 'illness', 'promiscuity', 'klonopin', 'laudanum', 'hangover', 'drug', 'mental', 'diabetes', 'trauma', 'thorazine', 'methadone', 'infatuation', 'bulimic', 'schizophrenic', 'psychopharmacological', 'grief', 'cravings', 'adolescent']
@@ -16,68 +16,67 @@ Word 'addict' found at position 3 in both lists
 
 Word 'bulimia' found at position 4 in both lists
 
-Word 'painkiller' found at position 5 and 6
-Difference between the positions: 1
+Word 'addicts' found at position 5 in both lists
 
-Word 'addicted' found at position 6 and 9
-Difference between the positions: 3
-
-Word 'addicts' found at position 7 and 5
+Word 'anorexia' found at position 6 and 8
 Difference between the positions: 2
 
-Word 'agoraphobia' found at position 8 and 31
-Difference between the positions: 23
+Word 'psychosis' found at position 7 in both lists
 
-Word 'anorexia' found at position 9 and 8
+Word 'addicted' found at position 8 and 9
 Difference between the positions: 1
 
-Word 'psychosis' found at position 10 and 7
+Word 'painkiller' found at position 9 and 6
 Difference between the positions: 3
 
-Word 'relapse' found at position 11 and 10
-Difference between the positions: 1
+Word 'agoraphobia' found at position 10 and 31
+Difference between the positions: 21
 
-Word 'ptsd' found at position 12 and 11
-Difference between the positions: 1
+Word 'ptsd' found at position 11 in both lists
 
-Word 'overdose' found at position 13 and 23
-Difference between the positions: 10
-
-Word 'rehab' found at position 14 and 22
+Word 'overeating' found at position 12 and 20
 Difference between the positions: 8
 
-Word 'insomnia' found at position 15 and 16
-Difference between the positions: 1
-
-Word 'abuse' found at position 16 and 19
+Word 'insomnia' found at position 13 and 16
 Difference between the positions: 3
 
-Word 'kleptomania' found at position 17 and 13
+Word 'relapse' found at position 14 and 10
 Difference between the positions: 4
 
-Word 'quaaludes' found at position 18 and 14
+Word 'overdose' found at position 15 and 23
+Difference between the positions: 8
+
+Word 'xanax' found at position 16 and 12
 Difference between the positions: 4
 
-Word 'demerol' found at position 19 and 49
-Difference between the positions: 30
+Word 'anxiety' found at position 17 and 25
+Difference between the positions: 8
 
-Word 'obsession' found at position 20 and 33
-Difference between the positions: 13
+Word 'schizophrenia' found at position 18 and 27
+Difference between the positions: 9
+
+Word 'rehab' found at position 19 and 22
+Difference between the positions: 3
+
+Word 'dementia' found at position 20 and 28
+Difference between the positions: 8
 
 
 For the word 'antidepressants', the nearest words are: 
 
 Novice List (Top 20): 
-['ssris', 'antipsychotics', 'benzodiazepines', 'anticonvulsants', 'opioids', 'fluoxetine', 'haloperidol', 'neuroleptics', 'nsaids', 'phenytoin', 'maois', 'antihistamines', 'analgesics', 'chlorpromazine', 'anxiolytics', 'statins', 'stimulants', 'psychostimulants', 'risperidone', 'snris']
+['antipsychotics', 'ssris', 'benzodiazepines', 'anticonvulsants', 'fluoxetine', 'opioids', 'nsaids', 'snris', 'statins', 'haloperidol', 'neuroleptics', 'maois', 'triptans', 'antihistamines', 'venlafaxine', 'phenytoin', 'barbiturates', 'anticholinergics', 'psychostimulants', 'anxiolytics']
 
 Expert List (Top 100): 
 ['ssris', 'antipsychotics', 'anticonvulsants', 'benzodiazepines', 'opioids', 'fluoxetine', 'haloperidol', 'stimulants', 'nsaids', 'analgesics', 'snris', 'antipsychotic', 'olanzapine', 'maois', 'medications', 'chlorpromazine', 'statins', 'phenytoin', 'corticosteroids', 'metoclopramide', 'ssri', 'amitriptyline', 'clonazepam', 'hypnotics', 'antihistamines', 'quetiapine', 'risperidone', 'anxiolytics', 'gabapentin', 'neuroleptics', 'barbiturates', 'bupropion', 'clozapine', 'carbamazepine', 'triptans', 'paroxetine', 'lorazepam', 'diazepam', 'antidepressant', 'imipramine', 'psychostimulants', 'diphenhydramine', 'antihypertensives', 'venlafaxine', 'methylphenidate', 'phenobarbital', 'trazodone', 'anticholinergics', 'antiandrogens', 'warfarin', 'progestins', 'anticoagulants', 'ketamine', 'sertraline', 'alprazolam', 'propranolol', 'zolpidem', 'clonidine', 'clomipramine', 'mirtazapine', 'lamotrigine', 'naltrexone', 'chlordiazepoxide', 'citalopram', 'primidone', 'metformin', 'nonbenzodiazepines', 'triazolam', 'topiramate', 'aripiprazole', 'opiates', 'methotrexate', 'agonists', 'spironolactone', 'immunosuppressants', 'ibuprofen', 'sedatives', 'buprenorphine', 'pregabalin', 'bromocriptine', 'flutamide', 'ketoconazole', 'paracetamol', 'prednisone', 'antiemetics', 'fluoroquinolones', 'aspirin', 'ziprasidone', 'pimozide', 'fluvoxamine', 'donepezil', 'buspirone', 'clarithromycin', 'ondansetron', 'temazepam', 'azathioprine', 'naproxen', 'desipramine', 'tamoxifen', 'duloxetine']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'ssris' found at position 1 in both lists
+Word 'antipsychotics' found at position 1 and 2
+Difference between the positions: 1
 
-Word 'antipsychotics' found at position 2 in both lists
+Word 'ssris' found at position 2 and 1
+Difference between the positions: 1
 
 Word 'benzodiazepines' found at position 3 and 4
 Difference between the positions: 1
@@ -85,55 +84,59 @@ Difference between the positions: 1
 Word 'anticonvulsants' found at position 4 and 3
 Difference between the positions: 1
 
-Word 'opioids' found at position 5 in both lists
-
-Word 'fluoxetine' found at position 6 in both lists
-
-Word 'haloperidol' found at position 7 in both lists
-
-Word 'neuroleptics' found at position 8 and 30
-Difference between the positions: 22
-
-Word 'nsaids' found at position 9 in both lists
-
-Word 'phenytoin' found at position 10 and 18
-Difference between the positions: 8
-
-Word 'maois' found at position 11 and 14
-Difference between the positions: 3
-
-Word 'antihistamines' found at position 12 and 25
-Difference between the positions: 13
-
-Word 'analgesics' found at position 13 and 10
-Difference between the positions: 3
-
-Word 'chlorpromazine' found at position 14 and 16
-Difference between the positions: 2
-
-Word 'anxiolytics' found at position 15 and 28
-Difference between the positions: 13
-
-Word 'statins' found at position 16 and 17
+Word 'fluoxetine' found at position 5 and 6
 Difference between the positions: 1
 
-Word 'stimulants' found at position 17 and 8
-Difference between the positions: 9
+Word 'opioids' found at position 6 and 5
+Difference between the positions: 1
 
-Word 'psychostimulants' found at position 18 and 41
-Difference between the positions: 23
+Word 'nsaids' found at position 7 and 9
+Difference between the positions: 2
 
-Word 'risperidone' found at position 19 and 27
+Word 'snris' found at position 8 and 11
+Difference between the positions: 3
+
+Word 'statins' found at position 9 and 17
 Difference between the positions: 8
 
-Word 'snris' found at position 20 and 11
-Difference between the positions: 9
+Word 'haloperidol' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'neuroleptics' found at position 11 and 30
+Difference between the positions: 19
+
+Word 'maois' found at position 12 and 14
+Difference between the positions: 2
+
+Word 'triptans' found at position 13 and 35
+Difference between the positions: 22
+
+Word 'antihistamines' found at position 14 and 25
+Difference between the positions: 11
+
+Word 'venlafaxine' found at position 15 and 44
+Difference between the positions: 29
+
+Word 'phenytoin' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'barbiturates' found at position 17 and 31
+Difference between the positions: 14
+
+Word 'anticholinergics' found at position 18 and 48
+Difference between the positions: 30
+
+Word 'psychostimulants' found at position 19 and 41
+Difference between the positions: 22
+
+Word 'anxiolytics' found at position 20 and 28
+Difference between the positions: 8
 
 
 For the word 'brooding', the nearest words are: 
 
 Novice List (Top 20): 
-['dreamy', 'melancholic', 'languid', 'melancholy', 'morose', 'wistful', 'mournful', 'pensive', 'doomy', 'somber', 'introspective', 'lugubrious', 'menacing', 'haunting', 'sombre', 'foreboding', 'languorous', 'gloomy', 'cooing', 'atmospherics']
+['dreamy', 'melancholic', 'melancholy', 'languid', 'doomy', 'mournful', 'pensive', 'somber', 'morose', 'foreboding', 'wistful', 'languorous', 'sombre', 'gloomy', 'introspective', 'lugubrious', 'haunting', 'sultry', 'sullen', 'plaintive']
 
 Expert List (Top 100): 
 ['dreamy', 'melancholic', 'languid', 'melancholy', 'wistful', 'mournful', 'morose', 'menacing', 'languorous', 'haunting', 'somber', 'introspective', 'foreboding', 'lugubrious', 'atmospherics', 'gloomy', 'sombre', 'sultry', 'pensive', 'brassy', 'claustrophobic', 'plaintive', 'anguished', 'doomy', 'soothing', 'doleful', 'angsty', 'cooing', 'lurching', 'throaty', 'ethereal', 'bluesy', 'seductive', 'unnerving', 'ruminative', 'sullen', 'dreamlike', 'droning', 'shrill', 'deliciously', 'soulful', 'playful', 'woozy', 'misanthropic', 'bombastic', 'weepy', 'warbling', 'punchy', 'crooning', 'moodiness', 'edgy', 'swooning', 'creepy', 'sardonic', 'grungy', 'lovelorn', 'overwrought', 'unsettling', 'quivering', 'sensual', 'beguiling', 'girlish', 'croon', 'disturbingly', 'sighing', 'achingly', 'folky', 'growling', 'portentous', 'lyricism', 'druggy', 'hauntingly', 'balladry', 'childlike', 'entrancing', 'sweetly', 'vocalizing', 'sludgy', 'mellow', 'nightmarish', 'eerie', 'tuneful', 'bombast', 'wails', 'disquieting', 'moans', 'dreary', 'tuneless', 'cheery', 'swaggering', 'syrupy', 'jaunty', 'yelping', 'sensuous', 'humorless', 'shrieking', 'raspy', 'keening', 'cloying', 'disorienting']
@@ -144,63 +147,63 @@ Word 'dreamy' found at position 1 in both lists
 
 Word 'melancholic' found at position 2 in both lists
 
-Word 'languid' found at position 3 in both lists
-
-Word 'melancholy' found at position 4 in both lists
-
-Word 'morose' found at position 5 and 7
-Difference between the positions: 2
-
-Word 'wistful' found at position 6 and 5
+Word 'melancholy' found at position 3 and 4
 Difference between the positions: 1
 
-Word 'mournful' found at position 7 and 6
+Word 'languid' found at position 4 and 3
 Difference between the positions: 1
 
-Word 'pensive' found at position 8 and 19
-Difference between the positions: 11
+Word 'doomy' found at position 5 and 24
+Difference between the positions: 19
 
-Word 'doomy' found at position 9 and 24
-Difference between the positions: 15
+Word 'mournful' found at position 6 in both lists
 
-Word 'somber' found at position 10 and 11
-Difference between the positions: 1
+Word 'pensive' found at position 7 and 19
+Difference between the positions: 12
 
-Word 'introspective' found at position 11 and 12
-Difference between the positions: 1
-
-Word 'lugubrious' found at position 12 and 14
-Difference between the positions: 2
-
-Word 'menacing' found at position 13 and 8
-Difference between the positions: 5
-
-Word 'haunting' found at position 14 and 10
-Difference between the positions: 4
-
-Word 'sombre' found at position 15 and 17
-Difference between the positions: 2
-
-Word 'foreboding' found at position 16 and 13
+Word 'somber' found at position 8 and 11
 Difference between the positions: 3
 
-Word 'languorous' found at position 17 and 9
-Difference between the positions: 8
-
-Word 'gloomy' found at position 18 and 16
+Word 'morose' found at position 9 and 7
 Difference between the positions: 2
 
-Word 'cooing' found at position 19 and 28
-Difference between the positions: 9
+Word 'foreboding' found at position 10 and 13
+Difference between the positions: 3
 
-Word 'atmospherics' found at position 20 and 15
-Difference between the positions: 5
+Word 'wistful' found at position 11 and 5
+Difference between the positions: 6
+
+Word 'languorous' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'sombre' found at position 13 and 17
+Difference between the positions: 4
+
+Word 'gloomy' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'introspective' found at position 15 and 12
+Difference between the positions: 3
+
+Word 'lugubrious' found at position 16 and 14
+Difference between the positions: 2
+
+Word 'haunting' found at position 17 and 10
+Difference between the positions: 7
+
+Word 'sultry' found at position 18 in both lists
+
+Word 'sullen' found at position 19 and 36
+Difference between the positions: 17
+
+Word 'plaintive' found at position 20 and 22
+Difference between the positions: 2
 
 
 For the word 'cbt', the nearest words are: 
 
 Novice List (Top 20): 
-['biofeedback', 'psychotherapy', 'bibliotherapy', 'pcit', 'neurofeedback', 'therapy', 'psychodynamic', 'pharmacotherapy', 'ect', 'hypnotherapy', 'psychotherapeutic', 'mbsr', 'mbct', 'sorafenib', 'bortezomib', 'statin', 'regimens', 'rrt', 'nondirective', 'bobath']
+['biofeedback', 'psychotherapeutic', 'psychotherapy', 'sorafenib', 'ect', 'pharmacotherapy', 'paroxetine', 'venlafaxine', 'bobath', 'monotherapy', 'quetiapine', 'teacch', 'neurofeedback', 'adhd', 'psychodynamic', 'therapy', 'mdd', 'sunitinib', 'clinical', 'duloxetine']
 
 Expert List (Top 100): 
 ['biofeedback', 'mbct', 'psychotherapy', 'adhd', 'pcit', 'pharmacotherapy', 'paroxetine', 'psychodynamic', 'ect', 'bibliotherapy', 'emdr', 'rituximab', 'hypnotherapy', 'istdp', 'venlafaxine', 'therapy', 'psychotherapeutic', 'teacch', 'statin', 'therapies', 'bortezomib', 'fluoxetine', 'ssri', 'methotrexate', 'olanzapine', 'quetiapine', 'neurofeedback', 'metformin', 'haloperidol', 'antidepressants', 'gemcitabine', 'naltrexone', 'ssris', 'duloxetine', 'mdd', 'clinical', 'monotherapy', 'therapeutic', 'anticoagulation', 'psychosocial', 'manualized', 'sertraline', 'rcts', 'citalopram', 'neuroimaging', 'mentalization', 'aripiprazole', 'bupropion', 'letrozole', 'ptsd', 'adjunctive', 'lenalidomide', 'sorafenib', 'ipilimumab', 'gabapentin', 'fibromyalgia', 'cyclophosphamide', 'cisplatin', 'sunitinib', 'carboplatin', 'mirtazapine', 'tbi', 'ribavirin', 'artesunate', 'bobath', 'antidepressant', 'adjuvant', 'immunotherapy', 'etanercept', 'pharmacologic', 'psychotherapies', 'pregabalin', 'mindfulness', 'imipramine', 'tdcs', 'doxycycline', 'buprenorphine', 'risperidone', 'chlorpromazine', 'regimens', 'clonazepam', 'escitalopram', 'antipsychotic', 'irinotecan', 'tamoxifen', 'nondirective', 'ivermectin', 'preclinical', 'clinicians', 'mbsr', 'temozolomide', 'rebt', 'clozapine', 'cimt', 'corticosteroid', 'topiramate', 'psychoeducation', 'dexamethasone', 'isoniazid', 'ocd']
@@ -209,66 +212,64 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'biofeedback' found at position 1 in both lists
 
-Word 'psychotherapy' found at position 2 and 3
-Difference between the positions: 1
+Word 'psychotherapeutic' found at position 2 and 17
+Difference between the positions: 15
 
-Word 'bibliotherapy' found at position 3 and 10
+Word 'psychotherapy' found at position 3 in both lists
+
+Word 'sorafenib' found at position 4 and 53
+Difference between the positions: 49
+
+Word 'ect' found at position 5 and 9
+Difference between the positions: 4
+
+Word 'pharmacotherapy' found at position 6 in both lists
+
+Word 'paroxetine' found at position 7 in both lists
+
+Word 'venlafaxine' found at position 8 and 15
 Difference between the positions: 7
 
-Word 'pcit' found at position 4 and 5
-Difference between the positions: 1
+Word 'bobath' found at position 9 and 65
+Difference between the positions: 56
 
-Word 'neurofeedback' found at position 5 and 27
-Difference between the positions: 22
+Word 'monotherapy' found at position 10 and 37
+Difference between the positions: 27
 
-Word 'therapy' found at position 6 and 16
+Word 'quetiapine' found at position 11 and 26
+Difference between the positions: 15
+
+Word 'teacch' found at position 12 and 18
+Difference between the positions: 6
+
+Word 'neurofeedback' found at position 13 and 27
+Difference between the positions: 14
+
+Word 'adhd' found at position 14 and 4
 Difference between the positions: 10
 
-Word 'psychodynamic' found at position 7 and 8
-Difference between the positions: 1
+Word 'psychodynamic' found at position 15 and 8
+Difference between the positions: 7
 
-Word 'pharmacotherapy' found at position 8 and 6
-Difference between the positions: 2
+Word 'therapy' found at position 16 in both lists
 
-Word 'ect' found at position 9 in both lists
+Word 'mdd' found at position 17 and 35
+Difference between the positions: 18
 
-Word 'hypnotherapy' found at position 10 and 13
-Difference between the positions: 3
+Word 'sunitinib' found at position 18 and 59
+Difference between the positions: 41
 
-Word 'psychotherapeutic' found at position 11 and 17
-Difference between the positions: 6
+Word 'clinical' found at position 19 and 36
+Difference between the positions: 17
 
-Word 'mbsr' found at position 12 and 90
-Difference between the positions: 78
-
-Word 'mbct' found at position 13 and 2
-Difference between the positions: 11
-
-Word 'sorafenib' found at position 14 and 53
-Difference between the positions: 39
-
-Word 'bortezomib' found at position 15 and 21
-Difference between the positions: 6
-
-Word 'statin' found at position 16 and 19
-Difference between the positions: 3
-
-Word 'regimens' found at position 17 and 80
-Difference between the positions: 63
-
-'rrt' at position 18 is not present in Expert list
-
-Word 'nondirective' found at position 19 and 86
-Difference between the positions: 67
-
-Word 'bobath' found at position 20 and 65
-Difference between the positions: 45
+Word 'duloxetine' found at position 20 and 34
+Difference between the positions: 14
 
 
 For the word 'conditioning', the nearest words are: 
 
 Novice List (Top 20): 
-['conditioner', 'conditioners', 'conditioned', 'hvac', 'ventilation', 'heating', 'airconditioning', 'dehumidification', 'preheater', 'cooling', 'ductwork', 'dehumidifiers', 'ventilating', 'humidifiers', 'dehumidifier', 'refrigeration', 'insulation', 'heater', 'plumbing', 'underfloor']
+['conditioner', 'conditioners', 'conditioned', 'hvac', 'airconditioning', 'ventilation', 'heating', 'dehumidifiers', 'cooling', 'preheater', 'ductwork', 'refrigeration', 'dehumidification', 'plumbing', 'insulation', 'fresheners', 'humidifiers', 'dehumidifier', 'ventilating', 'ducting']
 
 Expert List (Top 100): 
 ['conditioner', 'conditioners', 'conditioned', 'hvac', 'airconditioning', 'dehumidifiers', 'ventilation', 'heating', 'cooling', 'preheater', 'humidifiers', 'fresheners', 'refrigeration', 'ductwork', 'deodorizers', 'dehumidification', 'heaters', 'entraining', 'insulation', 'plumbing', 'soundproofing', 'dehumidifier', 'ventilating', 'underfloor', 'ionizers', 'freshener', 'heater', 'compressors', 'cardio', 'preheating', 'coolers', 'hydronic', 'ionisers', 'filtration', 'humidifying', 'humidifier', 'defrosting', 'ventilated', 'ducting', 'liquide', 'defogger', 'lighting', 'humidified', 'restrictors', 'cushioned', 'demister', 'pressurization', 'recirculation', 'ventilators', 'destratification', 'humidification', 'defroster', 'sprinkler', 'waterproofing', 'hydraulics', 'breathers', 'fireproofing', 'brake', 'fitness', 'purifier', 'humidify', 'upholstery', 'entrainment', 'sunroof', 'floodlighting', 'diffusers', 'intakes', 'intercooler', 'airmatic', 'sacculitis', 'venting', 'cushioning', 'ufad', 'dryers', 'salubrity', 'defogging', 'misting', 'wiring', 'plasmacluster', 'brakes', 'superlift', 'bolsterless', 'breathing', 'dehumidify', 'preheaters', 'lubrication', 'dampers', 'glazing', 'compressor', 'pneumatic', 'transwest', 'mechanical', 'kagyou', 'aeration', 'unbreathable', 'biofeedback', 'durability', 'equipment', 'glovebox', 'ioniser']
@@ -283,59 +284,56 @@ Word 'conditioned' found at position 3 in both lists
 
 Word 'hvac' found at position 4 in both lists
 
-Word 'ventilation' found at position 5 and 7
-Difference between the positions: 2
+Word 'airconditioning' found at position 5 in both lists
 
-Word 'heating' found at position 6 and 8
-Difference between the positions: 2
-
-Word 'airconditioning' found at position 7 and 5
-Difference between the positions: 2
-
-Word 'dehumidification' found at position 8 and 16
-Difference between the positions: 8
-
-Word 'preheater' found at position 9 and 10
+Word 'ventilation' found at position 6 and 7
 Difference between the positions: 1
 
-Word 'cooling' found at position 10 and 9
+Word 'heating' found at position 7 and 8
 Difference between the positions: 1
+
+Word 'dehumidifiers' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'cooling' found at position 9 in both lists
+
+Word 'preheater' found at position 10 in both lists
 
 Word 'ductwork' found at position 11 and 14
 Difference between the positions: 3
 
-Word 'dehumidifiers' found at position 12 and 6
-Difference between the positions: 6
-
-Word 'ventilating' found at position 13 and 23
-Difference between the positions: 10
-
-Word 'humidifiers' found at position 14 and 11
-Difference between the positions: 3
-
-Word 'dehumidifier' found at position 15 and 22
-Difference between the positions: 7
-
-Word 'refrigeration' found at position 16 and 13
-Difference between the positions: 3
-
-Word 'insulation' found at position 17 and 19
-Difference between the positions: 2
-
-Word 'heater' found at position 18 and 27
-Difference between the positions: 9
-
-Word 'plumbing' found at position 19 and 20
+Word 'refrigeration' found at position 12 and 13
 Difference between the positions: 1
 
-Word 'underfloor' found at position 20 and 24
+Word 'dehumidification' found at position 13 and 16
+Difference between the positions: 3
+
+Word 'plumbing' found at position 14 and 20
+Difference between the positions: 6
+
+Word 'insulation' found at position 15 and 19
 Difference between the positions: 4
+
+Word 'fresheners' found at position 16 and 12
+Difference between the positions: 4
+
+Word 'humidifiers' found at position 17 and 11
+Difference between the positions: 6
+
+Word 'dehumidifier' found at position 18 and 22
+Difference between the positions: 4
+
+Word 'ventilating' found at position 19 and 23
+Difference between the positions: 4
+
+Word 'ducting' found at position 20 and 39
+Difference between the positions: 19
 
 
 For the word 'ect', the nearest words are: 
 
 Novice List (Top 20): 
-['electroconvulsive', 'phototherapy', 'psychosurgery', 'electrotherapy', 'pharmacotherapy', 'radiotherapy', 'cyclophosphamide', 'hemodialysis', 'anticoagulation', 'biofeedback', 'metformin', 'dexamethasone', 'echocardiography', 'sorafenib', 'puva', 'methotrexate', 'chlorpromazine', 'levodopa', 'lobotomy', 'everolimus']
+['electroconvulsive', 'psychosurgery', 'anticoagulation', 'methadone', 'electrotherapy', 'haloperidol', 'ssri', 'dexamethasone', 'methotrexate', 'hemodialysis', 'radiotherapy', 'paroxetine', 'lobotomy', 'monotherapy', 'chlorpromazine', 'placebos', 'ondansetron', 'pharmacotherapy', 'rosiglitazone', 'cyclophosphamide']
 
 Expert List (Top 100): 
 ['psychosurgery', 'electroconvulsive', 'pharmacotherapy', 'anticoagulation', 'chlorpromazine', 'haloperidol', 'hemodialysis', 'duloxetine', 'paroxetine', 'electrotherapy', 'ssri', 'fluoxetine', 'cyclophosphamide', 'monotherapy', 'methotrexate', 'ribavirin', 'bevacizumab', 'misoprostol', 'corticosteroid', 'radiotherapy', 'methadone', 'dexamethasone', 'lenalidomide', 'placebos', 'prophylactic', 'apomorphine', 'rituximab', 'citalopram', 'etanercept', 'intraoperative', 'lmwh', 'letrozole', 'metformin', 'cabg', 'lobotomy', 'endometriosis', 'topiramate', 'pioglitazone', 'clonazepam', 'gabapentin', 'levodopa', 'lamotrigine', 'minoxidil', 'temozolomide', 'prednisone', 'lorazepam', 'sorafenib', 'phototherapy', 'neuroleptics', 'quetiapine', 'bupropion', 'azathioprine', 'ondansetron', 'natalizumab', 'buprenorphine', 'allopurinol', 'mefloquine', 'leucotomy', 'doxycycline', 'narcolepsy', 'cbt', 'postoperative', 'risperidone', 'ivermectin', 'dapsone', 'ibogaine', 'tamoxifen', 'laparoscopy', 'sedation', 'adenoidectomy', 'treatment', 'escitalopram', 'hydroxyzine', 'clozapine', 'baclofen', 'famciclovir', 'prednisolone', 'hydroxyurea', 'clomifene', 'cetuximab', 'nitrazepam', 'corticosteroids', 'emdr', 'gemcitabine', 'cyclosporine', 'amoxicillin', 'trastuzumab', 'medication', 'valaciclovir', 'ketamine', 'warfarin', 'sertraline', 'indomethacin', 'zidovudine', 'methylprednisolone', 'rifampicin', 'octreotide', 'valacyclovir', 'metoclopramide', 'venlafaxine']
@@ -345,194 +343,197 @@ Comparing the words between Novice and Expert list, we can observe:
 Word 'electroconvulsive' found at position 1 and 2
 Difference between the positions: 1
 
-Word 'phototherapy' found at position 2 and 48
-Difference between the positions: 46
-
-Word 'psychosurgery' found at position 3 and 1
-Difference between the positions: 2
-
-Word 'electrotherapy' found at position 4 and 10
-Difference between the positions: 6
-
-Word 'pharmacotherapy' found at position 5 and 3
-Difference between the positions: 2
-
-Word 'radiotherapy' found at position 6 and 20
-Difference between the positions: 14
-
-Word 'cyclophosphamide' found at position 7 and 13
-Difference between the positions: 6
-
-Word 'hemodialysis' found at position 8 and 7
+Word 'psychosurgery' found at position 2 and 1
 Difference between the positions: 1
 
-Word 'anticoagulation' found at position 9 and 4
+Word 'anticoagulation' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'methadone' found at position 4 and 21
+Difference between the positions: 17
+
+Word 'electrotherapy' found at position 5 and 10
 Difference between the positions: 5
 
-'biofeedback' at position 10 is not present in Expert list
+Word 'haloperidol' found at position 6 in both lists
 
-Word 'metformin' found at position 11 and 33
+Word 'ssri' found at position 7 and 11
+Difference between the positions: 4
+
+Word 'dexamethasone' found at position 8 and 22
+Difference between the positions: 14
+
+Word 'methotrexate' found at position 9 and 15
+Difference between the positions: 6
+
+Word 'hemodialysis' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'radiotherapy' found at position 11 and 20
+Difference between the positions: 9
+
+Word 'paroxetine' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'lobotomy' found at position 13 and 35
 Difference between the positions: 22
 
-Word 'dexamethasone' found at position 12 and 22
+Word 'monotherapy' found at position 14 in both lists
+
+Word 'chlorpromazine' found at position 15 and 5
 Difference between the positions: 10
 
-'echocardiography' at position 13 is not present in Expert list
+Word 'placebos' found at position 16 and 24
+Difference between the positions: 8
 
-Word 'sorafenib' found at position 14 and 47
-Difference between the positions: 33
+Word 'ondansetron' found at position 17 and 53
+Difference between the positions: 36
 
-'puva' at position 15 is not present in Expert list
+Word 'pharmacotherapy' found at position 18 and 3
+Difference between the positions: 15
 
-Word 'methotrexate' found at position 16 and 15
-Difference between the positions: 1
+'rosiglitazone' at position 19 is not present in Expert list
 
-Word 'chlorpromazine' found at position 17 and 5
-Difference between the positions: 12
-
-Word 'levodopa' found at position 18 and 41
-Difference between the positions: 23
-
-Word 'lobotomy' found at position 19 and 35
-Difference between the positions: 16
-
-'everolimus' at position 20 is not present in Expert list
+Word 'cyclophosphamide' found at position 20 and 13
+Difference between the positions: 7
 
 
 For the word 'exposure', the nearest words are: 
 
 Novice List (Top 20): 
-['exposures', 'overexposure', 'sensitivity', 'toxicity', 'irradiation', 'ingestion', 'susceptibility', 'inhalation', 'dose', 'contamination', 'sensitization', 'radiation', 'photosensitivity', 'sunburn', 'hypoxia', 'stimulation', 'immunosuppression', 'irritants', 'infection', 'absorption']
+['overexposure', 'exposures', 'sensitivity', 'irradiation', 'toxicity', 'ingestion', 'photosensitivity', 'contamination', 'inhalation', 'radiation', 'nephrotoxicity', 'hypoxia', 'dose', 'sensitization', 'dehydration', 'stimulation', 'sunburn', 'hepatotoxicity', 'susceptibility', 'coverage']
 
 Expert List (Top 100): 
 ['overexposure', 'exposures', 'sensitivity', 'irradiation', 'toxicity', 'ingestion', 'inhalation', 'susceptibility', 'dose', 'contamination', 'radiation', 'photosensitivity', 'toxicities', 'dehydration', 'sunburn', 'sensitization', 'immunosuppression', 'irritants', 'hypoxia', 'photodegradation', 'exposed', 'stimulation', 'hypersensitivity', 'uvb', 'infection', 'anaphylaxis', 'ionizing', 'uvr', 'absorption', 'hepatotoxicity', 'genotoxic', 'uv', 'sublethal', 'coverage', 'hemolysis', 'responses', 'hyperglycemia', 'attenuation', 'bioaccumulation', 'stress', 'degradation', 'ultraviolet', 'sensitizing', 'nephrotoxicity', 'hyperventilation', 'dosing', 'penetration', 'scarring', 'leakage', 'neurotoxicity', 'hypotensive', 'mutagenic', 'toxicants', 'anoxia', 'desiccation', 'visibility', 'hypoglycaemia', 'hyperthermia', 'bronchospasm', 'sunlight', 'effects', 'inhaled', 'injections', 'oxidization', 'phototoxicity', 'reactions', 'ethion', 'teratogenic', 'stressor', 'irritation', 'pneumonitis', 'hyperammonemia', 'activation', 'methylmercury', 'inhaling', 'doses', 'ototoxic', 'availability', 'stressors', 'phototherapy', 'uptake', 'allergen', 'triclocarban', 'reinfection', 'experience', 'reaction', 'bacteremia', 'accumulation', 'pretreatment', 'hypothermia', 'biodegradation', 'ototoxicity', 'photobleaching', 'bleaching', 'anticoagulation', 'dryness', 'actinic', 'consumption', 'hypoglycemia', 'detection']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'exposures' found at position 1 and 2
-Difference between the positions: 1
+Word 'overexposure' found at position 1 in both lists
 
-Word 'overexposure' found at position 2 and 1
-Difference between the positions: 1
+Word 'exposures' found at position 2 in both lists
 
 Word 'sensitivity' found at position 3 in both lists
 
-Word 'toxicity' found at position 4 and 5
-Difference between the positions: 1
+Word 'irradiation' found at position 4 in both lists
 
-Word 'irradiation' found at position 5 and 4
-Difference between the positions: 1
+Word 'toxicity' found at position 5 in both lists
 
 Word 'ingestion' found at position 6 in both lists
 
-Word 'susceptibility' found at position 7 and 8
-Difference between the positions: 1
-
-Word 'inhalation' found at position 8 and 7
-Difference between the positions: 1
-
-Word 'dose' found at position 9 in both lists
-
-Word 'contamination' found at position 10 in both lists
-
-Word 'sensitization' found at position 11 and 16
+Word 'photosensitivity' found at position 7 and 12
 Difference between the positions: 5
 
-Word 'radiation' found at position 12 and 11
+Word 'contamination' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'inhalation' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'radiation' found at position 10 and 11
 Difference between the positions: 1
 
-Word 'photosensitivity' found at position 13 and 12
-Difference between the positions: 1
+Word 'nephrotoxicity' found at position 11 and 44
+Difference between the positions: 33
 
-Word 'sunburn' found at position 14 and 15
-Difference between the positions: 1
+Word 'hypoxia' found at position 12 and 19
+Difference between the positions: 7
 
-Word 'hypoxia' found at position 15 and 19
+Word 'dose' found at position 13 and 9
 Difference between the positions: 4
+
+Word 'sensitization' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'dehydration' found at position 15 and 14
+Difference between the positions: 1
 
 Word 'stimulation' found at position 16 and 22
 Difference between the positions: 6
 
-Word 'immunosuppression' found at position 17 in both lists
+Word 'sunburn' found at position 17 and 15
+Difference between the positions: 2
 
-Word 'irritants' found at position 18 in both lists
+Word 'hepatotoxicity' found at position 18 and 30
+Difference between the positions: 12
 
-Word 'infection' found at position 19 and 25
-Difference between the positions: 6
+Word 'susceptibility' found at position 19 and 8
+Difference between the positions: 11
 
-Word 'absorption' found at position 20 and 29
-Difference between the positions: 9
+Word 'coverage' found at position 20 and 34
+Difference between the positions: 14
 
 
 For the word 'freud', the nearest words are: 
 
 Novice List (Top 20): 
-['psychoanalysis', 'lacan', 'freudian', 'psychoanalytic', 'nietzsche', 'bergler', 'wundt', 'silberer', 'hegel', 'marcuse', 'schelling', 'ferenczi', 'jungian', 'wittgenstein', 'psychoanalytical', 'lacanian', 'psychoanalyst', 'sartre', 'bettelheim', 'husserl']
+['lacan', 'psychoanalysis', 'freudian', 'nietzsche', 'psychoanalytic', 'silberer', 'wundt', 'hegel', 'schelling', 'derrida', 'psychoanalysts', 'fliess', 'bergler', 'heidegger', 'psychoanalyst', 'psychoanalytical', 'husserl', 'jungian', 'kant', 'sulloway']
 
 Expert List (Top 100): 
 ['psychoanalysis', 'lacan', 'freudian', 'psychoanalytic', 'nietzsche', 'bergler', 'schelling', 'binswanger', 'silberer', 'wundt', 'hegel', 'althusser', 'ferenczi', 'kierkegaard', 'vygotsky', 'psychoanalytical', 'husserl', 'jungian', 'heidegger', 'wittgenstein', 'stekel', 'psychoanalysts', 'fliess', 'bowlby', 'psychoanalyst', 'schreber', 'sulloway', 'marcuse', 'frankl', 'deleuze', 'gadamer', 'lacanian', 'fichte', 'sartre', 'herbart', 'simmel', 'foucault', 'logotherapy', 'sigmund', 'winnicott', 'goffman', 'schopenhauer', 'horney', 'habermas', 'bleuler', 'kohut', 'derrida', 'adorno', 'durkheim', 'piaget', 'marx', 'kraepelin', 'kant', 'psychopathology', 'ebing', 'lowenfeld', 'bergson', 'kernberg', 'eysenck', 'mindell', 'phenomenology', 'stirner', 'bourdieu', 'bettelheim', 'lyotard', 'krafft', 'grünbaum', 'psychodynamic', 'frege', 'schleiermacher', 'countertransference', 'rousseau', 'psychotherapy', 'velikovsky', 'mortido', 'analysand', 'žižek', 'narcissism', 'dilthey', 'assagioli', 'friedländer', 'fenichel', 'phrenology', 'whorf', 'wollstonecraft', 'scheler', 'popper', 'ricœur', 'phenomenological', 'bakhtin', 'ethnomethodology', 'psychosexual', 'titchener', 'spinoza', 'lukács', 'carnap', 'mainländer', 'dostoevsky', 'behaviourism', 'schumpeter']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'psychoanalysis' found at position 1 in both lists
+Word 'lacan' found at position 1 and 2
+Difference between the positions: 1
 
-Word 'lacan' found at position 2 in both lists
+Word 'psychoanalysis' found at position 2 and 1
+Difference between the positions: 1
 
 Word 'freudian' found at position 3 in both lists
 
-Word 'psychoanalytic' found at position 4 in both lists
+Word 'nietzsche' found at position 4 and 5
+Difference between the positions: 1
 
-Word 'nietzsche' found at position 5 in both lists
+Word 'psychoanalytic' found at position 5 and 4
+Difference between the positions: 1
 
-Word 'bergler' found at position 6 in both lists
+Word 'silberer' found at position 6 and 9
+Difference between the positions: 3
 
 Word 'wundt' found at position 7 and 10
 Difference between the positions: 3
 
-Word 'silberer' found at position 8 and 9
-Difference between the positions: 1
+Word 'hegel' found at position 8 and 11
+Difference between the positions: 3
 
-Word 'hegel' found at position 9 and 11
+Word 'schelling' found at position 9 and 7
 Difference between the positions: 2
 
-Word 'marcuse' found at position 10 and 28
-Difference between the positions: 18
+Word 'derrida' found at position 10 and 47
+Difference between the positions: 37
 
-Word 'schelling' found at position 11 and 7
-Difference between the positions: 4
+Word 'psychoanalysts' found at position 11 and 22
+Difference between the positions: 11
 
-Word 'ferenczi' found at position 12 and 13
-Difference between the positions: 1
+Word 'fliess' found at position 12 and 23
+Difference between the positions: 11
 
-Word 'jungian' found at position 13 and 18
+Word 'bergler' found at position 13 and 6
+Difference between the positions: 7
+
+Word 'heidegger' found at position 14 and 19
 Difference between the positions: 5
 
-Word 'wittgenstein' found at position 14 and 20
-Difference between the positions: 6
+Word 'psychoanalyst' found at position 15 and 25
+Difference between the positions: 10
 
-Word 'psychoanalytical' found at position 15 and 16
-Difference between the positions: 1
+Word 'psychoanalytical' found at position 16 in both lists
 
-Word 'lacanian' found at position 16 and 32
-Difference between the positions: 16
+Word 'husserl' found at position 17 in both lists
 
-Word 'psychoanalyst' found at position 17 and 25
-Difference between the positions: 8
+Word 'jungian' found at position 18 in both lists
 
-Word 'sartre' found at position 18 and 34
-Difference between the positions: 16
+Word 'kant' found at position 19 and 53
+Difference between the positions: 34
 
-Word 'bettelheim' found at position 19 and 64
-Difference between the positions: 45
-
-Word 'husserl' found at position 20 and 17
-Difference between the positions: 3
+Word 'sulloway' found at position 20 and 27
+Difference between the positions: 7
 
 
 For the word 'health', the nearest words are: 
 
 Novice List (Top 20): 
-['healthcare', 'welfare', 'medical', 'nutrition', 'hygiene', 'telehealth', 'palliative', 'sanitation', 'education', 'environmental', 'wellbeing', 'nursing', 'disability', 'psychosocial', 'cardiovascular', 'rehabilitation', 'medicare', 'rehabilitative', 'perinatal', 'immunization']
+['healthcare', 'welfare', 'nutrition', 'medical', 'hygiene', 'sanitation', 'education', 'palliative', 'telehealth', 'environmental', 'cardiovascular', 'wellbeing', 'medicare', 'disability', 'psychosocial', 'rehabilitative', 'vha', 'rehabilitation', 'antenatal', 'nursing']
 
 Expert List (Top 100): 
 ['healthcare', 'welfare', 'nutrition', 'medical', 'hygiene', 'sanitation', 'telehealth', 'education', 'palliative', 'environmental', 'disability', 'medicare', 'nursing', 'geriatrics', 'cardiovascular', 'wellbeing', 'perinatal', 'antenatal', 'telemedicine', 'rehabilitative', 'rehabilitation', 'psychosocial', 'vha', 'immunisation', 'childcare', 'dental', 'geriatric', 'medicaid', 'immunization', 'diabetes', 'safety', 'sustainability', 'oncologic', 'obesity', 'midwifery', 'oncological', 'aftercare', 'veterinary', 'clinical', 'biosecurity', 'nutritional', 'epidemiology', 'preventive', 'caregiving', 'ehealth', 'musculoskeletal', 'pediatric', 'eyecare', 'healtheast', 'chiropractic', 'obstetric', 'care', 'prevention', 'dhhs', 'advocacy', 'biomedical', 'hiv', 'naturopathy', 'eldercare', 'neuropsychiatric', 'prehospital', 'social', 'pensions', 'employment', 'hhs', 'hospitals', 'gerontology', 'domiciliary', 'prenatal', 'governance', 'deinstitutionalization', 'psychiatric', 'physicians', 'preparedness', 'workplace', 'paediatric', 'health—and', 'pharmacovigilance', 'neurocritical', 'financial', 'nrh', 'behavioral', 'transportation', 'plhiv', 'counseling', 'geisinger', 'homelessness', 'illnesses', 'educational', 'hmo', 'polyclinics', 'bioethics', 'security', 'obstetrical', 'tuberculosis', 'pharmacy', 'malnutrition', 'aids', 'readmissions', 'oncology']
@@ -543,62 +544,60 @@ Word 'healthcare' found at position 1 in both lists
 
 Word 'welfare' found at position 2 in both lists
 
-Word 'medical' found at position 3 and 4
-Difference between the positions: 1
+Word 'nutrition' found at position 3 in both lists
 
-Word 'nutrition' found at position 4 and 3
-Difference between the positions: 1
+Word 'medical' found at position 4 in both lists
 
 Word 'hygiene' found at position 5 in both lists
 
-Word 'telehealth' found at position 6 and 7
+Word 'sanitation' found at position 6 in both lists
+
+Word 'education' found at position 7 and 8
 Difference between the positions: 1
 
-Word 'palliative' found at position 7 and 9
-Difference between the positions: 2
-
-Word 'sanitation' found at position 8 and 6
-Difference between the positions: 2
-
-Word 'education' found at position 9 and 8
+Word 'palliative' found at position 8 and 9
 Difference between the positions: 1
+
+Word 'telehealth' found at position 9 and 7
+Difference between the positions: 2
 
 Word 'environmental' found at position 10 in both lists
 
-Word 'wellbeing' found at position 11 and 16
-Difference between the positions: 5
+Word 'cardiovascular' found at position 11 and 15
+Difference between the positions: 4
 
-Word 'nursing' found at position 12 and 13
+Word 'wellbeing' found at position 12 and 16
+Difference between the positions: 4
+
+Word 'medicare' found at position 13 and 12
 Difference between the positions: 1
 
-Word 'disability' found at position 13 and 11
-Difference between the positions: 2
+Word 'disability' found at position 14 and 11
+Difference between the positions: 3
 
-Word 'psychosocial' found at position 14 and 22
-Difference between the positions: 8
+Word 'psychosocial' found at position 15 and 22
+Difference between the positions: 7
 
-Word 'cardiovascular' found at position 15 in both lists
+Word 'rehabilitative' found at position 16 and 20
+Difference between the positions: 4
 
-Word 'rehabilitation' found at position 16 and 21
-Difference between the positions: 5
+Word 'vha' found at position 17 and 23
+Difference between the positions: 6
 
-Word 'medicare' found at position 17 and 12
-Difference between the positions: 5
+Word 'rehabilitation' found at position 18 and 21
+Difference between the positions: 3
 
-Word 'rehabilitative' found at position 18 and 20
-Difference between the positions: 2
+Word 'antenatal' found at position 19 and 18
+Difference between the positions: 1
 
-Word 'perinatal' found at position 19 and 17
-Difference between the positions: 2
-
-Word 'immunization' found at position 20 and 29
-Difference between the positions: 9
+Word 'nursing' found at position 20 and 13
+Difference between the positions: 7
 
 
 For the word 'inhibitor', the nearest words are: 
 
 Novice List (Top 20): 
-['inhibitors', 'prodrug', 'agonist', 'antiestrogen', 'antiandrogen', 'activator', 'inducer', 'phosphodiesterase', 'vasodilator', 'protease', 'analgesic', 'antihistamine', 'receptor', 'enkephalinase', 'faah', 'immunomodulator', 'antidepressant', 'sirolimus', 'acetylcholinesterase', 'anticoagulant']
+['inhibitors', 'antiandrogen', 'prodrug', 'activator', 'agonist', 'acetylcholinesterase', 'protease', 'vasodilator', 'enkephalinase', 'rapamycin', 'antidepressant', 'analgesic', 'antiestrogen', 'inducer', 'anticoagulant', 'phosphodiesterase', 'anticancer', 'antitumor', 'calcineurin', 'antihistamine']
 
 Expert List (Top 100): 
 ['inhibitors', 'prodrug', 'activator', 'agonist', 'antiandrogen', 'protease', 'inducer', 'antidepressant', 'enkephalinase', 'antigonadotropin', 'vasodilator', 'rapamycin', 'analgesic', 'antihistamine', 'acetylcholinesterase', 'anticoagulant', 'antiestrogen', 'antiviral', 'phosphodiesterase', 'immunosuppressant', 'maoi', 'celecoxib', 'faah', 'telmisartan', 'anticancer', 'aromatase', 'sitagliptin', 'prohormone', 'immunomodulator', 'memantine', 'antitumor', 'calcineurin', 'cholinesterase', 'tranylcypromine', 'receptor', 'tamoxifen', 'dabrafenib', 'ciclosporin', 'hdac', 'losartan', 'sulfonamide', 'cimetidine', 'inhibition', 'clopidogrel', 'immunomodulatory', 'cytotoxin', 'quinidine', 'esterase', 'antidiabetic', 'enzyme', 'anticholinergic', 'antimineralocorticoid', 'vasoconstrictor', 'antihypertensive', 'fingolimod', 'temsirolimus', 'doxorubicin', 'streptokinase', 'aminoglycoside', 'paclitaxel', 'nucleoside', 'ketoconazole', 'amantadine', 'antibiotic', 'ritonavir', 'geldanamycin', 'anticonvulsant', 'nelfinavir', 'erlotinib', 'hydroxytamoxifen', 'daunorubicin', 'snri', 'nilotinib', 'serm', 'exopeptidase', 'antiangiogenic', 'gefitinib', 'sildenafil', 'docetaxel', 'deacetylase', 'amiloride', 'antipsychotic', 'chloramphenicol', 'mtor', 'sirolimus', 'oncoprotein', 'enalapril', 'neurosteroid', 'kinase', 'sndri', 'neuraminidase', 'progestin', 'stimulant', 'irinotecan', 'imatinib', 'selegiline', 'moclobemide', 'monoamine', 'anthracycline', 'lopinavir']
@@ -607,65 +606,67 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'inhibitors' found at position 1 in both lists
 
-Word 'prodrug' found at position 2 in both lists
-
-Word 'agonist' found at position 3 and 4
-Difference between the positions: 1
-
-Word 'antiestrogen' found at position 4 and 17
-Difference between the positions: 13
-
-Word 'antiandrogen' found at position 5 in both lists
-
-Word 'activator' found at position 6 and 3
+Word 'antiandrogen' found at position 2 and 5
 Difference between the positions: 3
 
-Word 'inducer' found at position 7 in both lists
+Word 'prodrug' found at position 3 and 2
+Difference between the positions: 1
 
-Word 'phosphodiesterase' found at position 8 and 19
-Difference between the positions: 11
+Word 'activator' found at position 4 and 3
+Difference between the positions: 1
 
-Word 'vasodilator' found at position 9 and 11
-Difference between the positions: 2
+Word 'agonist' found at position 5 and 4
+Difference between the positions: 1
 
-Word 'protease' found at position 10 and 6
-Difference between the positions: 4
-
-Word 'analgesic' found at position 11 and 13
-Difference between the positions: 2
-
-Word 'antihistamine' found at position 12 and 14
-Difference between the positions: 2
-
-Word 'receptor' found at position 13 and 35
-Difference between the positions: 22
-
-Word 'enkephalinase' found at position 14 and 9
-Difference between the positions: 5
-
-Word 'faah' found at position 15 and 23
-Difference between the positions: 8
-
-Word 'immunomodulator' found at position 16 and 29
-Difference between the positions: 13
-
-Word 'antidepressant' found at position 17 and 8
+Word 'acetylcholinesterase' found at position 6 and 15
 Difference between the positions: 9
 
-Word 'sirolimus' found at position 18 and 85
-Difference between the positions: 67
+Word 'protease' found at position 7 and 6
+Difference between the positions: 1
 
-Word 'acetylcholinesterase' found at position 19 and 15
+Word 'vasodilator' found at position 8 and 11
+Difference between the positions: 3
+
+Word 'enkephalinase' found at position 9 in both lists
+
+Word 'rapamycin' found at position 10 and 12
+Difference between the positions: 2
+
+Word 'antidepressant' found at position 11 and 8
+Difference between the positions: 3
+
+Word 'analgesic' found at position 12 and 13
+Difference between the positions: 1
+
+Word 'antiestrogen' found at position 13 and 17
 Difference between the positions: 4
 
-Word 'anticoagulant' found at position 20 and 16
-Difference between the positions: 4
+Word 'inducer' found at position 14 and 7
+Difference between the positions: 7
+
+Word 'anticoagulant' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'phosphodiesterase' found at position 16 and 19
+Difference between the positions: 3
+
+Word 'anticancer' found at position 17 and 25
+Difference between the positions: 8
+
+Word 'antitumor' found at position 18 and 31
+Difference between the positions: 13
+
+Word 'calcineurin' found at position 19 and 32
+Difference between the positions: 13
+
+Word 'antihistamine' found at position 20 and 14
+Difference between the positions: 6
 
 
 For the word 'medication', the nearest words are: 
 
 Novice List (Top 20): 
-['medications', 'painkillers', 'aspirin', 'sedatives', 'warfarin', 'corticosteroids', 'drugs', 'gabapentin', 'methadone', 'paracetamol', 'metformin', 'amiodarone', 'clonazepam', 'prednisone', 'lorazepam', 'analgesics', 'ritalin', 'antidepressants', 'dexamethasone', 'haloperidol']
+['medications', 'painkillers', 'aspirin', 'isotretinoin', 'sedatives', 'paracetamol', 'warfarin', 'methadone', 'corticosteroids', 'metformin', 'drugs', 'lorazepam', 'amiodarone', 'dexamethasone', 'topiramate', 'diazepam', 'haloperidol', 'prednisone', 'atropine', 'demerol']
 
 Expert List (Top 100): 
 ['medications', 'painkillers', 'aspirin', 'sedatives', 'corticosteroids', 'paracetamol', 'methadone', 'warfarin', 'metformin', 'loperamide', 'lorazepam', 'gabapentin', 'diazepam', 'amiodarone', 'methotrexate', 'drugs', 'dexamethasone', 'anticoagulants', 'antidepressants', 'isotretinoin', 'allopurinol', 'topiramate', 'phenytoin', 'corticosteroid', 'analgesics', 'opioids', 'haloperidol', 'prednisone', 'metoclopramide', 'clonazepam', 'bupropion', 'atropine', 'propofol', 'artesunate', 'ibuprofen', 'naproxen', 'nsaid', 'alprazolam', 'ketamine', 'morphine', 'phenobarbital', 'diphenhydramine', 'buprenorphine', 'opiates', 'barbiturates', 'acetaminophen', 'nsaids', 'clonidine', 'fluoxetine', 'chlorpromazine', 'naloxone', 'rifampicin', 'doxycycline', 'laxatives', 'antibiotics', 'anticoagulation', 'valacyclovir', 'ciclosporin', 'sedative', 'isoniazid', 'demerol', 'mefloquine', 'primidone', 'prescription', 'lamotrigine', 'mebendazole', 'ondansetron', 'laudanum', 'dapsone', 'baclofen', 'ritalin', 'misoprostol', 'pioglitazone', 'amoxicillin', 'azathioprine', 'albendazole', 'intravenous', 'carbidopa', 'entacapone', 'cyclophosphamide', 'carbamazepine', 'ciprofloxacin', 'midazolam', 'naltrexone', 'metronidazole', 'hydroxychloroquine', 'benzodiazepines', 'oxycodone', 'anticonvulsants', 'zolpidem', 'risperidone', 'ivermectin', 'acetazolamide', 'methylprednisolone', 'monotherapy', 'vicodin', 'promethazine', 'prednisolone', 'clozapine', 'ketoconazole']
@@ -678,61 +679,61 @@ Word 'painkillers' found at position 2 in both lists
 
 Word 'aspirin' found at position 3 in both lists
 
-Word 'sedatives' found at position 4 in both lists
+Word 'isotretinoin' found at position 4 and 20
+Difference between the positions: 16
 
-Word 'warfarin' found at position 5 and 8
+Word 'sedatives' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'paracetamol' found at position 6 in both lists
+
+Word 'warfarin' found at position 7 and 8
+Difference between the positions: 1
+
+Word 'methadone' found at position 8 and 7
+Difference between the positions: 1
+
+Word 'corticosteroids' found at position 9 and 5
+Difference between the positions: 4
+
+Word 'metformin' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'drugs' found at position 11 and 16
+Difference between the positions: 5
+
+Word 'lorazepam' found at position 12 and 11
+Difference between the positions: 1
+
+Word 'amiodarone' found at position 13 and 14
+Difference between the positions: 1
+
+Word 'dexamethasone' found at position 14 and 17
 Difference between the positions: 3
 
-Word 'corticosteroids' found at position 6 and 5
-Difference between the positions: 1
-
-Word 'drugs' found at position 7 and 16
-Difference between the positions: 9
-
-Word 'gabapentin' found at position 8 and 12
-Difference between the positions: 4
-
-Word 'methadone' found at position 9 and 7
-Difference between the positions: 2
-
-Word 'paracetamol' found at position 10 and 6
-Difference between the positions: 4
-
-Word 'metformin' found at position 11 and 9
-Difference between the positions: 2
-
-Word 'amiodarone' found at position 12 and 14
-Difference between the positions: 2
-
-Word 'clonazepam' found at position 13 and 30
-Difference between the positions: 17
-
-Word 'prednisone' found at position 14 and 28
-Difference between the positions: 14
-
-Word 'lorazepam' found at position 15 and 11
-Difference between the positions: 4
-
-Word 'analgesics' found at position 16 and 25
-Difference between the positions: 9
-
-Word 'ritalin' found at position 17 and 71
-Difference between the positions: 54
-
-Word 'antidepressants' found at position 18 and 19
-Difference between the positions: 1
-
-Word 'dexamethasone' found at position 19 and 17
-Difference between the positions: 2
-
-Word 'haloperidol' found at position 20 and 27
+Word 'topiramate' found at position 15 and 22
 Difference between the positions: 7
+
+Word 'diazepam' found at position 16 and 13
+Difference between the positions: 3
+
+Word 'haloperidol' found at position 17 and 27
+Difference between the positions: 10
+
+Word 'prednisone' found at position 18 and 28
+Difference between the positions: 10
+
+Word 'atropine' found at position 19 and 32
+Difference between the positions: 13
+
+Word 'demerol' found at position 20 and 61
+Difference between the positions: 41
 
 
 For the word 'mental', the nearest words are: 
 
 Novice List (Top 20): 
-['psychological', 'psychiatric', 'psychosomatic', 'cognitive', 'schizophrenia', 'neurological', 'physical', 'psychosocial', 'emotional', 'depersonalization', 'schizophrenic', 'pathological', 'anxiety', 'dementia', 'psychotic', 'psychosis', 'behavioral', 'obsessive–compulsive', 'psychogenic', 'schizoaffective']
+['psychological', 'psychiatric', 'cognitive', 'psychosomatic', 'schizophrenia', 'psychosocial', 'psychopathological', 'emotional', 'physical', 'neurological', 'psychotic', 'pathological', 'schizophrenic', 'dementia', 'anxiety', 'depersonalization', 'psychosis', 'neurodevelopmental', 'schizoaffective', 'behavioral']
 
 Expert List (Top 100): 
 ['psychological', 'psychiatric', 'psychosomatic', 'cognitive', 'psychosocial', 'emotional', 'psychopathological', 'depersonalization', 'neurological', 'physical', 'neurodevelopmental', 'psychosis', 'behavioral', 'pathological', 'schizophrenia', 'psychotic', 'schizophrenic', 'neurocognitive', 'anxiety', 'psychomotor', 'disability', 'dementia', 'psychopathology', 'psychogenic', 'delusional', 'patient', 'dissociative', 'schizoaffective', 'hypochondriasis', 'affective', 'neuropsychiatric', 'obsessive–compulsive', 'psychic', 'moral', 'somatoform', 'sexual', 'mentally', 'factitious', 'depressive', 'insanity', 'bodily', 'chronic', 'epilepsy', 'alcoholism', 'neurobehavioral', 'neurasthenia', 'aboulia', 'kleptomania', 'psychodynamic', 'ocd', 'externalizing', 'empathy', 'cyclothymia', 'neurotic', 'comorbid', 'psychoses', 'dysphoric', 'derealization', 'hypochondria', 'neuroses', 'physiological', 'rehabilitative', 'psychotherapy', 'diagnosable', 'psychologic', 'cognition', 'brain', 'agoraphobia', 'hypnosis', 'autism', 'behavioural', 'phobic', 'symptomatology', 'mentalization', 'neurologic', 'phobias', 'mind', 'internalizing', 'somatization', 'malingering', 'biopsychosocial', 'mentalizing', 'impulsivity', 'trauma', 'maladaptive', 'autistic', 'schizophrenics', 'addiction', 'therapist', 'fibromyalgia', 'narcolepsy', 'interpersonal', 'anosognosia', 'ptsd', 'hypervigilance', 'anorexia', 'psychotherapeutic', 'psychiatry', 'neuropsychological', 'delusions']
@@ -743,198 +744,204 @@ Word 'psychological' found at position 1 in both lists
 
 Word 'psychiatric' found at position 2 in both lists
 
-Word 'psychosomatic' found at position 3 in both lists
+Word 'cognitive' found at position 3 and 4
+Difference between the positions: 1
 
-Word 'cognitive' found at position 4 in both lists
+Word 'psychosomatic' found at position 4 and 3
+Difference between the positions: 1
 
 Word 'schizophrenia' found at position 5 and 15
 Difference between the positions: 10
 
-Word 'neurological' found at position 6 and 9
-Difference between the positions: 3
+Word 'psychosocial' found at position 6 and 5
+Difference between the positions: 1
 
-Word 'physical' found at position 7 and 10
-Difference between the positions: 3
+Word 'psychopathological' found at position 7 in both lists
 
-Word 'psychosocial' found at position 8 and 5
-Difference between the positions: 3
-
-Word 'emotional' found at position 9 and 6
-Difference between the positions: 3
-
-Word 'depersonalization' found at position 10 and 8
+Word 'emotional' found at position 8 and 6
 Difference between the positions: 2
 
-Word 'schizophrenic' found at position 11 and 17
-Difference between the positions: 6
+Word 'physical' found at position 9 and 10
+Difference between the positions: 1
+
+Word 'neurological' found at position 10 and 9
+Difference between the positions: 1
+
+Word 'psychotic' found at position 11 and 16
+Difference between the positions: 5
 
 Word 'pathological' found at position 12 and 14
 Difference between the positions: 2
 
-Word 'anxiety' found at position 13 and 19
-Difference between the positions: 6
+Word 'schizophrenic' found at position 13 and 17
+Difference between the positions: 4
 
 Word 'dementia' found at position 14 and 22
 Difference between the positions: 8
 
-Word 'psychotic' found at position 15 and 16
-Difference between the positions: 1
-
-Word 'psychosis' found at position 16 and 12
+Word 'anxiety' found at position 15 and 19
 Difference between the positions: 4
 
-Word 'behavioral' found at position 17 and 13
-Difference between the positions: 4
+Word 'depersonalization' found at position 16 and 8
+Difference between the positions: 8
 
-Word 'obsessive–compulsive' found at position 18 and 32
-Difference between the positions: 14
-
-Word 'psychogenic' found at position 19 and 24
+Word 'psychosis' found at position 17 and 12
 Difference between the positions: 5
 
-Word 'schizoaffective' found at position 20 and 28
-Difference between the positions: 8
+Word 'neurodevelopmental' found at position 18 and 11
+Difference between the positions: 7
+
+Word 'schizoaffective' found at position 19 and 28
+Difference between the positions: 9
+
+Word 'behavioral' found at position 20 and 13
+Difference between the positions: 7
 
 
 For the word 'ocd', the nearest words are: 
 
 Novice List (Top 20): 
-['narcolepsy', 'fibromyalgia', 'adhd', 'schizophrenia', 'epilepsy', 'trichotillomania', 'dysthymia', 'symptomatology', 'ptsd', 'parkinsonism', 'parkinsonian', 'symptomology', 'migraines', 'dyskinesia', 'obsessive–compulsive', 'migraine', 'anosognosia', 'hypersexuality', 'endometriosis', 'dystonia']
+['adhd', 'schizophrenia', 'ptsd', 'epilepsy', 'narcolepsy', 'fibromyalgia', 'comorbid', 'symptomatology', 'parkinsonian', 'parkinsonism', 'autism', 'psychoses', 'dementia', 'psychopathy', 'hyperthyroidism', 'aphasia', 'hypothyroidism', 'dystonia', 'schizophrenics', 'hyperactivity']
 
 Expert List (Top 100): 
 ['narcolepsy', 'schizophrenia', 'adhd', 'fibromyalgia', 'ptsd', 'trichotillomania', 'dysthymia', 'epilepsy', 'symptomatology', 'aspd', 'parkinsonism', 'comorbid', 'autism', 'cyclothymia', 'schizophrenics', 'dlb', 'impulsivity', 'endometriosis', 'migraines', 'migraine', 'psychoses', 'comorbidity', 'psychosis', 'anxiety', 'idiopathic', 'hypersexuality', 'hypothyroidism', 'dyskinesia', 'symptomology', 'dementia', 'hypersomnia', 'parkinsonian', 'obsessive–compulsive', 'hyperthyroidism', 'cbgd', 'agoraphobia', 'neurocognitive', 'psychopathy', 'hypoglycemia', 'neurasthenia', 'subclinical', 'dyslexia', 'hyperactivity', 'eosinophilia', 'depersonalization', 'anorexia', 'aphasia', 'dystonia', 'symptoms', 'cataplexy', 'bulimia', 'phobias', 'acromegaly', 'bruxism', 'neurodevelopmental', 'rohhad', 'tardive', 'dmdd', 'comorbidities', 'fxtas', 'schizoaffective', 'neutropenia', 'disorder', 'hypergraphia', 'kleptomania', 'hypomania', 'ocpd', 'keratoconus', 'neurologic', 'scoliosis', 'psoriasis', 'excoriation', 'hypochondriasis', 'myeloproliferative', 'schizotypal', 'progeria', 'tourette', 'hypertriglyceridemia', 'anosognosia', 'hyperglycemia', 'depressive', 'symptomatic', 'myopathy', 'exacerbations', 'prosopagnosia', 'amblyopia', 'dyscalculia', 'chorea', 'relapsing', 'hypercholesterolemia', 'rosacea', 'externalizing', 'somatization', 'dermatomyositis', 'ednos', 'ataxia', 'tinnitus', 'hsdd', 'seronegative', 'apraxia']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'narcolepsy' found at position 1 in both lists
-
-Word 'fibromyalgia' found at position 2 and 4
+Word 'adhd' found at position 1 and 3
 Difference between the positions: 2
 
-Word 'adhd' found at position 3 in both lists
+Word 'schizophrenia' found at position 2 in both lists
 
-Word 'schizophrenia' found at position 4 and 2
+Word 'ptsd' found at position 3 and 5
 Difference between the positions: 2
 
-Word 'epilepsy' found at position 5 and 8
-Difference between the positions: 3
+Word 'epilepsy' found at position 4 and 8
+Difference between the positions: 4
 
-Word 'trichotillomania' found at position 6 in both lists
+Word 'narcolepsy' found at position 5 and 1
+Difference between the positions: 4
 
-Word 'dysthymia' found at position 7 in both lists
+Word 'fibromyalgia' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'comorbid' found at position 7 and 12
+Difference between the positions: 5
 
 Word 'symptomatology' found at position 8 and 9
 Difference between the positions: 1
 
-Word 'ptsd' found at position 9 and 5
-Difference between the positions: 4
+Word 'parkinsonian' found at position 9 and 32
+Difference between the positions: 23
 
 Word 'parkinsonism' found at position 10 and 11
 Difference between the positions: 1
 
-Word 'parkinsonian' found at position 11 and 32
-Difference between the positions: 21
+Word 'autism' found at position 11 and 13
+Difference between the positions: 2
 
-Word 'symptomology' found at position 12 and 29
+Word 'psychoses' found at position 12 and 21
+Difference between the positions: 9
+
+Word 'dementia' found at position 13 and 30
 Difference between the positions: 17
 
-Word 'migraines' found at position 13 and 19
-Difference between the positions: 6
+Word 'psychopathy' found at position 14 and 38
+Difference between the positions: 24
 
-Word 'dyskinesia' found at position 14 and 28
-Difference between the positions: 14
+Word 'hyperthyroidism' found at position 15 and 34
+Difference between the positions: 19
 
-Word 'obsessive–compulsive' found at position 15 and 33
-Difference between the positions: 18
+Word 'aphasia' found at position 16 and 47
+Difference between the positions: 31
 
-Word 'migraine' found at position 16 and 20
+Word 'hypothyroidism' found at position 17 and 27
+Difference between the positions: 10
+
+Word 'dystonia' found at position 18 and 48
+Difference between the positions: 30
+
+Word 'schizophrenics' found at position 19 and 15
 Difference between the positions: 4
 
-Word 'anosognosia' found at position 17 and 79
-Difference between the positions: 62
-
-Word 'hypersexuality' found at position 18 and 26
-Difference between the positions: 8
-
-Word 'endometriosis' found at position 19 and 18
-Difference between the positions: 1
-
-Word 'dystonia' found at position 20 and 48
-Difference between the positions: 28
+Word 'hyperactivity' found at position 20 and 43
+Difference between the positions: 23
 
 
 For the word 'placebo', the nearest words are: 
 
 Novice List (Top 20): 
-['metformin', 'paroxetine', 'monotherapy', 'sertraline', 'fluoxetine', 'placebos', 'letrozole', 'venlafaxine', 'sorafenib', 'randomized', 'naproxen', 'sunitinib', 'ranibizumab', 'rosiglitazone', 'pioglitazone', 'bevacizumab', 'simvastatin', 'imipramine', 'bicalutamide', 'dose']
+['sertraline', 'paroxetine', 'fluoxetine', 'monotherapy', 'letrozole', 'venlafaxine', 'metformin', 'dexamethasone', 'randomized', 'sorafenib', 'placebos', 'ribavirin', 'pioglitazone', 'imipramine', 'duloxetine', 'olanzapine', 'bupropion', 'ranibizumab', 'gefitinib', 'citalopram']
 
 Expert List (Top 100): 
 ['monotherapy', 'sertraline', 'paroxetine', 'metformin', 'ribavirin', 'randomized', 'letrozole', 'venlafaxine', 'fluoxetine', 'citalopram', 'sorafenib', 'pioglitazone', 'duloxetine', 'dexamethasone', 'lenalidomide', 'imipramine', 'randomised', 'haloperidol', 'bupropion', 'escitalopram', 'ranibizumab', 'methotrexate', 'brimonidine', 'rosiglitazone', 'prednisone', 'olanzapine', 'flutamide', 'simvastatin', 'sunitinib', 'naproxen', 'dose', 'everolimus', 'statin', 'quetiapine', 'gabapentin', 'tamoxifen', 'cisplatin', 'tenofovir', 'diazepam', 'lorazepam', 'ondansetron', 'bevacizumab', 'methylphenidate', 'clopidogrel', 'aripiprazole', 'placebos', 'gemcitabine', 'warfarin', 'abvd', 'linezolid', 'carbamazepine', 'clomipramine', 'minocycline', 'rosuvastatin', 'entacapone', 'isoniazid', 'rituximab', 'cetuximab', 'temozolomide', 'risperidone', 'milnacipran', 'fluvoxamine', 'natalizumab', 'sitagliptin', 'albendazole', 'clonazepam', 'cyclophosphamide', 'naltrexone', 'chlorpromazine', 'candesartan', 'mebendazole', 'lamotrigine', 'baclofen', 'valaciclovir', 'sirolimus', 'amitriptyline', 'dosage', 'capecitabine', 'pregabalin', 'reboxetine', 'propofol', 'azathioprine', 'buprenorphine', 'aspirin', 'dabigatran', 'metoclopramide', 'spironolactone', 'metronidazole', 'mirtazapine', 'mitoxantrone', 'ketamine', 'anticoagulation', 'atorvastatin', 'clozapine', 'statins', 'etanercept', 'doxycycline', 'alprazolam', 'ipilimumab', 'topiramate']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'metformin' found at position 1 and 4
-Difference between the positions: 3
+Word 'sertraline' found at position 1 and 2
+Difference between the positions: 1
 
 Word 'paroxetine' found at position 2 and 3
 Difference between the positions: 1
 
-Word 'monotherapy' found at position 3 and 1
-Difference between the positions: 2
+Word 'fluoxetine' found at position 3 and 9
+Difference between the positions: 6
 
-Word 'sertraline' found at position 4 and 2
-Difference between the positions: 2
-
-Word 'fluoxetine' found at position 5 and 9
-Difference between the positions: 4
-
-Word 'placebos' found at position 6 and 46
-Difference between the positions: 40
-
-Word 'letrozole' found at position 7 in both lists
-
-Word 'venlafaxine' found at position 8 in both lists
-
-Word 'sorafenib' found at position 9 and 11
-Difference between the positions: 2
-
-Word 'randomized' found at position 10 and 6
-Difference between the positions: 4
-
-Word 'naproxen' found at position 11 and 30
-Difference between the positions: 19
-
-Word 'sunitinib' found at position 12 and 29
-Difference between the positions: 17
-
-Word 'ranibizumab' found at position 13 and 21
-Difference between the positions: 8
-
-Word 'rosiglitazone' found at position 14 and 24
-Difference between the positions: 10
-
-Word 'pioglitazone' found at position 15 and 12
+Word 'monotherapy' found at position 4 and 1
 Difference between the positions: 3
 
-Word 'bevacizumab' found at position 16 and 42
-Difference between the positions: 26
-
-Word 'simvastatin' found at position 17 and 28
-Difference between the positions: 11
-
-Word 'imipramine' found at position 18 and 16
+Word 'letrozole' found at position 5 and 7
 Difference between the positions: 2
 
-'bicalutamide' at position 19 is not present in Expert list
+Word 'venlafaxine' found at position 6 and 8
+Difference between the positions: 2
 
-Word 'dose' found at position 20 and 31
-Difference between the positions: 11
+Word 'metformin' found at position 7 and 4
+Difference between the positions: 3
+
+Word 'dexamethasone' found at position 8 and 14
+Difference between the positions: 6
+
+Word 'randomized' found at position 9 and 6
+Difference between the positions: 3
+
+Word 'sorafenib' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'placebos' found at position 11 and 46
+Difference between the positions: 35
+
+Word 'ribavirin' found at position 12 and 5
+Difference between the positions: 7
+
+Word 'pioglitazone' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'imipramine' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'duloxetine' found at position 15 and 13
+Difference between the positions: 2
+
+Word 'olanzapine' found at position 16 and 26
+Difference between the positions: 10
+
+Word 'bupropion' found at position 17 and 19
+Difference between the positions: 2
+
+Word 'ranibizumab' found at position 18 and 21
+Difference between the positions: 3
+
+'gefitinib' at position 19 is not present in Expert list
+
+Word 'citalopram' found at position 20 and 10
+Difference between the positions: 10
 
 
 For the word 'psychosurgery', the nearest words are: 
 
 Novice List (Top 20): 
-['leucotomy', 'lobotomy', 'ect', 'laparoscopy', 'transorbital', 'electroconvulsive', 'nonsurgical', 'electrotherapy', 'anaesthesia', 'vaginoplasty', 'pharmacotherapy', 'hypnotherapy', 'neurosurgical', 'tonsillectomy', 'tracheotomy', 'laparoscopic', 'radiotherapy', 'psychotherapeutic', 'prophylactic', 'stereotactic']
+['leucotomy', 'ect', 'transorbital', 'lobotomy', 'electrotherapy', 'electroconvulsive', 'nonsurgical', 'neurosurgical', 'laparoscopy', 'anaesthesia', 'pharmacotherapy', 'adenoidectomy', 'tonsillectomy', 'psychotherapeutic', 'microsurgical', 'tracheotomy', 'prophylactic', 'hypnotherapy', 'stereotactic', 'anticoagulation']
 
 Expert List (Top 100): 
 ['ect', 'leucotomy', 'lobotomy', 'transorbital', 'electrotherapy', 'pharmacotherapy', 'laparoscopy', 'electroconvulsive', 'nonsurgical', 'tonsillectomy', 'anaesthesia', 'hypnotherapy', 'hemodialysis', 'neurosurgical', 'lithotripsy', 'tracheotomy', 'stereotactic', 'psychotherapeutic', 'endovascular', 'vaginoplasty', 'prophylactic', 'intraoperative', 'dermatological', 'cryosurgery', 'anticoagulation', 'homeopathy', 'laparoscopic', 'endometriosis', 'adenoidectomy', 'gynecologic', 'cryoablation', 'neuroimaging', 'microsurgery', 'lobotomies', 'hysterectomy', 'asepsis', 'stenting', 'psychopharmacology', 'mastectomies', 'resuscitation', 'obstetrical', 'treatment', 'hysterectomies', 'ercp', 'oncological', 'craniotomy', 'biofeedback', 'radiotherapy', 'treatments', 'cholecystectomy', 'anesthesia', 'liposuction', 'neurosurgery', 'obstetric', 'autotransfusion', 'lasik', 'ultrasonography', 'percutaneous', 'chlorpromazine', 'laparotomy', 'arthroscopy', 'angioplasty', 'therapy', 'sedation', 'postoperative', 'gynaecological', 'thrombolysis', 'phototherapy', 'surgical', 'botox', 'fluoroscopy', 'interventional', 'therapies', 'radiosurgery', 'oncologic', 'curettage', 'surgeries', 'vertebroplasty', 'sabuncuoğlu', 'stapedectomy', 'cryotherapy', 'dermabrasion', 'psychotherapy', 'endoscopic', 'hypnosis', 'cauterization', 'catheterization', 'nephrolithotomy', 'oophorectomy', 'antisepsis', 'gynecological', 'noninvasive', 'endodontic', 'microsurgical', 'defibrillation', 'prolotherapy', 'ivf', 'transplantation', 'mesmerism', 'emdr']
@@ -944,17 +951,16 @@ Comparing the words between Novice and Expert list, we can observe:
 Word 'leucotomy' found at position 1 and 2
 Difference between the positions: 1
 
-Word 'lobotomy' found at position 2 and 3
+Word 'ect' found at position 2 and 1
 Difference between the positions: 1
 
-Word 'ect' found at position 3 and 1
-Difference between the positions: 2
-
-Word 'laparoscopy' found at position 4 and 7
-Difference between the positions: 3
-
-Word 'transorbital' found at position 5 and 4
+Word 'transorbital' found at position 3 and 4
 Difference between the positions: 1
+
+Word 'lobotomy' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'electrotherapy' found at position 5 in both lists
 
 Word 'electroconvulsive' found at position 6 and 8
 Difference between the positions: 2
@@ -962,57 +968,60 @@ Difference between the positions: 2
 Word 'nonsurgical' found at position 7 and 9
 Difference between the positions: 2
 
-Word 'electrotherapy' found at position 8 and 5
-Difference between the positions: 3
+Word 'neurosurgical' found at position 8 and 14
+Difference between the positions: 6
 
-Word 'anaesthesia' found at position 9 and 11
+Word 'laparoscopy' found at position 9 and 7
 Difference between the positions: 2
 
-Word 'vaginoplasty' found at position 10 and 20
-Difference between the positions: 10
+Word 'anaesthesia' found at position 10 and 11
+Difference between the positions: 1
 
 Word 'pharmacotherapy' found at position 11 and 6
 Difference between the positions: 5
 
-Word 'hypnotherapy' found at position 12 in both lists
+Word 'adenoidectomy' found at position 12 and 29
+Difference between the positions: 17
 
-Word 'neurosurgical' found at position 13 and 14
-Difference between the positions: 1
+Word 'tonsillectomy' found at position 13 and 10
+Difference between the positions: 3
 
-Word 'tonsillectomy' found at position 14 and 10
+Word 'psychotherapeutic' found at position 14 and 18
 Difference between the positions: 4
 
-Word 'tracheotomy' found at position 15 and 16
-Difference between the positions: 1
+Word 'microsurgical' found at position 15 and 94
+Difference between the positions: 79
 
-Word 'laparoscopic' found at position 16 and 27
-Difference between the positions: 11
+Word 'tracheotomy' found at position 16 in both lists
 
-Word 'radiotherapy' found at position 17 and 48
-Difference between the positions: 31
+Word 'prophylactic' found at position 17 and 21
+Difference between the positions: 4
 
-Word 'psychotherapeutic' found at position 18 in both lists
+Word 'hypnotherapy' found at position 18 and 12
+Difference between the positions: 6
 
-Word 'prophylactic' found at position 19 and 21
+Word 'stereotactic' found at position 19 and 17
 Difference between the positions: 2
 
-Word 'stereotactic' found at position 20 and 17
-Difference between the positions: 3
+Word 'anticoagulation' found at position 20 and 25
+Difference between the positions: 5
 
 
 For the word 'psychotherapy', the nearest words are: 
 
 Novice List (Top 20): 
-['psychoanalysis', 'psychotherapeutic', 'psychodynamic', 'psychoanalytic', 'hypnotherapy', 'therapy', 'psychology', 'psychiatry', 'adlerian', 'psychopathology', 'gestalt', 'psychotherapies', 'psychosynthesis', 'transpersonal', 'reichian', 'psychotherapists', 'psychodrama', 'psychologists', 'counseling', 'abreaction']
+['psychotherapeutic', 'psychoanalysis', 'psychodynamic', 'psychoanalytic', 'hypnotherapy', 'psychiatry', 'psychology', 'therapy', 'ericksonian', 'gestalt', 'psychopathology', 'adlerian', 'psychotherapists', 'transpersonal', 'counseling', 'psychosynthesis', 'neuropsychology', 'psychologists', 'jungian', 'psychopharmacology']
 
 Expert List (Top 100): 
 ['psychoanalysis', 'psychotherapeutic', 'psychodynamic', 'psychoanalytic', 'hypnotherapy', 'therapy', 'psychiatry', 'psychology', 'psychodrama', 'psychopathology', 'adlerian', 'psychotherapists', 'gestalt', 'transpersonal', 'psychotherapies', 'psychosynthesis', 'psychologists', 'counseling', 'reichian', 'rebt', 'abreaction', 'psychopharmacology', 'hakomi', 'mindfulness', 'jungian', 'hypnosis', 'psychotherapist', 'therapeutic', 'psychoanalytical', 'counselling', 'cbt', 'biofeedback', 'psychological', 'neuropsychology', 'bibliotherapy', 'integrative', 'neuroscience', 'ericksonian', 'mentalization', 'psychoanalyst', 'psychosocial', 'therapies', 'psychoanalysts', 'logotherapy', 'therapists', 'pharmacotherapy', 'nondirective', 'rogerian', 'bobath', 'therapist', 'behaviorism', 'countertransference', 'pedagogy', 'psychodynamics', 'phenomenology', 'psychiatric', 'clinical', 'reparative', 'neurology', 'emdr', 'cognitive', 'behavioral', 'psychophysiology', 'freudian', 'chiropractic', 'meditation', 'manualized', 'schizophrenia', 'cognition', 'psychoeducational', 'phenomenological', 'clinicians', 'behaviourism', 'mbsr', 'neuropsychiatry', 'casriel', 'psychiatrists', 'attunement', 'homeopathy', 'daseinsanalysis', 'freud', 'hypnotism', 'humanistic', 'sociological', 'neurofeedback', 'neuropathology', 'breathwork', 'multitheoretical', 'sexology', 'istdp', 'metacognition', 'transference', 'electroconvulsive', 'neuropsychologist', 'sociometry', 'psychosurgery', 'neurobiology', 'reparenting', 'psychopathological', 'experiential']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'psychoanalysis' found at position 1 in both lists
+Word 'psychotherapeutic' found at position 1 and 2
+Difference between the positions: 1
 
-Word 'psychotherapeutic' found at position 2 in both lists
+Word 'psychoanalysis' found at position 2 and 1
+Difference between the positions: 1
 
 Word 'psychodynamic' found at position 3 in both lists
 
@@ -1020,53 +1029,54 @@ Word 'psychoanalytic' found at position 4 in both lists
 
 Word 'hypnotherapy' found at position 5 in both lists
 
-Word 'therapy' found at position 6 in both lists
+Word 'psychiatry' found at position 6 and 7
+Difference between the positions: 1
 
 Word 'psychology' found at position 7 and 8
 Difference between the positions: 1
 
-Word 'psychiatry' found at position 8 and 7
+Word 'therapy' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'ericksonian' found at position 9 and 38
+Difference between the positions: 29
+
+Word 'gestalt' found at position 10 and 13
+Difference between the positions: 3
+
+Word 'psychopathology' found at position 11 and 10
 Difference between the positions: 1
 
-Word 'adlerian' found at position 9 and 11
-Difference between the positions: 2
+Word 'adlerian' found at position 12 and 11
+Difference between the positions: 1
 
-Word 'psychopathology' found at position 10 in both lists
-
-Word 'gestalt' found at position 11 and 13
-Difference between the positions: 2
-
-Word 'psychotherapies' found at position 12 and 15
-Difference between the positions: 3
-
-Word 'psychosynthesis' found at position 13 and 16
-Difference between the positions: 3
+Word 'psychotherapists' found at position 13 and 12
+Difference between the positions: 1
 
 Word 'transpersonal' found at position 14 in both lists
 
-Word 'reichian' found at position 15 and 19
-Difference between the positions: 4
+Word 'counseling' found at position 15 and 18
+Difference between the positions: 3
 
-Word 'psychotherapists' found at position 16 and 12
-Difference between the positions: 4
+Word 'psychosynthesis' found at position 16 in both lists
 
-Word 'psychodrama' found at position 17 and 9
-Difference between the positions: 8
+Word 'neuropsychology' found at position 17 and 34
+Difference between the positions: 17
 
 Word 'psychologists' found at position 18 and 17
 Difference between the positions: 1
 
-Word 'counseling' found at position 19 and 18
-Difference between the positions: 1
+Word 'jungian' found at position 19 and 25
+Difference between the positions: 6
 
-Word 'abreaction' found at position 20 and 21
-Difference between the positions: 1
+Word 'psychopharmacology' found at position 20 and 22
+Difference between the positions: 2
 
 
 For the word 'reinforcement', the nearest words are: 
 
 Novice List (Top 20): 
-['reinforcements', 'reinforcing', 'redeployment', 'reinforce', 'stiffening', 'reinforced', 'feedback', 'deployment', 'geocells', 'modification', 'resupply', 'stimulation', 'shotcrete', 'reinforcer', 'damping', 'augmentation', 'compressive', 'replenishment', 'mobilization', 'activation']
+['reinforcements', 'reinforcing', 'stiffening', 'reinforce', 'redeployment', 'reinforced', 'resupply', 'deployment', 'stimulation', 'shotcrete', 'mobilization', 'feedback', 'modification', 'replenishment', 'damping', 'stiffness', 'geocells', 'activation', 'compressive', 'defences']
 
 Expert List (Top 100): 
 ['reinforcements', 'reinforcing', 'reinforce', 'redeployment', 'stiffening', 'reinforced', 'feedback', 'replenishment', 'resupply', 'deployment', 'modification', 'reinforcer', 'mobilization', 'buckling', 'stimulation', 'compressive', 'activation', 'neoloy', 'damping', 'shotcrete', 'contingency', 'geocells', 'mobilisation', 'stiffness', 'neutralization', 'adjustment', 'ventilation', 'intervention', 'augmentation', 'defences', 'evacuation', 'reinforcers', 'feedbacks', 'priming', 'provisioning', 'resupplying', 'replacements', 'waterproofing', 'feedforward', 'logistic', 'defenses', 'biasing', 'stress', 'withdrawal', 'stimulus', 'troops', 'geogrids', 'buildup', 'evaluation', 'qrf', 'rct', 'tensile', 'contingencies', 'signal', 'support', 'signals', 'prestressing', 'bombardment', 'deactivation', 'vibration', 'lubrication', 'retraining', 'strengthening', 'rigidity', 'arsk', 'insulation', 'supply', 'diversionary', 'counterattack', 'falsework', 'diversion', 'stabilisation', 'stability', 'stimuli', 'sensitization', 'actuation', 'relieving', 'cohesion', 'detachment', 'redundancy', 'forces', 'besiegers', 'entrenchment', 'corrosion', 'garrisons', 'adhesion', 'interventions', 'fireforce', 'filtering', 'detachments', 'immobilization', 'enhancement', 'inputs', 'tunnellers', 'kscb', 'redeployments', 'skirmishing', 'reassurance', 'pva', 'ngvr']
@@ -1077,62 +1087,64 @@ Word 'reinforcements' found at position 1 in both lists
 
 Word 'reinforcing' found at position 2 in both lists
 
-Word 'redeployment' found at position 3 and 4
-Difference between the positions: 1
+Word 'stiffening' found at position 3 and 5
+Difference between the positions: 2
 
 Word 'reinforce' found at position 4 and 3
 Difference between the positions: 1
 
-Word 'stiffening' found at position 5 in both lists
+Word 'redeployment' found at position 5 and 4
+Difference between the positions: 1
 
 Word 'reinforced' found at position 6 in both lists
 
-Word 'feedback' found at position 7 in both lists
+Word 'resupply' found at position 7 and 9
+Difference between the positions: 2
 
 Word 'deployment' found at position 8 and 10
 Difference between the positions: 2
 
-Word 'geocells' found at position 9 and 22
-Difference between the positions: 13
+Word 'stimulation' found at position 9 and 15
+Difference between the positions: 6
 
-Word 'modification' found at position 10 and 11
-Difference between the positions: 1
+Word 'shotcrete' found at position 10 and 20
+Difference between the positions: 10
 
-Word 'resupply' found at position 11 and 9
+Word 'mobilization' found at position 11 and 13
 Difference between the positions: 2
 
-Word 'stimulation' found at position 12 and 15
-Difference between the positions: 3
+Word 'feedback' found at position 12 and 7
+Difference between the positions: 5
 
-Word 'shotcrete' found at position 13 and 20
-Difference between the positions: 7
-
-Word 'reinforcer' found at position 14 and 12
+Word 'modification' found at position 13 and 11
 Difference between the positions: 2
+
+Word 'replenishment' found at position 14 and 8
+Difference between the positions: 6
 
 Word 'damping' found at position 15 and 19
 Difference between the positions: 4
 
-Word 'augmentation' found at position 16 and 29
-Difference between the positions: 13
+Word 'stiffness' found at position 16 and 24
+Difference between the positions: 8
 
-Word 'compressive' found at position 17 and 16
+Word 'geocells' found at position 17 and 22
+Difference between the positions: 5
+
+Word 'activation' found at position 18 and 17
 Difference between the positions: 1
 
-Word 'replenishment' found at position 18 and 8
-Difference between the positions: 10
-
-Word 'mobilization' found at position 19 and 13
-Difference between the positions: 6
-
-Word 'activation' found at position 20 and 17
+Word 'compressive' found at position 19 and 16
 Difference between the positions: 3
+
+Word 'defences' found at position 20 and 30
+Difference between the positions: 10
 
 
 For the word 'response', the nearest words are: 
 
 Novice List (Top 20): 
-['responding', 'responses', 'reaction', 'respond', 'reply', 'due', 'responsiveness', 'counteraction', 'rejoinder', 'resulting', 'reacting', 'rebuttal', 'counter', 'counteract', 'reactions', 'rebuke', 'regards', 'relation', 'prompt', 'contrast']
+['responding', 'responses', 'reaction', 'respond', 'responsiveness', 'due', 'reply', 'counteract', 'reacting', 'counter', 'resulting', 'rebuttal', 'reactions', 'relation', 'counteraction', 'prompt', 'regards', 'feedback', 'mitigate', 'rebuke']
 
 Expert List (Top 100): 
 ['responding', 'responses', 'reaction', 'respond', 'due', 'reply', 'rebuttal', 'responsiveness', 'resulting', 'counter', 'counteract', 'reactions', 'relation', 'reacting', 'regards', 'rejoinder', 'feedback', 'mitigate', 'rebuke', 'prompt', 'elicit', 'owing', 'condemnation', 'protest', 'address', 'suppress', 'contrast', 'quell', 'report', 'provoke', 'rebuttals', 'addition', 'intervention', 'support', 'retaliatory', 'preparedness', 'result', 'resolve', 'insensitivity', 'retaliation', 'defensiveness', 'sensitivity', 'aftermath', 'stressor', 'backlash', 'vulnerability', 'overreaction', 'eliciting', 'regard', 'answer', 'responded', 'alleviate', 'adherence', 'denunciation', 'solution', 'statement', 'prevent', 'consequence', 'urgency', 'unresponsiveness', 'countering', 'virologic', 'assuage', 'sensitisation', 'wake', 'regarding', 'rejection', 'preemptive', 'remedy', 'avert', 'riposte', 'opposition', 'forestall', 'escalation', 'approach', 'provocation', 'retraction', 'avoid', 'hypertensive', 'addisonian', 'addressing', 'criticism', 'reduction', 'elicited', 'indifference', 'reinforcement', 'responsive', 'context', 'instigate', 'threat', 'counteraction', 'rectify', 'antigovernment', 'triggering', 'robocall', 'threats', 'justify', 'resistance', 'interoceptive', 'inaction']
@@ -1147,125 +1159,124 @@ Word 'reaction' found at position 3 in both lists
 
 Word 'respond' found at position 4 in both lists
 
-Word 'reply' found at position 5 and 6
-Difference between the positions: 1
+Word 'responsiveness' found at position 5 and 8
+Difference between the positions: 3
 
 Word 'due' found at position 6 and 5
 Difference between the positions: 1
 
-Word 'responsiveness' found at position 7 and 8
+Word 'reply' found at position 7 and 6
 Difference between the positions: 1
 
-Word 'counteraction' found at position 8 and 91
-Difference between the positions: 83
-
-Word 'rejoinder' found at position 9 and 16
-Difference between the positions: 7
-
-Word 'resulting' found at position 10 and 9
-Difference between the positions: 1
-
-Word 'reacting' found at position 11 and 14
+Word 'counteract' found at position 8 and 11
 Difference between the positions: 3
+
+Word 'reacting' found at position 9 and 14
+Difference between the positions: 5
+
+Word 'counter' found at position 10 in both lists
+
+Word 'resulting' found at position 11 and 9
+Difference between the positions: 2
 
 Word 'rebuttal' found at position 12 and 7
 Difference between the positions: 5
 
-Word 'counter' found at position 13 and 10
-Difference between the positions: 3
+Word 'reactions' found at position 13 and 12
+Difference between the positions: 1
 
-Word 'counteract' found at position 14 and 11
-Difference between the positions: 3
+Word 'relation' found at position 14 and 13
+Difference between the positions: 1
 
-Word 'reactions' found at position 15 and 12
-Difference between the positions: 3
+Word 'counteraction' found at position 15 and 91
+Difference between the positions: 76
 
-Word 'rebuke' found at position 16 and 19
-Difference between the positions: 3
+Word 'prompt' found at position 16 and 20
+Difference between the positions: 4
 
 Word 'regards' found at position 17 and 15
 Difference between the positions: 2
 
-Word 'relation' found at position 18 and 13
-Difference between the positions: 5
-
-Word 'prompt' found at position 19 and 20
+Word 'feedback' found at position 18 and 17
 Difference between the positions: 1
 
-Word 'contrast' found at position 20 and 27
-Difference between the positions: 7
+Word 'mitigate' found at position 19 and 18
+Difference between the positions: 1
+
+Word 'rebuke' found at position 20 and 19
+Difference between the positions: 1
 
 
 For the word 'ruminate', the nearest words are: 
 
 Novice List (Top 20): 
-['ruminating', 'overeat', 'rumination', 'defecate', 'urinate', 'fixate', 'ingest', 'regurgitate', 'vocalize', 'subsist', 'oviposit', 'drooling', 'excrete', 'musing', 'copulate', 'fantasize', 'trample', 'consume', 'procreate', 'eat']
+['rumination', 'ruminating', 'defecate', 'regurgitate', 'reminisce', 'regurgitated', 'linger', 'regurgitating', 'excrete', 'overeat', 'urinate', 'musing', 'ingest', 'nibbling', 'oviposit', 'fixate', 'wander', 'pondering', 'gorging', 'graze']
 
 Expert List (Top 100): 
 ['ruminating', 'rumination', 'musing', 'overeat', 'fixate', 'linger', 'defecate', 'urinate', 'pondering', 'reminisce', 'ruminates', 'obsess', 'drooling', 'moodiness', 'possessiveness', 'overeating', 'regurgitate', 'instinctual', 'internalize', 'protectiveness', 'lingers', 'meditate', 'graze', 'gluttony', 'pleasurable', 'introverts', 'passivity', 'satiation', 'ruminations', 'brooding', 'maladaptive', 'commiserate', 'subsist', 'dullness', 'contemplate', 'messiness', 'behave', 'vocalize', 'trample', 'appetitive', 'fantasize', 'misinterpret', 'salivate', 'procreate', 'defensiveness', 'feeding', 'foolishness', 'ingest', 'startle', 'irritability', 'prosocial', 'agonized', 'perceive', 'fatalistic', 'immaturity', 'reciprocate', 'wander', 'gloat', 'oftentimes', 'impulsivity', 'forgetfulness', 'restlessness', 'introspect', 'lamenting', 'picky', 'appetites', 'hedonistic', 'meditates', 'egocentric', 'reminiscing', 'impulsiveness', 'laziness', 'aversions', 'moralize', 'promiscuity', 'cravings', 'dejection', 'bicker', 'mothering', 'pounces', 'overreact', 'overfeeding', 'listlessness', 'aimlessness', 'satiety', 'wallow', 'selfishness', 'compulsions', 'craving', 'choosy', 'discoursing', 'philosophize', 'forgetting', 'feign', 'nibbling', 'perfectionists', 'irritate', 'oversimplify', 'satiate', 'consume']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'ruminating' found at position 1 in both lists
-
-Word 'overeat' found at position 2 and 4
-Difference between the positions: 2
-
-Word 'rumination' found at position 3 and 2
+Word 'rumination' found at position 1 and 2
 Difference between the positions: 1
 
-Word 'defecate' found at position 4 and 7
-Difference between the positions: 3
-
-Word 'urinate' found at position 5 and 8
-Difference between the positions: 3
-
-Word 'fixate' found at position 6 and 5
+Word 'ruminating' found at position 2 and 1
 Difference between the positions: 1
 
-Word 'ingest' found at position 7 and 48
-Difference between the positions: 41
+Word 'defecate' found at position 3 and 7
+Difference between the positions: 4
 
-Word 'regurgitate' found at position 8 and 17
+Word 'regurgitate' found at position 4 and 17
+Difference between the positions: 13
+
+Word 'reminisce' found at position 5 and 10
+Difference between the positions: 5
+
+'regurgitated' at position 6 is not present in Expert list
+
+Word 'linger' found at position 7 and 6
+Difference between the positions: 1
+
+'regurgitating' at position 8 is not present in Expert list
+
+'excrete' at position 9 is not present in Expert list
+
+Word 'overeat' found at position 10 and 4
+Difference between the positions: 6
+
+Word 'urinate' found at position 11 and 8
+Difference between the positions: 3
+
+Word 'musing' found at position 12 and 3
 Difference between the positions: 9
 
-Word 'vocalize' found at position 9 and 38
-Difference between the positions: 29
+Word 'ingest' found at position 13 and 48
+Difference between the positions: 35
 
-Word 'subsist' found at position 10 and 33
-Difference between the positions: 23
+Word 'nibbling' found at position 14 and 95
+Difference between the positions: 81
 
-'oviposit' at position 11 is not present in Expert list
+'oviposit' at position 15 is not present in Expert list
 
-Word 'drooling' found at position 12 and 13
-Difference between the positions: 1
-
-'excrete' at position 13 is not present in Expert list
-
-Word 'musing' found at position 14 and 3
+Word 'fixate' found at position 16 and 5
 Difference between the positions: 11
 
-'copulate' at position 15 is not present in Expert list
+Word 'wander' found at position 17 and 57
+Difference between the positions: 40
 
-Word 'fantasize' found at position 16 and 41
-Difference between the positions: 25
+Word 'pondering' found at position 18 and 9
+Difference between the positions: 9
 
-Word 'trample' found at position 17 and 39
-Difference between the positions: 22
+'gorging' at position 19 is not present in Expert list
 
-Word 'consume' found at position 18 and 100
-Difference between the positions: 82
-
-Word 'procreate' found at position 19 and 44
-Difference between the positions: 25
-
-'eat' at position 20 is not present in Expert list
+Word 'graze' found at position 20 and 23
+Difference between the positions: 3
 
 
 For the word 'ruminated', the nearest words are: 
 
 Novice List (Top 20): 
-['musing', 'elaborates', 'dotes', 'mused', 'pondered', 'embarks', 'capitalizes', 'doted', 'remarking', 'commenting', 'remarked', 'soldiered', 'reminisced', '—depending', 'expounds', 'reminisces', 'ruminates', 'foisted', 'commented', 'bestows']
+['musing', 'mused', 'spied', 'fawned', 'pondered', 'speculating', 'bragged', 'ruminates', 'doted', 'joked', 'reminisced', 'intimated', 'quipped', 'remarked', 'drooled', 'briefed', 'cheated', 'swooned', 'speculates', 'lamented']
 
 Expert List (Top 100): 
 ['musing', 'ruminates', 'reminisced', 'remembers', 'mused', 'pondered', 'commenting', 'remarked', 'chanced', 'lamenting', 'capitalizes', 'lamented', 'expounds', 'elaborates', 'joked', 'recalls', 'remember', 'commented', 'speculates', 'spied', 'laments', 'wondered', 'reminisces', 'philosophizes', 'doted', 'explains', 'deplore', 'quipped', 'pun', 'recollected', 'speculating', 'bestows', 'remarking', 'know', 'soever', 'lavished', 'foisted', 'speculate', 'bemoan', 'ruminating', 'preys', 'subsisted', 'bemoans', 'vertues', 'fantasized', 'insist', 'talked', 'dawns', 'recounted', 'bestowed', 'frowns', 'goings', 'reminiscing', 'exclaims', 'reminisce', 'opines', 'forgot', 'ruminations', 'remembering', 'narrates', 'capitalizing', 'ponders', 'depended', 'verged', 'pondering', 'commiserate', 'bragged', 'factoids', 'expatiate', 'dawned', 'drooled', 'insists', 'puhak', 'tattles', 'soliloquizes', 'skimps', 'quibble', 'embarks', 'glimpsing', 'intimated', 'bugger', 'shines', 'feasted', 'supervenes', 'disagree', 'impinged', 'buggers', 'skimp', 'inquired', 'recalling', 'binged', 'bemoaned', 'fawned', 'fullframe', 'recounts', 'predicated', 'lingers', 'knows', 'inkling', 'hints']
@@ -1274,82 +1285,79 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'musing' found at position 1 in both lists
 
-Word 'elaborates' found at position 2 and 14
-Difference between the positions: 12
+Word 'mused' found at position 2 and 5
+Difference between the positions: 3
 
-'dotes' at position 3 is not present in Expert list
+Word 'spied' found at position 3 and 20
+Difference between the positions: 17
 
-Word 'mused' found at position 4 and 5
-Difference between the positions: 1
+Word 'fawned' found at position 4 and 93
+Difference between the positions: 89
 
 Word 'pondered' found at position 5 and 6
 Difference between the positions: 1
 
-Word 'embarks' found at position 6 and 78
-Difference between the positions: 72
+Word 'speculating' found at position 6 and 31
+Difference between the positions: 25
 
-Word 'capitalizes' found at position 7 and 11
-Difference between the positions: 4
+Word 'bragged' found at position 7 and 67
+Difference between the positions: 60
 
-Word 'doted' found at position 8 and 25
-Difference between the positions: 17
+Word 'ruminates' found at position 8 and 2
+Difference between the positions: 6
 
-Word 'remarking' found at position 9 and 33
-Difference between the positions: 24
+Word 'doted' found at position 9 and 25
+Difference between the positions: 16
 
-Word 'commenting' found at position 10 and 7
-Difference between the positions: 3
+Word 'joked' found at position 10 and 15
+Difference between the positions: 5
 
-Word 'remarked' found at position 11 and 8
-Difference between the positions: 3
+Word 'reminisced' found at position 11 and 3
+Difference between the positions: 8
 
-'soldiered' at position 12 is not present in Expert list
+Word 'intimated' found at position 12 and 80
+Difference between the positions: 68
 
-Word 'reminisced' found at position 13 and 3
-Difference between the positions: 10
-
-'—depending' at position 14 is not present in Expert list
-
-Word 'expounds' found at position 15 and 13
-Difference between the positions: 2
-
-Word 'reminisces' found at position 16 and 23
-Difference between the positions: 7
-
-Word 'ruminates' found at position 17 and 2
+Word 'quipped' found at position 13 and 28
 Difference between the positions: 15
 
-Word 'foisted' found at position 18 and 37
-Difference between the positions: 19
+Word 'remarked' found at position 14 and 8
+Difference between the positions: 6
 
-Word 'commented' found at position 19 and 18
-Difference between the positions: 1
+Word 'drooled' found at position 15 and 71
+Difference between the positions: 56
 
-Word 'bestows' found at position 20 and 32
-Difference between the positions: 12
+'briefed' at position 16 is not present in Expert list
+
+'cheated' at position 17 is not present in Expert list
+
+'swooned' at position 18 is not present in Expert list
+
+Word 'speculates' found at position 19 in both lists
+
+Word 'lamented' found at position 20 and 12
+Difference between the positions: 8
 
 
 For the word 'ruminates', the nearest words are: 
 
 Novice List (Top 20): 
-['meditates', 'musing', 'dotes', 'ponders', 'ruminating', 'expounds', 'doted', 'elaborates', 'fixated', 'embarks', 'reminisces', 'contemplates', 'despairs', 'fixates', 'tramples', 'capitalizes', 'frowns', 'laments', 'dawns', 'stumbles']
+['musing', 'meditates', 'dotes', 'reminisces', 'ruminating', 'expounds', 'doted', 'ponders', 'elaborates', 'embarks', 'fixated', 'capitalizes', 'foisted', 'relives', 'frowns', 'pondering', 'contemplates', 'ruminations', 'tramples', 'eavesdrops']
 
 Expert List (Top 100): 
 ['musing', 'meditates', 'ruminating', 'dotes', 'expounds', 'ponders', 'elaborates', 'doted', 'reminisces', 'fixates', 'eavesdrops', 'embarks', 'capitalizes', 'fixated', 'ruminations', 'contemplates', 'insists', 'pondering', 'premised', 'laments', 'verging', 'verged', 'focusses', 'pondered', 'tramples', 'harped', 'pounces', 'frowns', 'dawns', 'relives', 'foisted', 'ponderings', 'fantasizes', 'stumbles', 'preys', 'discoursing', 'eavesdropped', 'understands', 'despairs', 'lingers', 'predicated', 'expounding', 'focussing', 'daydreams', 'musings', 'hallucinates', 'rediscovers', 'ruminate', 'inflicts', 'spied', 'encroaches', 'philosophizes', 'impinges', 'discloses', 'tattles', 'forgets', 'expound', 'swears', 'goings', 'misunderstands', 'admires', 'bestows', 'mused', 'divulges', 'reliving', 'craves', 'fixate', 'obsesses', 'inquires', 'insist', 'impinged', 'personifies', 'reevaluates', 'bemoans', 'ridicules', 'learns', 'imagines', 'reminiscing', 'centering', 'dwells', 'elaborating', 'realizes', 'loathes', 'meditating', 'mocks', 'reiterates', 'cherishes', 'remembers', 'realises', 'confides', 'deathbed', 'insinuates', 'thinks', 'discerns', 'grieves', 'anguishes', 'scorns', 'brags', 'deliberates', 'confesses']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'meditates' found at position 1 and 2
-Difference between the positions: 1
+Word 'musing' found at position 1 in both lists
 
-Word 'musing' found at position 2 and 1
-Difference between the positions: 1
+Word 'meditates' found at position 2 in both lists
 
 Word 'dotes' found at position 3 and 4
 Difference between the positions: 1
 
-Word 'ponders' found at position 4 and 6
-Difference between the positions: 2
+Word 'reminisces' found at position 4 and 9
+Difference between the positions: 5
 
 Word 'ruminating' found at position 5 and 3
 Difference between the positions: 2
@@ -1360,50 +1368,50 @@ Difference between the positions: 1
 Word 'doted' found at position 7 and 8
 Difference between the positions: 1
 
-Word 'elaborates' found at position 8 and 7
-Difference between the positions: 1
+Word 'ponders' found at position 8 and 6
+Difference between the positions: 2
 
-Word 'fixated' found at position 9 and 14
-Difference between the positions: 5
+Word 'elaborates' found at position 9 and 7
+Difference between the positions: 2
 
 Word 'embarks' found at position 10 and 12
 Difference between the positions: 2
 
-Word 'reminisces' found at position 11 and 9
-Difference between the positions: 2
-
-Word 'contemplates' found at position 12 and 16
-Difference between the positions: 4
-
-Word 'despairs' found at position 13 and 39
-Difference between the positions: 26
-
-Word 'fixates' found at position 14 and 10
-Difference between the positions: 4
-
-Word 'tramples' found at position 15 and 25
-Difference between the positions: 10
-
-Word 'capitalizes' found at position 16 and 13
+Word 'fixated' found at position 11 and 14
 Difference between the positions: 3
 
-Word 'frowns' found at position 17 and 28
-Difference between the positions: 11
+Word 'capitalizes' found at position 12 and 13
+Difference between the positions: 1
 
-Word 'laments' found at position 18 and 20
+Word 'foisted' found at position 13 and 31
+Difference between the positions: 18
+
+Word 'relives' found at position 14 and 30
+Difference between the positions: 16
+
+Word 'frowns' found at position 15 and 28
+Difference between the positions: 13
+
+Word 'pondering' found at position 16 and 18
 Difference between the positions: 2
 
-Word 'dawns' found at position 19 and 29
-Difference between the positions: 10
+Word 'contemplates' found at position 17 and 16
+Difference between the positions: 1
 
-Word 'stumbles' found at position 20 and 34
-Difference between the positions: 14
+Word 'ruminations' found at position 18 and 15
+Difference between the positions: 3
+
+Word 'tramples' found at position 19 and 25
+Difference between the positions: 6
+
+Word 'eavesdrops' found at position 20 and 11
+Difference between the positions: 9
 
 
 For the word 'ruminating', the nearest words are: 
 
 Novice List (Top 20): 
-['musing', 'pondering', 'meditates', 'rumination', 'ruminates', 'ruminate', 'obsessing', 'ruminations', 'lingers', 'meditating', 'lamenting', 'agonized', 'verging', 'obsess', 'fantasizing', 'anguish', 'despair', 'despairing', 'laments', 'fixated']
+['musing', 'ruminations', 'pondering', 'ruminates', 'meditates', 'rumination', 'obsessing', 'reminiscing', 'lingers', 'fantasizing', 'reminisces', 'laments', 'lamenting', 'daydreams', 'ruminate', 'ponders', 'agonized', 'obsesses', 'dotes', 'musings']
 
 Expert List (Top 100): 
 ['musing', 'ruminates', 'pondering', 'meditates', 'ruminate', 'rumination', 'ruminations', 'lingers', 'fixated', 'obsessing', 'meditating', 'ponders', 'verging', 'lamenting', 'hallucinating', 'dotes', 'overdosing', 'verged', 'fantasizing', 'discoursing', 'reminiscing', 'fixates', 'possessiveness', 'ponderings', 'forgetfulness', 'expounds', 'laments', 'reminisces', 'ranting', 'musings', 'eavesdrops', 'obsess', 'elaborates', 'anguish', 'anxieties', 'doted', 'gloating', 'preying', 'despondency', 'loneliness', 'speculating', 'wallowing', 'pontificating', 'obsesses', 'daydreams', 'daydreaming', 'indolence', 'elaborating', 'urinating', 'moodiness', 'foolishness', 'dejection', 'capitalizes', 'sulking', 'despair', 'reliving', 'goings', 'despairing', 'harped', 'forgetting', 'centering', 'moping', 'thoughts', 'ennui', 'tramples', 'agonised', 'rages', 'weeps', 'defecating', 'tormented', 'masturbatory', 'gluttony', 'commenting', 'pounces', 'anxiousness', 'protectiveness', 'wallows', 'comforting', 'drooling', 'impinges', 'inconsolable', 'worrying', 'rants', 'focussing', 'agonies', 'sadness', 'brooding', 'agonized', 'insecurities', 'nervousness', 'philosophizing', 'anguished', 'fixating', 'gorging', 'consoling', 'fixate', 'paranoia', 'urinates', 'lustful', 'grieves']
@@ -1412,67 +1420,66 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'musing' found at position 1 in both lists
 
-Word 'pondering' found at position 2 and 3
-Difference between the positions: 1
+Word 'ruminations' found at position 2 and 7
+Difference between the positions: 5
 
-Word 'meditates' found at position 3 and 4
-Difference between the positions: 1
+Word 'pondering' found at position 3 in both lists
 
-Word 'rumination' found at position 4 and 6
+Word 'ruminates' found at position 4 and 2
 Difference between the positions: 2
 
-Word 'ruminates' found at position 5 and 2
-Difference between the positions: 3
-
-Word 'ruminate' found at position 6 and 5
+Word 'meditates' found at position 5 and 4
 Difference between the positions: 1
+
+Word 'rumination' found at position 6 in both lists
 
 Word 'obsessing' found at position 7 and 10
 Difference between the positions: 3
 
-Word 'ruminations' found at position 8 and 7
-Difference between the positions: 1
+Word 'reminiscing' found at position 8 and 21
+Difference between the positions: 13
 
 Word 'lingers' found at position 9 and 8
 Difference between the positions: 1
 
-Word 'meditating' found at position 10 and 11
+Word 'fantasizing' found at position 10 and 19
+Difference between the positions: 9
+
+Word 'reminisces' found at position 11 and 28
+Difference between the positions: 17
+
+Word 'laments' found at position 12 and 27
+Difference between the positions: 15
+
+Word 'lamenting' found at position 13 and 14
 Difference between the positions: 1
 
-Word 'lamenting' found at position 11 and 14
-Difference between the positions: 3
+Word 'daydreams' found at position 14 and 45
+Difference between the positions: 31
 
-Word 'agonized' found at position 12 and 88
-Difference between the positions: 76
+Word 'ruminate' found at position 15 and 5
+Difference between the positions: 10
 
-Word 'verging' found at position 13 in both lists
-
-Word 'obsess' found at position 14 and 32
-Difference between the positions: 18
-
-Word 'fantasizing' found at position 15 and 19
+Word 'ponders' found at position 16 and 12
 Difference between the positions: 4
 
-Word 'anguish' found at position 16 and 34
-Difference between the positions: 18
+Word 'agonized' found at position 17 and 88
+Difference between the positions: 71
 
-Word 'despair' found at position 17 and 55
-Difference between the positions: 38
+Word 'obsesses' found at position 18 and 44
+Difference between the positions: 26
 
-Word 'despairing' found at position 18 and 58
-Difference between the positions: 40
+Word 'dotes' found at position 19 and 16
+Difference between the positions: 3
 
-Word 'laments' found at position 19 and 27
-Difference between the positions: 8
-
-Word 'fixated' found at position 20 and 9
-Difference between the positions: 11
+Word 'musings' found at position 20 and 30
+Difference between the positions: 10
 
 
 For the word 'serotonin', the nearest words are: 
 
 Novice List (Top 20): 
-['dopamine', 'norepinephrine', 'monoamine', 'serotonergic', 'noradrenaline', 'acetylcholine', 'neurotransmitter', 'histamine', 'catecholamines', 'aldosterone', 'catecholamine', 'vasopressin', 'oxytocin', 'glutamate', 'gnrh', 'anandamide', 'neurotransmitters', 'dopaminergic', 'cortisol', 'allopregnanolone']
+['dopamine', 'norepinephrine', 'acetylcholine', 'serotonergic', 'monoamine', 'histamine', 'catecholamines', 'noradrenaline', 'neurotransmitter', 'glutamate', 'dopaminergic', 'aldosterone', 'catecholamine', 'neurotransmitters', 'vasopressin', 'glucocorticoids', 'cortisol', 'mineralocorticoid', 'endocannabinoids', 'bradykinin']
 
 Expert List (Top 100): 
 ['dopamine', 'norepinephrine', 'monoamine', 'neurotransmitter', 'acetylcholine', 'noradrenaline', 'catecholamines', 'histamine', 'catecholamine', 'serotonergic', 'glutamate', 'aldosterone', 'cortisol', 'dopaminergic', 'vasopressin', 'neurotransmitters', 'anandamide', 'oxytocin', 'glucocorticoids', 'endocannabinoids', 'bradykinin', 'acetylcholinesterase', 'gnrh', 'mineralocorticoid', 'glucocorticoid', 'gaba', 'allopregnanolone', 'monoamines', 'melatonin', 'neurotransmission', 'cholinergic', 'vasoconstrictor', 'acth', 'neuromodulators', 'nmda', 'estrogen', 'progesterone', 'epinephrine', 'neurotensin', 'reuptake', 'neurosteroid', 'bdnf', 'autoreceptors', 'orexin', 'neurosteroids', 'prolactin', 'octopamine', 'glucagon', 'renin', 'neurotoxicity', 'ghrelin', 'vmat', 'endorphins', 'leptin', 'somatostatin', 'aromatase', 'androgens', 'mglur', 'adrenergic', 'nicotinic', 'mineralocorticoids', 'benzodiazepine', 'trpv', 'trkb', 'vasodilators', 'cholecystokinin', 'prostaglandins', 'npy', 'neurotoxic', 'cholinesterase', 'vasodilator', 'adiponectin', 'thromboxane', 'gabaergic', 'adenosine', 'steroidogenesis', 'glutamatergic', 'gastrin', 'endocannabinoid', 'enkephalins', 'dynorphin', 'tyramine', 'neuropeptides', 'anticholinergic', 'theophylline', 'gabapentin', 'spironolactone', 'pregabalin', 'noradrenergic', 'inhibition', 'reserpine', 'methylphenidate', 'muscarinic', 'dhea', 'agonists', 'clonidine', 'inhibitory', 'opioids', 'ketamine', 'estrogens']
@@ -1483,63 +1490,62 @@ Word 'dopamine' found at position 1 in both lists
 
 Word 'norepinephrine' found at position 2 in both lists
 
-Word 'monoamine' found at position 3 in both lists
+Word 'acetylcholine' found at position 3 and 5
+Difference between the positions: 2
 
 Word 'serotonergic' found at position 4 and 10
 Difference between the positions: 6
 
-Word 'noradrenaline' found at position 5 and 6
-Difference between the positions: 1
-
-Word 'acetylcholine' found at position 6 and 5
-Difference between the positions: 1
-
-Word 'neurotransmitter' found at position 7 and 4
-Difference between the positions: 3
-
-Word 'histamine' found at position 8 in both lists
-
-Word 'catecholamines' found at position 9 and 7
+Word 'monoamine' found at position 5 and 3
 Difference between the positions: 2
 
-Word 'aldosterone' found at position 10 and 12
+Word 'histamine' found at position 6 and 8
 Difference between the positions: 2
 
-Word 'catecholamine' found at position 11 and 9
+Word 'catecholamines' found at position 7 in both lists
+
+Word 'noradrenaline' found at position 8 and 6
 Difference between the positions: 2
 
-Word 'vasopressin' found at position 12 and 15
-Difference between the positions: 3
-
-Word 'oxytocin' found at position 13 and 18
+Word 'neurotransmitter' found at position 9 and 4
 Difference between the positions: 5
 
-Word 'glutamate' found at position 14 and 11
+Word 'glutamate' found at position 10 and 11
+Difference between the positions: 1
+
+Word 'dopaminergic' found at position 11 and 14
 Difference between the positions: 3
 
-Word 'gnrh' found at position 15 and 23
-Difference between the positions: 8
+Word 'aldosterone' found at position 12 in both lists
 
-Word 'anandamide' found at position 16 and 17
-Difference between the positions: 1
-
-Word 'neurotransmitters' found at position 17 and 16
-Difference between the positions: 1
-
-Word 'dopaminergic' found at position 18 and 14
+Word 'catecholamine' found at position 13 and 9
 Difference between the positions: 4
 
-Word 'cortisol' found at position 19 and 13
+Word 'neurotransmitters' found at position 14 and 16
+Difference between the positions: 2
+
+Word 'vasopressin' found at position 15 in both lists
+
+Word 'glucocorticoids' found at position 16 and 19
+Difference between the positions: 3
+
+Word 'cortisol' found at position 17 and 13
+Difference between the positions: 4
+
+Word 'mineralocorticoid' found at position 18 and 24
 Difference between the positions: 6
 
-Word 'allopregnanolone' found at position 20 and 27
-Difference between the positions: 7
+Word 'endocannabinoids' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'bradykinin' found at position 20 and 21
+Difference between the positions: 1
 
 
 For the word 'sleep', the nearest words are: 
 
 Novice List (Top 20): 
-['sleeping', 'asleep', 'eat', 'urinate', 'awake', 'vomit', 'wakefulness', 'insomnia', 'sleeplessness', 'unconsciousness', 'bed', 'crying', 'nrem', 'delirium', 'hallucinations', 'waking', 'stupor', 'pain', 'sleepwalking', 'napping']
+['sleeping', 'asleep', 'eat', 'awake', 'urinate', 'insomnia', 'vomit', 'crying', 'bed', 'stupor', 'waking', 'pain', 'snoring', 'slept', 'stay', 'wakefulness', 'nrem', 'sleepwalking', 'sedation', 'unconsciousness']
 
 Expert List (Top 100): 
 ['sleeping', 'asleep', 'awake', 'insomnia', 'eat', 'urinate', 'wakefulness', 'stupor', 'sleepwalking', 'waking', 'unconsciousness', 'pain', 'crying', 'hallucinations', 'sedation', 'bed', 'sweating', 'sweats', 'vomiting', 'delirium', 'drowsiness', 'vomit', 'slept', 'fainting', 'nrem', 'hyperventilation', 'snoring', 'stay', 'apnoea', 'sleeplessness', 'hypothermia', 'breathe', 'coma', 'sleepiness', 'panting', 'torpor', 'sleeps', 'breathlessness', 'eating', 'shivering', 'fright', 'defecate', 'awaken', 'napping', 'urination', 'dreamless', 'sedated', 'apneas', 'hypopnea', 'convulsions', 'arousals', 'whimpering', 'catalepsy', 'migraines', 'masturbate', 'sedatives', 'hibernation', 'hallucination', 'headaches', 'amnesia', 'somnambulism', 'coughing', 'dreaming', 'drooling', 'hypoglycemia', 'sneezing', 'anesthetized', 'nocturia', 'moaning', 'drink', 'relax', 'somnolence', 'narcolepsy', 'breathing', 'immobility', 'lethargy', 'bruxism', 'cataplexy', 'sickness', 'yawn', 'delirious', 'hallucinating', 'nightmares', 'drugged', 'irritability', 'painkillers', 'polyphasic', 'screams', 'sneeze', 'sobbing', 'unconscious', 'hangovers', 'polyuria', 'hypoglycaemia', 'listen', 'wander', 'fasting', 'dizziness', 'constipation', 'overeat']
@@ -1553,130 +1559,128 @@ Word 'asleep' found at position 2 in both lists
 Word 'eat' found at position 3 and 5
 Difference between the positions: 2
 
-Word 'urinate' found at position 4 and 6
-Difference between the positions: 2
-
-Word 'awake' found at position 5 and 3
-Difference between the positions: 2
-
-Word 'vomit' found at position 6 and 22
-Difference between the positions: 16
-
-Word 'wakefulness' found at position 7 in both lists
-
-Word 'insomnia' found at position 8 and 4
-Difference between the positions: 4
-
-Word 'sleeplessness' found at position 9 and 30
-Difference between the positions: 21
-
-Word 'unconsciousness' found at position 10 and 11
+Word 'awake' found at position 4 and 3
 Difference between the positions: 1
 
-Word 'bed' found at position 11 and 16
+Word 'urinate' found at position 5 and 6
+Difference between the positions: 1
+
+Word 'insomnia' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'vomit' found at position 7 and 22
+Difference between the positions: 15
+
+Word 'crying' found at position 8 and 13
 Difference between the positions: 5
 
-Word 'crying' found at position 12 and 13
+Word 'bed' found at position 9 and 16
+Difference between the positions: 7
+
+Word 'stupor' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'waking' found at position 11 and 10
 Difference between the positions: 1
 
-Word 'nrem' found at position 13 and 25
-Difference between the positions: 12
+Word 'pain' found at position 12 in both lists
 
-Word 'delirium' found at position 14 and 20
-Difference between the positions: 6
+Word 'snoring' found at position 13 and 27
+Difference between the positions: 14
 
-Word 'hallucinations' found at position 15 and 14
-Difference between the positions: 1
-
-Word 'waking' found at position 16 and 10
-Difference between the positions: 6
-
-Word 'stupor' found at position 17 and 8
+Word 'slept' found at position 14 and 23
 Difference between the positions: 9
 
-Word 'pain' found at position 18 and 12
-Difference between the positions: 6
+Word 'stay' found at position 15 and 28
+Difference between the positions: 13
 
-Word 'sleepwalking' found at position 19 and 9
-Difference between the positions: 10
+Word 'wakefulness' found at position 16 and 7
+Difference between the positions: 9
 
-Word 'napping' found at position 20 and 44
-Difference between the positions: 24
+Word 'nrem' found at position 17 and 25
+Difference between the positions: 8
+
+Word 'sleepwalking' found at position 18 and 9
+Difference between the positions: 9
+
+Word 'sedation' found at position 19 and 15
+Difference between the positions: 4
+
+Word 'unconsciousness' found at position 20 and 11
+Difference between the positions: 9
 
 
 For the word 'ssri', the nearest words are: 
 
 Novice List (Top 20): 
-['fluoxetine', 'antipsychotic', 'antidepressant', 'haloperidol', 'mirtazapine', 'chlorpromazine', 'nsaid', 'amitriptyline', 'venlafaxine', 'bupropion', 'carbamazepine', 'citalopram', 'clozapine', 'olanzapine', 'antihistamine', 'imipramine', 'anticonvulsant', 'snri', 'paroxetine', 'phenobarbital']
+['antipsychotic', 'fluoxetine', 'olanzapine', 'citalopram', 'venlafaxine', 'antidepressant', 'mirtazapine', 'bupropion', 'nsaid', 'paroxetine', 'lamotrigine', 'sertraline', 'clozapine', 'snri', 'haloperidol', 'fluvoxamine', 'chlorpromazine', 'imipramine', 'antihistamine', 'ondansetron']
 
 Expert List (Top 100): 
 ['antipsychotic', 'fluoxetine', 'antidepressant', 'mirtazapine', 'venlafaxine', 'amitriptyline', 'citalopram', 'paroxetine', 'nsaid', 'bupropion', 'imipramine', 'olanzapine', 'chlorpromazine', 'clozapine', 'clomipramine', 'sertraline', 'haloperidol', 'statin', 'anticonvulsant', 'fluvoxamine', 'lamotrigine', 'clonazepam', 'maoi', 'quetiapine', 'risperidone', 'antihypertensive', 'aripiprazole', 'topiramate', 'antiandrogen', 'antidepressants', 'antiemetic', 'duloxetine', 'phenytoin', 'snri', 'immunosuppressant', 'indomethacin', 'antihistamine', 'pimozide', 'carbamazepine', 'lorazepam', 'trazodone', 'naltrexone', 'gabapentin', 'ssris', 'clonidine', 'ciclosporin', 'methotrexate', 'anticonvulsants', 'metoclopramide', 'methylphenidate', 'oxcarbazepine', 'metformin', 'snris', 'hydroxyzine', 'dexamethasone', 'tranylcypromine', 'ondansetron', 'diphenhydramine', 'primidone', 'minocycline', 'azathioprine', 'escitalopram', 'alprazolam', 'ketoconazole', 'donepezil', 'antiepileptic', 'triazolam', 'propranolol', 'buprenorphine', 'pregabalin', 'antiestrogen', 'celecoxib', 'neuroleptic', 'nitrazepam', 'tamoxifen', 'zolpidem', 'nortriptyline', 'buspirone', 'naproxen', 'monotherapy', 'ketamine', 'simvastatin', 'cyclosporine', 'clarithromycin', 'phenobarbital', 'verapamil', 'isotretinoin', 'spironolactone', 'cabergoline', 'danazol', 'diazepam', 'nefazodone', 'pethidine', 'chlordiazepoxide', 'erythromycin', 'anticoagulant', 'selegiline', 'amisulpride', 'warfarin', 'immunosuppressive']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'fluoxetine' found at position 1 and 2
-Difference between the positions: 1
+Word 'antipsychotic' found at position 1 in both lists
 
-Word 'antipsychotic' found at position 2 and 1
-Difference between the positions: 1
+Word 'fluoxetine' found at position 2 in both lists
 
-Word 'antidepressant' found at position 3 in both lists
+Word 'olanzapine' found at position 3 and 12
+Difference between the positions: 9
 
-Word 'haloperidol' found at position 4 and 17
-Difference between the positions: 13
+Word 'citalopram' found at position 4 and 7
+Difference between the positions: 3
 
-Word 'mirtazapine' found at position 5 and 4
-Difference between the positions: 1
+Word 'venlafaxine' found at position 5 in both lists
 
-Word 'chlorpromazine' found at position 6 and 13
-Difference between the positions: 7
+Word 'antidepressant' found at position 6 and 3
+Difference between the positions: 3
 
-Word 'nsaid' found at position 7 and 9
+Word 'mirtazapine' found at position 7 and 4
+Difference between the positions: 3
+
+Word 'bupropion' found at position 8 and 10
 Difference between the positions: 2
 
-Word 'amitriptyline' found at position 8 and 6
+Word 'nsaid' found at position 9 in both lists
+
+Word 'paroxetine' found at position 10 and 8
 Difference between the positions: 2
 
-Word 'venlafaxine' found at position 9 and 5
+Word 'lamotrigine' found at position 11 and 21
+Difference between the positions: 10
+
+Word 'sertraline' found at position 12 and 16
 Difference between the positions: 4
-
-Word 'bupropion' found at position 10 in both lists
-
-Word 'carbamazepine' found at position 11 and 39
-Difference between the positions: 28
-
-Word 'citalopram' found at position 12 and 7
-Difference between the positions: 5
 
 Word 'clozapine' found at position 13 and 14
 Difference between the positions: 1
 
-Word 'olanzapine' found at position 14 and 12
+Word 'snri' found at position 14 and 34
+Difference between the positions: 20
+
+Word 'haloperidol' found at position 15 and 17
 Difference between the positions: 2
 
-Word 'antihistamine' found at position 15 and 37
-Difference between the positions: 22
+Word 'fluvoxamine' found at position 16 and 20
+Difference between the positions: 4
 
-Word 'imipramine' found at position 16 and 11
-Difference between the positions: 5
+Word 'chlorpromazine' found at position 17 and 13
+Difference between the positions: 4
 
-Word 'anticonvulsant' found at position 17 and 19
-Difference between the positions: 2
+Word 'imipramine' found at position 18 and 11
+Difference between the positions: 7
 
-Word 'snri' found at position 18 and 34
-Difference between the positions: 16
+Word 'antihistamine' found at position 19 and 37
+Difference between the positions: 18
 
-Word 'paroxetine' found at position 19 and 8
-Difference between the positions: 11
-
-Word 'phenobarbital' found at position 20 and 85
-Difference between the positions: 65
+Word 'ondansetron' found at position 20 and 57
+Difference between the positions: 37
 
 
 For the word 'stimulus', the nearest words are: 
 
 Novice List (Top 20): 
-['stimuli', 'reinforcer', 'stimulation', 'stressor', 'aversive', 'nociception', 'unconditioned', 'habituation', 'nociceptive', 'distractor', 'priming', 'auditory', 'saccade', 'arousal', 'excitatory', 'excitation', 'neuron', 'inputs', 'appetitive', 'inhibition']
+['stimuli', 'reinforcer', 'stimulation', 'stressor', 'nociception', 'aversive', 'unconditioned', 'auditory', 'priming', 'habituation', 'distractor', 'excitation', 'neuron', 'nociceptive', 'saccade', 'arousal', 'percept', 'cues', 'excitatory', 'allodynia']
 
 Expert List (Top 100): 
 ['stimuli', 'reinforcer', 'stimulation', 'stressor', 'distractor', 'nociception', 'habituation', 'aversive', 'unconditioned', 'priming', 'auditory', 'saccade', 'arousal', 'excitatory', 'nociceptive', 'excitation', 'sensory', 'percept', 'cues', 'inputs', 'hyperalgesia', 'inhibition', 'amygdala', 'automaticity', 'neuron', 'perceptual', 'mechanism', 'sensitization', 'exogenous', 'discriminative', 'allodynia', 'responses', 'depolarization', 'modality', 'input', 'salience', 'prepulse', 'activation', 'impulse', 'ssvep', 'neurons', 'hyperpolarization', 'disinhibition', 'constraint', 'inhibitory', 'dishabituation', 'stimulations', 'endogenous', 'desensitization', 'potentiation', 'plasticity', 'cognition', 'haemodynamic', 'neurotransmitter', 'object', 'cue', 'percepts', 'appetitive', 'neurochemical', 'variables', 'vagal', 'mmn', 'phenotype', 'function', 'operant', 'dopaminergic', 'organism', 'hippocampus', 'neuroplasticity', 'glucocorticoid', 'saccadic', 'deficits', 'emotion', 'distractors', 'vasoconstrictor', 'attentional', 'interoceptive', 'hyperpolarizing', 'brainstem', 'amplitude', 'pupillary', 'nociceptors', 'depolarizing', 'serotonergic', 'hypothalamus', 'parameter', 'paradigm', 'lesion', 'feedback', 'waveform', 'neurotransmission', 'articulatory', 'reinforcers', 'modulatory', 'acetylcholine', 'synapses', 'cortex', 'tdcs', 'mechanoreceptors', 'excitability']
@@ -1691,118 +1695,117 @@ Word 'stimulation' found at position 3 in both lists
 
 Word 'stressor' found at position 4 in both lists
 
-Word 'aversive' found at position 5 and 8
-Difference between the positions: 3
+Word 'nociception' found at position 5 and 6
+Difference between the positions: 1
 
-Word 'nociception' found at position 6 in both lists
+Word 'aversive' found at position 6 and 8
+Difference between the positions: 2
 
 Word 'unconditioned' found at position 7 and 9
 Difference between the positions: 2
 
-Word 'habituation' found at position 8 and 7
+Word 'auditory' found at position 8 and 11
+Difference between the positions: 3
+
+Word 'priming' found at position 9 and 10
 Difference between the positions: 1
 
-Word 'nociceptive' found at position 9 and 15
+Word 'habituation' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'distractor' found at position 11 and 5
 Difference between the positions: 6
 
-Word 'distractor' found at position 10 and 5
+Word 'excitation' found at position 12 and 16
+Difference between the positions: 4
+
+Word 'neuron' found at position 13 and 25
+Difference between the positions: 12
+
+Word 'nociceptive' found at position 14 and 15
+Difference between the positions: 1
+
+Word 'saccade' found at position 15 and 12
+Difference between the positions: 3
+
+Word 'arousal' found at position 16 and 13
+Difference between the positions: 3
+
+Word 'percept' found at position 17 and 18
+Difference between the positions: 1
+
+Word 'cues' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'excitatory' found at position 19 and 14
 Difference between the positions: 5
 
-Word 'priming' found at position 11 and 10
-Difference between the positions: 1
-
-Word 'auditory' found at position 12 and 11
-Difference between the positions: 1
-
-Word 'saccade' found at position 13 and 12
-Difference between the positions: 1
-
-Word 'arousal' found at position 14 and 13
-Difference between the positions: 1
-
-Word 'excitatory' found at position 15 and 14
-Difference between the positions: 1
-
-Word 'excitation' found at position 16 in both lists
-
-Word 'neuron' found at position 17 and 25
-Difference between the positions: 8
-
-Word 'inputs' found at position 18 and 20
-Difference between the positions: 2
-
-Word 'appetitive' found at position 19 and 58
-Difference between the positions: 39
-
-Word 'inhibition' found at position 20 and 22
-Difference between the positions: 2
+Word 'allodynia' found at position 20 and 31
+Difference between the positions: 11
 
 
 For the word 'trichotillomania', the nearest words are: 
 
 Novice List (Top 20): 
-['narcolepsy', 'ocd', 'fibromyalgia', 'hypersexuality', 'polyneuropathy', 'alopecia', 'symptomology', 'premenstrual', 'symptomatology', 'pruritus', 'myalgias', 'comorbid', 'choreoathetosis', 'myopathy', 'porphyria', 'osteochondritis', 'athetosis', 'idiopathic', 'enterocolitis', 'acromegaly']
+['obsessive–compulsive', 'schizoaffective', 'hypersomnia', 'narcolepsy', 'choreoathetosis', 'lymphoproliferative', 'anorexia', 'somatoform', 'somatization', 'hyperactivity', 'disorder', 'hypersexuality', 'ocd', 'trichophagia', 'avolition', 'schizophreniform', 'premenstrual', 'symptomatology', 'neurasthenia', 'myalgia']
 
 Expert List (Top 100): 
 ['narcolepsy', 'ocd', 'bruxism', 'fibromyalgia', 'hypochondriasis', 'osteochondritis', 'hypersexuality', 'migraines', 'paroxysmal', 'symptomatology', 'dysthymia', 'alopecia', 'rosacea', 'areata', 'symptomology', 'polyneuropathy', 'cataplexy', 'premenstrual', 'comorbidities', 'aspd', 'excoriation', 'subclinical', 'kleptomania', 'vitiligo', 'psychoses', 'acral', 'hypergraphia', 'hirsutism', 'obsessive–compulsive', 'hypersomnia', 'ednos', 'myopathy', 'ichthyosis', 'eczema', 'trichophagia', 'idiopathic', 'hemiballismus', 'hemiplegic', 'dissecans', 'dysphagia', 'pruritus', 'pyoderma', 'neurasthenia', 'tics', 'dystonia', 'hypothyroidism', 'acromegaly', 'myalgia', 'parkinsonism', 'anorexia', 'congenita', 'comorbid', 'akinetic', 'mdds', 'anismus', 'blepharitis', 'cadasil', 'porphyria', 'scoliosis', 'choreoathetosis', 'cyclothymia', 'epilepsy', 'dyskinesia', 'epistaxis', 'hypophosphatasia', 'schizophrenics', 'hyperactivity', 'exacerbations', 'athetosis', 'myoclonus', 'dysesthesia', 'progeria', 'galactorrhea', 'hyperemesis', 'neutropenia', 'somatization', 'gangrenosum', 'pemphigoid', 'atopy', 'lipodystrophy', 'blepharospasm', 'migraine', 'mycosis', 'ataxic', 'urticarial', 'enterocolitis', 'syringomyelia', 'spasticity', 'dysphoric', 'paresthesia', 'dysarthria', 'adhd', 'thymoma', 'somnolence', 'priapism', 'diverticulosis', 'parkinsonian', 'dermatosis', 'epilepsies', 'myeloproliferative']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'narcolepsy' found at position 1 in both lists
+Word 'obsessive–compulsive' found at position 1 and 29
+Difference between the positions: 28
 
-Word 'ocd' found at position 2 in both lists
+'schizoaffective' at position 2 is not present in Expert list
 
-Word 'fibromyalgia' found at position 3 and 4
-Difference between the positions: 1
+Word 'hypersomnia' found at position 3 and 30
+Difference between the positions: 27
 
-Word 'hypersexuality' found at position 4 and 7
+Word 'narcolepsy' found at position 4 and 1
 Difference between the positions: 3
 
-Word 'polyneuropathy' found at position 5 and 16
-Difference between the positions: 11
+Word 'choreoathetosis' found at position 5 and 60
+Difference between the positions: 55
 
-Word 'alopecia' found at position 6 and 12
-Difference between the positions: 6
+'lymphoproliferative' at position 6 is not present in Expert list
 
-Word 'symptomology' found at position 7 and 15
-Difference between the positions: 8
-
-Word 'premenstrual' found at position 8 and 18
-Difference between the positions: 10
-
-Word 'symptomatology' found at position 9 and 10
-Difference between the positions: 1
-
-Word 'pruritus' found at position 10 and 41
-Difference between the positions: 31
-
-'myalgias' at position 11 is not present in Expert list
-
-Word 'comorbid' found at position 12 and 52
-Difference between the positions: 40
-
-Word 'choreoathetosis' found at position 13 and 60
-Difference between the positions: 47
-
-Word 'myopathy' found at position 14 and 32
-Difference between the positions: 18
-
-Word 'porphyria' found at position 15 and 58
+Word 'anorexia' found at position 7 and 50
 Difference between the positions: 43
 
-Word 'osteochondritis' found at position 16 and 6
-Difference between the positions: 10
+'somatoform' at position 8 is not present in Expert list
 
-Word 'athetosis' found at position 17 and 69
-Difference between the positions: 52
-
-Word 'idiopathic' found at position 18 and 36
-Difference between the positions: 18
-
-Word 'enterocolitis' found at position 19 and 86
+Word 'somatization' found at position 9 and 76
 Difference between the positions: 67
 
-Word 'acromegaly' found at position 20 and 47
-Difference between the positions: 27
+Word 'hyperactivity' found at position 10 and 67
+Difference between the positions: 57
+
+'disorder' at position 11 is not present in Expert list
+
+Word 'hypersexuality' found at position 12 and 7
+Difference between the positions: 5
+
+Word 'ocd' found at position 13 and 2
+Difference between the positions: 11
+
+Word 'trichophagia' found at position 14 and 35
+Difference between the positions: 21
+
+'avolition' at position 15 is not present in Expert list
+
+'schizophreniform' at position 16 is not present in Expert list
+
+Word 'premenstrual' found at position 17 and 18
+Difference between the positions: 1
+
+Word 'symptomatology' found at position 18 and 10
+Difference between the positions: 8
+
+Word 'neurasthenia' found at position 19 and 43
+Difference between the positions: 24
+
+Word 'myalgia' found at position 20 and 48
+Difference between the positions: 28
 
 

@@ -1,7 +1,7 @@
 For the word 'dance', the nearest words are: 
 
 Novice List (Top 20): 
-['dancing', 'dances', 'dancers', 'music', 'danced', 'singing', 'jitterbug', 'choreography', 'disco', 'rhumba', 'ballet', 'voguing', 'tango', 'breakdancing', 'musical', 'kecak', 'krump', 'breakdance', 'salsa', 'cabaret']
+['dancing', 'dances', 'dancers', 'music', 'choreography', 'danced', 'singing', 'kecak', 'rhumba', 'musical', 'voguing', 'disco', 'salsa', 'ballet', 'breakdancing', 'tango', 'jitterbug', 'breakdance', 'bhangra', 'choreographies']
 
 Expert List (Top 100): 
 ['dancing', 'dances', 'dancers', 'music', 'choreography', 'danced', 'rhumba', 'salsa', 'singing', 'breakdance', 'ballet', 'jitterbug', 'musical', 'orchesis', 'voguing', 'tango', 'sirtaki', 'bugaku', 'disco', 'breakdancing', 'butoh', 'kecak', 'bhangra', 'cabaret', 'lambada', 'jazz', 'choreographs', 'giddha', 'krump', 'dancer', 'unsquare', 'pasodoble', 'rumba', 'yosakoi', 'quadrille', 'pilobolus', 'jaipongan', 'flamenco', 'serimpi', 'mujra', 'zapateado', 'legong', 'chhau', 'ghoomar', 'sattriya', 'krumping', 'striptease', 'bagurumba', 'choreographed', 'bedhaya', 'dollu', 'gotipua', 'tandava', 'choreographic', 'carimbó', 'festejo', 'choreographing', 'bélé', 'cakewalk', 'pangalay', 'denishawn', 'dabke', 'lezginka', 'folkdance', 'kathak', 'hooping', 'azonto', 'cueca', 'bellydance', 'twerking', 'crazes', 'choreographies', 'candombe', 'acrobatics', 'milonga', 'ballroom', 'jhumar', 'lasya', 'danza', 'karaoke', 'natyam', 'samba', 'folklorico', 'improvisation', 'burlesque', 'quickstep', 'bikutsi', 'floorwork', 'candoco', 'pop', 'agbadza', 'aerobics', 'dancehall', 'mambo', 'cancan', 'frevo', 'bodenwieser', 'lavani', 'pantsula', 'sing']
@@ -16,58 +16,56 @@ Word 'dancers' found at position 3 in both lists
 
 Word 'music' found at position 4 in both lists
 
-Word 'danced' found at position 5 and 6
-Difference between the positions: 1
+Word 'choreography' found at position 5 in both lists
 
-Word 'singing' found at position 6 and 9
-Difference between the positions: 3
+Word 'danced' found at position 6 in both lists
 
-Word 'jitterbug' found at position 7 and 12
-Difference between the positions: 5
-
-Word 'choreography' found at position 8 and 5
-Difference between the positions: 3
-
-Word 'disco' found at position 9 and 19
-Difference between the positions: 10
-
-Word 'rhumba' found at position 10 and 7
-Difference between the positions: 3
-
-Word 'ballet' found at position 11 in both lists
-
-Word 'voguing' found at position 12 and 15
-Difference between the positions: 3
-
-Word 'tango' found at position 13 and 16
-Difference between the positions: 3
-
-Word 'breakdancing' found at position 14 and 20
-Difference between the positions: 6
-
-Word 'musical' found at position 15 and 13
+Word 'singing' found at position 7 and 9
 Difference between the positions: 2
 
-Word 'kecak' found at position 16 and 22
-Difference between the positions: 6
+Word 'kecak' found at position 8 and 22
+Difference between the positions: 14
 
-Word 'krump' found at position 17 and 29
-Difference between the positions: 12
+Word 'rhumba' found at position 9 and 7
+Difference between the positions: 2
+
+Word 'musical' found at position 10 and 13
+Difference between the positions: 3
+
+Word 'voguing' found at position 11 and 15
+Difference between the positions: 4
+
+Word 'disco' found at position 12 and 19
+Difference between the positions: 7
+
+Word 'salsa' found at position 13 and 8
+Difference between the positions: 5
+
+Word 'ballet' found at position 14 and 11
+Difference between the positions: 3
+
+Word 'breakdancing' found at position 15 and 20
+Difference between the positions: 5
+
+Word 'tango' found at position 16 in both lists
+
+Word 'jitterbug' found at position 17 and 12
+Difference between the positions: 5
 
 Word 'breakdance' found at position 18 and 10
 Difference between the positions: 8
 
-Word 'salsa' found at position 19 and 8
-Difference between the positions: 11
-
-Word 'cabaret' found at position 20 and 24
+Word 'bhangra' found at position 19 and 23
 Difference between the positions: 4
+
+Word 'choreographies' found at position 20 and 72
+Difference between the positions: 52
 
 
 For the word 'acrobatic', the nearest words are: 
 
 Novice List (Top 20): 
-['acrobatics', 'juggling', 'footwork', 'aerialist', 'balletic', 'somersaults', 'acrobats', 'aerialists', 'aerobatic', 'acrobat', 'contortionists', 'contortion', 'agility', 'aerobatics', 'pirouettes', 'handstands', 'backflips', 'stunts', 'gymnastic', 'clowning']
+['acrobatics', 'aerialist', 'contortion', 'balletic', 'juggling', 'acrobats', 'aerialists', 'footwork', 'handstands', 'pirouettes', 'somersaults', 'acrobalance', 'acrobat', 'aerobatic', 'backflips', 'clowning', 'cartwheels', 'aerobatics', 'stunts', 'agility']
 
 Expert List (Top 100): 
 ['acrobatics', 'juggling', 'contortionists', 'aerialist', 'footwork', 'aerialists', 'pirouettes', 'acrobats', 'acrobalance', 'contortion', 'handstands', 'balletic', 'agility', 'somersaults', 'acrobat', 'aerobatic', 'stunts', 'aerobatics', 'cartwheels', 'clowning', 'showmanship', 'trapeze', 'improvisational', 'krumping', 'backflips', 'routines', 'athleticism', 'choreography', 'twirling', 'handstand', 'parkour', 'contortionist', 'jugglers', 'dribbling', 'dancers', 'swordplay', 'gymnastic', 'acro', 'agile', 'choreographs', 'theatrics', 'leaping', 'choreographing', 'breakdancing', 'energetic', 'downrock', 'stickhandling', 'flashy', 'dancing', 'bravura', 'trampoline', 'dance', 'somersault', 'tailslide', 'breakdance', 'grappling', 'handsprings', 'skill', 'juggler', 'diabolo', 'trampolining', 'equilibrist', 'choreographies', 'effortless', 'comedic', 'spectacular', 'slapstick', 'twirls', 'dunks', 'slackline', 'nimbly', 'exuberant', 'feats', 'virtuosic', 'striptease', 'calisthenics', 'aerobics', 'dances', 'slacklining', 'pirouette', 'acrobatically', 'inventive', 'takedowns', 'puckhandling', 'exhibitionist', 'stunt', 'twirl', 'effortlessly', 'mimes', 'jumping', 'poise', 'toprock', 'stamina', 'quickness', 'unicycling', 'somersaulting', 'unicycle', 'choreographic', 'eggbeater', 'lezim']
@@ -76,132 +74,136 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'acrobatics' found at position 1 in both lists
 
-Word 'juggling' found at position 2 in both lists
-
-Word 'footwork' found at position 3 and 5
+Word 'aerialist' found at position 2 and 4
 Difference between the positions: 2
 
-Word 'aerialist' found at position 4 in both lists
-
-Word 'balletic' found at position 5 and 12
+Word 'contortion' found at position 3 and 10
 Difference between the positions: 7
 
-Word 'somersaults' found at position 6 and 14
+Word 'balletic' found at position 4 and 12
 Difference between the positions: 8
 
-Word 'acrobats' found at position 7 and 8
+Word 'juggling' found at position 5 and 2
+Difference between the positions: 3
+
+Word 'acrobats' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'aerialists' found at position 7 and 6
 Difference between the positions: 1
 
-Word 'aerialists' found at position 8 and 6
+Word 'footwork' found at position 8 and 5
+Difference between the positions: 3
+
+Word 'handstands' found at position 9 and 11
 Difference between the positions: 2
 
-Word 'aerobatic' found at position 9 and 16
-Difference between the positions: 7
+Word 'pirouettes' found at position 10 and 7
+Difference between the positions: 3
 
-Word 'acrobat' found at position 10 and 15
-Difference between the positions: 5
+Word 'somersaults' found at position 11 and 14
+Difference between the positions: 3
 
-Word 'contortionists' found at position 11 and 3
-Difference between the positions: 8
+Word 'acrobalance' found at position 12 and 9
+Difference between the positions: 3
 
-Word 'contortion' found at position 12 and 10
+Word 'acrobat' found at position 13 and 15
 Difference between the positions: 2
 
-Word 'agility' found at position 13 in both lists
+Word 'aerobatic' found at position 14 and 16
+Difference between the positions: 2
 
-Word 'aerobatics' found at position 14 and 18
+Word 'backflips' found at position 15 and 25
+Difference between the positions: 10
+
+Word 'clowning' found at position 16 and 20
 Difference between the positions: 4
 
-Word 'pirouettes' found at position 15 and 7
-Difference between the positions: 8
+Word 'cartwheels' found at position 17 and 19
+Difference between the positions: 2
 
-Word 'handstands' found at position 16 and 11
-Difference between the positions: 5
+Word 'aerobatics' found at position 18 in both lists
 
-Word 'backflips' found at position 17 and 25
-Difference between the positions: 8
+Word 'stunts' found at position 19 and 17
+Difference between the positions: 2
 
-Word 'stunts' found at position 18 and 17
-Difference between the positions: 1
-
-Word 'gymnastic' found at position 19 and 37
-Difference between the positions: 18
-
-Word 'clowning' found at position 20 in both lists
+Word 'agility' found at position 20 and 13
+Difference between the positions: 7
 
 
 For the word 'ballet', the nearest words are: 
 
 Novice List (Top 20): 
-['opera', 'ballets', 'coppélia', 'massine', 'choreographer', 'ballerina', 'theatre', 'choreographic', 'orchestra', 'rambert', 'balanchine', 'dancer', 'dance', 'nijinska', 'russes', 'conservatory', 'fokine', 'raymonda', 'kirsova', 'cranko']
+['ballets', 'opera', 'choreographer', 'choreographic', 'ballerina', 'theatre', 'balanchine', 'nycb', 'coppélia', 'massine', 'denishawn', 'nijinska', 'orchestra', 'fokine', 'balletmaster', 'repertory', 'rambert', 'choreography', 'raymonda', 'kirsova']
 
 Expert List (Top 100): 
 ['opera', 'ballets', 'ballerina', 'choreographic', 'choreographer', 'balanchine', 'massine', 'nijinska', 'nycb', 'theatre', 'coppélia', 'noverre', 'orchestra', 'kirsova', 'denishawn', 'balletmaster', 'dance', 'repertory', 'vaganova', 'bournonville', 'conservatory', 'dancer', 'raymonda', 'rambert', 'smuin', 'choreography', 'fokine', 'ailey', 'choreographers', 'borovansky', 'léonide', 'petipa', 'aterballetto', 'suédois', 'giselle', 'oukrainsky', 'russes', 'cranko', 'troupe', 'béjart', 'samsova', 'opéra', 'leonide', 'ballerinas', 'ballett', 'chiriaeff', 'petrushka', 'nutcracker', 'coppelia', 'hispanico', 'preljocaj', 'philadanco', 'markova', 'nikolais', 'theater', 'danseur', 'baryshnikov', 'fonteyn', 'bodenwieser', 'chopiniana', 'dolin', 'operatic', 'symphony', 'philharmonic', 'cullberg', 'bronislava', 'candoco', 'morphoses', 'yuresha', 'ansanelli', 'diaghilev', 'mukhamedov', 'répétiteur', 'juilliard', 'eifman', 'soloist', 'dancers', 'ensemble', 'conservatoire', 'operetta', 'woizikovsky', 'coralli', 'tallchief', 'sylphide', 'scapino', 'nureyev', 'cecchetti', 'krassovska', 'oper', 'danced', 'musical', 'petrouchka', 'cellist', 'violist', 'teatro', 'vaslav', 'gardée', 'pilobolus', 'momix', 'quanz']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'opera' found at position 1 in both lists
+Word 'ballets' found at position 1 and 2
+Difference between the positions: 1
 
-Word 'ballets' found at position 2 in both lists
+Word 'opera' found at position 2 and 1
+Difference between the positions: 1
 
-Word 'coppélia' found at position 3 and 11
+Word 'choreographer' found at position 3 and 5
+Difference between the positions: 2
+
+Word 'choreographic' found at position 4 in both lists
+
+Word 'ballerina' found at position 5 and 3
+Difference between the positions: 2
+
+Word 'theatre' found at position 6 and 10
+Difference between the positions: 4
+
+Word 'balanchine' found at position 7 and 6
+Difference between the positions: 1
+
+Word 'nycb' found at position 8 and 9
+Difference between the positions: 1
+
+Word 'coppélia' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'massine' found at position 10 and 7
+Difference between the positions: 3
+
+Word 'denishawn' found at position 11 and 15
+Difference between the positions: 4
+
+Word 'nijinska' found at position 12 and 8
+Difference between the positions: 4
+
+Word 'orchestra' found at position 13 in both lists
+
+Word 'fokine' found at position 14 and 27
+Difference between the positions: 13
+
+Word 'balletmaster' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'repertory' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'rambert' found at position 17 and 24
+Difference between the positions: 7
+
+Word 'choreography' found at position 18 and 26
 Difference between the positions: 8
 
-Word 'massine' found at position 4 and 7
-Difference between the positions: 3
-
-Word 'choreographer' found at position 5 in both lists
-
-Word 'ballerina' found at position 6 and 3
-Difference between the positions: 3
-
-Word 'theatre' found at position 7 and 10
-Difference between the positions: 3
-
-Word 'choreographic' found at position 8 and 4
+Word 'raymonda' found at position 19 and 23
 Difference between the positions: 4
 
-Word 'orchestra' found at position 9 and 13
-Difference between the positions: 4
-
-Word 'rambert' found at position 10 and 24
-Difference between the positions: 14
-
-Word 'balanchine' found at position 11 and 6
-Difference between the positions: 5
-
-Word 'dancer' found at position 12 and 22
-Difference between the positions: 10
-
-Word 'dance' found at position 13 and 17
-Difference between the positions: 4
-
-Word 'nijinska' found at position 14 and 8
+Word 'kirsova' found at position 20 and 14
 Difference between the positions: 6
-
-Word 'russes' found at position 15 and 37
-Difference between the positions: 22
-
-Word 'conservatory' found at position 16 and 21
-Difference between the positions: 5
-
-Word 'fokine' found at position 17 and 27
-Difference between the positions: 10
-
-Word 'raymonda' found at position 18 and 23
-Difference between the positions: 5
-
-Word 'kirsova' found at position 19 and 14
-Difference between the positions: 5
-
-Word 'cranko' found at position 20 and 38
-Difference between the positions: 18
 
 
 For the word 'bellydance', the nearest words are: 
 
 Novice List (Top 20): 
-['bhangra', 'worldbeat', 'bikutsi', 'darkwave', 'psychobilly', 'mbaqanga', 'makossa', 'voguing', 'dance', 'gnawa', 'electroclash', 'highlife', 'ndombolo', 'taarab', 'cowpunk', 'afrobeat', 'chaabi', 'europop', 'flamenco', 'psytrance']
+['bhangra', 'worldbeat', 'electroclash', 'burlesque', 'bellydancers', 'marabi', 'dance', 'chaabi', 'mbaqanga', 'taarab', 'cabaret', 'folktronica', 'afrobeat', 'goth', 'rapso', 'rockabilly', 'glam', 'darkwave', 'exotica', 'indietronica']
 
 Expert List (Top 100): 
 ['bhangra', 'worldbeat', 'chaabi', 'electroclash', 'gnawa', 'dance', 'psychobilly', 'afrobeat', 'mbalax', 'salegy', 'taarab', 'cowpunk', 'indietronica', 'darkwave', 'voguing', 'dancehall', 'marabi', 'bikutsi', 'lambada', 'hiphop', 'makossa', 'ragga', 'mbaqanga', 'breakdancing', 'jumpstyle', 'bellydancers', 'highlife', 'rockabilly', 'reggae', 'burlesque', 'electropop', 'raï', 'rumba', 'ndombolo', 'cancan', 'psytrance', 'flamenco', 'folktronica', 'klezmer', 'soukous', 'zouk', 'pop', 'qawwali', 'afropop', 'ska', 'musics', 'europop', 'breakbeat', 'dancing', 'rhumba', 'extravaganzas', 'dabke', 'dances', 'disco', 'hiplife', 'quebradita', 'folk', 'raggamuffin', 'norteño', 'synthwave', 'cabaret', 'soundclash', 'glam', 'technopop', 'electropunk', 'laïko', 'bugaku', 'deathrock', 'music', 'hardstyle', 'laiko', 'rebetiko', 'neofolk', 'nwobhm', 'azonto', 'zeibekiko', 'giddha', 'madchester', 'performers', 'skiffle', 'waacking', 'jaipongan', 'exotica', 'salsa', 'striptease', 'arabesk', 'beatbox', 'music—a', 'queercore', 'folkloric', 'mugham', 'bouyon', 'carimbó', 'mento', 'shoegazing', 'dancers', 'coldwave', 'ghawazi', 'rebetika', 'zouglou']
@@ -212,65 +214,63 @@ Word 'bhangra' found at position 1 in both lists
 
 Word 'worldbeat' found at position 2 in both lists
 
-Word 'bikutsi' found at position 3 and 18
-Difference between the positions: 15
+Word 'electroclash' found at position 3 and 4
+Difference between the positions: 1
 
-Word 'darkwave' found at position 4 and 14
-Difference between the positions: 10
+Word 'burlesque' found at position 4 and 30
+Difference between the positions: 26
 
-Word 'psychobilly' found at position 5 and 7
-Difference between the positions: 2
-
-Word 'mbaqanga' found at position 6 and 23
-Difference between the positions: 17
-
-Word 'makossa' found at position 7 and 21
-Difference between the positions: 14
-
-Word 'voguing' found at position 8 and 15
-Difference between the positions: 7
-
-Word 'dance' found at position 9 and 6
-Difference between the positions: 3
-
-Word 'gnawa' found at position 10 and 5
-Difference between the positions: 5
-
-Word 'electroclash' found at position 11 and 4
-Difference between the positions: 7
-
-Word 'highlife' found at position 12 and 27
-Difference between the positions: 15
-
-Word 'ndombolo' found at position 13 and 34
+Word 'bellydancers' found at position 5 and 26
 Difference between the positions: 21
 
-Word 'taarab' found at position 14 and 11
-Difference between the positions: 3
+Word 'marabi' found at position 6 and 17
+Difference between the positions: 11
 
-Word 'cowpunk' found at position 15 and 12
-Difference between the positions: 3
+Word 'dance' found at position 7 and 6
+Difference between the positions: 1
 
-Word 'afrobeat' found at position 16 and 8
-Difference between the positions: 8
+Word 'chaabi' found at position 8 and 3
+Difference between the positions: 5
 
-Word 'chaabi' found at position 17 and 3
+Word 'mbaqanga' found at position 9 and 23
 Difference between the positions: 14
 
-Word 'europop' found at position 18 and 47
-Difference between the positions: 29
+Word 'taarab' found at position 10 and 11
+Difference between the positions: 1
 
-Word 'flamenco' found at position 19 and 37
-Difference between the positions: 18
+Word 'cabaret' found at position 11 and 61
+Difference between the positions: 50
 
-Word 'psytrance' found at position 20 and 36
-Difference between the positions: 16
+Word 'folktronica' found at position 12 and 38
+Difference between the positions: 26
+
+Word 'afrobeat' found at position 13 and 8
+Difference between the positions: 5
+
+'goth' at position 14 is not present in Expert list
+
+'rapso' at position 15 is not present in Expert list
+
+Word 'rockabilly' found at position 16 and 28
+Difference between the positions: 12
+
+Word 'glam' found at position 17 and 63
+Difference between the positions: 46
+
+Word 'darkwave' found at position 18 and 14
+Difference between the positions: 4
+
+Word 'exotica' found at position 19 and 83
+Difference between the positions: 64
+
+Word 'indietronica' found at position 20 and 13
+Difference between the positions: 7
 
 
 For the word 'breakdance', the nearest words are: 
 
 Novice List (Top 20): 
-['breakdancing', 'mcing', 'krumping', 'hiphop', 'dance', 'lambada', 'bashment', 'jabbawockeez', 'rap', 'bboying', 'krump', 'idevian', 'beatboxing', 'breakdancers', 'beatbox', 'ragga', 'goodlyfe', 'choreographing', 'miming', 'likwit']
+['breakdancing', 'krumping', 'dance', 'mcing', 'hiphop', 'voguing', 'beatboxing', 'breakdancers', 'turntablism', 'jabbawockeez', 'parkour', 'lambada', 'bashment', 'rap', 'moshing', 'krump', 'deejaying', 'idevian', 'jumpstyle', 'acrobatics']
 
 Expert List (Top 100): 
 ['breakdancing', 'krumping', 'dance', 'jabbawockeez', 'krump', 'hiphop', 'rap', 'jitterbug', 'lambada', 'jumpstyle', 'breakdancer', 'mcing', 'choreographing', 'twerking', 'dancing', 'turntablists', 'parkour', 'bashment', 'dancehall', 'bhangra', 'beatboxing', 'freestyling', 'voguing', 'lmfao', 'bboying', 'deejaying', 'beatbox', 'dancers', 'ragga', 'hyphy', 'turntablism', 'raggamuffin', 'breakdancers', 'technotronic', 'djing', 'pantsula', 'acrobatics', 'moshing', 'rhumba', 'bboys', 'striptease', 'jookin', 'crunk', 'sirtaki', 'hardstyle', 'acrobatic', 'streetdance', 'miming', 'azonto', 'likwit', 'girlz', 'waacking', 'dj', 'freestylers', 'baauer', 'tomekk', 'crazes', 'electroclash', 'whodini', 'boying', 'disco', 'cancan', 'stomp', 'rapping', 'tiesto', 'krash', 'beardyman', 'sqwad', 'acrobats', 'hop', 'poreotics', 'emcees', 'jaipongan', 'gangsta', 'skateboarding', 'twista', 'teklife', 'twerk', 'boogaloo', 'ultrabeat', 'coolio', 'turntablist', 'gabber', 'beatboxers', 'floorwork', 'afrobeat', 'bangers', 'flashmob', 'hiplife', 'riddim', 'cakewalk', 'emceeing', 'tecktonik', 'hooping', 'quebradita', 'parappa', 'aerialists', 'grime', 'lezginka', 'deejay']
@@ -279,126 +279,126 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'breakdancing' found at position 1 in both lists
 
-Word 'mcing' found at position 2 and 12
-Difference between the positions: 10
+Word 'krumping' found at position 2 in both lists
 
-Word 'krumping' found at position 3 and 2
-Difference between the positions: 1
+Word 'dance' found at position 3 in both lists
 
-Word 'hiphop' found at position 4 and 6
-Difference between the positions: 2
-
-Word 'dance' found at position 5 and 3
-Difference between the positions: 2
-
-Word 'lambada' found at position 6 and 9
-Difference between the positions: 3
-
-Word 'bashment' found at position 7 and 18
-Difference between the positions: 11
-
-Word 'jabbawockeez' found at position 8 and 4
-Difference between the positions: 4
-
-Word 'rap' found at position 9 and 7
-Difference between the positions: 2
-
-Word 'bboying' found at position 10 and 25
-Difference between the positions: 15
-
-Word 'krump' found at position 11 and 5
-Difference between the positions: 6
-
-'idevian' at position 12 is not present in Expert list
-
-Word 'beatboxing' found at position 13 and 21
+Word 'mcing' found at position 4 and 12
 Difference between the positions: 8
 
-Word 'breakdancers' found at position 14 and 33
-Difference between the positions: 19
+Word 'hiphop' found at position 5 and 6
+Difference between the positions: 1
 
-Word 'beatbox' found at position 15 and 27
-Difference between the positions: 12
+Word 'voguing' found at position 6 and 23
+Difference between the positions: 17
 
-Word 'ragga' found at position 16 and 29
-Difference between the positions: 13
+Word 'beatboxing' found at position 7 and 21
+Difference between the positions: 14
 
-'goodlyfe' at position 17 is not present in Expert list
+Word 'breakdancers' found at position 8 and 33
+Difference between the positions: 25
 
-Word 'choreographing' found at position 18 and 13
+Word 'turntablism' found at position 9 and 31
+Difference between the positions: 22
+
+Word 'jabbawockeez' found at position 10 and 4
+Difference between the positions: 6
+
+Word 'parkour' found at position 11 and 17
+Difference between the positions: 6
+
+Word 'lambada' found at position 12 and 9
+Difference between the positions: 3
+
+Word 'bashment' found at position 13 and 18
 Difference between the positions: 5
 
-Word 'miming' found at position 19 and 48
-Difference between the positions: 29
+Word 'rap' found at position 14 and 7
+Difference between the positions: 7
 
-Word 'likwit' found at position 20 and 50
-Difference between the positions: 30
+Word 'moshing' found at position 15 and 38
+Difference between the positions: 23
+
+Word 'krump' found at position 16 and 5
+Difference between the positions: 11
+
+Word 'deejaying' found at position 17 and 26
+Difference between the positions: 9
+
+'idevian' at position 18 is not present in Expert list
+
+Word 'jumpstyle' found at position 19 and 10
+Difference between the positions: 9
+
+Word 'acrobatics' found at position 20 and 37
+Difference between the positions: 17
 
 
 For the word 'choreo', the nearest words are: 
 
 Novice List (Top 20): 
-['neoz', 'unsquare', 'azonto', 'worldbeat', 'cakewalk', 'music—a', 'majorettes', 'serimpi', 'indietronic', 'nublu', 'freshlyground', 'oberek', 'rhumba', 'bellydance', 'orchesis', 'lambada', 'jitterbug', 'twerk', 'jwé', 'cougarettes']
+['cougarettes', 'worldbeat', 'afrobeat', 'breakdance', 'cakewalk', 'jitterbug', 'bhangra', 'octamed', 'cheerleading', 'freedance', 'choreographies', 'lambada', 'salsa', 'scatting', 'coladeira', 'waggle', 'compas', 'routines', 'mambo', 'kuduro']
 
 Expert List (Top 100): 
 ['dance', 'cakewalk', 'azonto', 'breakdance', 'fusion', 'voguing', 'throwouts', 'pantsula', 'unsquare', 'jitterbug', 'yosakoi', 'hullabaloo', 'headbanging', 'breakdancing', 'chippendales', 'theatrics', 'rhumba', 'salsa', 'worldbeat', 'flashmob', 'showmanship', 'hmgic', 'lezim', 'pangalay', 'waacking', 'milonguero', 'joged', 'quickstep', 'kecak', 'bugaku', 'orissi', 'beatbox', 'lmfao', 'maculelê', 'tsifteteli', 'choreographies', 'cheerleaders', 'smorgasbord', 'acrobatics', 'bhangra', 'extravaganza', 'splenogonadal', 'afrobeat', 'edm', 'routines', 'hopak', 'frevo', 'dancers', 'serimpi', 'lambada', 'waggle', 'rumba', 'choreographs', 'raucous', 'kompa', 'samba', 'mashup', 'trastrasera', 'labanotation', 'krump', 'acapella', 'shindig', 'twerk', 'agbadza', 'timeonic', 'sket', 'nrtta', 'festejo', 'tintinnabuli', 'mizik', 'electroclash', 'iyanya', 'velfarre', 'polyrhythmic', 'kizomba', 'twerking', 'karaoke', 'giddha', 'diva', 'disco', 'sirtaki', 'bélé', 'rockettes', 'orchesis', 'veeragase', 'acrobatic', 'dangak', 'maxixe', 'chunaengjeon', 'kabwit', 'fied', 'choreography', 'improvisational', 'psy', 'celebratory', 'parkour', 'outpunk', 'milonga', 'music', 'yunchi']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-'neoz' at position 1 is not present in Expert list
+'cougarettes' at position 1 is not present in Expert list
 
-Word 'unsquare' found at position 2 and 9
-Difference between the positions: 7
+Word 'worldbeat' found at position 2 and 19
+Difference between the positions: 17
 
-Word 'azonto' found at position 3 in both lists
+Word 'afrobeat' found at position 3 and 43
+Difference between the positions: 40
 
-Word 'worldbeat' found at position 4 and 19
-Difference between the positions: 15
+Word 'breakdance' found at position 4 in both lists
 
 Word 'cakewalk' found at position 5 and 2
 Difference between the positions: 3
 
-'music—a' at position 6 is not present in Expert list
-
-'majorettes' at position 7 is not present in Expert list
-
-Word 'serimpi' found at position 8 and 49
-Difference between the positions: 41
-
-'indietronic' at position 9 is not present in Expert list
-
-'nublu' at position 10 is not present in Expert list
-
-'freshlyground' at position 11 is not present in Expert list
-
-'oberek' at position 12 is not present in Expert list
-
-Word 'rhumba' found at position 13 and 17
+Word 'jitterbug' found at position 6 and 10
 Difference between the positions: 4
 
-'bellydance' at position 14 is not present in Expert list
+Word 'bhangra' found at position 7 and 40
+Difference between the positions: 33
 
-Word 'orchesis' found at position 15 and 84
-Difference between the positions: 69
+'octamed' at position 8 is not present in Expert list
 
-Word 'lambada' found at position 16 and 50
-Difference between the positions: 34
+'cheerleading' at position 9 is not present in Expert list
 
-Word 'jitterbug' found at position 17 and 10
-Difference between the positions: 7
+'freedance' at position 10 is not present in Expert list
 
-Word 'twerk' found at position 18 and 63
-Difference between the positions: 45
+Word 'choreographies' found at position 11 and 36
+Difference between the positions: 25
 
-'jwé' at position 19 is not present in Expert list
+Word 'lambada' found at position 12 and 50
+Difference between the positions: 38
 
-'cougarettes' at position 20 is not present in Expert list
+Word 'salsa' found at position 13 and 18
+Difference between the positions: 5
+
+'scatting' at position 14 is not present in Expert list
+
+'coladeira' at position 15 is not present in Expert list
+
+Word 'waggle' found at position 16 and 51
+Difference between the positions: 35
+
+'compas' at position 17 is not present in Expert list
+
+Word 'routines' found at position 18 and 45
+Difference between the positions: 27
+
+'mambo' at position 19 is not present in Expert list
+
+'kuduro' at position 20 is not present in Expert list
 
 
 For the word 'choreographer', the nearest words are: 
 
 Novice List (Top 20): 
-['dancer', 'choreographed', 'choreographers', 'choreography', 'ballet', 'cinematographer', 'choreographing', 'filmmaker', 'cellist', 'composer', 'choreograph', 'pianist', 'actor', 'screenwriter', 'actress', 'violinist', 'playwright', 'percussionist', 'choreographs', 'producer']
+['dancer', 'choreographers', 'choreographed', 'choreography', 'ballet', 'cinematographer', 'composer', 'balletmaster', 'choreographing', 'actor', 'actress', 'screenwriter', 'filmmaker', 'choreograph', 'dramaturg', 'performer', 'playwright', 'scriptwriter', 'cellist', 'ballerina']
 
 Expert List (Top 100): 
 ['dancer', 'choreographers', 'choreographed', 'choreography', 'ballet', 'cinematographer', 'composer', 'actor', 'choreographing', 'actress', 'screenwriter', 'playwright', 'performer', 'balletmaster', 'filmmaker', 'nikolais', 'smuin', 'cellist', 'choreograph', 'violinist', 'pianist', 'animator', 'lyricist', 'puppeteer', 'percussionist', 'choreographs', 'ballerina', 'scriptwriter', 'producer', 'bjørnsgaard', 'dramaturg', 'choreographic', 'stylist', 'leonide', 'artist', 'kudelka', 'musician', 'nijinska', 'comedian', 'arranger', 'designer', 'massine', 'tharp', 'preljocaj', 'violist', 'costumer', 'flutist', 'photographer', 'fenley', 'twyla', 'flautist', 'baryshnikov', 'singer', 'bhuller', 'impresario', 'conductor', 'librettist', 'writer', 'latarro', 'reinking', 'orchestrator', 'bonnefoux', 'léonide', 'stuntwoman', 'naharin', 'aterballetto', 'harpsichordist', 'kirsova', 'buglisi', 'hoctor', 'merce', 'bangarra', 'accompanist', 'hairstylist', 'dance', 'gattelli', 'ballets', 'clarinetist', 'lenzu', 'shankman', 'balanchine', 'pilobolus', 'understudy', 'molissa', 'soloist', 'philadanco', 'chopinot', 'songwriter', 'klapow', 'fokine', 'ailey', 'wheeldon', 'millepied', 'hispanico', 'musical', 'jeyasingh', 'bandleader', 'stuntman', 'publicist', 'danced']
@@ -407,11 +407,9 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'dancer' found at position 1 in both lists
 
-Word 'choreographed' found at position 2 and 3
-Difference between the positions: 1
+Word 'choreographers' found at position 2 in both lists
 
-Word 'choreographers' found at position 3 and 2
-Difference between the positions: 1
+Word 'choreographed' found at position 3 in both lists
 
 Word 'choreography' found at position 4 in both lists
 
@@ -419,53 +417,51 @@ Word 'ballet' found at position 5 in both lists
 
 Word 'cinematographer' found at position 6 in both lists
 
-Word 'choreographing' found at position 7 and 9
+Word 'composer' found at position 7 in both lists
+
+Word 'balletmaster' found at position 8 and 14
+Difference between the positions: 6
+
+Word 'choreographing' found at position 9 in both lists
+
+Word 'actor' found at position 10 and 8
 Difference between the positions: 2
 
-Word 'filmmaker' found at position 8 and 15
-Difference between the positions: 7
+Word 'actress' found at position 11 and 10
+Difference between the positions: 1
 
-Word 'cellist' found at position 9 and 18
-Difference between the positions: 9
+Word 'screenwriter' found at position 12 and 11
+Difference between the positions: 1
 
-Word 'composer' found at position 10 and 7
-Difference between the positions: 3
+Word 'filmmaker' found at position 13 and 15
+Difference between the positions: 2
 
-Word 'choreograph' found at position 11 and 19
-Difference between the positions: 8
-
-Word 'pianist' found at position 12 and 21
-Difference between the positions: 9
-
-Word 'actor' found at position 13 and 8
+Word 'choreograph' found at position 14 and 19
 Difference between the positions: 5
 
-Word 'screenwriter' found at position 14 and 11
+Word 'dramaturg' found at position 15 and 31
+Difference between the positions: 16
+
+Word 'performer' found at position 16 and 13
 Difference between the positions: 3
-
-Word 'actress' found at position 15 and 10
-Difference between the positions: 5
-
-Word 'violinist' found at position 16 and 20
-Difference between the positions: 4
 
 Word 'playwright' found at position 17 and 12
 Difference between the positions: 5
 
-Word 'percussionist' found at position 18 and 25
-Difference between the positions: 7
+Word 'scriptwriter' found at position 18 and 28
+Difference between the positions: 10
 
-Word 'choreographs' found at position 19 and 26
-Difference between the positions: 7
+Word 'cellist' found at position 19 and 18
+Difference between the positions: 1
 
-Word 'producer' found at position 20 and 29
-Difference between the positions: 9
+Word 'ballerina' found at position 20 and 27
+Difference between the positions: 7
 
 
 For the word 'choreography', the nearest words are: 
 
 Novice List (Top 20): 
-['choreographed', 'choreographing', 'choreographies', 'choreographer', 'orchestrations', 'cinematography', 'costumes', 'choreographers', 'dance', 'choreographic', 'orchestration', 'balletic', 'dancers', 'choreographs', 'costuming', 'choreograph', 'acrobatics', 'routines', 'visuals', 'musical']
+['choreographed', 'choreographing', 'choreographies', 'choreographer', 'choreographic', 'orchestrations', 'choreographers', 'dance', 'costumes', 'cinematography', 'orchestration', 'dancers', 'ballet', 'balletic', 'choreographs', 'musical', 'costuming', 'choreograph', 'fokine', 'ballets']
 
 Expert List (Top 100): 
 ['choreographed', 'choreographing', 'choreographic', 'choreographer', 'choreographies', 'dance', 'orchestrations', 'costumes', 'choreographs', 'choreographers', 'dancers', 'cinematography', 'orchestration', 'costuming', 'nijinska', 'ballet', 'balletic', 'choreograph', 'routines', 'fokine', 'musical', 'preljocaj', 'acrobatics', 'costume', 'balanchine', 'ballets', 'twyla', 'massine', 'theatrics', 'dancing', 'improvisation', 'acrobatic', 'baryshnikov', 'dances', 'visuals', 'footwork', 'artistry', 'pilobolus', 'smuin', 'hoctor', 'denishawn', 'merce', 'performances', 'performance', 'léonide', 'scenography', 'nikolais', 'danced', 'camerawork', 'puppetry', 'butoh', 'giselle', 'naharin', 'stagecraft', 'ratmansky', 'music', 'petipa', 'hispanico', 'fenley', 'bronislava', 'krump', 'leonide', 'drumming', 'floorwork', 'coppélia', 'beyoncé', 'bugaku', 'shiamak', 'lyrics', 'theatricality', 'hanagami', 'singing', 'béjart', 'twerking', 'boléro', 'latarro', 'molissa', 'beatboxing', 'gattelli', 'legong', 'mime', 'astaire', 'millepied', 'unsquare', 'musicality', 'blankenbuehler', 'voguing', 'stunts', 'mazilier', 'pirouettes', 'tharp', 'props', 'striptease', 'nycb', 'bacchanale', 'vocal', 'bravura', 'balletmaster', 'maracci', 'moschen']
@@ -481,59 +477,58 @@ Difference between the positions: 2
 
 Word 'choreographer' found at position 4 in both lists
 
-Word 'orchestrations' found at position 5 and 7
+Word 'choreographic' found at position 5 and 3
 Difference between the positions: 2
 
-Word 'cinematography' found at position 6 and 12
-Difference between the positions: 6
-
-Word 'costumes' found at position 7 and 8
+Word 'orchestrations' found at position 6 and 7
 Difference between the positions: 1
 
-Word 'choreographers' found at position 8 and 10
-Difference between the positions: 2
-
-Word 'dance' found at position 9 and 6
+Word 'choreographers' found at position 7 and 10
 Difference between the positions: 3
 
-Word 'choreographic' found at position 10 and 3
-Difference between the positions: 7
+Word 'dance' found at position 8 and 6
+Difference between the positions: 2
+
+Word 'costumes' found at position 9 and 8
+Difference between the positions: 1
+
+Word 'cinematography' found at position 10 and 12
+Difference between the positions: 2
 
 Word 'orchestration' found at position 11 and 13
 Difference between the positions: 2
 
-Word 'balletic' found at position 12 and 17
-Difference between the positions: 5
-
-Word 'dancers' found at position 13 and 11
-Difference between the positions: 2
-
-Word 'choreographs' found at position 14 and 9
-Difference between the positions: 5
-
-Word 'costuming' found at position 15 and 14
+Word 'dancers' found at position 12 and 11
 Difference between the positions: 1
 
-Word 'choreograph' found at position 16 and 18
-Difference between the positions: 2
+Word 'ballet' found at position 13 and 16
+Difference between the positions: 3
 
-Word 'acrobatics' found at position 17 and 23
+Word 'balletic' found at position 14 and 17
+Difference between the positions: 3
+
+Word 'choreographs' found at position 15 and 9
 Difference between the positions: 6
 
-Word 'routines' found at position 18 and 19
+Word 'musical' found at position 16 and 21
+Difference between the positions: 5
+
+Word 'costuming' found at position 17 and 14
+Difference between the positions: 3
+
+Word 'choreograph' found at position 18 in both lists
+
+Word 'fokine' found at position 19 and 20
 Difference between the positions: 1
 
-Word 'visuals' found at position 19 and 35
-Difference between the positions: 16
-
-Word 'musical' found at position 20 and 21
-Difference between the positions: 1
+Word 'ballets' found at position 20 and 26
+Difference between the positions: 6
 
 
 For the word 'culture', the nearest words are: 
 
 Novice List (Top 20): 
-['cultural', 'cultures', 'spirituality', 'modernity', 'literature', 'traditions', 'civilisation', 'folklore', 'aesthetics', 'cuisine', 'civilization', 'religion', 'nationalism', 'lifestyles', 'ethnography', 'diaspora', 'culturally', 'literatures', 'shamanism', 'subcultures']
+['cultural', 'cultures', 'spirituality', 'literature', 'modernity', 'civilization', 'traditions', 'aesthetics', 'folklore', 'civilisation', 'cuisine', 'religion', 'nationalism', 'subculture', 'shamanism', 'diaspora', 'ethnography', 'ethos', 'lifestyles', 'ideology']
 
 Expert List (Top 100): 
 ['cultural', 'cultures', 'spirituality', 'modernity', 'traditions', 'literature', 'civilization', 'civilisation', 'folklore', 'aesthetics', 'cuisine', 'religion', 'nationalism', 'diaspora', 'lifestyles', 'subculture', 'modernism', 'culturally', 'subcultural', 'ethnography', 'ethos', 'subcultures', 'ideology', 'multicultural', 'prehistory', 'nationhood', 'literatures', 'shamanism', 'culture—the', 'exoticism', 'lifestyle', 'humanism', 'milieu', 'lifeways', 'otomani', 'colonialism', 'consumerism', 'tradition', 'diasporic', 'cosmopolitanism', 'discourse', 'regionalism', 'contemporary', 'attitudes', 'unetice', 'language', 'globalization', 'archeology', 'geography', 'multiculturalism', 'sociocultural', 'hybridity', 'buddhism', 'psychologies', 'worldview', 'architecture', 'social', 'romanticism', 'mysticism', 'civilizational', 'myths', 'hensbacka', 'dandybai', 'iconography', 'persianate', 'philosophy', 'orientalism', 'primitivism', 'starcevo', 'mores', 'art', 'masculinity', 'sensibilities', 'civilisations', 'begazy', 'chavin', 'sociopolitical', 'ideologies', 'postmodernity', 'society', 'creativity', 'sensibility', 'archaeology', 'feminism', 'worldviews', 'syncretic', 'humanistic', 'civilizations', 'postcolonialism', 'historiography', 'gastronomy', 'counterculture', 'politics', 'folkloristic', 'stereotypes', 'neopaganism', 'tribalism', 'folk', 'cyberculture', 'westernization']
@@ -546,170 +541,174 @@ Word 'cultures' found at position 2 in both lists
 
 Word 'spirituality' found at position 3 in both lists
 
-Word 'modernity' found at position 4 in both lists
+Word 'literature' found at position 4 and 6
+Difference between the positions: 2
 
-Word 'literature' found at position 5 and 6
+Word 'modernity' found at position 5 and 4
 Difference between the positions: 1
 
-Word 'traditions' found at position 6 and 5
+Word 'civilization' found at position 6 and 7
 Difference between the positions: 1
 
-Word 'civilisation' found at position 7 and 8
-Difference between the positions: 1
+Word 'traditions' found at position 7 and 5
+Difference between the positions: 2
 
-Word 'folklore' found at position 8 and 9
-Difference between the positions: 1
+Word 'aesthetics' found at position 8 and 10
+Difference between the positions: 2
 
-Word 'aesthetics' found at position 9 and 10
-Difference between the positions: 1
+Word 'folklore' found at position 9 in both lists
 
-Word 'cuisine' found at position 10 and 11
-Difference between the positions: 1
+Word 'civilisation' found at position 10 and 8
+Difference between the positions: 2
 
-Word 'civilization' found at position 11 and 7
-Difference between the positions: 4
+Word 'cuisine' found at position 11 in both lists
 
 Word 'religion' found at position 12 in both lists
 
 Word 'nationalism' found at position 13 in both lists
 
-Word 'lifestyles' found at position 14 and 15
-Difference between the positions: 1
+Word 'subculture' found at position 14 and 16
+Difference between the positions: 2
 
-Word 'ethnography' found at position 15 and 20
-Difference between the positions: 5
+Word 'shamanism' found at position 15 and 28
+Difference between the positions: 13
 
 Word 'diaspora' found at position 16 and 14
 Difference between the positions: 2
 
-Word 'culturally' found at position 17 and 18
-Difference between the positions: 1
+Word 'ethnography' found at position 17 and 20
+Difference between the positions: 3
 
-Word 'literatures' found at position 18 and 27
-Difference between the positions: 9
+Word 'ethos' found at position 18 and 21
+Difference between the positions: 3
 
-Word 'shamanism' found at position 19 and 28
-Difference between the positions: 9
+Word 'lifestyles' found at position 19 and 15
+Difference between the positions: 4
 
-Word 'subcultures' found at position 20 and 22
-Difference between the positions: 2
+Word 'ideology' found at position 20 and 23
+Difference between the positions: 3
 
 
 For the word 'dabke', the nearest words are: 
 
 Novice List (Top 20): 
-['karsilamas', 'havası', 'lavani', 'dabkeh', 'muwashshah', 'mawwal', 'odissi', 'mizmar', 'kalbelia', 'jhumar', 'bhaona', 'chaabi', 'ghoomar', 'ghumura', 'tarab', 'attan', 'kaşık', 'köçek', 'jhumur', 'zapin']
+['mizmar', 'dabkeh', 'chaabi', 'zajal', 'ghoomar', 'karsilamas', 'lavani', 'havası', 'jhumur', 'tarab', 'giddha', 'dollu', 'lezim', 'zeybek', 'dandiya', 'syrtos', 'kunitha', 'maqam', 'köçek', 'orissi']
 
 Expert List (Top 100): 
 ['khigga', 'havası', 'zeybek', 'attan', 'dabkeh', 'karsilamas', 'mahari', 'zonaradiko', 'gotipua', 'muwashshah', 'kalamatianos', 'sattriya', 'kaşık', 'halay', 'tarab', 'giddha', 'bagurumba', 'baladi', 'mujra', 'chhau', 'zapin', 'kunitha', 'lavani', 'ghawazi', 'dabka', 'ardah', 'lezginka', 'ghoomar', 'legong', 'chaabi', 'köçek', 'zajal', 'syrtos', 'kecak', 'tandava', 'bedhaya', 'unsquare', 'mizmar', 'dantza', 'dances', 'kummi', 'sirtaki', 'hasapiko', 'yakshagana', 'lezim', 'kamsale', 'dandiya', 'serimpi', 'dance', 'maqam', 'linđo', 'khyal', 'jhumar', 'pendet', 'qawwali', 'folkloric', 'yalli', 'kummattikali', 'ghumra', 'ghumura', 'mugham', 'raqs', 'agbadza', 'khaleeji', 'nritham', 'bugaku', 'zeibekiko', 'karşılama', 'gnawa', 'odissi', 'dollu', 'tinikling', 'ayyala', 'khaliji', 'sardana', 'haḍra', 'gelede', 'talchum', 'kathak', 'kuchipudi', 'joget', 'pyrrhichios', 'sousta', 'theyyam', 'matachines', 'tsifteteli', 'veeragase', 'khaleegy', 'khayal', 'kroncong', 'parachicos', 'pantsula', 'jhumur', 'azonto', 'cueca', 'orissi', 'shaabi', 'reog', 'bharatnatyam', 'lasya']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'karsilamas' found at position 1 and 6
+Word 'mizmar' found at position 1 and 38
+Difference between the positions: 37
+
+Word 'dabkeh' found at position 2 and 5
+Difference between the positions: 3
+
+Word 'chaabi' found at position 3 and 30
+Difference between the positions: 27
+
+Word 'zajal' found at position 4 and 32
+Difference between the positions: 28
+
+Word 'ghoomar' found at position 5 and 28
+Difference between the positions: 23
+
+Word 'karsilamas' found at position 6 in both lists
+
+Word 'lavani' found at position 7 and 23
+Difference between the positions: 16
+
+Word 'havası' found at position 8 and 2
+Difference between the positions: 6
+
+Word 'jhumur' found at position 9 and 93
+Difference between the positions: 84
+
+Word 'tarab' found at position 10 and 15
 Difference between the positions: 5
 
-Word 'havası' found at position 2 in both lists
-
-Word 'lavani' found at position 3 and 23
-Difference between the positions: 20
-
-Word 'dabkeh' found at position 4 and 5
-Difference between the positions: 1
-
-Word 'muwashshah' found at position 5 and 10
+Word 'giddha' found at position 11 and 16
 Difference between the positions: 5
 
-'mawwal' at position 6 is not present in Expert list
+Word 'dollu' found at position 12 and 71
+Difference between the positions: 59
 
-Word 'odissi' found at position 7 and 70
-Difference between the positions: 63
+Word 'lezim' found at position 13 and 45
+Difference between the positions: 32
 
-Word 'mizmar' found at position 8 and 38
-Difference between the positions: 30
+Word 'zeybek' found at position 14 and 3
+Difference between the positions: 11
 
-'kalbelia' at position 9 is not present in Expert list
+Word 'dandiya' found at position 15 and 47
+Difference between the positions: 32
 
-Word 'jhumar' found at position 10 and 53
-Difference between the positions: 43
+Word 'syrtos' found at position 16 and 33
+Difference between the positions: 17
 
-'bhaona' at position 11 is not present in Expert list
+Word 'kunitha' found at position 17 and 22
+Difference between the positions: 5
 
-Word 'chaabi' found at position 12 and 30
-Difference between the positions: 18
+Word 'maqam' found at position 18 and 50
+Difference between the positions: 32
 
-Word 'ghoomar' found at position 13 and 28
-Difference between the positions: 15
-
-Word 'ghumura' found at position 14 and 60
-Difference between the positions: 46
-
-Word 'tarab' found at position 15 in both lists
-
-Word 'attan' found at position 16 and 4
+Word 'köçek' found at position 19 and 31
 Difference between the positions: 12
 
-Word 'kaşık' found at position 17 and 13
-Difference between the positions: 4
-
-Word 'köçek' found at position 18 and 31
-Difference between the positions: 13
-
-Word 'jhumur' found at position 19 and 93
-Difference between the positions: 74
-
-Word 'zapin' found at position 20 and 21
-Difference between the positions: 1
+Word 'orissi' found at position 20 and 96
+Difference between the positions: 76
 
 
 For the word 'dancefloor', the nearest words are: 
 
 Novice List (Top 20): 
-['dancefloors', 'danceable', 'europop', 'disco', 'downtempo', 'anthemic', 'midtempo', 'vibe', 'balladry', 'breakbeats', 'banger', 'uptempo', 'singalong', 'summery', 'dubstep', 'bassline', 'bluesy', 'catchy', 'bangers', 'synthy']
+['danceable', 'midtempo', 'dancefloors', 'anthemic', 'banger', 'disco', 'vibe', 'europop', 'singalong', 'bangers', 'downtempo', 'woozy', 'balladry', 'catchy', 'dubstep', 'bassline', 'punchy', 'uptempo', 'summery', 'soulful']
 
 Expert List (Top 100): 
 ['danceable', 'anthemic', 'vibe', 'disco', 'midtempo', 'dancefloors', 'europop', 'catchy', 'balladry', 'banger', 'dubstep', 'singalong', 'woozy', 'downtempo', 'summery', 'uptempo', 'bouncy', 'bassline', 'bangers', 'crunk', 'synthy', 'remix', 'funky', 'dancey', 'breakbeats', 'thump', 'sonically', 'pop', 'edm', 'clubland', 'ravey', 'hooky', 'soulful', 'dancehall', 'kelis', 'synths', 'synth', 'sultry', 'boombox', 'folky', 'riffs', 'earworm', 'grungy', 'bluesy', 'vibes', 'electropop', 'catchiness', 'breakbeat', 'ragga', 'rootsy', 'mixmag', 'punchy', 'riffage', 'mashup', 'jazzy', 'upbeat', 'eurodisco', 'lyrically', 'infectiously', 'druggy', 'glitchy', 'groovy', 'songcraft', 'countrypolitan', 'groove', 'sludgy', 'trippy', 'melodicism', 'wideboys', 'bombastic', 'beats', 'riddim', 'song', 'basslines', 'atmospherics', 'giddy', 'megamix', 'skittering', 'album', 'mellow', 'psychedelia', 'backbeat', 'thudding', 'popsters', 'catchiest', 'thumping', 'ke$ha', 'electroclash', 'beatlesque', 'handclaps', 'tiesto', 'arty', 'rap', 'technotronic', 'techno', 'reggaeton', 'leftfield', 'tuneful', 'jaunty', 'jangly']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'dancefloors' found at position 1 and 6
-Difference between the positions: 5
+Word 'danceable' found at position 1 in both lists
 
-Word 'danceable' found at position 2 and 1
-Difference between the positions: 1
+Word 'midtempo' found at position 2 and 5
+Difference between the positions: 3
 
-Word 'europop' found at position 3 and 7
-Difference between the positions: 4
+Word 'dancefloors' found at position 3 and 6
+Difference between the positions: 3
 
-Word 'disco' found at position 4 in both lists
-
-Word 'downtempo' found at position 5 and 14
-Difference between the positions: 9
-
-Word 'anthemic' found at position 6 and 2
-Difference between the positions: 4
-
-Word 'midtempo' found at position 7 and 5
+Word 'anthemic' found at position 4 and 2
 Difference between the positions: 2
 
-Word 'vibe' found at position 8 and 3
+Word 'banger' found at position 5 and 10
 Difference between the positions: 5
 
-Word 'balladry' found at position 9 in both lists
+Word 'disco' found at position 6 and 4
+Difference between the positions: 2
 
-Word 'breakbeats' found at position 10 and 25
-Difference between the positions: 15
-
-Word 'banger' found at position 11 and 10
-Difference between the positions: 1
-
-Word 'uptempo' found at position 12 and 16
+Word 'vibe' found at position 7 and 3
 Difference between the positions: 4
 
-Word 'singalong' found at position 13 and 12
+Word 'europop' found at position 8 and 7
 Difference between the positions: 1
 
-Word 'summery' found at position 14 and 15
+Word 'singalong' found at position 9 and 12
+Difference between the positions: 3
+
+Word 'bangers' found at position 10 and 19
+Difference between the positions: 9
+
+Word 'downtempo' found at position 11 and 14
+Difference between the positions: 3
+
+Word 'woozy' found at position 12 and 13
 Difference between the positions: 1
+
+Word 'balladry' found at position 13 and 9
+Difference between the positions: 4
+
+Word 'catchy' found at position 14 and 8
+Difference between the positions: 6
 
 Word 'dubstep' found at position 15 and 11
 Difference between the positions: 4
@@ -717,22 +716,23 @@ Difference between the positions: 4
 Word 'bassline' found at position 16 and 18
 Difference between the positions: 2
 
-Word 'bluesy' found at position 17 and 44
-Difference between the positions: 27
+Word 'punchy' found at position 17 and 52
+Difference between the positions: 35
 
-Word 'catchy' found at position 18 and 8
-Difference between the positions: 10
+Word 'uptempo' found at position 18 and 16
+Difference between the positions: 2
 
-Word 'bangers' found at position 19 in both lists
+Word 'summery' found at position 19 and 15
+Difference between the positions: 4
 
-Word 'synthy' found at position 20 and 21
-Difference between the positions: 1
+Word 'soulful' found at position 20 and 33
+Difference between the positions: 13
 
 
 For the word 'disco', the nearest words are: 
 
 Novice List (Top 20): 
-['europop', 'pop', 'reggae', 'dancehall', 'dancefloor', 'rockabilly', 'funk', 'techno', 'dubstep', 'eurodance', 'breakbeat', 'electroclash', 'electropop', 'downtempo', 'ragga', 'chillwave', 'funky', 'punk', 'dance', 'glam']
+['europop', 'pop', 'reggae', 'dancehall', 'dubstep', 'rockabilly', 'funk', 'electroclash', 'dancefloor', 'techno', 'downtempo', 'ragga', 'funky', 'breakbeat', 'eurodisco', 'eurodance', 'punk', 'remix', 'retro', 'electropop']
 
 Expert List (Top 100): 
 ['pop', 'europop', 'dubstep', 'funk', 'reggae', 'dancehall', 'electroclash', 'eurodisco', 'techno', 'rockabilly', 'eurodance', 'dancefloor', 'breakbeat', 'funky', 'punk', 'ragga', 'electropop', 'remix', 'downtempo', 'edm', 'rap', 'crunk', 'glam', 'grunge', 'moombahton', 'dance', 'dj', 'psychedelic', 'gabber', 'leftfield', 'retro', 'boogie', 'chillwave', 'rhumba', 'song', 'discothèque', 'technotronic', 'hardstyle', 'breakcore', 'madchester', 'chillout', 'jumpstyle', 'electronica', 'boogaloo', 'coldcut', 'exotica', 'chic', 'discotheque', 'vibe', 'cabaret', 'groovy', 'lambada', 'woozy', 'rave', 'jazzy', 'bubblegum', 'reggaeton', 'uptempo', 'eurobeat', 'psychedelia', 'synth', 'rockers', 'shoegaze', 'banger', 'stereolab', 'electro', 'dancin', 'hardcore', 'slinky', 'skank', 'shoegazing', 'fischerspooner', 'emo', 'album', 'skiffle', 'dancefloors', 'bossa', 'trance', 'hop', 'lmfao', 'technopop', 'techstep', 'britpop', 'bouncy', 'grungy', 'synthpop', 'groove', 'mashup', 'remixes', 'salsa', 'tango', 'gangsta', 'beatnik', 'nightclub', 'hyphy', 'neurofunk', 'tiesto', 'swingin', 'motown', 'bhangra']
@@ -751,8 +751,8 @@ Difference between the positions: 2
 Word 'dancehall' found at position 4 and 6
 Difference between the positions: 2
 
-Word 'dancefloor' found at position 5 and 12
-Difference between the positions: 7
+Word 'dubstep' found at position 5 and 3
+Difference between the positions: 2
 
 Word 'rockabilly' found at position 6 and 10
 Difference between the positions: 4
@@ -760,50 +760,49 @@ Difference between the positions: 4
 Word 'funk' found at position 7 and 4
 Difference between the positions: 3
 
-Word 'techno' found at position 8 and 9
+Word 'electroclash' found at position 8 and 7
 Difference between the positions: 1
 
-Word 'dubstep' found at position 9 and 3
-Difference between the positions: 6
+Word 'dancefloor' found at position 9 and 12
+Difference between the positions: 3
 
-Word 'eurodance' found at position 10 and 11
+Word 'techno' found at position 10 and 9
 Difference between the positions: 1
 
-Word 'breakbeat' found at position 11 and 13
-Difference between the positions: 2
+Word 'downtempo' found at position 11 and 19
+Difference between the positions: 8
 
-Word 'electroclash' found at position 12 and 7
-Difference between the positions: 5
-
-Word 'electropop' found at position 13 and 17
+Word 'ragga' found at position 12 and 16
 Difference between the positions: 4
 
-Word 'downtempo' found at position 14 and 19
-Difference between the positions: 5
-
-Word 'ragga' found at position 15 and 16
+Word 'funky' found at position 13 and 14
 Difference between the positions: 1
 
-Word 'chillwave' found at position 16 and 33
-Difference between the positions: 17
+Word 'breakbeat' found at position 14 and 13
+Difference between the positions: 1
 
-Word 'funky' found at position 17 and 14
-Difference between the positions: 3
-
-Word 'punk' found at position 18 and 15
-Difference between the positions: 3
-
-Word 'dance' found at position 19 and 26
+Word 'eurodisco' found at position 15 and 8
 Difference between the positions: 7
 
-Word 'glam' found at position 20 and 23
+Word 'eurodance' found at position 16 and 11
+Difference between the positions: 5
+
+Word 'punk' found at position 17 and 15
+Difference between the positions: 2
+
+Word 'remix' found at position 18 in both lists
+
+Word 'retro' found at position 19 and 31
+Difference between the positions: 12
+
+Word 'electropop' found at position 20 and 17
 Difference between the positions: 3
 
 
 For the word 'exercise', the nearest words are: 
 
 Novice List (Top 20): 
-['exercises', 'exercising', 'rimpac', 'fleetex', 'comptuex', 'balikatan', 'baltops', 'maneuvers', 'exertion', 'calisthenic', 'reforger', 'workout', 'passex', 'conduct', 'routine', 'phiblex', 'jtfex', 'restraint', 'sharem', 'regimen']
+['exercises', 'exercising', 'rimpac', 'fleetex', 'sharem', 'reforger', 'calisthenic', 'balikatan', 'comptuex', 'tropex', 'maneuvers', 'workout', 'routine', 'exertion', 'baltops', 'plyometrics', 'conduct', 'phiblex', 'araex', 'passex']
 
 Expert List (Top 100): 
 ['exercises', 'exercising', 'rimpac', 'comptuex', 'fleetex', 'reforger', 'sharem', 'exertion', 'balikatan', 'jtfex', 'maneuvers', 'routine', 'calisthenics', 'tropex', 'workout', 'regimen', 'pacex', 'calisthenic', 'conduct', 'baltops', 'passex', 'hiit', 'imcmex', 'cpx', 'maneuver', 'refresher', 'pranayama', 'cardio', 'phiblex', 'workouts', 'drills', 'deployment', 'aerobic', 'sinkex', 'evaluation', 'restraint', 'submaximal', 'plyometric', 'practise', 'discipline', 'exercisers', 'dieting', 'kettlebells', 'demonstration', 'missilex', 'exert', 'aerobics', 'training', 'autogenic', 'redelineation', 'plyometrics', 'bodyweight', 'obedience', 'asw', 'trainings', 'action', 'manoeuvres', 'tasks', 'rsoi', 'familiarization', 'prescribe', 'araex', 'endurance', 'practice', 'fieldcraft', 'longstep', 'procedure', 'deconditioning', 'mctp', 'assessment', 'alertness', 'exercised', 'preflight', 'readiex', 'pilates', 'combat', 'bimanual', 'engage', 'activity', 'warfighting', 'midlink', 'kegel', 'mainbrace', 'aswex', 'ambulation', 'manoeuvers', 'manoeuvre', 'undertake', 'maintain', 'familiarisation', 'lantflex', 'splinting', 'measure', 'strikeback', 'evaluations', 'immobilization', 'agility', 'drill', 'competence', 'use']
@@ -819,124 +818,124 @@ Word 'rimpac' found at position 3 in both lists
 Word 'fleetex' found at position 4 and 5
 Difference between the positions: 1
 
-Word 'comptuex' found at position 5 and 4
+Word 'sharem' found at position 5 and 7
+Difference between the positions: 2
+
+Word 'reforger' found at position 6 in both lists
+
+Word 'calisthenic' found at position 7 and 18
+Difference between the positions: 11
+
+Word 'balikatan' found at position 8 and 9
 Difference between the positions: 1
 
-Word 'balikatan' found at position 6 and 9
-Difference between the positions: 3
-
-Word 'baltops' found at position 7 and 20
-Difference between the positions: 13
-
-Word 'maneuvers' found at position 8 and 11
-Difference between the positions: 3
-
-Word 'exertion' found at position 9 and 8
-Difference between the positions: 1
-
-Word 'calisthenic' found at position 10 and 18
-Difference between the positions: 8
-
-Word 'reforger' found at position 11 and 6
+Word 'comptuex' found at position 9 and 4
 Difference between the positions: 5
+
+Word 'tropex' found at position 10 and 14
+Difference between the positions: 4
+
+Word 'maneuvers' found at position 11 in both lists
 
 Word 'workout' found at position 12 and 15
 Difference between the positions: 3
 
-Word 'passex' found at position 13 and 21
-Difference between the positions: 8
+Word 'routine' found at position 13 and 12
+Difference between the positions: 1
 
-Word 'conduct' found at position 14 and 19
+Word 'exertion' found at position 14 and 8
+Difference between the positions: 6
+
+Word 'baltops' found at position 15 and 20
 Difference between the positions: 5
 
-Word 'routine' found at position 15 and 12
-Difference between the positions: 3
+Word 'plyometrics' found at position 16 and 51
+Difference between the positions: 35
 
-Word 'phiblex' found at position 16 and 29
-Difference between the positions: 13
+Word 'conduct' found at position 17 and 19
+Difference between the positions: 2
 
-Word 'jtfex' found at position 17 and 10
-Difference between the positions: 7
+Word 'phiblex' found at position 18 and 29
+Difference between the positions: 11
 
-Word 'restraint' found at position 18 and 36
-Difference between the positions: 18
+Word 'araex' found at position 19 and 62
+Difference between the positions: 43
 
-Word 'sharem' found at position 19 and 7
-Difference between the positions: 12
-
-Word 'regimen' found at position 20 and 16
-Difference between the positions: 4
+Word 'passex' found at position 20 and 21
+Difference between the positions: 1
 
 
 For the word 'folkdance', the nearest words are: 
 
 Novice List (Top 20): 
-['syrtos', 'sirtaki', 'marinera', 'tinikling', 'zeibekiko', 'joropo', 'folkloric', 'dances', 'schuhplattler', 'chirigotas', 'chinelos', 'kalamatianos', 'hasapiko', 'gaida', 'ländler', 'pasillo', 'festejo', 'kecak', 'pentozali', 'típico']
+['folkloric', 'contredanse', 'dances', 'matachines', 'hojagiri', 'linđo', 'dance', 'peridance', 'comparsas', 'folklórico', 'cueca', 'chinelos', 'tanec', 'köçek', 'folklorico', 'schottische', 'kecak', 'dancers', 'tropak', 'oberek']
 
 Expert List (Top 100): 
 ['kalamatianos', 'syrtos', 'contredanse', 'dance', 'sirtaki', 'dances', 'zeibekiko', 'χορός', 'csárdás', 'tanec', 'comparsas', 'folkloric', 'dabke', 'doublebugg', 'lezginka', 'serimpi', 'festejo', 'hojagiri', 'pasodoble', 'köçek', 'koftos', 'zeybek', 'quadrille', 'tinikling', 'antikristos', 'contradance', 'syrto', 'linđo', 'lăutari', 'bugaku', 'folklorico', 'folk', 'quadrilles', 'kunitha', 'matachines', 'correfoc', 'concheros', 'unsquare', 'ceilidhs', 'dancers', 'ländler', 'caporales', 'folksong', 'pyrrhichios', 'kecak', 'dollu', 'shumka', 'schuhplattler', 'oberek', 'zapateado', 'kamsale', 'legong', 'melomani', 'stepdance', 'hasapiko', 'rondalla', 'trepak', 'folklórico', 'laiko', 'zonaradiko', 'karagoz', 'moresca', 'gombey', 'cueca', 'sardana', 'fasıl', 'sousta', 'dantza', 'kwadril', 'karsilamas', 'orchesis', 'schottisch', 'yosakoi', 'ομάδα', 'jugglers', 'gaida', 'ballet', 'cachucha', 'saltarello', 'pasillo', 'kuchipudi', 'pangalay', 'kukeri', 'halay', 'accordionists', 'mazurka', 'μακεδονικός', 'zamacueca', 'allash', 'humppa', 'repertories', 'ashiqs', 'klezmer', 'havası', 'flamenco', 'estampie', 'flutists', 'marinera', 'syrtaki', 'koodiyattam']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'syrtos' found at position 1 and 2
-Difference between the positions: 1
-
-Word 'sirtaki' found at position 2 and 5
-Difference between the positions: 3
-
-Word 'marinera' found at position 3 and 98
-Difference between the positions: 95
-
-Word 'tinikling' found at position 4 and 24
-Difference between the positions: 20
-
-Word 'zeibekiko' found at position 5 and 7
-Difference between the positions: 2
-
-'joropo' at position 6 is not present in Expert list
-
-Word 'folkloric' found at position 7 and 12
-Difference between the positions: 5
-
-Word 'dances' found at position 8 and 6
-Difference between the positions: 2
-
-Word 'schuhplattler' found at position 9 and 48
-Difference between the positions: 39
-
-'chirigotas' at position 10 is not present in Expert list
-
-'chinelos' at position 11 is not present in Expert list
-
-Word 'kalamatianos' found at position 12 and 1
+Word 'folkloric' found at position 1 and 12
 Difference between the positions: 11
 
-Word 'hasapiko' found at position 13 and 55
-Difference between the positions: 42
+Word 'contredanse' found at position 2 and 3
+Difference between the positions: 1
 
-Word 'gaida' found at position 14 and 76
-Difference between the positions: 62
+Word 'dances' found at position 3 and 6
+Difference between the positions: 3
 
-Word 'ländler' found at position 15 and 41
-Difference between the positions: 26
+Word 'matachines' found at position 4 and 35
+Difference between the positions: 31
 
-Word 'pasillo' found at position 16 and 80
-Difference between the positions: 64
+Word 'hojagiri' found at position 5 and 18
+Difference between the positions: 13
 
-Word 'festejo' found at position 17 in both lists
+Word 'linđo' found at position 6 and 28
+Difference between the positions: 22
 
-Word 'kecak' found at position 18 and 45
-Difference between the positions: 27
+Word 'dance' found at position 7 and 4
+Difference between the positions: 3
 
-'pentozali' at position 19 is not present in Expert list
+'peridance' at position 8 is not present in Expert list
 
-'típico' at position 20 is not present in Expert list
+Word 'comparsas' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'folklórico' found at position 10 and 58
+Difference between the positions: 48
+
+Word 'cueca' found at position 11 and 64
+Difference between the positions: 53
+
+'chinelos' at position 12 is not present in Expert list
+
+Word 'tanec' found at position 13 and 10
+Difference between the positions: 3
+
+Word 'köçek' found at position 14 and 20
+Difference between the positions: 6
+
+Word 'folklorico' found at position 15 and 31
+Difference between the positions: 16
+
+'schottische' at position 16 is not present in Expert list
+
+Word 'kecak' found at position 17 and 45
+Difference between the positions: 28
+
+Word 'dancers' found at position 18 and 40
+Difference between the positions: 22
+
+'tropak' at position 19 is not present in Expert list
+
+Word 'oberek' found at position 20 and 49
+Difference between the positions: 29
 
 
 For the word 'footloose', the nearest words are: 
 
 Novice List (Top 20): 
-['dreamgirls', 'hairspray', 'godspell', 'seussical', 'brigadoon', 'urinetown', 'newsies', 'spamalot', 'flashdance', 'nunsense', 'superbad', 'singin', 'fantasticks', 'misbehavin', 'showgirls', 'sarafina', 'grease', 'musicals', 'hellzapoppin', 'florodora']
+['dreamgirls', 'hairspray', 'godspell', 'seussical', 'brigadoon', 'urinetown', 'newsies', 'fantasticks', 'nunsense', 'spamalot', 'singin', 'misbehavin', 'musicals', 'cinderella', 'kismet', 'showgirls', 'florodora', 'flashdance', 'misérables', 'grease']
 
 Expert List (Top 100): 
 ['hairspray', 'dreamgirls', 'seussical', 'godspell', 'brigadoon', 'urinetown', 'spamalot', 'newsies', 'fantasticks', 'florodora', 'flashdance', 'misérables', 'nunsense', 'musicals', 'showgirls', 'cinderella', 'singin', 'sarafina', 'moonstruck', 'evita', 'misbehavin', 'grease', 'flahooley', 'hellzapoppin', 'maytime', 'kismet', 'broadway', 'falsettos', 'zoolander', 'purlie', 'costarring', 'littlest', 'sharpay', 'falsettoland', 'beetlejuice', 'superbad', 'mamma', 'cowgirl', 'movie', 'crazy', 'sondheim', 'gershwins', 'loverboy', 'dolemite', 'roxie', 'nymf', 'follies', 'bedazzled', 'ladykillers', 'ziegfeld', 'barkleys', 'pajama', 'dogville', 'poppins', 'showtune', 'miserables', 'toreador', 'jumanji', 'lamour', 'shrek', 'jolson', 'orgazmo', 'charisse', 'costarred', 'sextette', 'understudying', 'eurotrip', 'waterboy', 'gidget', 'kinky', 'wiz', 'extravaganzas', 'musical', 'mame', 'dancin', 'grizabella', 'caddyshack', 'expendables', 'wildhorn', 'lowdown', 'jitterbug', 'kenickie', 'roustabout', 'creepshow', 'folles', 'dolly', 'scaramouche', 'uncredited', 'mungojerrie', 'matinee', 'dreamboats', 'burlesque', 'muppets', 'hullabaloo', 'baywatch', 'encores', 'bookwriter', 'goodfellas', 'laurey', 'senorita']
@@ -962,49 +961,50 @@ Word 'urinetown' found at position 6 in both lists
 Word 'newsies' found at position 7 and 8
 Difference between the positions: 1
 
-Word 'spamalot' found at position 8 and 7
+Word 'fantasticks' found at position 8 and 9
 Difference between the positions: 1
 
-Word 'flashdance' found at position 9 and 11
-Difference between the positions: 2
+Word 'nunsense' found at position 9 and 13
+Difference between the positions: 4
 
-Word 'nunsense' found at position 10 and 13
+Word 'spamalot' found at position 10 and 7
 Difference between the positions: 3
 
-Word 'superbad' found at position 11 and 36
-Difference between the positions: 25
+Word 'singin' found at position 11 and 17
+Difference between the positions: 6
 
-Word 'singin' found at position 12 and 17
-Difference between the positions: 5
+Word 'misbehavin' found at position 12 and 21
+Difference between the positions: 9
 
-Word 'fantasticks' found at position 13 and 9
-Difference between the positions: 4
+Word 'musicals' found at position 13 and 14
+Difference between the positions: 1
 
-Word 'misbehavin' found at position 14 and 21
-Difference between the positions: 7
-
-Word 'showgirls' found at position 15 in both lists
-
-Word 'sarafina' found at position 16 and 18
+Word 'cinderella' found at position 14 and 16
 Difference between the positions: 2
 
-Word 'grease' found at position 17 and 22
-Difference between the positions: 5
+Word 'kismet' found at position 15 and 26
+Difference between the positions: 11
 
-Word 'musicals' found at position 18 and 14
-Difference between the positions: 4
+Word 'showgirls' found at position 16 and 15
+Difference between the positions: 1
 
-Word 'hellzapoppin' found at position 19 and 24
-Difference between the positions: 5
+Word 'florodora' found at position 17 and 10
+Difference between the positions: 7
 
-Word 'florodora' found at position 20 and 10
-Difference between the positions: 10
+Word 'flashdance' found at position 18 and 11
+Difference between the positions: 7
+
+Word 'misérables' found at position 19 and 12
+Difference between the positions: 7
+
+Word 'grease' found at position 20 and 22
+Difference between the positions: 2
 
 
 For the word 'hop', the nearest words are: 
 
 Novice List (Top 20): 
-['rap', 'hopera', 'reggae', 'hiphop', 'crunk', 'hop—boasting', 'hop…', 'pop', 'dancehall', 'ragga', 'breakcore', 'horrorcore', 'dubstep', 'rappers', 'afrobeat', 'reggaeton', 'gangsta', 'hip', 'funk', 'electronica']
+['rap', 'hopera', 'reggae', 'hop…', 'hiphop', 'dancehall', 'pop', 'crunk', 'dubstep', 'ragga', 'downtempo', 'hip', 'kamerads', 'reggaeton', 'electroclash', 'gangsta', 'kwaito', 'funk', 'breakbeat', 'electronica']
 
 Expert List (Top 100): 
 ['rap', 'hopera', 'reggae', 'hiphop', 'hop…', 'ragga', 'pop', 'reggaeton', 'dancehall', 'hop—boasting', 'crunk', 'breakcore', 'kwaito', 'electronica', 'dubstep', 'electroclash', 'afrobeat', 'gangsta', 'hyphy', 'funk', 'downtempo', 'techno', 'eurodance', 'breakbeat', 'rappers', 'disco', 'hipster', 'horrorcore', 'electropop', 'hiplife', 'hardstyle', 'edm', 'huggers', 'hip', 'highlife', 'europop', 'punk', 'kamerads', 'psytrance', 'raggamuffin', 'hurray', 'grime', 'lagotek', 'music', 'eration', 'riddims', 'nerdcore', 'beatnuts', 'funky', 'bhangra', 'reggaetón', 'neurofunk', 'rapper', 'technopop', 'jazz', 'moombahton', 'mbaqanga', 'salsa', 'rockabilly', 'ska', 'bachata', 'worldbeat', 'illbient', 'folktronica', 'breakdancing', 'emcees', 'hardcore', 'chillwave', 'steppeulvene', 'sgip', 'chiptune', 'beatmaker', 'boogaloo', 'kizomba', 'soukous', 'gabber', 'makossa', 'zouk', 'pharcyde', 'rapping', 'dj', 'dance', 'idm', 'aceyalone', 'coldcut', 'indie', 'chillout', 'techstep', 'beatboxing', 'synthpop', 'jazzy', 'afropop', 'outkast', 'nujabes', 'rumba', 'mbalax', 'speedcore', 'blackalicious', 'psychedelic', 'afrobeats']
@@ -1017,51 +1017,52 @@ Word 'hopera' found at position 2 in both lists
 
 Word 'reggae' found at position 3 in both lists
 
-Word 'hiphop' found at position 4 in both lists
-
-Word 'crunk' found at position 5 and 11
-Difference between the positions: 6
-
-Word 'hop—boasting' found at position 6 and 10
-Difference between the positions: 4
-
-Word 'hop…' found at position 7 and 5
-Difference between the positions: 2
-
-Word 'pop' found at position 8 and 7
+Word 'hop…' found at position 4 and 5
 Difference between the positions: 1
 
-Word 'dancehall' found at position 9 in both lists
+Word 'hiphop' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'dancehall' found at position 6 and 9
+Difference between the positions: 3
+
+Word 'pop' found at position 7 in both lists
+
+Word 'crunk' found at position 8 and 11
+Difference between the positions: 3
+
+Word 'dubstep' found at position 9 and 15
+Difference between the positions: 6
 
 Word 'ragga' found at position 10 and 6
 Difference between the positions: 4
 
-Word 'breakcore' found at position 11 and 12
+Word 'downtempo' found at position 11 and 21
+Difference between the positions: 10
+
+Word 'hip' found at position 12 and 34
+Difference between the positions: 22
+
+Word 'kamerads' found at position 13 and 38
+Difference between the positions: 25
+
+Word 'reggaeton' found at position 14 and 8
+Difference between the positions: 6
+
+Word 'electroclash' found at position 15 and 16
 Difference between the positions: 1
 
-Word 'horrorcore' found at position 12 and 28
-Difference between the positions: 16
-
-Word 'dubstep' found at position 13 and 15
+Word 'gangsta' found at position 16 and 18
 Difference between the positions: 2
 
-Word 'rappers' found at position 14 and 25
-Difference between the positions: 11
+Word 'kwaito' found at position 17 and 13
+Difference between the positions: 4
 
-Word 'afrobeat' found at position 15 and 17
+Word 'funk' found at position 18 and 20
 Difference between the positions: 2
 
-Word 'reggaeton' found at position 16 and 8
-Difference between the positions: 8
-
-Word 'gangsta' found at position 17 and 18
-Difference between the positions: 1
-
-Word 'hip' found at position 18 and 34
-Difference between the positions: 16
-
-Word 'funk' found at position 19 and 20
-Difference between the positions: 1
+Word 'breakbeat' found at position 19 and 24
+Difference between the positions: 5
 
 Word 'electronica' found at position 20 and 14
 Difference between the positions: 6
@@ -1070,7 +1071,7 @@ Difference between the positions: 6
 For the word 'kathak', the nearest words are: 
 
 Novice List (Top 20): 
-['bharatanatyam', 'kuchipudi', 'bharatnatyam', 'odissi', 'mohiniyattam', 'bharathanatyam', 'natyam', 'kathakali', 'nritya', 'dhrupad', 'abhinaya', 'yakshagana', 'sattriya', 'mohiniattam', 'chhau', 'natya', 'shiamak', 'koodiyattam', 'gharana', 'kelucharan']
+['bharatanatyam', 'odissi', 'bharatnatyam', 'kuchipudi', 'bharathanatyam', 'natyam', 'mohiniyattam', 'kathakali', 'nritya', 'sattriya', 'dhrupad', 'abhinaya', 'chhau', 'thumri', 'mohiniattam', 'natya', 'mohiniyattom', 'gharana', 'yakshagana', 'kalamandalam']
 
 Expert List (Top 100): 
 ['bharatanatyam', 'odissi', 'bharatnatyam', 'kuchipudi', 'mohiniyattam', 'natyam', 'bharathanatyam', 'kathakali', 'dhrupad', 'sattriya', 'nritya', 'abhinaya', 'gharana', 'natya', 'yakshagana', 'mohiniyattom', 'koodiyattam', 'mohiniattam', 'thumri', 'chhau', 'sangeet', 'kalakshetra', 'khyal', 'kelucharan', 'kutiyattam', 'lavani', 'khayal', 'harikatha', 'kalamandalam', 'gharanas', 'gotipua', 'rabindrasangeet', 'lasya', 'orissi', 'shiamak', 'tappa', 'kalaripayattu', 'hindustani', 'gayaki', 'gandharva', 'koothu', 'mridangam', 'chakyar', 'ustad', 'mujra', 'pandanallur', 'jasraj', 'tamasha', 'nritta', 'darpana', 'ghoomar', 'mohapatra', 'sangit', 'veena', 'balasaraswati', 'ottamthullal', 'gamaka', 'sangeeta', 'sangita', 'chitrasena', 'pandit', 'tabla', 'thullal', 'dhanammal', 'bhajan', 'nautanki', 'maihar', 'rabindra', 'bhatkhande', 'bharata', 'ghumura', 'akhada', 'melattur', 'chaurasia', 'ghumra', 'giddha', 'hariprasad', 'kalari', 'jhumar', 'amonkar', 'kirtan', 'nrityagram', 'mandali', 'bhate', 'sopana', 'gurukula', 'kudiyattam', 'imdadkhani', 'qawwali', 'panchavadyam', 'mahari', 'sadhana', 'tandava', 'akshara', 'nataka', 'manipuri', 'baul', 'kunitha', 'atrauli', 'sitarist']
@@ -1079,133 +1080,128 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'bharatanatyam' found at position 1 in both lists
 
-Word 'kuchipudi' found at position 2 and 4
-Difference between the positions: 2
+Word 'odissi' found at position 2 in both lists
 
 Word 'bharatnatyam' found at position 3 in both lists
 
-Word 'odissi' found at position 4 and 2
+Word 'kuchipudi' found at position 4 in both lists
+
+Word 'bharathanatyam' found at position 5 and 7
 Difference between the positions: 2
 
-Word 'mohiniyattam' found at position 5 in both lists
+Word 'natyam' found at position 6 in both lists
 
-Word 'bharathanatyam' found at position 6 and 7
-Difference between the positions: 1
-
-Word 'natyam' found at position 7 and 6
-Difference between the positions: 1
+Word 'mohiniyattam' found at position 7 and 5
+Difference between the positions: 2
 
 Word 'kathakali' found at position 8 in both lists
 
 Word 'nritya' found at position 9 and 11
 Difference between the positions: 2
 
-Word 'dhrupad' found at position 10 and 9
-Difference between the positions: 1
+Word 'sattriya' found at position 10 in both lists
 
-Word 'abhinaya' found at position 11 and 12
-Difference between the positions: 1
+Word 'dhrupad' found at position 11 and 9
+Difference between the positions: 2
 
-Word 'yakshagana' found at position 12 and 15
-Difference between the positions: 3
+Word 'abhinaya' found at position 12 in both lists
 
-Word 'sattriya' found at position 13 and 10
-Difference between the positions: 3
+Word 'chhau' found at position 13 and 20
+Difference between the positions: 7
 
-Word 'mohiniattam' found at position 14 and 18
-Difference between the positions: 4
-
-Word 'chhau' found at position 15 and 20
+Word 'thumri' found at position 14 and 19
 Difference between the positions: 5
+
+Word 'mohiniattam' found at position 15 and 18
+Difference between the positions: 3
 
 Word 'natya' found at position 16 and 14
 Difference between the positions: 2
 
-Word 'shiamak' found at position 17 and 35
-Difference between the positions: 18
-
-Word 'koodiyattam' found at position 18 and 17
+Word 'mohiniyattom' found at position 17 and 16
 Difference between the positions: 1
 
-Word 'gharana' found at position 19 and 13
-Difference between the positions: 6
+Word 'gharana' found at position 18 and 13
+Difference between the positions: 5
 
-Word 'kelucharan' found at position 20 and 24
+Word 'yakshagana' found at position 19 and 15
 Difference between the positions: 4
+
+Word 'kalamandalam' found at position 20 and 29
+Difference between the positions: 9
 
 
 For the word 'lavani', the nearest words are: 
 
 Novice List (Top 20): 
-['yakshagana', 'tamasha', 'geet', 'ghoomar', 'bhajan', 'thumri', 'bhajans', 'tappa', 'pattu', 'bhavai', 'nritya', 'mohiniyattam', 'bharatnatyam', 'sangit', 'naach', 'kirtan', 'thullal', 'khyal', 'kunitha', 'khayal']
+['tamasha', 'thumri', 'bhajan', 'ghoomar', 'geet', 'bhavai', 'nautanki', 'tappa', 'yakshagana', 'jhumur', 'chaiti', 'pattu', 'nritya', 'khayal', 'naach', 'khyal', 'mujra', 'baul', 'kuchipudi', 'bhajans']
 
 Expert List (Top 100): 
 ['thumri', 'tamasha', 'bhajans', 'ghoomar', 'khyal', 'bhajan', 'khayal', 'tappa', 'yakshagana', 'kirtan', 'dhrupad', 'sattriya', 'nritya', 'kuchipudi', 'qawwali', 'pattu', 'abhang', 'malkauns', 'chaiti', 'bharatanatyam', 'geet', 'harikatha', 'baul', 'giddha', 'kunitha', 'bharatnatyam', 'nautanki', 'jhumur', 'kathak', 'mujra', 'sangeetham', 'koothu', 'thumris', 'abhinaya', 'bhavai', 'kirtans', 'natyam', 'bharathanatyam', 'sargam', 'odissi', 'thullal', 'sangit', 'kathakali', 'borgeet', 'naach', 'gamaka', 'raag', 'jhumar', 'tillana', 'sangita', 'lasya', 'bhairavi', 'chhau', 'padams', 'purandaradasa', 'paattu', 'mugam', 'gondhal', 'varnam', 'mohiniyattam', 'orissi', 'koodiyattam', 'powada', 'ghumra', 'chaturang', 'baithakichi', 'dhol', 'kajri', 'hindolam', 'ghumura', 'pallavi', 'darbari', 'bhawaiya', 'ragam', 'aattam', 'chhanda', 'malhar', 'gayaki', 'kummi', 'thanam', 'sankirtan', 'thillana', 'varnams', 'ranjani', 'sopana', 'gandharva', 'mridanga', 'vesha', 'dhanashree', 'moitra', 'natya', 'kriti', 'bandish', 'padavali', 'raaga', 'swara', 'tansen', 'bhangra', 'dhumpa', 'dollu']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'yakshagana' found at position 1 and 9
-Difference between the positions: 8
+Word 'tamasha' found at position 1 and 2
+Difference between the positions: 1
 
-Word 'tamasha' found at position 2 in both lists
+Word 'thumri' found at position 2 and 1
+Difference between the positions: 1
 
-Word 'geet' found at position 3 and 21
-Difference between the positions: 18
+Word 'bhajan' found at position 3 and 6
+Difference between the positions: 3
 
 Word 'ghoomar' found at position 4 in both lists
 
-Word 'bhajan' found at position 5 and 6
-Difference between the positions: 1
+Word 'geet' found at position 5 and 21
+Difference between the positions: 16
 
-Word 'thumri' found at position 6 and 1
-Difference between the positions: 5
+Word 'bhavai' found at position 6 and 35
+Difference between the positions: 29
 
-Word 'bhajans' found at position 7 and 3
-Difference between the positions: 4
+Word 'nautanki' found at position 7 and 27
+Difference between the positions: 20
 
 Word 'tappa' found at position 8 in both lists
 
-Word 'pattu' found at position 9 and 16
+Word 'yakshagana' found at position 9 in both lists
+
+Word 'jhumur' found at position 10 and 28
+Difference between the positions: 18
+
+Word 'chaiti' found at position 11 and 19
+Difference between the positions: 8
+
+Word 'pattu' found at position 12 and 16
+Difference between the positions: 4
+
+Word 'nritya' found at position 13 in both lists
+
+Word 'khayal' found at position 14 and 7
 Difference between the positions: 7
-
-Word 'bhavai' found at position 10 and 35
-Difference between the positions: 25
-
-Word 'nritya' found at position 11 and 13
-Difference between the positions: 2
-
-Word 'mohiniyattam' found at position 12 and 60
-Difference between the positions: 48
-
-Word 'bharatnatyam' found at position 13 and 26
-Difference between the positions: 13
-
-Word 'sangit' found at position 14 and 42
-Difference between the positions: 28
 
 Word 'naach' found at position 15 and 45
 Difference between the positions: 30
 
-Word 'kirtan' found at position 16 and 10
-Difference between the positions: 6
+Word 'khyal' found at position 16 and 5
+Difference between the positions: 11
 
-Word 'thullal' found at position 17 and 41
-Difference between the positions: 24
-
-Word 'khyal' found at position 18 and 5
+Word 'mujra' found at position 17 and 30
 Difference between the positions: 13
 
-Word 'kunitha' found at position 19 and 25
-Difference between the positions: 6
+Word 'baul' found at position 18 and 23
+Difference between the positions: 5
 
-Word 'khayal' found at position 20 and 7
-Difference between the positions: 13
+Word 'kuchipudi' found at position 19 and 14
+Difference between the positions: 5
+
+Word 'bhajans' found at position 20 and 3
+Difference between the positions: 17
 
 
 For the word 'music', the nearest words are: 
 
 Novice List (Top 20): 
-['musical', 'jazz', 'dance', 'musics', 'pop', 'songs', 'song', 'tunes', 'musicians', 'singing', 'exotica', 'piano', 'hiphop', 'afrobeat', 'reggae', 'breakcore', 'art', 'recordings', 'worldbeat', 'europop']
+['musical', 'jazz', 'dance', 'musics', 'songs', 'pop', 'tunes', 'song', 'singing', 'piano', 'musicians', 'reggae', 'afrobeat', 'lyric', 'exotica', 'recordings', 'singers', 'musician', 'recording', 'hiphop']
 
 Expert List (Top 100): 
 ['musical', 'jazz', 'dance', 'musics', 'songs', 'pop', 'singing', 'song', 'tunes', 'piano', 'musicians', 'lyric', 'electronica', 'reggae', 'afrobeat', 'hiphop', 'exotica', 'recordings', 'instrumentals', 'worldbeat', 'classics', 'recording', 'art', 'downtempo', 'melodies', 'orchestral', 'singers', 'musician', 'concert', 'breakcore', 'klezmer', 'music—a', 'melody', 'psytrance', 'orchestra', 'composers', 'improvisation', 'compositions', 'artists', 'repertoire', 'musique', 'soundscape', 'songwriting', 'marabi', 'rap', 'songwriters', 'flamenco', 'rumba', 'bhangra', 'mbaqanga', 'orchestrations', 'ragtime', 'singer', 'composer', 'poetry', 'orchestration', 'music—the', 'drumming', 'band', 'musik', 'beatboxing', 'songbook', 'rockabilly', 'kwela', 'crooner', 'chiptune', 'radio', 'concerts', 'eurodisco', 'electroclash', 'hop', 'chillout', 'choral', 'qawwali', 'balladry', 'rootsy', 'kwaito', 'schlager', 'tune', 'vocalese', 'folk', 'edm', 'rnb', 'cumbia', 'europop', 'highlife', 'folky', 'dubstep', 'scatting', 'technopop', 'albums', 'disco', 'backbeat', 'bolero', 'folksong', 'cinema', 'sound', 'eurodance', 'moombahton', 'choreography']
@@ -1220,58 +1216,54 @@ Word 'dance' found at position 3 in both lists
 
 Word 'musics' found at position 4 in both lists
 
-Word 'pop' found at position 5 and 6
-Difference between the positions: 1
+Word 'songs' found at position 5 in both lists
 
-Word 'songs' found at position 6 and 5
-Difference between the positions: 1
+Word 'pop' found at position 6 in both lists
 
-Word 'song' found at position 7 and 8
-Difference between the positions: 1
-
-Word 'tunes' found at position 8 and 9
-Difference between the positions: 1
-
-Word 'musicians' found at position 9 and 11
+Word 'tunes' found at position 7 and 9
 Difference between the positions: 2
 
-Word 'singing' found at position 10 and 7
-Difference between the positions: 3
+Word 'song' found at position 8 in both lists
 
-Word 'exotica' found at position 11 and 17
-Difference between the positions: 6
-
-Word 'piano' found at position 12 and 10
+Word 'singing' found at position 9 and 7
 Difference between the positions: 2
 
-Word 'hiphop' found at position 13 and 16
+Word 'piano' found at position 10 in both lists
+
+Word 'musicians' found at position 11 in both lists
+
+Word 'reggae' found at position 12 and 14
+Difference between the positions: 2
+
+Word 'afrobeat' found at position 13 and 15
+Difference between the positions: 2
+
+Word 'lyric' found at position 14 and 12
+Difference between the positions: 2
+
+Word 'exotica' found at position 15 and 17
+Difference between the positions: 2
+
+Word 'recordings' found at position 16 and 18
+Difference between the positions: 2
+
+Word 'singers' found at position 17 and 27
+Difference between the positions: 10
+
+Word 'musician' found at position 18 and 28
+Difference between the positions: 10
+
+Word 'recording' found at position 19 and 22
 Difference between the positions: 3
 
-Word 'afrobeat' found at position 14 and 15
-Difference between the positions: 1
-
-Word 'reggae' found at position 15 and 14
-Difference between the positions: 1
-
-Word 'breakcore' found at position 16 and 30
-Difference between the positions: 14
-
-Word 'art' found at position 17 and 23
-Difference between the positions: 6
-
-Word 'recordings' found at position 18 in both lists
-
-Word 'worldbeat' found at position 19 and 20
-Difference between the positions: 1
-
-Word 'europop' found at position 20 and 85
-Difference between the positions: 65
+Word 'hiphop' found at position 20 and 16
+Difference between the positions: 4
 
 
 For the word 'natyam', the nearest words are: 
 
 Novice List (Top 20): 
-['bharatanatyam', 'kathak', 'kuchipudi', 'bharatnatyam', 'bharathanatyam', 'odissi', 'mohiniyattam', 'kathakali', 'nritya', 'bharatha', 'abhinaya', 'darpana', 'natya', 'koodiyattam', 'harikatha', 'yakshagana', 'kalamandalam', 'nataka', 'chakyar', 'sangeetham']
+['bharatanatyam', 'kuchipudi', 'bharathanatyam', 'kathak', 'odissi', 'bharatnatyam', 'abhinaya', 'mohiniyattam', 'nritya', 'kathakali', 'natya', 'bharatha', 'harikatha', 'yakshagana', 'koodiyattam', 'tandava', 'sattriya', 'lasya', 'chhau', 'vilasini']
 
 Expert List (Top 100): 
 ['kuchipudi', 'bharatanatyam', 'kathak', 'bharathanatyam', 'odissi', 'nritya', 'bharatnatyam', 'mohiniyattam', 'abhinaya', 'natya', 'sattriya', 'bharatha', 'kathakali', 'mohiniattam', 'lasya', 'kutiyattam', 'yakshagana', 'bharata', 'harikatha', 'darpana', 'gotipua', 'koodiyattam', 'tandava', 'nritta', 'chhau', 'kalakshetra', 'sangita', 'balasaraswati', 'sangeetham', 'prabuddha', 'chakyar', 'kathamanjari', 'kelucharan', 'kalamandalam', 'nataka', 'ghumra', 'koothu', 'orissi', 'kunitha', 'mohiniyattom', 'nritham', 'thullal', 'kalaripayattu', 'thandavam', 'lavani', 'nrutya', 'sangit', 'ammannur', 'mridanga', 'gamaka', 'gandharva', 'vilasa', 'vilasini', 'mohapatra', 'pyakhan', 'ghumura', 'natakam', 'chitrasena', 'vadya', 'tarangini', 'sopana', 'nrtta', 'vesha', 'mahari', 'surabhi', 'ottamthullal', 'karanas', 'alankara', 'vempati', 'dhrupad', 'bhairavi', 'chittani', 'shastra', 'kalari', 'vidwan', 'melattur', 'natyalaya', 'nartaki', 'akshara', 'sopanam', 'rasika', 'mādhava', 'panchakam', 'abhinava', 'natanam', 'ottan', 'arangetram', 'parayan', 'panigrahi', 'sangeet', 'nrithya', 'sankirtana', 'mridangam', 'chandalika', 'nadanam', 'mujra', 'aattam', 'vilasam', 'dhanammal', 'mayadhar']
@@ -1281,68 +1273,65 @@ Comparing the words between Novice and Expert list, we can observe:
 Word 'bharatanatyam' found at position 1 and 2
 Difference between the positions: 1
 
-Word 'kathak' found at position 2 and 3
+Word 'kuchipudi' found at position 2 and 1
 Difference between the positions: 1
 
-Word 'kuchipudi' found at position 3 and 1
+Word 'bharathanatyam' found at position 3 and 4
+Difference between the positions: 1
+
+Word 'kathak' found at position 4 and 3
+Difference between the positions: 1
+
+Word 'odissi' found at position 5 in both lists
+
+Word 'bharatnatyam' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'abhinaya' found at position 7 and 9
 Difference between the positions: 2
 
-Word 'bharatnatyam' found at position 4 and 7
-Difference between the positions: 3
-
-Word 'bharathanatyam' found at position 5 and 4
-Difference between the positions: 1
-
-Word 'odissi' found at position 6 and 5
-Difference between the positions: 1
-
-Word 'mohiniyattam' found at position 7 and 8
-Difference between the positions: 1
-
-Word 'kathakali' found at position 8 and 13
-Difference between the positions: 5
+Word 'mohiniyattam' found at position 8 in both lists
 
 Word 'nritya' found at position 9 and 6
 Difference between the positions: 3
 
-Word 'bharatha' found at position 10 and 12
-Difference between the positions: 2
-
-Word 'abhinaya' found at position 11 and 9
-Difference between the positions: 2
-
-Word 'darpana' found at position 12 and 20
-Difference between the positions: 8
-
-Word 'natya' found at position 13 and 10
+Word 'kathakali' found at position 10 and 13
 Difference between the positions: 3
 
-Word 'koodiyattam' found at position 14 and 22
-Difference between the positions: 8
-
-Word 'harikatha' found at position 15 and 19
-Difference between the positions: 4
-
-Word 'yakshagana' found at position 16 and 17
+Word 'natya' found at position 11 and 10
 Difference between the positions: 1
 
-Word 'kalamandalam' found at position 17 and 34
-Difference between the positions: 17
+Word 'bharatha' found at position 12 in both lists
 
-Word 'nataka' found at position 18 and 35
-Difference between the positions: 17
+Word 'harikatha' found at position 13 and 19
+Difference between the positions: 6
 
-Word 'chakyar' found at position 19 and 31
-Difference between the positions: 12
+Word 'yakshagana' found at position 14 and 17
+Difference between the positions: 3
 
-Word 'sangeetham' found at position 20 and 29
-Difference between the positions: 9
+Word 'koodiyattam' found at position 15 and 22
+Difference between the positions: 7
+
+Word 'tandava' found at position 16 and 23
+Difference between the positions: 7
+
+Word 'sattriya' found at position 17 and 11
+Difference between the positions: 6
+
+Word 'lasya' found at position 18 and 15
+Difference between the positions: 3
+
+Word 'chhau' found at position 19 and 25
+Difference between the positions: 6
+
+Word 'vilasini' found at position 20 and 53
+Difference between the positions: 33
 
 
 For the word 'rhythm', the nearest words are: 
 
 Novice List (Top 20): 
-['rhythms', 'syncopation', 'syncopated', 'backbeat', 'bassline', 'melodic', 'melody', 'polyrhythm', 'rhythmic', 'polyrhythms', 'handclaps', 'drumming', 'staccato', 'percussive', 'polyrhythmic', 'ostinatos', 'harmonies', 'bluesy', 'basslines', 'funky']
+['rhythms', 'backbeat', 'syncopated', 'syncopation', 'polyrhythmic', 'handclaps', 'staccato', 'melodic', 'basslines', 'bassline', 'melody', 'harmonies', 'percussive', 'rhythmic', 'polyrhythms', 'drumming', 'polyrhythm', 'ostinatos', 'rhythmically', 'tresillo']
 
 Expert List (Top 100): 
 ['rhythms', 'syncopated', 'syncopation', 'melody', 'bassline', 'rhythmic', 'percussive', 'backbeat', 'handclaps', 'melodic', 'basslines', 'drumming', 'staccato', 'polyrhythmic', 'polyrhythm', 'polyrhythms', 'backbeats', 'harmonies', 'ostinatos', 'rhythmically', 'metronomic', 'ostinato', 'percussion', 'tresillo', 'bluesy', 'melodies', 'comping', 'skittering', 'loping', 'scatting', 'rhythmical', 'breakbeats', 'funky', 'synth', 'beats', 'riffs', 'drumbeats', 'rubato', 'cadences', 'riff', 'habanera', 'jazzy', 'solos', 'arpeggios', 'droning', 'crescendos', 'groove', 'tempos', 'pizzicato', 'conga', 'cadence', 'tempo', 'guitar', 'drumbeat', 'claves', 'clave', 'strums', 'noodling', 'tambú', 'fingerpicking', 'rhumba', 'thudding', 'strum', 'sounds', 'chords', 'hemiola', 'glissando', 'guajeos', 'legato', 'vibraphone', 'strumming', 'instrumentals', 'blues', 'twangy', 'chugging', 'guajeo', 'offbeats', 'melisma', 'chord', 'lilting', 'upbeats', 'improvisation', 'fascinatin', 'phrasing', 'melodically', 'vibrato', 'arpeggio', 'arpeggiated', 'unsyncopated', 'bongos', 'crooning', 'synths', 'congas', 'riffing', 'sonorities', 'mellow', 'drum', 'chording', 'tune', 'soulful']
@@ -1351,65 +1340,68 @@ Comparing the words between Novice and Expert list, we can observe:
 
 Word 'rhythms' found at position 1 in both lists
 
-Word 'syncopation' found at position 2 and 3
-Difference between the positions: 1
+Word 'backbeat' found at position 2 and 8
+Difference between the positions: 6
 
 Word 'syncopated' found at position 3 and 2
 Difference between the positions: 1
 
-Word 'backbeat' found at position 4 and 8
-Difference between the positions: 4
+Word 'syncopation' found at position 4 and 3
+Difference between the positions: 1
 
-Word 'bassline' found at position 5 in both lists
+Word 'polyrhythmic' found at position 5 and 14
+Difference between the positions: 9
 
-Word 'melodic' found at position 6 and 10
-Difference between the positions: 4
-
-Word 'melody' found at position 7 and 4
+Word 'handclaps' found at position 6 and 9
 Difference between the positions: 3
 
-Word 'polyrhythm' found at position 8 and 15
-Difference between the positions: 7
-
-Word 'rhythmic' found at position 9 and 6
-Difference between the positions: 3
-
-Word 'polyrhythms' found at position 10 and 16
+Word 'staccato' found at position 7 and 13
 Difference between the positions: 6
 
-Word 'handclaps' found at position 11 and 9
+Word 'melodic' found at position 8 and 10
 Difference between the positions: 2
 
-Word 'drumming' found at position 12 in both lists
+Word 'basslines' found at position 9 and 11
+Difference between the positions: 2
 
-Word 'staccato' found at position 13 in both lists
+Word 'bassline' found at position 10 and 5
+Difference between the positions: 5
 
-Word 'percussive' found at position 14 and 7
+Word 'melody' found at position 11 and 4
 Difference between the positions: 7
 
-Word 'polyrhythmic' found at position 15 and 14
-Difference between the positions: 1
+Word 'harmonies' found at position 12 and 18
+Difference between the positions: 6
 
-Word 'ostinatos' found at position 16 and 19
-Difference between the positions: 3
+Word 'percussive' found at position 13 and 7
+Difference between the positions: 6
 
-Word 'harmonies' found at position 17 and 18
-Difference between the positions: 1
-
-Word 'bluesy' found at position 18 and 25
-Difference between the positions: 7
-
-Word 'basslines' found at position 19 and 11
+Word 'rhythmic' found at position 14 and 6
 Difference between the positions: 8
 
-Word 'funky' found at position 20 and 33
-Difference between the positions: 13
+Word 'polyrhythms' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'drumming' found at position 16 and 12
+Difference between the positions: 4
+
+Word 'polyrhythm' found at position 17 and 15
+Difference between the positions: 2
+
+Word 'ostinatos' found at position 18 and 19
+Difference between the positions: 1
+
+Word 'rhythmically' found at position 19 and 20
+Difference between the positions: 1
+
+Word 'tresillo' found at position 20 and 24
+Difference between the positions: 4
 
 
 For the word 'salsa', the nearest words are: 
 
 Novice List (Top 20): 
-['merengue', 'cumbia', 'bachata', 'rumba', 'reggaeton', 'vallenato', 'rhumba', 'guaracha', 'danzón', 'ranchera', 'charanga', 'norteña', 'flamenco', 'típico', 'timba', 'mariachi', 'milonga', 'conjunto', 'norteño', 'bolero']
+['merengue', 'cumbia', 'bachata', 'rumba', 'reggaeton', 'danzón', 'timba', 'charanga', 'guaracha', 'bolero', 'flamenco', 'milonga', 'mariachi', 'norteño', 'habanera', 'ranchera', 'boleros', 'rhumba', 'vallenato', 'conjunto']
 
 Expert List (Top 100): 
 ['merengue', 'cumbia', 'bachata', 'rumba', 'reggaeton', 'danzón', 'charanga', 'ranchera', 'norteña', 'mariachi', 'norteño', 'flamenco', 'guaracha', 'bolero', 'vallenato', 'típico', 'rhumba', 'milonga', 'conjunto', 'timba', 'mambo', 'huapango', 'habanera', 'boleros', 'chachachá', 'festejo', 'descarga', 'criolla', 'contradanza', 'candombe', 'cubano', 'reggaetón', 'pasillo', 'reggae', 'duranguense', 'tango', 'guaguancó', 'plena', 'bulerías', 'corrido', 'tipico', 'habanero', 'lambada', 'trova', 'dancehall', 'irakere', 'romántica', 'kizomba', 'copla', 'flamenca', 'ritmo', 'pasodoble', 'kuduro', 'dance', 'rumbas', 'tejano', 'conga', 'tangos', 'soukous', 'frevo', 'marinera', 'coladeira', 'joropo', 'jarabe', 'changüí', 'rancheras', 'sexteto', 'chamamé', 'tecnocumbia', 'pregón', 'axé', 'corridos', 'zapateado', 'malagueña', 'cumbias', 'baila', 'pachanga', 'montuno', 'compas', 'chacarera', 'grupero', 'bambuco', 'perico', 'zouk', 'guajiro', 'carimbó', 'típica', 'soleá', 'danza', 'landó', 'samba', 'canción', 'cuarteto', 'dembow', 'cueca', 'caña', 'comparsa', 'guarachas', 'funaná', 'sevillanas']
@@ -1426,56 +1418,55 @@ Word 'rumba' found at position 4 in both lists
 
 Word 'reggaeton' found at position 5 in both lists
 
-Word 'vallenato' found at position 6 and 15
-Difference between the positions: 9
+Word 'danzón' found at position 6 in both lists
 
-Word 'rhumba' found at position 7 and 17
-Difference between the positions: 10
+Word 'timba' found at position 7 and 20
+Difference between the positions: 13
 
-Word 'guaracha' found at position 8 and 13
-Difference between the positions: 5
+Word 'charanga' found at position 8 and 7
+Difference between the positions: 1
 
-Word 'danzón' found at position 9 and 6
-Difference between the positions: 3
-
-Word 'ranchera' found at position 10 and 8
-Difference between the positions: 2
-
-Word 'charanga' found at position 11 and 7
+Word 'guaracha' found at position 9 and 13
 Difference between the positions: 4
 
-Word 'norteña' found at position 12 and 9
+Word 'bolero' found at position 10 and 14
+Difference between the positions: 4
+
+Word 'flamenco' found at position 11 and 12
+Difference between the positions: 1
+
+Word 'milonga' found at position 12 and 18
+Difference between the positions: 6
+
+Word 'mariachi' found at position 13 and 10
 Difference between the positions: 3
 
-Word 'flamenco' found at position 13 and 12
-Difference between the positions: 1
+Word 'norteño' found at position 14 and 11
+Difference between the positions: 3
 
-Word 'típico' found at position 14 and 16
-Difference between the positions: 2
-
-Word 'timba' found at position 15 and 20
-Difference between the positions: 5
-
-Word 'mariachi' found at position 16 and 10
-Difference between the positions: 6
-
-Word 'milonga' found at position 17 and 18
-Difference between the positions: 1
-
-Word 'conjunto' found at position 18 and 19
-Difference between the positions: 1
-
-Word 'norteño' found at position 19 and 11
+Word 'habanera' found at position 15 and 23
 Difference between the positions: 8
 
-Word 'bolero' found at position 20 and 14
-Difference between the positions: 6
+Word 'ranchera' found at position 16 and 8
+Difference between the positions: 8
+
+Word 'boleros' found at position 17 and 24
+Difference between the positions: 7
+
+Word 'rhumba' found at position 18 and 17
+Difference between the positions: 1
+
+Word 'vallenato' found at position 19 and 15
+Difference between the positions: 4
+
+Word 'conjunto' found at position 20 and 19
+Difference between the positions: 1
 
 
 For the word 'sneakers', the nearest words are: 
 
 Novice List (Top 20): 
-['shoes', 'tracksuits', 'hoodies', 'jeans', 'sweatshirts', 'denim', 'tights', 'sunglasses', 'sweatpants', 'boots', 'panties', 'tracksuit', 'sweaters', 'pants', 'leotards', 'leggings', 'spandex', 'overalls', 'keds', 'pajamas']
+['shoes', 'tracksuits', 'jeans', 'boots', 'pants', 'hoodies', 'sweatpants', 'sunglasses', 'denim', 'tracksuit', 'panties', 'leotards', 'sweatshirts', 'spandex', 'sweaters', 'tights', 'leggings', 'jumpsuits', 'knickers', 'cleats']
 
 Expert List (Top 100): 
 ['shoes', 'tracksuits', 'jeans', 'hoodies', 'tights', 'boots', 'pants', 'sunglasses', 'panties', 'sneaker', 'sweatpants', 'sweaters', 'denim', 'tracksuit', 'overalls', 'sweatshirts', 'leotards', 'stilettos', 'leggings', 'cleats', 'spandex', 'knickers', 'jumpsuits', 'pajamas', 'keds', 'bandanas', 'underwear', 'miniskirt', 'pantyhose', 'shirts', 'fishnets', 'bikinis', 'soled', 'streetwear', 'sweater', 'neckties', 'socks', 'adidas', 'lycra', 'swimsuits', 'bodysuits', 'reebok', 'slippers', 'miniskirts', 'sequined', 'skintight', 'cleated', 'bodysuit', 'footwear', 'skateboards', 'handbags', 'outerwear', 'tuxedos', 'speedo', 'fishnet', 'outfits', 'shapewear', 'loungewear', 'blouses', 'headbands', 'sandals', 'scarves', 'rhinestones', 'laces', 'baggy', 'khakis', 'sportswear', 'undershirts', 'leotard', 'apparel', 'wristbands', 'strapless', 'dreadlocks', 'shoe', 'hoodie', 'beachwear', 'daywear', 'bustier', 'smocks', 'athleisure', 'swimwear', 'cufflinks', 'hotpants', 'suspenders', 'sleepwear', 'jockstrap', 'mittens', 'catsuit', 'rocawear', 'pullover', 'wigs', 'moncler', 'carhartt', 'turtleneck', 'lingerie', 'scarfs', 'skechers', 'zigtech', 'eyeglasses', 'clothing']
@@ -1486,64 +1477,62 @@ Word 'shoes' found at position 1 in both lists
 
 Word 'tracksuits' found at position 2 in both lists
 
-Word 'hoodies' found at position 3 and 4
-Difference between the positions: 1
+Word 'jeans' found at position 3 in both lists
 
-Word 'jeans' found at position 4 and 3
-Difference between the positions: 1
-
-Word 'sweatshirts' found at position 5 and 16
-Difference between the positions: 11
-
-Word 'denim' found at position 6 and 13
-Difference between the positions: 7
-
-Word 'tights' found at position 7 and 5
+Word 'boots' found at position 4 and 6
 Difference between the positions: 2
+
+Word 'pants' found at position 5 and 7
+Difference between the positions: 2
+
+Word 'hoodies' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'sweatpants' found at position 7 and 11
+Difference between the positions: 4
 
 Word 'sunglasses' found at position 8 in both lists
 
-Word 'sweatpants' found at position 9 and 11
-Difference between the positions: 2
+Word 'denim' found at position 9 and 13
+Difference between the positions: 4
 
-Word 'boots' found at position 10 and 6
+Word 'tracksuit' found at position 10 and 14
 Difference between the positions: 4
 
 Word 'panties' found at position 11 and 9
 Difference between the positions: 2
 
-Word 'tracksuit' found at position 12 and 14
-Difference between the positions: 2
+Word 'leotards' found at position 12 and 17
+Difference between the positions: 5
 
-Word 'sweaters' found at position 13 and 12
-Difference between the positions: 1
+Word 'sweatshirts' found at position 13 and 16
+Difference between the positions: 3
 
-Word 'pants' found at position 14 and 7
+Word 'spandex' found at position 14 and 21
 Difference between the positions: 7
 
-Word 'leotards' found at position 15 and 17
+Word 'sweaters' found at position 15 and 12
+Difference between the positions: 3
+
+Word 'tights' found at position 16 and 5
+Difference between the positions: 11
+
+Word 'leggings' found at position 17 and 19
 Difference between the positions: 2
 
-Word 'leggings' found at position 16 and 19
+Word 'jumpsuits' found at position 18 and 23
+Difference between the positions: 5
+
+Word 'knickers' found at position 19 and 22
 Difference between the positions: 3
 
-Word 'spandex' found at position 17 and 21
-Difference between the positions: 4
-
-Word 'overalls' found at position 18 and 15
-Difference between the positions: 3
-
-Word 'keds' found at position 19 and 25
-Difference between the positions: 6
-
-Word 'pajamas' found at position 20 and 24
-Difference between the positions: 4
+Word 'cleats' found at position 20 in both lists
 
 
 For the word 'steps', the nearest words are: 
 
 Novice List (Top 20): 
-['step', 'stairs', 'measures', 'stairways', 'paths', 'staircases', 'path', 'phases', 'blocks', 'pillars', 'stairway', 'pathways', 'precautions', 'staircase', 'rows', 'stages', 'approaches', 'moves', 'escalators', 'climbs']
+['step', 'stairs', 'measures', 'stairways', 'paths', 'staircases', 'path', 'blocks', 'pillars', 'phases', 'pathways', 'stairway', 'staircase', 'precautions', 'rows', 'shortcuts', 'moves', 'escalators', 'approaches', 'directions']
 
 Expert List (Top 100): 
 ['step', 'stairs', 'measures', 'stairways', 'paths', 'staircases', 'path', 'phases', 'pillars', 'stairway', 'blocks', 'staircase', 'pathways', 'approaches', 'slabs', 'precautions', 'rows', 'escalators', 'moves', 'stages', 'climbs', 'tasks', 'handrail', 'jumps', 'iterations', 'ramps', 'sections', 'handrails', 'lifts', 'buttresses', 'stair', 'ways', 'directions', 'layers', 'processes', 'dimensions', 'entrances', 'obstacles', 'shortcuts', 'digits', 'parameters', 'frames', 'doorways', 'elements', 'repetitions', 'components', 'notches', 'floors', 'shots', 'loops', 'locks', 'tiers', 'actions', 'bits', 'inputs', 'archways', 'breaths', 'pegs', 'mechanisms', 'passages', 'leaps', 'stylobate', 'descents', 'arches', 'rappels', 'transformations', 'milestones', 'strands', 'instructions', 'threads', 'plinths', 'attempts', 'dives', 'risers', 'columns', 'strides', 'aisles', 'stairwells', 'objectives', 'procedures', 'approach', 'exits', 'residues', 'corridors', 'balustrades', 'pedestals', 'ramp', 'corbels', 'measurements', 'walkways', 'pieces', 'methods', 'pathway', 'paces', 'stepwise', 'movements', 'girders', 'curves', 'switchbacks', 'jambs']
@@ -1564,246 +1553,239 @@ Word 'staircases' found at position 6 in both lists
 
 Word 'path' found at position 7 in both lists
 
-Word 'phases' found at position 8 in both lists
-
-Word 'blocks' found at position 9 and 11
-Difference between the positions: 2
-
-Word 'pillars' found at position 10 and 9
-Difference between the positions: 1
-
-Word 'stairway' found at position 11 and 10
-Difference between the positions: 1
-
-Word 'pathways' found at position 12 and 13
-Difference between the positions: 1
-
-Word 'precautions' found at position 13 and 16
+Word 'blocks' found at position 8 and 11
 Difference between the positions: 3
 
-Word 'staircase' found at position 14 and 12
+Word 'pillars' found at position 9 in both lists
+
+Word 'phases' found at position 10 and 8
+Difference between the positions: 2
+
+Word 'pathways' found at position 11 and 13
+Difference between the positions: 2
+
+Word 'stairway' found at position 12 and 10
+Difference between the positions: 2
+
+Word 'staircase' found at position 13 and 12
+Difference between the positions: 1
+
+Word 'precautions' found at position 14 and 16
 Difference between the positions: 2
 
 Word 'rows' found at position 15 and 17
 Difference between the positions: 2
 
-Word 'stages' found at position 16 and 20
-Difference between the positions: 4
+Word 'shortcuts' found at position 16 and 39
+Difference between the positions: 23
 
-Word 'approaches' found at position 17 and 14
-Difference between the positions: 3
+Word 'moves' found at position 17 and 19
+Difference between the positions: 2
 
-Word 'moves' found at position 18 and 19
-Difference between the positions: 1
+Word 'escalators' found at position 18 in both lists
 
-Word 'escalators' found at position 19 and 18
-Difference between the positions: 1
+Word 'approaches' found at position 19 and 14
+Difference between the positions: 5
 
-Word 'climbs' found at position 20 and 21
-Difference between the positions: 1
+Word 'directions' found at position 20 and 33
+Difference between the positions: 13
 
 
 For the word 'stepup', the nearest words are: 
 
 Novice List (Top 20): 
-['bmcc', 'mtech', 'équitable', 'aiesec', 'virto', 'bcom', 'mubs', 'bsba', 'searca', 'ladderized', 'digipen', 'bba', 'mastère', 'mcom', 'agriscience', 'obep', 'isec', 'pgdca', 'bioresources', 'vgu']
+['iuj', 'searca', 'agriscience', 'artba', 'voxeo', 'microloan', 'perficient', 'dreamspark', 'demandware', 'ccat', 'epsci', 'microenterprise', 'ebusiness', 'fibaa', 'mtech', 'équitable', 'grnet', 'jasig', 'egade', 'intelisys']
 
 Expert List (Top 100): 
 ['•diploma', 'femp', 'agriscience', 'virto', 'nfte', 'stvp', 'epsci', 'dduc', 'artba', 'msgf', 'taloussanomat', 'upmkb', 'intershop', 'heop', 'commutesmart', 'informatization', 'emba', 'dreamspark', 'arsalyn', 'ladderized', 'équitable', 'isep', 'noncredit', 'aoit', 'cufe', 'sttr', 'elderhostel', 'atuda', 'ndiipp', 'gtec', 'hfsp', 'jatc', 'mtech', 'jcet', 'zentail', 'teleteaching', 'ccnp', 'nstc', 'informea', 'istudy', 'dhammadayada', 'igert', 'econtentplus', 'iheid', 'osgeo', 'enactus', 'chihlee', 'iuj', 'entrepreneurship', 'bcom', 'iclp', 'ramniranjan', 'rtbn', 'msis', 'aiesec', 'pdeng', 'mssi', 'ipledge', 'abilityone', 'essec', 'fdlp', 'ceepus', 'appcampus', 'tuhh', 'vicstix', 'stcrc', 'napm', 'wideword', 'hotchalk', 'iatp', 'mocom', 'mmwt', 'ergf', 'centriq', 'uteach', 'cbie', 'sicofaa', 'bmcc', 'techsoup', 'mba', 'ticfia', 'gspia', 'tacis', 'snsf', 'ivlp', 'jrcert', 'pgpx', 'gogreen', 'handlowe', 'estiem', 'aflec', 'openhpi', 'resnet', 'makfax', 'auslink', 'ebusiness', 'empretec', 'telelearning', 'eteeap', 'ciphergraph']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'bmcc' found at position 1 and 78
-Difference between the positions: 77
+Word 'iuj' found at position 1 and 48
+Difference between the positions: 47
 
-Word 'mtech' found at position 2 and 33
-Difference between the positions: 31
+'searca' at position 2 is not present in Expert list
 
-Word 'équitable' found at position 3 and 21
-Difference between the positions: 18
+Word 'agriscience' found at position 3 in both lists
 
-Word 'aiesec' found at position 4 and 55
-Difference between the positions: 51
+Word 'artba' found at position 4 and 9
+Difference between the positions: 5
 
-Word 'virto' found at position 5 and 4
-Difference between the positions: 1
+'voxeo' at position 5 is not present in Expert list
 
-Word 'bcom' found at position 6 and 50
-Difference between the positions: 44
+'microloan' at position 6 is not present in Expert list
 
-'mubs' at position 7 is not present in Expert list
+'perficient' at position 7 is not present in Expert list
 
-'bsba' at position 8 is not present in Expert list
-
-'searca' at position 9 is not present in Expert list
-
-Word 'ladderized' found at position 10 and 20
+Word 'dreamspark' found at position 8 and 18
 Difference between the positions: 10
 
-'digipen' at position 11 is not present in Expert list
+'demandware' at position 9 is not present in Expert list
 
-'bba' at position 12 is not present in Expert list
+'ccat' at position 10 is not present in Expert list
 
-'mastère' at position 13 is not present in Expert list
+Word 'epsci' found at position 11 and 7
+Difference between the positions: 4
 
-'mcom' at position 14 is not present in Expert list
+'microenterprise' at position 12 is not present in Expert list
 
-Word 'agriscience' found at position 15 and 3
-Difference between the positions: 12
+Word 'ebusiness' found at position 13 and 96
+Difference between the positions: 83
 
-'obep' at position 16 is not present in Expert list
+'fibaa' at position 14 is not present in Expert list
 
-'isec' at position 17 is not present in Expert list
+Word 'mtech' found at position 15 and 33
+Difference between the positions: 18
 
-'pgdca' at position 18 is not present in Expert list
+Word 'équitable' found at position 16 and 21
+Difference between the positions: 5
 
-'bioresources' at position 19 is not present in Expert list
+'grnet' at position 17 is not present in Expert list
 
-'vgu' at position 20 is not present in Expert list
+'jasig' at position 18 is not present in Expert list
+
+'egade' at position 19 is not present in Expert list
+
+'intelisys' at position 20 is not present in Expert list
 
 
 For the word 'streetdance', the nearest words are: 
 
 Novice List (Top 20): 
-['jonzi', 'mcmxc', 'arbanville', 'espite', 'unienville', 'schoolly', 'lectrified', 'imman', 'espairsray', 'sisive', 'urberville', 'alembertian', 'masiv', 'estrehan', 'escousse', 'injur', 'nanosail', 'schooly', 'egville', 'banj']
+['schoolly', 'jonzi', 'banj', 'arbanville', 'imman', 'sisive', 'espite', 'espairsray', 'mcmxc', 'egville', 'pennebaker', 'acquisto', 'masiv', 'yoganand', 'unienville', 'schooly', 'escousse', 'overbroeck', 'oblig', 'injur']
 
 Expert List (Top 100): 
 ['schoolly', 'espite', 'masiv', 'imman', 'jonzi', 'banj', 'sisive', 'schooly', 'sexion', 'espairsray', 'mcmxc', 'arbanville', 'lectrified', 'ollone', 'unienville', 'acquisto', 'swiff', 'ieteren', 'eux', 'assaut', 'efeitos', 'egville', 'yoganand', 'auban', 'escousse', 'uring', 'alpuget', 'hoore', 'hooghvorst', 'arblay', 'alembertian', 'oyley', 'estrehan', 'esterre', 'eith', 'ambreville', 'aspre', 'adesky', 'grth', 'assoucy', 'estaville', 'hannetaire', 'vorah', 'oblig', 'scover', 'auteil', 'prepar', 'alcy', 'nanosail', 'urberville', 'antraigues', 'juggy', 'eath', 'alelio', 'suppos', 'argenville', 'suzukii', 'trellium', 'esnambuc', 'sinyoría', 'heteracantha', 'antuono', 'contriv', 'intru', 'oustrac', 'imobilité', 'anethan', 'arquien', 'stroir', 'ormeville', 'spayre', 'qwell', 'artaguette', 'anglebert', 'lightsys', 'albiac', 'alixandre', 'allest', 'pennebaker', 'alemberte', 'astous', 'ayuni', 'albedyhll', 'alquen', 'audney', 'hères', 'arányi', 'arbeloff', 'orey', 'haene', 'elidas', 'alembord', 'anthès', 'aleo', 'autremont', 'milkshape', 'arlincourt', 'autriche', 'antignac', 'islande']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'jonzi' found at position 1 and 5
-Difference between the positions: 4
+Word 'schoolly' found at position 1 in both lists
 
-Word 'mcmxc' found at position 2 and 11
-Difference between the positions: 9
-
-Word 'arbanville' found at position 3 and 12
-Difference between the positions: 9
-
-Word 'espite' found at position 4 and 2
-Difference between the positions: 2
-
-Word 'unienville' found at position 5 and 15
-Difference between the positions: 10
-
-Word 'schoolly' found at position 6 and 1
-Difference between the positions: 5
-
-Word 'lectrified' found at position 7 and 13
-Difference between the positions: 6
-
-Word 'imman' found at position 8 and 4
-Difference between the positions: 4
-
-Word 'espairsray' found at position 9 and 10
-Difference between the positions: 1
-
-Word 'sisive' found at position 10 and 7
+Word 'jonzi' found at position 2 and 5
 Difference between the positions: 3
 
-Word 'urberville' found at position 11 and 50
-Difference between the positions: 39
+Word 'banj' found at position 3 and 6
+Difference between the positions: 3
 
-Word 'alembertian' found at position 12 and 31
-Difference between the positions: 19
+Word 'arbanville' found at position 4 and 12
+Difference between the positions: 8
+
+Word 'imman' found at position 5 and 4
+Difference between the positions: 1
+
+Word 'sisive' found at position 6 and 7
+Difference between the positions: 1
+
+Word 'espite' found at position 7 and 2
+Difference between the positions: 5
+
+Word 'espairsray' found at position 8 and 10
+Difference between the positions: 2
+
+Word 'mcmxc' found at position 9 and 11
+Difference between the positions: 2
+
+Word 'egville' found at position 10 and 22
+Difference between the positions: 12
+
+Word 'pennebaker' found at position 11 and 79
+Difference between the positions: 68
+
+Word 'acquisto' found at position 12 and 16
+Difference between the positions: 4
 
 Word 'masiv' found at position 13 and 3
 Difference between the positions: 10
 
-Word 'estrehan' found at position 14 and 33
-Difference between the positions: 19
+Word 'yoganand' found at position 14 and 23
+Difference between the positions: 9
 
-Word 'escousse' found at position 15 and 25
-Difference between the positions: 10
+Word 'unienville' found at position 15 in both lists
 
-'injur' at position 16 is not present in Expert list
+Word 'schooly' found at position 16 and 8
+Difference between the positions: 8
 
-Word 'nanosail' found at position 17 and 49
-Difference between the positions: 32
+Word 'escousse' found at position 17 and 25
+Difference between the positions: 8
 
-Word 'schooly' found at position 18 and 8
-Difference between the positions: 10
+'overbroeck' at position 18 is not present in Expert list
 
-Word 'egville' found at position 19 and 22
-Difference between the positions: 3
+Word 'oblig' found at position 19 and 44
+Difference between the positions: 25
 
-Word 'banj' found at position 20 and 6
-Difference between the positions: 14
+'injur' at position 20 is not present in Expert list
 
 
 For the word 'sweat', the nearest words are: 
 
 Novice List (Top 20): 
-['perspiration', 'pocari', 'saliva', 'breakn', 'sweating', 'oozing', 'dripping', 'splattering', 'spattered', 'sweaty', 'phlegm', 'spurting', 'perspire', 'dripped', 'earwax', 'blood', 'drips', 'spattering', 'lotion', 'curdling']
+['pocari', 'perspiration', 'oozing', 'splattering', 'breakn', 'sweating', 'spurting', 'saliva', 'dripping', 'phlegm', 'sweaty', 'curdling', 'blood', 'moisten', 'dripped', 'drips', 'lotion', 'tears', 'flesh', 'earwax']
 
 Expert List (Top 100): 
 ['perspiration', 'pocari', 'oozing', 'sweating', 'saliva', 'spurting', 'splattering', 'curdling', 'dripping', 'blood', 'sweaty', 'spattered', 'earwax', 'breakn', 'dripped', 'tears', 'drips', 'moisten', 'flesh', 'perspire', 'lotion', 'clammy', 'spatter', 'congealed', 'guts', 'spattering', 'skin', 'stains', 'eccrine', 'weyes', 'rinse', 'sucking', 'phlegm', 'splattered', 'caked', 'spittle', 'suck', 'vomit', 'brokencyde', 'scald', 'coagulated', 'coughs', 'sores', 'sweats', 'slathered', 'bleed', 'licked', 'spilt', 'spatters', 'pus', 'lacrimation', 'thinners', 'shiver', 'splatters', 'vaseline', 'fetid', 'firewater', 'soiled', 'aftershave', 'malodorous', 'panting', 'smudging', 'cleanser', 'smudge', 'bleach', 'smelling', 'lipstick', 'salivation', 'ichor', 'oozed', 'apocrine', 'chapped', 'drench', 'mouthful', 'burping', 'lotions', 'coagulate', 'blisters', 'coagulating', 'welts', 'rubbed', 'macerate', 'hot', 'lather', 'rinses', 'squirting', 'exhaling', 'drenched', 'soaked', 'rubbing', 'sputum', 'oozes', 'shivering', 'moistened', 'urine', 'moisturizers', 'suctioning', 'glistening', 'clotted', 'chills']
 
 Comparing the words between Novice and Expert list, we can observe: 
 
-Word 'perspiration' found at position 1 in both lists
-
-Word 'pocari' found at position 2 in both lists
-
-Word 'saliva' found at position 3 and 5
-Difference between the positions: 2
-
-Word 'breakn' found at position 4 and 14
-Difference between the positions: 10
-
-Word 'sweating' found at position 5 and 4
+Word 'pocari' found at position 1 and 2
 Difference between the positions: 1
 
-Word 'oozing' found at position 6 and 3
+Word 'perspiration' found at position 2 and 1
+Difference between the positions: 1
+
+Word 'oozing' found at position 3 in both lists
+
+Word 'splattering' found at position 4 and 7
 Difference between the positions: 3
 
-Word 'dripping' found at position 7 and 9
+Word 'breakn' found at position 5 and 14
+Difference between the positions: 9
+
+Word 'sweating' found at position 6 and 4
 Difference between the positions: 2
 
-Word 'splattering' found at position 8 and 7
+Word 'spurting' found at position 7 and 6
 Difference between the positions: 1
 
-Word 'spattered' found at position 9 and 12
+Word 'saliva' found at position 8 and 5
 Difference between the positions: 3
 
-Word 'sweaty' found at position 10 and 11
+Word 'dripping' found at position 9 in both lists
+
+Word 'phlegm' found at position 10 and 33
+Difference between the positions: 23
+
+Word 'sweaty' found at position 11 in both lists
+
+Word 'curdling' found at position 12 and 8
+Difference between the positions: 4
+
+Word 'blood' found at position 13 and 10
+Difference between the positions: 3
+
+Word 'moisten' found at position 14 and 18
+Difference between the positions: 4
+
+Word 'dripped' found at position 15 in both lists
+
+Word 'drips' found at position 16 and 17
 Difference between the positions: 1
 
-Word 'phlegm' found at position 11 and 33
-Difference between the positions: 22
+Word 'lotion' found at position 17 and 21
+Difference between the positions: 4
 
-Word 'spurting' found at position 12 and 6
-Difference between the positions: 6
+Word 'tears' found at position 18 and 16
+Difference between the positions: 2
 
-Word 'perspire' found at position 13 and 20
+Word 'flesh' found at position 19 in both lists
+
+Word 'earwax' found at position 20 and 13
 Difference between the positions: 7
-
-Word 'dripped' found at position 14 and 15
-Difference between the positions: 1
-
-Word 'earwax' found at position 15 and 13
-Difference between the positions: 2
-
-Word 'blood' found at position 16 and 10
-Difference between the positions: 6
-
-Word 'drips' found at position 17 in both lists
-
-Word 'spattering' found at position 18 and 26
-Difference between the positions: 8
-
-Word 'lotion' found at position 19 and 21
-Difference between the positions: 2
-
-Word 'curdling' found at position 20 and 8
-Difference between the positions: 12
 
 
 For the word 'tango', the nearest words are: 
 
 Novice List (Top 20): 
-['milonga', 'bolero', 'tangos', 'wango', '丹後', 'danzón', 'rhumba', 'pasodoble', 'habanera', 'candombe', 'waltz', 'rumba', 'milongas', 'salsa', 'cambalache', 'flamenco', 'bulerías', 'cumbia', 'mazurka', 'mambo']
+['milonga', 'bolero', 'tangos', 'danzón', 'habanera', 'wango', 'salsa', 'rhumba', 'flamenco', '丹後', 'candombe', 'pasodoble', 'rumba', 'milongas', 'cumbia', 'mambo', 'merengue', 'chacarera', 'milonguero', 'boleros']
 
 Expert List (Top 100): 
 ['milonga', 'bolero', 'tangos', 'rhumba', 'pasodoble', 'candombe', 'rumba', 'wango', 'danzón', 'salsa', 'habanera', 'flamenco', 'ástor', 'merengue', 'milonguero', 'charanga', 'milongas', 'cumbia', 'dance', 'mambo', 'piazzolla', 'bachata', 'chachachá', 'chamamé', 'cambalache', 'maxixe', 'bajofondo', 'boleros', 'mazurka', 'festejo', 'bulerías', '丹後', 'chacarera', 'malagueña', 'guaracha', 'anuncio', 'contradanza', 'lambada', 'şehnaz', 'waltz', 'foxtrot', 'danza', 'gardel', 'vallenato', 'cuarteto', 'pasillo', 'valse', 'norteña', 'satumaa', 'samba', 'bandoneonist', 'romantica', 'ranchera', 'danzas', 'jitterbug', 'cueca', 'quinteto', 'zapateado', 'neotango', 'bossa', 'tanghetto', 'conjunto', 'huapango', 'corrido', 'soleares', 'jazz', 'tzigane', 'sexteto', 'cabaret', 'timba', 'mariachi', 'soleá', 'nonino', 'guaguancó', 'disco', 'polkas', 'rumbas', 'descarga', 'frevo', 'xote', 'orquesta', 'copla', 'pagode', 'funaná', 'ensamble', 'landó', 'quickstep', 'buleria', 'fresedo', 'triste', 'cante', 'marinera', 'octeto', 'típica', 'quebradita', 'tarantella', 'cantaor', 'danzones', 'concierto', 'flamenca']
@@ -1816,60 +1798,62 @@ Word 'bolero' found at position 2 in both lists
 
 Word 'tangos' found at position 3 in both lists
 
-Word 'wango' found at position 4 and 8
-Difference between the positions: 4
-
-Word '丹後' found at position 5 and 32
-Difference between the positions: 27
-
-Word 'danzón' found at position 6 and 9
-Difference between the positions: 3
-
-Word 'rhumba' found at position 7 and 4
-Difference between the positions: 3
-
-Word 'pasodoble' found at position 8 and 5
-Difference between the positions: 3
-
-Word 'habanera' found at position 9 and 11
-Difference between the positions: 2
-
-Word 'candombe' found at position 10 and 6
-Difference between the positions: 4
-
-Word 'waltz' found at position 11 and 40
-Difference between the positions: 29
-
-Word 'rumba' found at position 12 and 7
+Word 'danzón' found at position 4 and 9
 Difference between the positions: 5
 
-Word 'milongas' found at position 13 and 17
+Word 'habanera' found at position 5 and 11
+Difference between the positions: 6
+
+Word 'wango' found at position 6 and 8
+Difference between the positions: 2
+
+Word 'salsa' found at position 7 and 10
+Difference between the positions: 3
+
+Word 'rhumba' found at position 8 and 4
 Difference between the positions: 4
 
-Word 'salsa' found at position 14 and 10
+Word 'flamenco' found at position 9 and 12
+Difference between the positions: 3
+
+Word '丹後' found at position 10 and 32
+Difference between the positions: 22
+
+Word 'candombe' found at position 11 and 6
+Difference between the positions: 5
+
+Word 'pasodoble' found at position 12 and 5
+Difference between the positions: 7
+
+Word 'rumba' found at position 13 and 7
+Difference between the positions: 6
+
+Word 'milongas' found at position 14 and 17
+Difference between the positions: 3
+
+Word 'cumbia' found at position 15 and 18
+Difference between the positions: 3
+
+Word 'mambo' found at position 16 and 20
 Difference between the positions: 4
 
-Word 'cambalache' found at position 15 and 25
-Difference between the positions: 10
+Word 'merengue' found at position 17 and 14
+Difference between the positions: 3
 
-Word 'flamenco' found at position 16 and 12
+Word 'chacarera' found at position 18 and 33
+Difference between the positions: 15
+
+Word 'milonguero' found at position 19 and 15
 Difference between the positions: 4
 
-Word 'bulerías' found at position 17 and 31
-Difference between the positions: 14
-
-Word 'cumbia' found at position 18 in both lists
-
-Word 'mazurka' found at position 19 and 29
-Difference between the positions: 10
-
-Word 'mambo' found at position 20 in both lists
+Word 'boleros' found at position 20 and 28
+Difference between the positions: 8
 
 
 For the word 'tap', the nearest words are: 
 
 Novice List (Top 20): 
-['taps', 'tapping', 'spın̈al', 'spile', 'coax', 'pull', 'faucet', 'insert', 'squirted', 'switch', 'drip', 'inject', 'slide', 'get', 'squeeze', 'touch', 'pump', 'plugged', 'bump', 'grab']
+['taps', 'tapping', 'spın̈al', 'pull', 'coax', 'squirted', 'bump', 'slide', 'insert', 'squeeze', 'bounce', 'drip', 'switch', 'faucet', 'drop', 'spile', 'clog', 'get', 'pump', 'dornbracht']
 
 Expert List (Top 100): 
 ['taps', 'tapping', 'spın̈al', 'coax', 'pull', 'switch', 'bump', 'spile', 'squeeze', 'stomp', 'inject', 'drip', 'faucet', 'squirted', 'insert', 'drop', 'dropper', 'touch', 'pump', 'bounce', 'congeal', 'slide', 'plugged', 'grab', 'get', 'seep', 'digivolve', 'clog', 'swipe', 'handhold', 'groove', 'transform', 'drain', 'twirl', 'fuse', 'spout', 'strainer', 'check', 'dip', 'flex', 'jitterbug', 'refill', 'dornbracht', 'drips', 'grind', 'socket', 'stomps', 'breathe', 'crawl', 'suck', 'bucket', 'flip', 'plugging', 'siphon', 'snap', 'plug', 'flush', 'tumblers', 'cord', 'sliding', 'popping', 'dance', 'squirter', 'wriggle', 'kickflip', 'shapeshift', 'perform', 'latch', 'soak', 'push', 'go', 'tapasin', 'compress', 'condense', 'jetting', 'dribble', 'bharadvājāsana', 'pin', 'jig', 'plugs', 'stick', 'float', 'dysraphism', 'unscrew', 'dunked', 'rinse', 'reinsert', 'redirect', 'squeezing', 'flicked', 'jump', 'pry', 'somersault', 'activate', 'wash', 'plunge', 'dislocate', 'urinate', 'contort', 'switches']
@@ -1882,62 +1866,59 @@ Word 'tapping' found at position 2 in both lists
 
 Word 'spın̈al' found at position 3 in both lists
 
-Word 'spile' found at position 4 and 8
-Difference between the positions: 4
+Word 'pull' found at position 4 and 5
+Difference between the positions: 1
 
 Word 'coax' found at position 5 and 4
 Difference between the positions: 1
 
-Word 'pull' found at position 6 and 5
-Difference between the positions: 1
+Word 'squirted' found at position 6 and 14
+Difference between the positions: 8
 
-Word 'faucet' found at position 7 and 13
+Word 'bump' found at position 7 in both lists
+
+Word 'slide' found at position 8 and 22
+Difference between the positions: 14
+
+Word 'insert' found at position 9 and 15
 Difference between the positions: 6
 
-Word 'insert' found at position 8 and 15
-Difference between the positions: 7
-
-Word 'squirted' found at position 9 and 14
-Difference between the positions: 5
-
-Word 'switch' found at position 10 and 6
-Difference between the positions: 4
-
-Word 'drip' found at position 11 and 12
+Word 'squeeze' found at position 10 and 9
 Difference between the positions: 1
 
-Word 'inject' found at position 12 and 11
-Difference between the positions: 1
-
-Word 'slide' found at position 13 and 22
+Word 'bounce' found at position 11 and 20
 Difference between the positions: 9
 
-Word 'get' found at position 14 and 25
+Word 'drip' found at position 12 in both lists
+
+Word 'switch' found at position 13 and 6
+Difference between the positions: 7
+
+Word 'faucet' found at position 14 and 13
+Difference between the positions: 1
+
+Word 'drop' found at position 15 and 16
+Difference between the positions: 1
+
+Word 'spile' found at position 16 and 8
+Difference between the positions: 8
+
+Word 'clog' found at position 17 and 28
 Difference between the positions: 11
 
-Word 'squeeze' found at position 15 and 9
-Difference between the positions: 6
+Word 'get' found at position 18 and 25
+Difference between the positions: 7
 
-Word 'touch' found at position 16 and 18
-Difference between the positions: 2
+Word 'pump' found at position 19 in both lists
 
-Word 'pump' found at position 17 and 19
-Difference between the positions: 2
-
-Word 'plugged' found at position 18 and 23
-Difference between the positions: 5
-
-Word 'bump' found at position 19 and 7
-Difference between the positions: 12
-
-Word 'grab' found at position 20 and 24
-Difference between the positions: 4
+Word 'dornbracht' found at position 20 and 43
+Difference between the positions: 23
 
 
 For the word 'therapy', the nearest words are: 
 
 Novice List (Top 20): 
-['therapies', 'psychotherapy', 'therapists', 'therapeutic', 'therapist', 'treatments', 'chemotherapy', 'pharmacotherapy', 'treatment', 'biofeedback', 'phototherapy', 'hypnotherapy', 'puva', 'photodynamic', 'counseling', 'radiotherapy', 'reparative', 'sunitinib', 'anticoagulation', 'cryotherapy']
+['therapies', 'psychotherapy', 'therapists', 'therapist', 'treatments', 'therapeutic', 'treatment', 'chemotherapy', 'pharmacotherapy', 'phototherapy', 'hypnotherapy', 'anticoagulation', 'radiotherapy', 'biofeedback', 'reparative', 'sunitinib', 'physiotherapy', 'counseling', 'isotretinoin', 'cryotherapy']
 
 Expert List (Top 100): 
 ['therapies', 'psychotherapy', 'therapists', 'therapeutic', 'treatments', 'therapist', 'pharmacotherapy', 'treatment', 'biofeedback', 'chemotherapy', 'hypnotherapy', 'phototherapy', 'psychotherapeutic', 'anticoagulation', 'immunotherapy', 'emdr', 'physiotherapy', 'counseling', 'rituximab', 'cbt', 'medication', 'photodynamic', 'reparative', 'nonsurgical', 'cyclophosphamide', 'hemodialysis', 'pharmacologic', 'electroconvulsive', 'regimens', 'radiotherapy', 'methotrexate', 'prophylaxis', 'electrotherapy', 'acyclovir', 'medications', 'doxycycline', 'cryotherapy', 'prophylactic', 'adjunctive', 'desensitization', 'ect', 'clinical', 'bobath', 'imrt', 'lmwh', 'hydroxyurea', 'bortezomib', 'sunitinib', 'pemetrexed', 'fludarabine', 'rifampin', 'eflornithine', 'corticosteroid', 'psychosurgery', 'ribavirin', 'puva', 'metronidazole', 'hypnosis', 'dapsone', 'isotretinoin', 'detoxification', 'zidovudine', 'bibliotherapy', 'neurofeedback', 'psychodynamic', 'corticosteroids', 'rifampicin', 'cryoablation', 'estrogen–progestogen', 'linezolid', 'plasmapheresis', 'tamoxifen', 'ciclosporin', 'isoniazid', 'amoxicillin', 'defibrillation', 'reichian', 'nevirapine', 'azithromycin', 'tretinoin', 'pgd', 'ivig', 'nifurtimox', 'ifosfamide', 'psychodrama', 'immuno', 'neurostimulation', 'hakomi', 'adjuvant', 'thrombolysis', 'cisplatin', 'everolimus', 'fluconazole', 'cytarabine', 'metformin', 'chemo', 'ssri', 'monotherapy', 'thrombolytic', 'hydroxychloroquine']
@@ -1950,52 +1931,49 @@ Word 'psychotherapy' found at position 2 in both lists
 
 Word 'therapists' found at position 3 in both lists
 
-Word 'therapeutic' found at position 4 in both lists
+Word 'therapist' found at position 4 and 6
+Difference between the positions: 2
 
-Word 'therapist' found at position 5 and 6
+Word 'treatments' found at position 5 in both lists
+
+Word 'therapeutic' found at position 6 and 4
+Difference between the positions: 2
+
+Word 'treatment' found at position 7 and 8
 Difference between the positions: 1
 
-Word 'treatments' found at position 6 and 5
-Difference between the positions: 1
+Word 'chemotherapy' found at position 8 and 10
+Difference between the positions: 2
 
-Word 'chemotherapy' found at position 7 and 10
-Difference between the positions: 3
+Word 'pharmacotherapy' found at position 9 and 7
+Difference between the positions: 2
 
-Word 'pharmacotherapy' found at position 8 and 7
-Difference between the positions: 1
+Word 'phototherapy' found at position 10 and 12
+Difference between the positions: 2
 
-Word 'treatment' found at position 9 and 8
-Difference between the positions: 1
+Word 'hypnotherapy' found at position 11 in both lists
 
-Word 'biofeedback' found at position 10 and 9
-Difference between the positions: 1
+Word 'anticoagulation' found at position 12 and 14
+Difference between the positions: 2
 
-Word 'phototherapy' found at position 11 and 12
-Difference between the positions: 1
+Word 'radiotherapy' found at position 13 and 30
+Difference between the positions: 17
 
-Word 'hypnotherapy' found at position 12 and 11
-Difference between the positions: 1
+Word 'biofeedback' found at position 14 and 9
+Difference between the positions: 5
 
-Word 'puva' found at position 13 and 56
-Difference between the positions: 43
-
-Word 'photodynamic' found at position 14 and 22
+Word 'reparative' found at position 15 and 23
 Difference between the positions: 8
 
-Word 'counseling' found at position 15 and 18
-Difference between the positions: 3
+Word 'sunitinib' found at position 16 and 48
+Difference between the positions: 32
 
-Word 'radiotherapy' found at position 16 and 30
-Difference between the positions: 14
+Word 'physiotherapy' found at position 17 in both lists
 
-Word 'reparative' found at position 17 and 23
-Difference between the positions: 6
+Word 'counseling' found at position 18 in both lists
 
-Word 'sunitinib' found at position 18 and 48
-Difference between the positions: 30
-
-Word 'anticoagulation' found at position 19 and 14
-Difference between the positions: 5
+Word 'isotretinoin' found at position 19 and 60
+Difference between the positions: 41
 
 Word 'cryotherapy' found at position 20 and 37
 Difference between the positions: 17

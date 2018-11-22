@@ -1,0 +1,746 @@
+++
+||
+++
+++
+
+
+Similar words to addiction
+expert count: 16088 | Novice has 1308 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|  addictions |     1      |     1      |     0      |
+|  alcoholism |     2      |     2      |     0      |
+|    addict   |     3      |     3      |     0      |
+|   bulimia   |     4      |     4      |     0      |
+|  painkiller |     5      |     6      |     -1     |
+|   addicted  |     6      |     9      |     -3     |
+|   addicts   |     7      |     5      |     2      |
+| agoraphobia |     8      |     31     |    -23     |
+|   anorexia  |     9      |     8      |     1      |
+|  psychosis  |     10     |     7      |     3      |
+|   relapse   |     11     |     10     |     1      |
+|     ptsd    |     12     |     11     |     1      |
+|   overdose  |     13     |     23     |    -10     |
+|    rehab    |     14     |     22     |     -8     |
+|   insomnia  |     15     |     16     |     -1     |
+|    abuse    |     16     |     19     |     -3     |
+| kleptomania |     17     |     13     |     4      |
+|  quaaludes  |     18     |     14     |     4      |
+|   demerol   |     19     |     49     |    -30     |
+|  obsession  |     20     |     33     |    -13     |
++-------------+------------+------------+------------+
+
+
+Similar words to antidepressants
+expert count: 1769 | Novice has 490 less
++------------------+------------+------------+------------+
+|       Word       | Novice Pos | Expert Pos | Difference |
++------------------+------------+------------+------------+
+|      ssris       |     1      |     1      |     0      |
+|  antipsychotics  |     2      |     2      |     0      |
+| benzodiazepines  |     3      |     4      |     -1     |
+| anticonvulsants  |     4      |     3      |     1      |
+|     opioids      |     5      |     5      |     0      |
+|    fluoxetine    |     6      |     6      |     0      |
+|   haloperidol    |     7      |     7      |     0      |
+|   neuroleptics   |     8      |     30     |    -22     |
+|      nsaids      |     9      |     9      |     0      |
+|    phenytoin     |     10     |     18     |     -8     |
+|      maois       |     11     |     14     |     -3     |
+|  antihistamines  |     12     |     25     |    -13     |
+|    analgesics    |     13     |     10     |     3      |
+|  chlorpromazine  |     14     |     16     |     -2     |
+|   anxiolytics    |     15     |     28     |    -13     |
+|     statins      |     16     |     17     |     -1     |
+|    stimulants    |     17     |     8      |     9      |
+| psychostimulants |     18     |     41     |    -23     |
+|   risperidone    |     19     |     27     |     -8     |
+|      snris       |     20     |     11     |     9      |
++------------------+------------+------------+------------+
+
+
+Similar words to brooding
+expert count: 2289 | Novice has 6 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     dreamy    |     1      |     1      |     0      |
+|  melancholic  |     2      |     2      |     0      |
+|    languid    |     3      |     3      |     0      |
+|   melancholy  |     4      |     4      |     0      |
+|     morose    |     5      |     7      |     -2     |
+|    wistful    |     6      |     5      |     1      |
+|    mournful   |     7      |     6      |     1      |
+|    pensive    |     8      |     19     |    -11     |
+|     doomy     |     9      |     24     |    -15     |
+|     somber    |     10     |     11     |     -1     |
+| introspective |     11     |     12     |     -1     |
+|   lugubrious  |     12     |     14     |     -2     |
+|    menacing   |     13     |     8      |     5      |
+|    haunting   |     14     |     10     |     4      |
+|     sombre    |     15     |     17     |     -2     |
+|   foreboding  |     16     |     13     |     3      |
+|   languorous  |     17     |     9      |     8      |
+|     gloomy    |     18     |     16     |     2      |
+|     cooing    |     19     |     28     |     -9     |
+|  atmospherics |     20     |     15     |     5      |
++---------------+------------+------------+------------+
+
+
+Similar words to cbt
+expert count: 1326 | Novice has 411 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|    biofeedback    |     1      |     1      |     0      |
+|   psychotherapy   |     2      |     3      |     -1     |
+|   bibliotherapy   |     3      |     10     |     -7     |
+|        pcit       |     4      |     5      |     -1     |
+|   neurofeedback   |     5      |     27     |    -22     |
+|      therapy      |     6      |     16     |    -10     |
+|   psychodynamic   |     7      |     8      |     -1     |
+|  pharmacotherapy  |     8      |     6      |     2      |
+|        ect        |     9      |     9      |     0      |
+|    hypnotherapy   |     10     |     13     |     -3     |
+| psychotherapeutic |     11     |     17     |     -6     |
+|        mbsr       |     12     |     90     |    -78     |
+|        mbct       |     13     |     2      |     11     |
+|     sorafenib     |     14     |     53     |    -39     |
+|     bortezomib    |     15     |     21     |     -6     |
+|       statin      |     16     |     19     |     -3     |
+|      regimens     |     17     |     80     |    -63     |
+|    nondirective   |     19     |     86     |    -67     |
+|       bobath      |     20     |     65     |    -45     |
++-------------------+------------+------------+------------+
+
+
+Similar words to conditioning
+expert count: 14167 | Novice has 132 less
++------------------+------------+------------+------------+
+|       Word       | Novice Pos | Expert Pos | Difference |
++------------------+------------+------------+------------+
+|   conditioner    |     1      |     1      |     0      |
+|   conditioners   |     2      |     2      |     0      |
+|   conditioned    |     3      |     3      |     0      |
+|       hvac       |     4      |     4      |     0      |
+|   ventilation    |     5      |     7      |     -2     |
+|     heating      |     6      |     8      |     -2     |
+| airconditioning  |     7      |     5      |     2      |
+| dehumidification |     8      |     16     |     -8     |
+|    preheater     |     9      |     10     |     -1     |
+|     cooling      |     10     |     9      |     1      |
+|     ductwork     |     11     |     14     |     -3     |
+|  dehumidifiers   |     12     |     6      |     6      |
+|   ventilating    |     13     |     23     |    -10     |
+|   humidifiers    |     14     |     11     |     3      |
+|   dehumidifier   |     15     |     22     |     -7     |
+|  refrigeration   |     16     |     13     |     3      |
+|    insulation    |     17     |     19     |     -2     |
+|      heater      |     18     |     27     |     -9     |
+|     plumbing     |     19     |     20     |     -1     |
+|    underfloor    |     20     |     24     |     -4     |
++------------------+------------+------------+------------+
+
+
+Similar words to ect
+expert count: 1112 | Novice has 289 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+| electroconvulsive |     1      |     2      |     -1     |
+|    phototherapy   |     2      |     48     |    -46     |
+|   psychosurgery   |     3      |     1      |     2      |
+|   electrotherapy  |     4      |     10     |     -6     |
+|  pharmacotherapy  |     5      |     3      |     2      |
+|    radiotherapy   |     6      |     20     |    -14     |
+|  cyclophosphamide |     7      |     13     |     -6     |
+|    hemodialysis   |     8      |     7      |     1      |
+|  anticoagulation  |     9      |     4      |     5      |
+|     metformin     |     11     |     33     |    -22     |
+|   dexamethasone   |     12     |     22     |    -10     |
+|     sorafenib     |     14     |     47     |    -33     |
+|    methotrexate   |     16     |     15     |     1      |
+|   chlorpromazine  |     17     |     5      |     12     |
+|      levodopa     |     18     |     41     |    -23     |
+|      lobotomy     |     19     |     35     |    -16     |
++-------------------+------------+------------+------------+
+
+
+Similar words to exposure
+expert count: 50644 | Novice has 757 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|     exposures     |     1      |     2      |     -1     |
+|    overexposure   |     2      |     1      |     1      |
+|    sensitivity    |     3      |     3      |     0      |
+|      toxicity     |     4      |     5      |     -1     |
+|    irradiation    |     5      |     4      |     1      |
+|     ingestion     |     6      |     6      |     0      |
+|   susceptibility  |     7      |     8      |     -1     |
+|     inhalation    |     8      |     7      |     1      |
+|        dose       |     9      |     9      |     0      |
+|   contamination   |     10     |     10     |     0      |
+|   sensitization   |     11     |     16     |     -5     |
+|     radiation     |     12     |     11     |     1      |
+|  photosensitivity |     13     |     12     |     1      |
+|      sunburn      |     14     |     15     |     -1     |
+|      hypoxia      |     15     |     19     |     -4     |
+|    stimulation    |     16     |     22     |     -6     |
+| immunosuppression |     17     |     17     |     0      |
+|     irritants     |     18     |     18     |     0      |
+|     infection     |     19     |     25     |     -6     |
+|     absorption    |     20     |     29     |     -9     |
++-------------------+------------+------------+------------+
+
+
+Similar words to freud
+expert count: 10409 | Novice has 205 less
++------------------+------------+------------+------------+
+|       Word       | Novice Pos | Expert Pos | Difference |
++------------------+------------+------------+------------+
+|  psychoanalysis  |     1      |     1      |     0      |
+|      lacan       |     2      |     2      |     0      |
+|     freudian     |     3      |     3      |     0      |
+|  psychoanalytic  |     4      |     4      |     0      |
+|    nietzsche     |     5      |     5      |     0      |
+|     bergler      |     6      |     6      |     0      |
+|      wundt       |     7      |     10     |     -3     |
+|     silberer     |     8      |     9      |     -1     |
+|      hegel       |     9      |     11     |     -2     |
+|     marcuse      |     10     |     28     |    -18     |
+|    schelling     |     11     |     7      |     4      |
+|     ferenczi     |     12     |     13     |     -1     |
+|     jungian      |     13     |     18     |     -5     |
+|   wittgenstein   |     14     |     20     |     -6     |
+| psychoanalytical |     15     |     16     |     -1     |
+|     lacanian     |     16     |     32     |    -16     |
+|  psychoanalyst   |     17     |     25     |     -8     |
+|      sartre      |     18     |     34     |    -16     |
+|    bettelheim    |     19     |     64     |    -45     |
+|     husserl      |     20     |     17     |     3      |
++------------------+------------+------------+------------+
+
+
+Similar words to health
+expert count: 401670 | Novice has 2731 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   healthcare   |     1      |     1      |     0      |
+|    welfare     |     2      |     2      |     0      |
+|    medical     |     3      |     4      |     -1     |
+|   nutrition    |     4      |     3      |     1      |
+|    hygiene     |     5      |     5      |     0      |
+|   telehealth   |     6      |     7      |     -1     |
+|   palliative   |     7      |     9      |     -2     |
+|   sanitation   |     8      |     6      |     2      |
+|   education    |     9      |     8      |     1      |
+| environmental  |     10     |     10     |     0      |
+|   wellbeing    |     11     |     16     |     -5     |
+|    nursing     |     12     |     13     |     -1     |
+|   disability   |     13     |     11     |     2      |
+|  psychosocial  |     14     |     22     |     -8     |
+| cardiovascular |     15     |     15     |     0      |
+| rehabilitation |     16     |     21     |     -5     |
+|    medicare    |     17     |     12     |     5      |
+| rehabilitative |     18     |     20     |     -2     |
+|   perinatal    |     19     |     17     |     2      |
+|  immunization  |     20     |     29     |     -9     |
++----------------+------------+------------+------------+
+
+
+Similar words to inhibitor
+expert count: 7946 | Novice has 147 less
++----------------------+------------+------------+------------+
+|         Word         | Novice Pos | Expert Pos | Difference |
++----------------------+------------+------------+------------+
+|      inhibitors      |     1      |     1      |     0      |
+|       prodrug        |     2      |     2      |     0      |
+|       agonist        |     3      |     4      |     -1     |
+|     antiestrogen     |     4      |     17     |    -13     |
+|     antiandrogen     |     5      |     5      |     0      |
+|      activator       |     6      |     3      |     3      |
+|       inducer        |     7      |     7      |     0      |
+|  phosphodiesterase   |     8      |     19     |    -11     |
+|     vasodilator      |     9      |     11     |     -2     |
+|       protease       |     10     |     6      |     4      |
+|      analgesic       |     11     |     13     |     -2     |
+|    antihistamine     |     12     |     14     |     -2     |
+|       receptor       |     13     |     35     |    -22     |
+|    enkephalinase     |     14     |     9      |     5      |
+|         faah         |     15     |     23     |     -8     |
+|   immunomodulator    |     16     |     29     |    -13     |
+|    antidepressant    |     17     |     8      |     9      |
+|      sirolimus       |     18     |     85     |    -67     |
+| acetylcholinesterase |     19     |     15     |     4      |
+|    anticoagulant     |     20     |     16     |     4      |
++----------------------+------------+------------+------------+
+
+
+Similar words to medication
+expert count: 13018 | Novice has 778 less
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|   medications   |     1      |     1      |     0      |
+|   painkillers   |     2      |     2      |     0      |
+|     aspirin     |     3      |     3      |     0      |
+|    sedatives    |     4      |     4      |     0      |
+|     warfarin    |     5      |     8      |     -3     |
+| corticosteroids |     6      |     5      |     1      |
+|      drugs      |     7      |     16     |     -9     |
+|    gabapentin   |     8      |     12     |     -4     |
+|    methadone    |     9      |     7      |     2      |
+|   paracetamol   |     10     |     6      |     4      |
+|    metformin    |     11     |     9      |     2      |
+|    amiodarone   |     12     |     14     |     -2     |
+|    clonazepam   |     13     |     30     |    -17     |
+|    prednisone   |     14     |     28     |    -14     |
+|    lorazepam    |     15     |     11     |     4      |
+|    analgesics   |     16     |     25     |     -9     |
+|     ritalin     |     17     |     71     |    -54     |
+| antidepressants |     18     |     19     |     -1     |
+|  dexamethasone  |     19     |     17     |     2      |
+|   haloperidol   |     20     |     27     |     -7     |
++-----------------+------------+------------+------------+
+
+
+Similar words to mental
+expert count: 76729 | Novice has 2349 less
++---------------------+------------+------------+------------+
+|         Word        | Novice Pos | Expert Pos | Difference |
++---------------------+------------+------------+------------+
+|    psychological    |     1      |     1      |     0      |
+|     psychiatric     |     2      |     2      |     0      |
+|    psychosomatic    |     3      |     3      |     0      |
+|      cognitive      |     4      |     4      |     0      |
+|    schizophrenia    |     5      |     15     |    -10     |
+|     neurological    |     6      |     9      |     -3     |
+|       physical      |     7      |     10     |     -3     |
+|     psychosocial    |     8      |     5      |     3      |
+|      emotional      |     9      |     6      |     3      |
+|  depersonalization  |     10     |     8      |     2      |
+|    schizophrenic    |     11     |     17     |     -6     |
+|     pathological    |     12     |     14     |     -2     |
+|       anxiety       |     13     |     19     |     -6     |
+|       dementia      |     14     |     22     |     -8     |
+|      psychotic      |     15     |     16     |     -1     |
+|      psychosis      |     16     |     12     |     4      |
+|      behavioral     |     17     |     13     |     4      |
+| obsessivecompulsive |     18     |     32     |    -14     |
+|     psychogenic     |     19     |     24     |     -5     |
+|   schizoaffective   |     20     |     28     |     -8     |
++---------------------+------------+------------+------------+
+
+
+Similar words to ocd
+expert count: 1690 | Novice has 474 less
++---------------------+------------+------------+------------+
+|         Word        | Novice Pos | Expert Pos | Difference |
++---------------------+------------+------------+------------+
+|      narcolepsy     |     1      |     1      |     0      |
+|     fibromyalgia    |     2      |     4      |     -2     |
+|         adhd        |     3      |     3      |     0      |
+|    schizophrenia    |     4      |     2      |     2      |
+|       epilepsy      |     5      |     8      |     -3     |
+|   trichotillomania  |     6      |     6      |     0      |
+|      dysthymia      |     7      |     7      |     0      |
+|    symptomatology   |     8      |     9      |     -1     |
+|         ptsd        |     9      |     5      |     4      |
+|     parkinsonism    |     10     |     11     |     -1     |
+|     parkinsonian    |     11     |     32     |    -21     |
+|     symptomology    |     12     |     29     |    -17     |
+|      migraines      |     13     |     19     |     -6     |
+|      dyskinesia     |     14     |     28     |    -14     |
+| obsessivecompulsive |     15     |     33     |    -18     |
+|       migraine      |     16     |     20     |     -4     |
+|     anosognosia     |     17     |     79     |    -62     |
+|    hypersexuality   |     18     |     26     |     -8     |
+|    endometriosis    |     19     |     18     |     1      |
+|       dystonia      |     20     |     48     |    -28     |
++---------------------+------------+------------+------------+
+
+
+Similar words to placebo
+expert count: 4115 | Novice has 164 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|   metformin   |     1      |     4      |     -3     |
+|   paroxetine  |     2      |     3      |     -1     |
+|  monotherapy  |     3      |     1      |     2      |
+|   sertraline  |     4      |     2      |     2      |
+|   fluoxetine  |     5      |     9      |     -4     |
+|    placebos   |     6      |     46     |    -40     |
+|   letrozole   |     7      |     7      |     0      |
+|  venlafaxine  |     8      |     8      |     0      |
+|   sorafenib   |     9      |     11     |     -2     |
+|   randomized  |     10     |     6      |     4      |
+|    naproxen   |     11     |     30     |    -19     |
+|   sunitinib   |     12     |     29     |    -17     |
+|  ranibizumab  |     13     |     21     |     -8     |
+| rosiglitazone |     14     |     24     |    -10     |
+|  pioglitazone |     15     |     12     |     3      |
+|  bevacizumab  |     16     |     42     |    -26     |
+|  simvastatin  |     17     |     28     |    -11     |
+|   imipramine  |     18     |     16     |     2      |
+|      dose     |     20     |     31     |    -11     |
++---------------+------------+------------+------------+
+
+
+Similar words to psychosurgery
+expert count: 233 | Novice has 8 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|     leucotomy     |     1      |     2      |     -1     |
+|      lobotomy     |     2      |     3      |     -1     |
+|        ect        |     3      |     1      |     2      |
+|    laparoscopy    |     4      |     7      |     -3     |
+|    transorbital   |     5      |     4      |     1      |
+| electroconvulsive |     6      |     8      |     -2     |
+|    nonsurgical    |     7      |     9      |     -2     |
+|   electrotherapy  |     8      |     5      |     3      |
+|    anaesthesia    |     9      |     11     |     -2     |
+|    vaginoplasty   |     10     |     20     |    -10     |
+|  pharmacotherapy  |     11     |     6      |     5      |
+|    hypnotherapy   |     12     |     12     |     0      |
+|   neurosurgical   |     13     |     14     |     -1     |
+|   tonsillectomy   |     14     |     10     |     4      |
+|    tracheotomy    |     15     |     16     |     -1     |
+|    laparoscopic   |     16     |     27     |    -11     |
+|    radiotherapy   |     17     |     48     |    -31     |
+| psychotherapeutic |     18     |     18     |     0      |
+|    prophylactic   |     19     |     21     |     -2     |
+|    stereotactic   |     20     |     17     |     3      |
++-------------------+------------+------------+------------+
+
+
+Similar words to psychotherapy
+expert count: 4930 | Novice has 340 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|   psychoanalysis  |     1      |     1      |     0      |
+| psychotherapeutic |     2      |     2      |     0      |
+|   psychodynamic   |     3      |     3      |     0      |
+|   psychoanalytic  |     4      |     4      |     0      |
+|    hypnotherapy   |     5      |     5      |     0      |
+|      therapy      |     6      |     6      |     0      |
+|     psychology    |     7      |     8      |     -1     |
+|     psychiatry    |     8      |     7      |     1      |
+|      adlerian     |     9      |     11     |     -2     |
+|  psychopathology  |     10     |     10     |     0      |
+|      gestalt      |     11     |     13     |     -2     |
+|  psychotherapies  |     12     |     15     |     -3     |
+|  psychosynthesis  |     13     |     16     |     -3     |
+|   transpersonal   |     14     |     14     |     0      |
+|      reichian     |     15     |     19     |     -4     |
+|  psychotherapists |     16     |     12     |     4      |
+|    psychodrama    |     17     |     9      |     8      |
+|   psychologists   |     18     |     17     |     1      |
+|     counseling    |     19     |     18     |     1      |
+|     abreaction    |     20     |     21     |     -1     |
++-------------------+------------+------------+------------+
+
+
+Similar words to reinforcement
+expert count: 7731 | Novice has 127 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+| reinforcements |     1      |     1      |     0      |
+|  reinforcing   |     2      |     2      |     0      |
+|  redeployment  |     3      |     4      |     -1     |
+|   reinforce    |     4      |     3      |     1      |
+|   stiffening   |     5      |     5      |     0      |
+|   reinforced   |     6      |     6      |     0      |
+|    feedback    |     7      |     7      |     0      |
+|   deployment   |     8      |     10     |     -2     |
+|    geocells    |     9      |     22     |    -13     |
+|  modification  |     10     |     11     |     -1     |
+|    resupply    |     11     |     9      |     2      |
+|  stimulation   |     12     |     15     |     -3     |
+|   shotcrete    |     13     |     20     |     -7     |
+|   reinforcer   |     14     |     12     |     2      |
+|    damping     |     15     |     19     |     -4     |
+|  augmentation  |     16     |     29     |    -13     |
+|  compressive   |     17     |     16     |     1      |
+| replenishment  |     18     |     8      |     10     |
+|  mobilization  |     19     |     13     |     6      |
+|   activation   |     20     |     17     |     3      |
++----------------+------------+------------+------------+
+
+
+Similar words to response
+expert count: 186107 | Novice has 1637 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   responding   |     1      |     1      |     0      |
+|   responses    |     2      |     2      |     0      |
+|    reaction    |     3      |     3      |     0      |
+|    respond     |     4      |     4      |     0      |
+|     reply      |     5      |     6      |     -1     |
+|      due       |     6      |     5      |     1      |
+| responsiveness |     7      |     8      |     -1     |
+| counteraction  |     8      |     91     |    -83     |
+|   rejoinder    |     9      |     16     |     -7     |
+|   resulting    |     10     |     9      |     1      |
+|    reacting    |     11     |     14     |     -3     |
+|    rebuttal    |     12     |     7      |     5      |
+|    counter     |     13     |     10     |     3      |
+|   counteract   |     14     |     11     |     3      |
+|   reactions    |     15     |     12     |     3      |
+|     rebuke     |     16     |     19     |     -3     |
+|    regards     |     17     |     15     |     2      |
+|    relation    |     18     |     13     |     5      |
+|     prompt     |     19     |     20     |     -1     |
+|    contrast    |     20     |     27     |     -7     |
++----------------+------------+------------+------------+
+
+
+Similar words to ruminate
+expert count: 126 | Novice has 6 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|  ruminating |     1      |     1      |     0      |
+|   overeat   |     2      |     4      |     -2     |
+|  rumination |     3      |     2      |     1      |
+|   defecate  |     4      |     7      |     -3     |
+|   urinate   |     5      |     8      |     -3     |
+|    fixate   |     6      |     5      |     1      |
+|    ingest   |     7      |     48     |    -41     |
+| regurgitate |     8      |     17     |     -9     |
+|   vocalize  |     9      |     38     |    -29     |
+|   subsist   |     10     |     33     |    -23     |
+|   drooling  |     12     |     13     |     -1     |
+|    musing   |     14     |     3      |     11     |
+|  fantasize  |     16     |     41     |    -25     |
+|   trample   |     17     |     39     |    -22     |
+|   consume   |     18     |    100     |    -82     |
+|  procreate  |     19     |     44     |    -25     |
++-------------+------------+------------+------------+
+
+
+Similar words to ruminated
+expert count: 27 | Novice has 2 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    musing   |     1      |     1      |     0      |
+|  elaborates |     2      |     14     |    -12     |
+|    mused    |     4      |     5      |     -1     |
+|   pondered  |     5      |     6      |     -1     |
+|   embarks   |     6      |     78     |    -72     |
+| capitalizes |     7      |     11     |     -4     |
+|    doted    |     8      |     25     |    -17     |
+|  remarking  |     9      |     33     |    -24     |
+|  commenting |     10     |     7      |     3      |
+|   remarked  |     11     |     8      |     3      |
+|  reminisced |     13     |     3      |     10     |
+|   expounds  |     15     |     13     |     2      |
+|  reminisces |     16     |     23     |     -7     |
+|  ruminates  |     17     |     2      |     15     |
+|   foisted   |     18     |     37     |    -19     |
+|  commented  |     19     |     18     |     1      |
+|   bestows   |     20     |     32     |    -12     |
++-------------+------------+------------+------------+
+
+
+Similar words to ruminates
+expert count: 74 | Novice has 1 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  meditates   |     1      |     2      |     -1     |
+|    musing    |     2      |     1      |     1      |
+|    dotes     |     3      |     4      |     -1     |
+|   ponders    |     4      |     6      |     -2     |
+|  ruminating  |     5      |     3      |     2      |
+|   expounds   |     6      |     5      |     1      |
+|    doted     |     7      |     8      |     -1     |
+|  elaborates  |     8      |     7      |     1      |
+|   fixated    |     9      |     14     |     -5     |
+|   embarks    |     10     |     12     |     -2     |
+|  reminisces  |     11     |     9      |     2      |
+| contemplates |     12     |     16     |     -4     |
+|   despairs   |     13     |     39     |    -26     |
+|   fixates    |     14     |     10     |     4      |
+|   tramples   |     15     |     25     |    -10     |
+| capitalizes  |     16     |     13     |     3      |
+|    frowns    |     17     |     28     |    -11     |
+|   laments    |     18     |     20     |     -2     |
+|    dawns     |     19     |     29     |    -10     |
+|   stumbles   |     20     |     34     |    -14     |
++--------------+------------+------------+------------+
+
+
+Similar words to ruminating
+expert count: 151 | Novice has 4 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    musing   |     1      |     1      |     0      |
+|  pondering  |     2      |     3      |     -1     |
+|  meditates  |     3      |     4      |     -1     |
+|  rumination |     4      |     6      |     -2     |
+|  ruminates  |     5      |     2      |     3      |
+|   ruminate  |     6      |     5      |     1      |
+|  obsessing  |     7      |     10     |     -3     |
+| ruminations |     8      |     7      |     1      |
+|   lingers   |     9      |     8      |     1      |
+|  meditating |     10     |     11     |     -1     |
+|  lamenting  |     11     |     14     |     -3     |
+|   agonized  |     12     |     88     |    -76     |
+|   verging   |     13     |     13     |     0      |
+|    obsess   |     14     |     32     |    -18     |
+| fantasizing |     15     |     19     |     -4     |
+|   anguish   |     16     |     34     |    -18     |
+|   despair   |     17     |     55     |    -38     |
+|  despairing |     18     |     58     |    -40     |
+|   laments   |     19     |     27     |     -8     |
+|   fixated   |     20     |     9      |     11     |
++-------------+------------+------------+------------+
+
+
+Similar words to serotonin
+expert count: 3972 | Novice has 468 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|      dopamine     |     1      |     1      |     0      |
+|   norepinephrine  |     2      |     2      |     0      |
+|     monoamine     |     3      |     3      |     0      |
+|    serotonergic   |     4      |     10     |     -6     |
+|   noradrenaline   |     5      |     6      |     -1     |
+|   acetylcholine   |     6      |     5      |     1      |
+|  neurotransmitter |     7      |     4      |     3      |
+|     histamine     |     8      |     8      |     0      |
+|   catecholamines  |     9      |     7      |     2      |
+|    aldosterone    |     10     |     12     |     -2     |
+|   catecholamine   |     11     |     9      |     2      |
+|    vasopressin    |     12     |     15     |     -3     |
+|      oxytocin     |     13     |     18     |     -5     |
+|     glutamate     |     14     |     11     |     3      |
+|        gnrh       |     15     |     23     |     -8     |
+|     anandamide    |     16     |     17     |     -1     |
+| neurotransmitters |     17     |     16     |     1      |
+|    dopaminergic   |     18     |     14     |     4      |
+|      cortisol     |     19     |     13     |     6      |
+|  allopregnanolone |     20     |     27     |     -7     |
++-------------------+------------+------------+------------+
+
+
+Similar words to sleep
+expert count: 42292 | Novice has 1322 less
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|     sleeping    |     1      |     1      |     0      |
+|      asleep     |     2      |     2      |     0      |
+|       eat       |     3      |     5      |     -2     |
+|     urinate     |     4      |     6      |     -2     |
+|      awake      |     5      |     3      |     2      |
+|      vomit      |     6      |     22     |    -16     |
+|   wakefulness   |     7      |     7      |     0      |
+|     insomnia    |     8      |     4      |     4      |
+|  sleeplessness  |     9      |     30     |    -21     |
+| unconsciousness |     10     |     11     |     -1     |
+|       bed       |     11     |     16     |     -5     |
+|      crying     |     12     |     13     |     -1     |
+|       nrem      |     13     |     25     |    -12     |
+|     delirium    |     14     |     20     |     -6     |
+|  hallucinations |     15     |     14     |     1      |
+|      waking     |     16     |     10     |     6      |
+|      stupor     |     17     |     8      |     9      |
+|       pain      |     18     |     12     |     6      |
+|   sleepwalking  |     19     |     9      |     10     |
+|     napping     |     20     |     44     |    -24     |
++-----------------+------------+------------+------------+
+
+
+Similar words to ssri
+expert count: 407 | Novice has 95 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   fluoxetine   |     1      |     2      |     -1     |
+| antipsychotic  |     2      |     1      |     1      |
+| antidepressant |     3      |     3      |     0      |
+|  haloperidol   |     4      |     17     |    -13     |
+|  mirtazapine   |     5      |     4      |     1      |
+| chlorpromazine |     6      |     13     |     -7     |
+|     nsaid      |     7      |     9      |     -2     |
+| amitriptyline  |     8      |     6      |     2      |
+|  venlafaxine   |     9      |     5      |     4      |
+|   bupropion    |     10     |     10     |     0      |
+| carbamazepine  |     11     |     39     |    -28     |
+|   citalopram   |     12     |     7      |     5      |
+|   clozapine    |     13     |     14     |     -1     |
+|   olanzapine   |     14     |     12     |     2      |
+| antihistamine  |     15     |     37     |    -22     |
+|   imipramine   |     16     |     11     |     5      |
+| anticonvulsant |     17     |     19     |     -2     |
+|      snri      |     18     |     34     |    -16     |
+|   paroxetine   |     19     |     8      |     11     |
+| phenobarbital  |     20     |     85     |    -65     |
++----------------+------------+------------+------------+
+
+
+Similar words to stimulus
+expert count: 11254 | Novice has 239 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|    stimuli    |     1      |     1      |     0      |
+|   reinforcer  |     2      |     2      |     0      |
+|  stimulation  |     3      |     3      |     0      |
+|    stressor   |     4      |     4      |     0      |
+|    aversive   |     5      |     8      |     -3     |
+|  nociception  |     6      |     6      |     0      |
+| unconditioned |     7      |     9      |     -2     |
+|  habituation  |     8      |     7      |     1      |
+|  nociceptive  |     9      |     15     |     -6     |
+|   distractor  |     10     |     5      |     5      |
+|    priming    |     11     |     10     |     1      |
+|    auditory   |     12     |     11     |     1      |
+|    saccade    |     13     |     12     |     1      |
+|    arousal    |     14     |     13     |     1      |
+|   excitatory  |     15     |     14     |     1      |
+|   excitation  |     16     |     16     |     0      |
+|     neuron    |     17     |     25     |     -8     |
+|     inputs    |     18     |     20     |     -2     |
+|   appetitive  |     19     |     58     |    -39     |
+|   inhibition  |     20     |     22     |     -2     |
++---------------+------------+------------+------------+
+
+
+Similar words to trichotillomania
+expert count: 148 | Novice has 24 less
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|    narcolepsy   |     1      |     1      |     0      |
+|       ocd       |     2      |     2      |     0      |
+|   fibromyalgia  |     3      |     4      |     -1     |
+|  hypersexuality |     4      |     7      |     -3     |
+|  polyneuropathy |     5      |     16     |    -11     |
+|     alopecia    |     6      |     12     |     -6     |
+|   symptomology  |     7      |     15     |     -8     |
+|   premenstrual  |     8      |     18     |    -10     |
+|  symptomatology |     9      |     10     |     -1     |
+|     pruritus    |     10     |     41     |    -31     |
+|     comorbid    |     12     |     52     |    -40     |
+| choreoathetosis |     13     |     60     |    -47     |
+|     myopathy    |     14     |     32     |    -18     |
+|    porphyria    |     15     |     58     |    -43     |
+| osteochondritis |     16     |     6      |     10     |
+|    athetosis    |     17     |     69     |    -52     |
+|    idiopathic   |     18     |     36     |    -18     |
+|  enterocolitis  |     19     |     86     |    -67     |
+|    acromegaly   |     20     |     47     |    -27     |
++-----------------+------------+------------+------------+

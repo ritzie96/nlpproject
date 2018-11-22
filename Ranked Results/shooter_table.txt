@@ -1,0 +1,1209 @@
+++
+||
+++
+++
+
+
+Similar words to shooter
+expert count: 18833 | Novice has 2204 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   shooters   |     1      |     1      |     0      |
+|    fencer    |     2      |     5      |     -3     |
+|   marksman   |     3      |     7      |     -4     |
+|    sniper    |     4      |     2      |     2      |
+|   swimmer    |     5      |     8      |     -3     |
+|   athlete    |     6      |     6      |     0      |
+|    skier     |     7      |     12     |     -5     |
+|    pistol    |     8      |     9      |     -1     |
+|   cyclist    |     9      |     15     |     -6     |
+| snowboarder  |     10     |     11     |     -1     |
+|    racer     |     11     |     10     |     1      |
+|    rower     |     12     |     20     |     -8     |
+|    skeet     |     13     |     14     |     -1     |
+|  platformer  |     14     |     3      |     11     |
+|   sprinter   |     15     |     42     |    -27     |
+|    diver     |     16     |     17     |     -1     |
+|    judoka    |     17     |     33     |    -16     |
+| weightlifter |     18     |     36     |    -18     |
+|     rpg      |     19     |     4      |     15     |
+|  bobsledder  |     20     |     38     |    -18     |
++--------------+------------+------------+------------+
+
+
+Similar words to bomb
+expert count: 62642 | Novice has 362 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   bombs    |     1      |     1      |     0      |
+| explosives |     2      |     2      |     0      |
+|  bombing   |     3      |     3      |     0      |
+|   blast    |     4      |     4      |     0      |
+| detonator  |     5      |     11     |     -6     |
+|  grenade   |     6      |     6      |     0      |
+|  tallboy   |     7      |     8      |     -1     |
+|   vbied    |     8      |     5      |     3      |
+| detonation |     9      |     9      |     0      |
+| detonated  |     10     |     13     |     -3     |
+| explosion  |     11     |     7      |     4      |
+|    ied     |     12     |     15     |     -3     |
+|   bomber   |     13     |     14     |     -1     |
+|  bomblets  |     14     |     12     |     2      |
+|    ieds    |     15     |     27     |    -12     |
+|  warhead   |     16     |     17     |     -1     |
+|  firebomb  |     17     |     10     |     7      |
+|  detonate  |     18     |     19     |     -1     |
+| detonating |     19     |     20     |     -1     |
+|   torpex   |     20     |     35     |    -15     |
++------------+------------+------------+------------+
+
+
+Similar words to bots
+expert count: 1833 | Novice has 110 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    robots   |     1      |     1      |     0      |
+|    droids   |     2      |     7      |     -5     |
+|   botnets   |     3      |     3      |     0      |
+|    mechs    |     4      |     5      |     -1     |
+|   chatbots  |     5      |     2      |     3      |
+|     bot     |     6      |     4      |     2      |
+|    robot    |     7      |     6      |     1      |
+|    hacks    |     8      |     13     |     -5     |
+|   crawlers  |     9      |     9      |     0      |
+|   spambots  |     10     |     20     |    -10     |
+|   spammers  |     11     |     28     |    -17     |
+|   cyborgs   |     12     |     8      |     4      |
+|   hackers   |     13     |     22     |     -9     |
+| replicators |     14     |     12     |     2      |
+|     robo    |     15     |     36     |    -21     |
+|    botnet   |     16     |     16     |     0      |
+|   malware   |     17     |     21     |     -4     |
+|   nanites   |     18     |     17     |     1      |
+|   rootkits  |     19     |     76     |    -57     |
+|   phishing  |     20     |     32     |    -12     |
++-------------+------------+------------+------------+
+
+
+Similar words to chief
+expert count: 404201 | Novice has 1192 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|     deputy     |     1      |     1      |     0      |
+|    chairman    |     2      |     2      |     0      |
+|   secretary    |     3      |     3      |     0      |
+|   principal    |     4      |     4      |     0      |
+|   president    |     5      |     5      |     0      |
+| superintendent |     6      |     6      |     0      |
+|    director    |     7      |     7      |     0      |
+|  commissioner  |     8      |     10     |     -2     |
+|   commandant   |     9      |     11     |     -2     |
+|   commander    |     10     |     9      |     1      |
+|   treasurer    |     11     |     8      |     3      |
+|   appointed    |     12     |     12     |     0      |
+|    officer     |     13     |     13     |     0      |
+|     leader     |     14     |     15     |     -1     |
+|      vice      |     15     |     14     |     1      |
+| superintending |     16     |     19     |     -3     |
+|      ceo       |     17     |     18     |     -1     |
+|      head      |     18     |     21     |     -3     |
+|    provost     |     19     |     16     |     3      |
+|   assistant    |     20     |     17     |     3      |
++----------------+------------+------------+------------+
+
+
+Similar words to computer
+expert count: 199979 | Novice has 1496 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   computers    |     1      |     1      |     0      |
+|    software    |     2      |     2      |     0      |
+| microcomputer  |     3      |     3      |     0      |
+|   computing    |     4      |     4      |     0      |
+|   mainframe    |     5      |     6      |     -1     |
+|   calculator   |     6      |     13     |     -7     |
+|  minicomputer  |     7      |     5      |     2      |
+|    hardware    |     8      |     8      |     0      |
+| microprocessor |     9      |     9      |     0      |
+|  computerized  |     10     |     7      |     3      |
+|  workstation   |     11     |     10     |     1      |
+| supercomputer  |     12     |     11     |     1      |
+|      ibm       |     13     |     16     |     -3     |
+|   simulation   |     14     |     12     |     2      |
+|    realtime    |     15     |     18     |     -3     |
+| microcomputers |     16     |     15     |     1      |
+|       pc       |     17     |     23     |     -6     |
+|  programmable  |     18     |     17     |     1      |
+|  electronics   |     19     |     19     |     0      |
+|      cad       |     20     |     24     |     -4     |
++----------------+------------+------------+------------+
+
+
+Similar words to deathmatch
+expert count: 1587 | Novice has 485 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+| deathmatches |     1      |     1      |     0      |
+|     czw      |     2      |     8      |     -6     |
+|     tag      |     3      |     9      |     -6     |
+|   minigame   |     4      |     4      |     0      |
+|   kanemura   |     8      |     58     |    -50     |
+|     jcw      |     10     |     63     |    -53     |
+|   kintaro    |     13     |     41     |    -28     |
+|    liger     |     16     |     45     |    -29     |
+|    akuma     |     18     |     29     |    -11     |
+|    rumble    |     20     |     87     |    -67     |
++--------------+------------+------------+------------+
+
+
+Similar words to display
+expert count: 105615 | Novice has 593 less
++--------------------+------------+------------+------------+
+|        Word        | Novice Pos | Expert Pos | Difference |
++--------------------+------------+------------+------------+
+|      displays      |     1      |     1      |     0      |
+|     displayed      |     2      |     2      |     0      |
+|      exhibit       |     3      |     3      |     0      |
+|     displaying     |     4      |     4      |     0      |
+|      exhibits      |     5      |     5      |     0      |
+|      backlit       |     6      |     6      |     0      |
+|    touchscreens    |     7      |     9      |     -2     |
+|      rollable      |     8      |     30     |    -22     |
+|        mfds        |     9      |     19     |    -10     |
+|    touchscreen     |     10     |     8      |     2      |
+|        oled        |     11     |     7      |     4      |
+|  autostereoscopic  |     12     |     13     |     -1     |
+|      screens       |     13     |     11     |     2      |
+|        lcds        |     14     |     18     |     -4     |
+|      pentile       |     15     |     37     |    -22     |
+|     backlight      |     16     |     10     |     6      |
+|      deimatic      |     17     |     14     |     3      |
+|        crt         |     18     |     21     |     -3     |
+|      viewable      |     19     |     41     |    -22     |
+| electroluminescent |     20     |     17     |     3      |
++--------------------+------------+------------+------------+
+
+
+Similar words to doom
+expert count: 15301 | Novice has 1378 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    thulsa   |     1      |     2      |     -1     |
+|    eggman   |     2      |     1      |     1      |
+|    mordru   |     3      |     3      |     0      |
+|  novembers  |     4      |     13     |     -9     |
+|   robotnik  |     5      |     9      |     -4     |
+|   warlock   |     6      |     7      |     -1     |
+|    wraith   |     7      |     16     |     -9     |
+|    belial   |     9      |     14     |     -5     |
+|  armageddon |     10     |     20     |    -10     |
+|    thanos   |     11     |     70     |    -59     |
+|   strucker  |     12     |     81     |    -69     |
+|   doombots  |     13     |     74     |    -61     |
+| deathstroke |     14     |     69     |    -55     |
+|   latveria  |     15     |     6      |     9      |
+|    sutekh   |     17     |     32     |    -15     |
+|    skaven   |     18     |     11     |     7      |
+|   dormammu  |     19     |     15     |     4      |
+|   ravager   |     20     |     39     |    -19     |
++-------------+------------+------------+------------+
+
+
+Similar words to enemies
+expert count: 46469 | Novice has 1704 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     foes    |     1      |     1      |     0      |
+| adversaries |     2      |     2      |     0      |
+|    enemy    |     3      |     3      |     0      |
+|   minions   |     4      |     4      |     0      |
+|    allies   |     5      |     6      |     -1     |
+|     foe     |     6      |     7      |     -1     |
+|  opponents  |     7      |     5      |     2      |
+|  aggressors |     8      |     9      |     -1     |
+|    bosses   |     9      |     8      |     1      |
+|  adversary  |     10     |     11     |     -1     |
+|   villains  |     11     |     10     |     1      |
+|   monsters  |     12     |     12     |     0      |
+|    demons   |     13     |     13     |     0      |
+|  oppressors |     14     |     22     |     -8     |
+|    hordes   |     15     |     15     |     0      |
+|  creatures  |     16     |     14     |     2      |
+|   lackeys   |     17     |     21     |     -4     |
+|   comrades  |     18     |     17     |     1      |
+|  underlings |     19     |     18     |     1      |
+|  tormentors |     20     |     34     |    -14     |
++-------------+------------+------------+------------+
+
+
+Similar words to engine
+expert count: 237477 | Novice has 1866 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|    engines    |     1      |     1      |     0      |
+|   powerplant  |     2      |     2      |     0      |
+|       hp      |     3      |     4      |     -1     |
+|    chassis    |     4      |     7      |     -3     |
+|    cylinder   |     5      |     3      |     2      |
+|  supercharger |     6      |     6      |     0      |
+|    gearbox    |     7      |     8      |     -1     |
+|   carburetor  |     8      |     12     |     -4     |
+|  carburettor  |     9      |     9      |     0      |
+|  turbocharger |     10     |     5      |     5      |
+|    pushrod    |     11     |     14     |     -3     |
+|    turbine    |     12     |     17     |     -5     |
+|   sidevalve   |     13     |     25     |    -12     |
+|   compressor  |     14     |     18     |     -4     |
+|     boiler    |     15     |     11     |     4      |
+| turbochargers |     16     |     10     |     6      |
+|  intercooler  |     17     |     33     |    -16     |
+|      ohc      |     18     |     22     |     -4     |
+|   crankshaft  |     19     |     13     |     6      |
+|  carburetted  |     20     |     42     |    -22     |
++---------------+------------+------------+------------+
+
+
+Similar words to features
+expert count: 367398 | Novice has 4164 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   contains   |     1      |     1      |     0      |
+|   includes   |     2      |     2      |     0      |
+|  featuring   |     3      |     3      |     0      |
+| incorporates |     4      |     4      |     0      |
+|   feature    |     5      |     5      |     0      |
+|   featured   |     6      |     6      |     0      |
+|   displays   |     7      |     7      |     0      |
+|  showcases   |     8      |     9      |     -1     |
+|   utilizes   |     9      |     8      |     1      |
+|   consists   |     10     |     10     |     0      |
+|    covers    |     11     |     11     |     0      |
+|  contained   |     12     |     13     |     -1     |
+|     uses     |     13     |     12     |     1      |
+|  highlights  |     14     |     17     |     -3     |
+|   combines   |     15     |     15     |     0      |
+|  comprises   |     16     |     14     |     2      |
+|    boasts    |     17     |     16     |     1      |
+|   presents   |     18     |     19     |     -1     |
+|   overlays   |     19     |     27     |     -8     |
+|   exhibits   |     20     |     22     |     -2     |
++--------------+------------+------------+------------+
+
+
+Similar words to first
+expert count: 4872540 | Novice has 25193 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    second   |     1      |     1      |     0      |
+|     last    |     2      |     2      |     0      |
+|    third    |     3      |     4      |     -1     |
+|    fourth   |     4      |     3      |     1      |
+|    fifth    |     5      |     5      |     0      |
+|  inaugural  |     6      |     6      |     0      |
+|   seventh   |     7      |     7      |     0      |
+|    sixth    |     8      |     8      |     0      |
+|    final    |     9      |     9      |     0      |
+|    eighth   |     10     |     11     |     -1     |
+|    ninth    |     11     |     10     |     1      |
+|    tenth    |     12     |     12     |     0      |
+|     next    |     13     |     13     |     0      |
+|      nd     |     14     |     14     |     0      |
+|      rd     |     15     |     15     |     0      |
+|   eleventh  |     16     |     16     |     0      |
+|      th     |     17     |     17     |     0      |
+| penultimate |     18     |     22     |     -4     |
+|  thirteenth |     19     |     18     |     1      |
+|   longest   |     20     |     20     |     0      |
++-------------+------------+------------+------------+
+
+
+Similar words to fps
+expert count: 3918 | Novice has 279 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|    mpq     |     1      |     2      |     -1     |
+|    apq     |     2      |     1      |     1      |
+|    tpq     |     3      |     4      |     -1     |
+|    arsr    |     4      |     5      |     -1     |
+|    sqs     |     5      |     11     |     -6     |
+|    slq     |     6      |     7      |     -1     |
+|  encoder   |     7      |     12     |     -5     |
+|    uyk     |     8      |     16     |     -8     |
+|    awg     |     9      |     20     |    -11     |
+|    alq     |     10     |     8      |     2      |
+|    fsq     |     11     |     9      |     2      |
+| megapixels |     12     |     24     |    -12     |
+|    msq     |     13     |     13     |     0      |
+|    fpq     |     14     |     3      |     11     |
+|    tsq     |     15     |     17     |     -2     |
+|    aaq     |     16     |     15     |     1      |
+|    hdr     |     17     |     10     |     7      |
+|   radar    |     18     |     28     |    -10     |
+|    ntsc    |     19     |     25     |     -6     |
+|    peq     |     20     |     6      |     14     |
++------------+------------+------------+------------+
+
+
+Similar words to gameplay
+expert count: 29454 | Novice has 2282 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|  platforming  |     1      |     1      |     0      |
+|  multiplayer  |     2      |     2      |     0      |
+|   cutscenes   |     3      |     3      |     0      |
+|   minigames   |     4      |     4      |     0      |
+|      rpg      |     5      |     6      |     -1     |
+|    visuals    |     6      |     7      |     -1     |
+|   platformer  |     7      |     5      |     2      |
+|    puzzles    |     8      |     8      |     0      |
+|    graphics   |     9      |     10     |     -1     |
+|      rpgs     |     10     |     9      |     1      |
+|     tetris    |     11     |     12     |     -1     |
+|    gamespot   |     12     |     13     |     -1     |
+|    minigame   |     13     |     16     |     -3     |
+| replayability |     14     |     21     |     -7     |
+|  platformers  |     15     |     14     |     1      |
+|  playability  |     16     |     11     |     5      |
+|      game     |     17     |     17     |     0      |
+|      myst     |     18     |     27     |     -9     |
+|      snes     |     19     |     24     |     -5     |
+|   animations  |     20     |     42     |    -22     |
++---------------+------------+------------+------------+
+
+
+Similar words to games
+expert count: 794351 | Novice has 7711 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|      game     |     1      |     1      |     0      |
+|    matches    |     2      |     2      |     0      |
+|  tournaments  |     3      |     3      |     0      |
+|     teams     |     4      |     4      |     0      |
+|    seasons    |     5      |     5      |     0      |
+|   tournament  |     6      |     6      |     0      |
+|    contests   |     7      |     7      |     0      |
+|     match     |     8      |     10     |     -2     |
+|    players    |     9      |     8      |     1      |
+|     season    |     10     |     11     |     -1     |
+|     titles    |     11     |     9      |     2      |
+|    gamesthe   |     12     |     33     |    -21     |
+|   qualifiers  |     13     |     14     |     -1     |
+| championships |     14     |     12     |     2      |
+|     rounds    |     15     |     16     |     -1     |
+|    playoffs   |     16     |     13     |     3      |
+|     finals    |     17     |     20     |     -3     |
+|      team     |     18     |     15     |     3      |
+|   postseason  |     19     |     18     |     1      |
+|  championship |     20     |     17     |     3      |
++---------------+------------+------------+------------+
+
+
+Similar words to gun
+expert count: 147404 | Novice has 1264 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|     guns     |     1      |     1      |     0      |
+|    cannon    |     2      |     2      |     0      |
+|    pistol    |     3      |     3      |     0      |
+|   handgun    |     4      |     4      |     0      |
+|  carronade   |     5      |     13     |     -8     |
+|  autocannon  |     6      |     5      |     1      |
+|   revolver   |     7      |     6      |     1      |
+|    rifle     |     8      |     7      |     1      |
+|   howitzer   |     9      |     10     |     -1     |
+|  machinegun  |     10     |     16     |     -6     |
+|    weapon    |     11     |     8      |     3      |
+| flamethrower |     12     |     20     |     -8     |
+|     dshk     |     13     |     11     |     2      |
+|    gunner    |     14     |     12     |     2      |
+|   firearm    |     15     |     18     |     -3     |
+|   cannons    |     16     |     14     |     2      |
+|   gatling    |     17     |     36     |    -19     |
+|    turret    |     18     |     15     |     3      |
+|   shotgun    |     19     |     17     |     2      |
+|   gunners    |     20     |     23     |     -3     |
++--------------+------------+------------+------------+
+
+
+Similar words to halo
+expert count: 9094 | Novice has 2799 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   halos    |     1      |     2      |     -1     |
+|    glow    |     2      |     36     |    -34     |
+|    haho    |     3      |     12     |     -9     |
+|   clouds   |     6      |     94     |    -88     |
+|   cuspy    |     8      |     8      |     0      |
+|    orb     |     9      |     33     |    -24     |
+|   nebula   |     11     |     44     |    -33     |
+|    dark    |     13     |     71     |    -58     |
+| starburst  |     16     |     46     |    -30     |
+| starbursts |     17     |     84     |    -67     |
++------------+------------+------------+------------+
+
+
+Similar words to levels
+expert count: 184156 | Novice has 3658 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|     level      |     1      |     1      |     0      |
+| concentrations |     2      |     2      |     0      |
+|     rates      |     3      |     3      |     0      |
+|   thresholds   |     4      |     4      |     0      |
+|   densities    |     5      |     5      |     0      |
+|     ratios     |     6      |     6      |     0      |
+|     tiers      |     7      |     8      |     -1     |
+|    dosages     |     8      |     7      |     1      |
+|  frequencies   |     9      |     9      |     0      |
+|   osmolarity   |     10     |     35     |    -25     |
+|     types      |     11     |     10     |     1      |
+|     speeds     |     12     |     11     |     1      |
+|     modes      |     13     |     14     |     -1     |
+|     doses      |     14     |     13     |     1      |
+|  intensities   |     15     |     20     |     -5     |
+|     layers     |     16     |     15     |     1      |
+|   elevations   |     17     |     12     |     5      |
+|    pathways    |     18     |     19     |     -1     |
+|      rate      |     19     |     17     |     2      |
+|  temperatures  |     20     |     18     |     2      |
++----------------+------------+------------+------------+
+
+
+Similar words to looking
+expert count: 104878 | Novice has 851 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   looks   |     1      |     2      |     -1     |
+|    look   |     2      |     3      |     -1     |
+|   looked  |     3      |     1      |     2      |
+| searching |     4      |     4      |     0      |
+|  staring  |     5      |     5      |     0      |
+|   stares  |     6      |     7      |     -1     |
+|   gazes   |     7      |     8      |     -1     |
+|   gazing  |     8      |     6      |     2      |
+|   stared  |     9      |     9      |     0      |
+|  pushing  |     10     |     10     |     0      |
+|   trying  |     11     |     11     |     0      |
+|   going   |     12     |     12     |     0      |
+|   seeing  |     13     |     13     |     0      |
+|  watching |     14     |     17     |     -3     |
+|  yelling  |     15     |     18     |     -3     |
+|  waiting  |     16     |     23     |     -7     |
+|   peered  |     17     |     34     |    -17     |
+|  clawing  |     18     |     19     |     -1     |
+|   aiming  |     19     |     14     |     5      |
+|  smiling  |     20     |     16     |     4      |
++-----------+------------+------------+------------+
+
+
+Similar words to map
+expert count: 83404 | Novice has 1793 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|      maps     |     1      |     1      |     0      |
+|    mapping    |     2      |     3      |     -1     |
+|    diagram    |     3      |     4      |     -1     |
+|  planisphere  |     4      |     2      |     2      |
+|   choropleth  |     5      |     27     |    -22     |
+|    minimap    |     6      |     6      |     0      |
+|   franquelin  |     7      |     5      |     2      |
+|    atlases    |     8      |     11     |     -3     |
+|   landranger  |     9      |     15     |     -6     |
+| stereographic |     10     |     23     |    -13     |
+|   graticule   |     11     |     25     |    -14     |
+| topographical |     12     |     18     |     -6     |
+|    cantino    |     13     |     14     |     -1     |
+|   schematic   |     14     |     17     |     -3     |
+|  cartographic |     15     |     13     |     2      |
+|     datum     |     16     |     9      |     7      |
+|      grid     |     17     |     7      |     10     |
+|    analemma   |     18     |     51     |    -33     |
+|   clickable   |     19     |     34     |    -15     |
+|     graph     |     20     |     21     |     -1     |
++---------------+------------+------------+------------+
+
+
+Similar words to military
+expert count: 577789 | Novice has 1222 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|       naval       |     1      |     1      |     0      |
+|        army       |     2      |     2      |     0      |
+|      civilian     |     3      |     3      |     0      |
+|     diplomatic    |     4      |     5      |     -1     |
+|       armed       |     5      |     4      |     1      |
+|        navy       |     6      |     8      |     -2     |
+|    gendarmerie    |     7      |     7      |     0      |
+|        nato       |     8      |     9      |     -1     |
+|    paramilitary   |     9      |     10     |     -1     |
+|     wehrmacht     |     10     |     6      |     4      |
+|       troops      |     11     |     13     |     -2     |
+|       forces      |     12     |     11     |     1      |
+| counterinsurgency |     13     |     12     |     1      |
+|      militia      |     14     |     19     |     -5     |
+|     government    |     15     |     16     |     -1     |
+|       allied      |     16     |     15     |     1      |
+|       combat      |     17     |     18     |     -1     |
+|       soviet      |     18     |     14     |     4      |
+|     militaries    |     19     |     20     |     -1     |
+|     artillery     |     20     |     23     |     -3     |
++-------------------+------------+------------+------------+
+
+
+Similar words to mission
+expert count: 230359 | Novice has 1387 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   missions   |     1      |     1      |     0      |
+|  objective   |     2      |     2      |     0      |
+|  expedition  |     3      |     4      |     -1     |
+|     task     |     4      |     3      |     1      |
+|  objectives  |     5      |     5      |     0      |
+|  missionary  |     6      |     6      |     0      |
+|   monusco    |     7      |     16     |     -9     |
+|  endeavour   |     8      |     11     |     -3     |
+|   mandate    |     9      |     19     |    -10     |
+|  operation   |     10     |     7      |     3      |
+|   spacelab   |     11     |     49     |    -38     |
+| missionaries |     12     |     10     |     2      |
+|  deployment  |     13     |     9      |     4      |
+|  operations  |     14     |     12     |     2      |
+|   squadron   |     15     |     18     |     -3     |
+|   unamsil    |     16     |     51     |    -35     |
+|    umcor     |     17     |     46     |    -29     |
+|   euromir    |     18     |     54     |    -36     |
+|     astp     |     19     |     66     |    -47     |
+|  spacecraft  |     20     |     13     |     7      |
++--------------+------------+------------+------------+
+
+
+Similar words to mode
+expert count: 79403 | Novice has 2670 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     modes     |     1      |     1      |     0      |
+| configuration |     2      |     2      |     0      |
+| functionality |     3      |     5      |     -2     |
+|  multiplayer  |     4      |     3      |     1      |
+|    gameplay   |     5      |     4      |     1      |
+|   mechanism   |     6      |     8      |     -2     |
+|   interface   |     7      |     6      |     1      |
+|     device    |     8      |     7      |     1      |
+|   selectable  |     9      |     11     |     -2     |
+|     module    |     10     |     10     |     0      |
+|    minigame   |     11     |     9      |     2      |
+|     setup     |     12     |     13     |     -1     |
+|   scenarios   |     13     |     14     |     -1     |
+|    scenario   |     14     |     12     |     2      |
+|      pvp      |     15     |     18     |     -3     |
+|      cpu      |     16     |     15     |     1      |
+|    joystick   |     17     |     20     |     -3     |
+|  touchscreen  |     18     |     26     |     -8     |
+|     method    |     19     |     28     |     -9     |
+|    encoder    |     20     |     19     |     1      |
++---------------+------------+------------+------------+
+
+
+Similar words to movement
+expert count: 323390 | Novice has 3590 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   movements    |     1      |     1      |     0      |
+|    activism    |     2      |     2      |     0      |
+|   agitation    |     3      |     3      |     0      |
+|  nationalism   |     4      |     4      |     0      |
+|  movementthe   |     5      |     76     |    -71     |
+|   radicalism   |     6      |     7      |     -1     |
+|    ideology    |     7      |     5      |     2      |
+|   militancy    |     8      |     8      |     0      |
+|   movementa    |     9      |     6      |     3      |
+|    radical     |     10     |     10     |     0      |
+|   revivalism   |     11     |     9      |     2      |
+|  organisation  |     12     |     13     |     -1     |
+|    völkisch    |     13     |     14     |     -1     |
+|  organization  |     14     |     11     |     3      |
+|  identitarian  |     15     |     44     |    -29     |
+|     zikist     |     16     |     78     |    -62     |
+|   autonomist   |     17     |     38     |    -21     |
+|   reformist    |     18     |     28     |    -10     |
+| independentist |     19     |     25     |     -6     |
+|    leftist     |     20     |     18     |     2      |
++----------------+------------+------------+------------+
+
+
+Similar words to multiplayer
+expert count: 13581 | Novice has 2537 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|      gameplay     |     1      |     1      |     0      |
+|    singleplayer   |     2      |     4      |     -2     |
+|    splitscreen    |     3      |     2      |     1      |
+|        pvp        |     4      |     3      |     1      |
+|        pve        |     5      |     5      |     0      |
+|      minigame     |     6      |     7      |     -1     |
+|    platforming    |     7      |     6      |     1      |
+|       mmorpg      |     8      |     16     |     -8     |
+|    leaderboards   |     9      |     10     |     -1     |
+| microtransactions |     10     |     9      |     1      |
+|      sandbox      |     11     |     17     |     -6     |
+|        mmo        |     12     |     11     |     1      |
+|     quickplay     |     13     |     21     |     -8     |
+|     minigames     |     14     |     14     |     0      |
+|      playable     |     15     |     8      |     7      |
+|      fortnite     |     16     |     22     |     -6     |
+|   customization   |     17     |     13     |     4      |
+|     permadeath    |     18     |     31     |    -13     |
+|     minecraft     |     19     |     24     |     -5     |
+|  littlebigplanet  |     20     |     28     |     -8     |
++-------------------+------------+------------+------------+
+
+
+Similar words to person
+expert count: 278361 | Novice has 5305 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    woman    |     1      |     1      |     0      |
+|   someone   |     2      |     2      |     0      |
+|   patient   |     3      |     3      |     0      |
+|   persons   |     4      |     4      |     0      |
+|     man     |     5      |     5      |     0      |
+|  defendant  |     6      |     6      |     0      |
+|    anyone   |     7      |     8      |     -1     |
+|    victim   |     8      |     7      |     1      |
+|    child    |     9      |     9      |     0      |
+| individuals |     10     |     10     |     0      |
+|    people   |     11     |     11     |     0      |
+|  applicant  |     12     |     13     |     -1     |
+|   offender  |     13     |     12     |     1      |
+|    object   |     14     |     15     |     -1     |
+|    thing    |     15     |     16     |     -1     |
+|     jew     |     16     |     17     |     -1     |
+|   oneself   |     17     |     14     |     3      |
+| perpetrator |     18     |     18     |     0      |
+|  foreigner  |     19     |     19     |     0      |
+|  respondent |     20     |     20     |     0      |
++-------------+------------+------------+------------+
+
+
+Similar words to player
+expert count: 611290 | Novice has 13588 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  players   |     1      |     1      |     0      |
+| goalkeeper |     2      |     2      |     0      |
+|  athlete   |     3      |     3      |     0      |
+|  striker   |     4      |     4      |     0      |
+|   goalie   |     5      |     5      |     0      |
+|  pitcher   |     6      |     8      |     -2     |
+| goaltender |     7      |     6      |     1      |
+| midfielder |     8      |     11     |     -3     |
+| contestant |     9      |     13     |     -4     |
+| defenseman |     10     |     7      |     3      |
+|    team    |     11     |     10     |     1      |
+|  defender  |     12     |     15     |     -3     |
+| defenceman |     13     |     14     |     -1     |
+|  wrestler  |     14     |     9      |     5      |
+|    game    |     15     |     12     |     3      |
+|  referee   |     16     |     16     |     0      |
+|   rookie   |     17     |     17     |     0      |
+|  starter   |     18     |     19     |     -1     |
+|   golfer   |     19     |     18     |     1      |
+|    mvp     |     20     |     20     |     0      |
++------------+------------+------------+------------+
+
+
+Similar words to players
+expert count: 388803 | Novice has 7490 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|    teams     |     1      |     1      |     0      |
+|    player    |     2      |     2      |     0      |
+| footballers  |     3      |     3      |     0      |
+| goalkeepers  |     4      |     4      |     0      |
+|   goalies    |     5      |     9      |     -4     |
+|   athletes   |     6      |     6      |     0      |
+|  wrestlers   |     7      |     5      |     2      |
+|   rookies    |     8      |     8      |     0      |
+|   golfers    |     9      |     10     |     -1     |
+|   referees   |     10     |     7      |     3      |
+|  cricketers  |     11     |     12     |     -1     |
+|    riders    |     12     |     11     |     1      |
+| competitors  |     13     |     14     |     -1     |
+|   starters   |     14     |     19     |     -5     |
+|   bowlers    |     15     |     16     |     -1     |
+|    boxers    |     16     |     13     |     3      |
+|    clubs     |     17     |     15     |     2      |
+| tournaments  |     18     |     17     |     1      |
+|   coaches    |     19     |     18     |     1      |
+| quarterbacks |     20     |     20     |     0      |
++--------------+------------+------------+------------+
+
+
+Similar words to playstation
+expert count: 37759 | Novice has 2052 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|     xbox     |     1      |     2      |     -1     |
+|  dreamcast   |     2      |     1      |     1      |
+|   nintendo   |     3      |     5      |     -2     |
+|     wii      |     4      |     3      |     1      |
+|   gamecube   |     5      |     4      |     1      |
+|     psp      |     6      |     6      |     0      |
+|     xbla     |     7      |     11     |     -4     |
+|     ios      |     8      |     10     |     -2     |
+|     snes     |     9      |     7      |     2      |
+|   famicom    |     10     |     8      |     2      |
+|     sega     |     11     |     9      |     2      |
+|   wiiware    |     12     |     12     |     0      |
+|   dsiware    |     13     |     14     |     -1     |
+|     nes      |     14     |     16     |     -2     |
+|     gba      |     15     |     13     |     2      |
+|  turbografx  |     16     |     15     |     1      |
+| colecovision |     17     |     17     |     0      |
+|      pc      |     18     |     18     |     0      |
+|   console    |     19     |     20     |     -1     |
+|      ds      |     20     |     19     |     1      |
++--------------+------------+------------+------------+
+
+
+Similar words to point
+expert count: 574797 | Novice has 2633 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   points   |     1      |     1      |     0      |
+|   moment   |     2      |     2      |     0      |
+|  juncture  |     3      |     4      |     -1     |
+|   angle    |     4      |     3      |     1      |
+|   jmlab    |     5      |     5      |     0      |
+|    tip     |     6      |     6      |     0      |
+|  midpoint  |     7      |     7      |     0      |
+|  milepost  |     8      |     8      |     0      |
+| ridgeline  |     9      |     9      |     0      |
+|    spot    |     10     |     13     |     -3     |
+|   vertex   |     11     |     10     |     1      |
+|   angles   |     12     |     11     |     1      |
+| trailhead  |     13     |     12     |     1      |
+|  pointers  |     14     |     22     |     -8     |
+|  distance  |     15     |     23     |     -8     |
+|  stretch   |     16     |     16     |     0      |
+|    tide    |     17     |     15     |     2      |
+|    time    |     18     |     19     |     -1     |
+|   curve    |     19     |     18     |     1      |
+| promontory |     20     |     21     |     -1     |
++------------+------------+------------+------------+
+
+
+Similar words to power
+expert count: 633189 | Novice has 2006 less
++------------------+------------+------------+------------+
+|       Word       | Novice Pos | Expert Pos | Difference |
++------------------+------------+------------+------------+
+|      powers      |     1      |     1      |     0      |
+|      energy      |     2      |     2      |     0      |
+|     control      |     3      |     3      |     0      |
+|   electricity    |     4      |     4      |     0      |
+|     strength     |     5      |     5      |     0      |
+|      torque      |     6      |     6      |     0      |
+|    authority     |     7      |     8      |     -1     |
+|    hydropower    |     8      |     7      |     1      |
+|      clout       |     9      |     9      |     0      |
+|    legitimacy    |     10     |     13     |     -3     |
+|    capability    |     11     |     10     |     1      |
+| hydroelectricity |     12     |     17     |     -5     |
+|     autonomy     |     13     |     14     |     -1     |
+|     leverage     |     14     |     12     |     2      |
+|    efficiency    |     15     |     16     |     -1     |
+|       fuel       |     16     |     22     |     -6     |
+|    stability     |     17     |     15     |     2      |
+|    horsepower    |     18     |     18     |     0      |
+|    supremacy     |     19     |     11     |     8      |
+|   sovereignty    |     20     |     19     |     1      |
++------------------+------------+------------+------------+
+
+
+Similar words to precise
+expert count: 23878 | Novice has 189 less
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|      exact      |     1      |     2      |     -1     |
+|     accurate    |     2      |     1      |     1      |
+|    precisely    |     3      |     3      |     0      |
+|    accurately   |     4      |     4      |     0      |
+|     correct     |     5      |     5      |     0      |
+|    imprecise    |     6      |     6      |     0      |
+| straightforward |     7      |     11     |     -4     |
+|     specific    |     8      |     7      |     1      |
+|     detailed    |     9      |     9      |     0      |
+|     reliable    |     10     |     10     |     0      |
+|     careful     |     11     |     8      |     3      |
+|      proper     |     12     |     12     |     0      |
+|    repeatable   |     13     |     15     |     -2     |
+|      actual     |     14     |     14     |     0      |
+|   complicated   |     15     |     16     |     -1     |
+|   descriptive   |     16     |     17     |     -1     |
+|   unambiguous   |     17     |     13     |     4      |
+|   appropriate   |     18     |     19     |     -1     |
+|      simple     |     19     |     23     |     -4     |
+|    consistent   |     20     |     18     |     2      |
++-----------------+------------+------------+------------+
+
+
+Similar words to quake
+expert count: 4894 | Novice has 975 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|  earthquake |     1      |     1      |     0      |
+|  aftershock |     2      |     2      |     0      |
+|  mainshock  |     3      |     4      |     -1     |
+|   tsunami   |     4      |     3      |     1      |
+|  foreshock  |     5      |     10     |     -5     |
+| earthquakes |     6      |     5      |     1      |
+|    quakes   |     7      |     7      |     0      |
+| aftershocks |     8      |     9      |     -1     |
+|   tremors   |     9      |     15     |     -6     |
+|   mudslide  |     10     |     12     |     -2     |
+|   blizzard  |     11     |     8      |     3      |
+|   eruption  |     12     |     16     |     -4     |
+|    storm    |     13     |     19     |     -6     |
+|   tornado   |     14     |     22     |     -8     |
+|  foreshocks |     15     |     38     |    -23     |
+|  cloudburst |     16     |     40     |    -24     |
+|   tsunamis  |     17     |     23     |     -6     |
+|  cataclysm  |     18     |     13     |     5      |
+|   mudflow   |     19     |     32     |    -13     |
+|  explosion  |     20     |     29     |     -9     |
++-------------+------------+------------+------------+
+
+
+Similar words to reaction
+expert count: 86268 | Novice has 645 less
++--------------------+------------+------------+------------+
+|        Word        | Novice Pos | Expert Pos | Difference |
++--------------------+------------+------------+------------+
+|     reactions      |     1      |     1      |     0      |
+|      response      |     2      |     2      |     0      |
+|   cycloaddition    |     3      |     3      |     0      |
+|   hydroboration    |     4      |     11     |     -7     |
+| disproportionation |     5      |     4      |     1      |
+|   isomerization    |     6      |     6      |     0      |
+|    cyclization     |     7      |     5      |     2      |
+|    halogenation    |     8      |     14     |     -6     |
+|     arylation      |     9      |     64     |    -55     |
+|     hydrolysis     |     10     |     10     |     0      |
+|     dielsalder     |     11     |     9      |     2      |
+|  decarboxylation   |     12     |     15     |     -3     |
+|  tautomerization   |     13     |     46     |    -33     |
+|      reacting      |     14     |     25     |    -11     |
+|     responses      |     15     |     19     |     -4     |
+|   deprotonation    |     16     |     8      |     8      |
+|    cyclisation     |     17     |     12     |     5      |
+|  regioselectivity  |     18     |     17     |     1      |
+|  dehydrogenation   |     19     |     60     |    -41     |
+|      enolate       |     20     |     20     |     0      |
++--------------------+------------+------------+------------+
+
+
+Similar words to rifle
+expert count: 55233 | Novice has 293 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     pistol    |     1      |     1      |     0      |
+|     rifles    |     2      |     2      |     0      |
+|    carbine    |     3      |     3      |     0      |
+|    carbines   |     4      |     4      |     0      |
+|      smle     |     5      |     9      |     -4     |
+|      gun      |     6      |     6      |     0      |
+|  martinihenry |     7      |     7      |     0      |
+|    rimfire    |     8      |     13     |     -5     |
+| semiautomatic |     9      |     8      |     1      |
+|    handgun    |     10     |     5      |     5      |
+|     nagant    |     11     |     14     |     -3     |
+|   revolvers   |     12     |     10     |     2      |
+|    revolver   |     13     |     11     |     2      |
+|     bipods    |     14     |     34     |    -20     |
+|   mannlicher  |     15     |     27     |    -12     |
+|     mosin     |     16     |     37     |    -21     |
+|     gewehr    |     17     |     15     |     2      |
+|   benchrest   |     18     |     19     |     -1     |
+|     mauser    |     19     |     29     |    -10     |
+|     garand    |     20     |     18     |     2      |
++---------------+------------+------------+------------+
+
+
+Similar words to space
+expert count: 358013 | Novice has 2230 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|    spaces    |     1      |     1      |     0      |
+|  workspace   |     2      |     4      |     -2     |
+|  spacecraft  |     3      |     3      |     0      |
+|    module    |     4      |     2      |     2      |
+|     iss      |     5      |     6      |     -1     |
+| microgravity |     6      |     8      |     -2     |
+|   middeck    |     7      |     10     |     -3     |
+|   cislunar   |     8      |     5      |     3      |
+|   modules    |     9      |     12     |     -3     |
+|   capsule    |     10     |     9      |     1      |
+|   orbital    |     11     |     18     |     -7     |
+|  nanoracks   |     12     |     17     |     -5     |
+|   complex    |     13     |     15     |     -2     |
+|  wormholes   |     14     |     35     |    -21     |
+|  dimension   |     15     |     16     |     -1     |
+|   modular    |     16     |     13     |     3      |
+|    cavity    |     17     |     14     |     3      |
+|    atrium    |     18     |     29     |    -11     |
+|   storage    |     19     |     22     |     -3     |
+|  projection  |     20     |     32     |    -12     |
++--------------+------------+------------+------------+
+
+
+Similar words to strike
+expert count: 92639 | Novice has 894 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|    strikes     |     1      |     1      |     0      |
+|    walkout     |     2      |     2      |     0      |
+|     attack     |     3      |     3      |     0      |
+| counterattack  |     4      |     4      |     0      |
+|    strikers    |     5      |     5      |     0      |
+|    lockout     |     6      |     6      |     0      |
+|      raid      |     7      |     9      |     -2     |
+|  unionization  |     8      |     16     |     -8     |
+|   crackdown    |     9      |     7      |     2      |
+|   picketing    |     10     |     22     |    -12     |
+|    standoff    |     11     |     18     |     -7     |
+|   airstrikes   |     12     |     8      |     4      |
+|    protest     |     13     |     11     |     2      |
+|    lockouts    |     14     |     25     |    -11     |
+|    assault     |     15     |     10     |     5      |
+|    unionize    |     16     |     19     |     -3     |
+|   firefight    |     17     |     14     |     3      |
+|      swoc      |     18     |     20     |     -2     |
+| strikebreakers |     19     |     21     |     -2     |
+|      rmt       |     20     |     45     |    -25     |
++----------------+------------+------------+------------+
+
+
+Similar words to team
+expert count: 1686527 | Novice has 10443 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     teams     |     1      |     1      |     0      |
+|     squad     |     2      |     2      |     0      |
+|  championship |     3      |     3      |     0      |
+|     league    |     4      |     4      |     0      |
+|      club     |     5      |     6      |     -1     |
+|   tournament  |     6      |     5      |     1      |
+|     season    |     7      |     7      |     0      |
+| championships |     8      |     8      |     0      |
+|    playoffs   |     9      |     11     |     -2     |
+|     player    |     10     |     10     |     0      |
+|      cup      |     11     |     9      |     2      |
+|     coach     |     12     |     12     |     0      |
+|     match     |     13     |     13     |     0      |
+|     finals    |     14     |     17     |     -3     |
+|    bulldogs   |     15     |     16     |     -1     |
+|      game     |     16     |     14     |     2      |
+|    wildcats   |     17     |     23     |     -6     |
+|    leagues    |     18     |     20     |     -2     |
+|   goalkeeper  |     19     |     18     |     1      |
+|   teammates   |     20     |     15     |     5      |
++---------------+------------+------------+------------+
+
+
+Similar words to terrorist
+expert count: 32106 | Novice has 284 less
++----------------------+------------+------------+------------+
+|         Word         | Novice Pos | Expert Pos | Difference |
++----------------------+------------+------------+------------+
+|      terrorists      |     1      |     1      |     0      |
+|      terrorism       |     2      |     2      |     0      |
+|       jihadist       |     3      |     3      |     0      |
+|      extremist       |     4      |     4      |     0      |
+|        jihadi        |     5      |     6      |     -1     |
+|        qaeda         |     6      |     5      |     1      |
+|        terror        |     7      |     10     |     -3     |
+|       militant       |     8      |     12     |     -4     |
+|      jundallah       |     9      |     8      |     1      |
+|      extremists      |     10     |     11     |     -1     |
+|       islamist       |     11     |     7      |     4      |
+|       takfiri        |     12     |     13     |     -1     |
+|     paramilitary     |     13     |     14     |     -1     |
+|        qaida         |     14     |     9      |     5      |
+|        daesh         |     15     |     15     |     0      |
+|      hezbollah       |     16     |     16     |     0      |
+|      insurgent       |     17     |     23     |     -6     |
+|        hamas         |     18     |     17     |     1      |
+|     cyberwarfare     |     19     |     18     |     1      |
+| counterrevolutionary |     20     |     49     |    -29     |
++----------------------+------------+------------+------------+
+
+
+Similar words to tournament
+expert count: 332814 | Novice has 2813 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|  championship |     1      |     1      |     0      |
+|  tournaments  |     2      |     2      |     0      |
+|     match     |     3      |     3      |     0      |
+|  competition  |     4      |     4      |     0      |
+|     finals    |     5      |     8      |     -3     |
+|      cup      |     6      |     7      |     -1     |
+|   semifinals  |     7      |     5      |     2      |
+| championships |     8      |     9      |     -1     |
+|   semifinal   |     9      |     11     |     -2     |
+|    tourney    |     10     |     6      |     4      |
+|  invitational |     11     |     13     |     -2     |
+|   qualifier   |     12     |     10     |     2      |
+| quarterfinals |     13     |     12     |     1      |
+|    playoff    |     14     |     15     |     -1     |
+|   qualifiers  |     15     |     14     |     1      |
+|      team     |     16     |     16     |     0      |
+|    playoffs   |     17     |     18     |     -1     |
+|    matches    |     18     |     17     |     1      |
+|     season    |     19     |     20     |     -1     |
+|  quarterfinal |     20     |     19     |     1      |
++---------------+------------+------------+------------+
+
+
+Similar words to twitch
+expert count: 2492 | Novice has 136 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|   livestream  |     1      |     1      |     0      |
+|    ustream    |     2      |     2      |     0      |
+|     vimeo     |     3      |     8      |     -5     |
+| livestreaming |     4      |     11     |     -7     |
+|     younow    |     5      |     7      |     -2     |
+|    stickam    |     6      |     6      |     0      |
+|   streaming   |     7      |     4      |     3      |
+|    youtube    |     8      |     5      |     3      |
+|     smosh     |     9      |     17     |     -8     |
+|   pewdiepie   |     10     |     13     |     -3     |
+|   markiplier  |     11     |     25     |    -14     |
+|  livestreams  |     12     |     3      |     9      |
+|     kotaku    |     13     |     14     |     -1     |
+|     scifi     |     14     |     10     |     4      |
+|  gametrailers |     15     |     15     |     0      |
+|    gametap    |     16     |     9      |     7      |
+|   machinima   |     17     |     21     |     -4     |
+|   newgrounds  |     18     |     12     |     6      |
+|    lovefilm   |     19     |     79     |    -60     |
+|    niconico   |     20     |     37     |    -17     |
++---------------+------------+------------+------------+
+
+
+Similar words to unreal
+expert count: 2838 | Novice has 602 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+| cryengine |     1      |     1      |     0      |
+|  gamebryo |     2      |     2      |     0      |
+|   scumm   |     3      |     6      |     -3     |
+|  surreal  |     4      |     69     |    -65     |
+| roguelike |     5      |     5      |     0      |
+|    mmo    |     6      |     7      |     -1     |
+| minecraft |     8      |     3      |     5      |
+|    myst   |     9      |     4      |     5      |
+| unreality |     10     |     90     |    -80     |
+|  reality  |     11     |     51     |    -40     |
+|  lithtech |     12     |     16     |     -4     |
+|  nethack  |     13     |     40     |    -27     |
+|  bioshock |     16     |     23     |     -7     |
+| immersive |     17     |     25     |     -8     |
+|   mmorpg  |     20     |     19     |     1      |
++-----------+------------+------------+------------+
+
+
+Similar words to weapons
+expert count: 110384 | Novice has 2632 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|    weaponry   |     1      |     1      |     0      |
+|     weapon    |     2      |     2      |     0      |
+|    firearms   |     3      |     3      |     0      |
+|   armaments   |     4      |     5      |     -1     |
+|   munitions   |     5      |     4      |     1      |
+|   ammunition  |     6      |     7      |     -1     |
+|    missiles   |     7      |     6      |     1      |
+|    warheads   |     8      |     8      |     0      |
+|   explosives  |     9      |     10     |     -1     |
+|  projectiles  |     10     |     16     |     -6     |
+| flamethrowers |     11     |     11     |     0      |
+|    handguns   |     12     |     14     |     -2     |
+|    munition   |     13     |     12     |     1      |
+|   crossbows   |     14     |     15     |     -1     |
+|  ammunitions  |     15     |     9      |     6      |
+|     armor     |     16     |     18     |     -2     |
+|      ieds     |     17     |     13     |     4      |
+|     atgms     |     18     |     19     |     -1     |
+|    manpads    |     19     |     20     |     -1     |
+|    grenades   |     20     |     17     |     3      |
++---------------+------------+------------+------------+
+
+
+Similar words to xbox
+expert count: 24037 | Novice has 2333 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+| playstation  |     1      |     1      |     0      |
+|  dreamcast   |     2      |     2      |     0      |
+|     xbla     |     3      |     3      |     0      |
+|   gamecube   |     4      |     5      |     -1     |
+|     ios      |     5      |     6      |     -1     |
+|   nintendo   |     6      |     7      |     -1     |
+|     wii      |     7      |     4      |     3      |
+|     psp      |     8      |     9      |     -1     |
+|   wiiware    |     9      |     11     |     -2     |
+|     snes     |     10     |     8      |     2      |
+|   dsiware    |     11     |     13     |     -2     |
+|     sega     |     12     |     19     |     -7     |
+|     ouya     |     13     |     10     |     3      |
+|      pc      |     14     |     12     |     2      |
+|   console    |     15     |     15     |     0      |
+|     gba      |     16     |     16     |     0      |
+| colecovision |     17     |     14     |     3      |
+|   famicom    |     18     |     20     |     -2     |
+|     zune     |     19     |     18     |     1      |
+|    eshop     |     20     |     22     |     -2     |
++--------------+------------+------------+------------+

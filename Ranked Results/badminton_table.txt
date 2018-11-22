@@ -1,0 +1,1078 @@
+++
+||
+++
+++
+
+
+Similar words to badminton
+expert count: 18125 | Novice has 10227 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   netball   |     1      |     5      |     -4     |
+|    squash   |     2      |     2      |     0      |
+|    takraw   |     3      |     9      |     -6     |
+|  throwball  |     4      |     15     |    -11     |
+|    tennis   |     5      |     1      |     4      |
+|    sepak    |     6      |     11     |     -5     |
+|  volleyball |     7      |     4      |     3      |
+| racquetball |     8      |     10     |     -2     |
+|    carrom   |     9      |     27     |    -18     |
+|   petanque  |     10     |     26     |    -16     |
+|   croquet   |     11     |     40     |    -29     |
+|   archery   |     12     |     12     |     0      |
+|   kabbadi   |     13     |     38     |    -25     |
+|    bocce    |     14     |     82     |    -68     |
+|  pickleball |     15     |     41     |    -26     |
+|   kabaddi   |     17     |     8      |     9      |
+|   pétanque  |     19     |     21     |     -2     |
+|  racketball |     20     |     32     |    -12     |
++-------------+------------+------------+------------+
+
+
+Similar words to ace
+expert count: 27890 | Novice has 139 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     aces    |     1      |     1      |     0      |
+|   danguard  |     2      |     2      |     0      |
+|    rocasa   |     3      |     3      |     0      |
+|  immelmann  |     4      |     6      |     -2     |
+|   jumborg   |     5      |     4      |     1      |
+|   ratclaw   |     6      |     39     |    -33     |
+|   kerokero  |     7      |     11     |     -4     |
+|  skystriker |     8      |     16     |     -8     |
+|   bathound  |     9      |     31     |    -22     |
+| ntsoelengoe |     10     |     15     |     -5     |
+|   stroker   |     11     |     7      |     4      |
+|    deuce    |     12     |     9      |     3      |
+|    airman   |     13     |     19     |     -6     |
+|   dangard   |     14     |     5      |     9      |
+|    cdchd    |     15     |     52     |    -37     |
+|    asmik    |     16     |     36     |    -20     |
+|   hellfish  |     17     |     27     |    -10     |
+|    yuing    |     18     |     10     |     8      |
+|   aviator   |     19     |     22     |     -3     |
+|   chopper   |     20     |     13     |     7      |
++-------------+------------+------------+------------+
+
+
+Similar words to alley
+expert count: 16163 | Novice has 108 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|  alleyway |     1      |     1      |     0      |
+|   alleys  |     2      |     2      |     0      |
+|  sidewalk |     3      |     4      |     -1     |
+|   street  |     4      |     3      |     1      |
+|   tavern  |     5      |     6      |     -1     |
+|    cafe   |     6      |     5      |     1      |
+|    pub    |     7      |     7      |     0      |
+|  skittle  |     8      |     12     |     -4     |
+|    shop   |     9      |     17     |     -8     |
+|   bowery  |     10     |     9      |     1      |
+|   parlor  |     11     |     22     |    -11     |
+|  hallway  |     12     |     21     |     -9     |
+|    café   |     13     |     15     |     -2     |
+|    loft   |     14     |     10     |     4      |
+|    lane   |     15     |     24     |     -9     |
+|  ringold  |     16     |     27     |    -11     |
+| nightclub |     17     |     11     |     6      |
+|   cellar  |     18     |     13     |     5      |
+|  elfreth  |     19     |     14     |     5      |
+|   motel   |     20     |     25     |     -5     |
++-----------+------------+------------+------------+
+
+
+Similar words to backcourt
+expert count: 393 | Novice has 3 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|  frontcourt |     1      |     1      |     0      |
+|   swingman  |     2      |     3      |     -1     |
+| goaltending |     3      |     4      |     -1     |
+|  backfield  |     4      |     2      |     2      |
+|    pippen   |     5      |     14     |     -9     |
+| helterbrand |     6      |     5      |     1      |
+|   tailback  |     7      |     8      |     -1     |
+|   latrell   |     8      |     11     |     -3     |
+|   sprewell  |     9      |     17     |     -8     |
+|  netminder  |     10     |     10     |     0      |
+| offensively |     11     |     6      |     5      |
+|    bogues   |     12     |     38     |    -26     |
+|  rebounder  |     13     |     7      |     6      |
+|  ilgauskas  |     14     |     71     |    -57     |
+|    dwyane   |     15     |     12     |     3      |
+|   thabeet   |     16     |     91     |    -75     |
+|  linemates  |     17     |     15     |     2      |
+| cornerbacks |     18     |     23     |     -5     |
+|    goalie   |     19     |     46     |    -27     |
+|   olajuwon  |     20     |     22     |     -2     |
++-------------+------------+------------+------------+
+
+
+Similar words to baddy
+expert count: 26 | Novice has 0 less
++--------+------------+------------+------------+
+|  Word  | Novice Pos | Expert Pos | Difference |
++--------+------------+------------+------------+
+| digger |     1      |     1      |     0      |
++--------+------------+------------+------------+
+
+
+Similar words to baseline
+expert count: 6613 | Novice has 64 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  benchmark   |     1      |     3      |     -2     |
+|  baselines   |     2      |     1      |     1      |
+| measurement  |     3      |     4      |     -1     |
+| calibration  |     4      |     2      |     2      |
+|  thresholds  |     5      |     5      |     0      |
+|     data     |     6      |     13     |     -7     |
+|   optimal    |     7      |     8      |     -1     |
+|   dataset    |     8      |     9      |     -1     |
+|  parameters  |     9      |     6      |     3      |
+|  predictive  |     10     |     15     |     -5     |
+|  threshold   |     11     |     24     |    -13     |
+|   minimum    |     12     |     25     |    -13     |
+| quantitative |     13     |     7      |     6      |
+|     rmsd     |     14     |     22     |     -8     |
+|  benchmarks  |     15     |     29     |    -14     |
+|     gfr      |     16     |     17     |     -1     |
+|    cutoff    |     17     |     12     |     5      |
+| calculation  |     18     |     11     |     7      |
+|  indicators  |     19     |     37     |    -18     |
+| reflectance  |     20     |     21     |     -1     |
++--------------+------------+------------+------------+
+
+
+Similar words to carry
+expert count: 106295 | Novice has 497 less
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+| deliver  |     1      |     1      |     0      |
+| carrying |     2      |     2      |     0      |
+|   send   |     3      |     3      |     0      |
+|   pull   |     4      |     4      |     0      |
+| operate  |     5      |     5      |     0      |
+|  bring   |     6      |     7      |     -1     |
+|   hold   |     7      |     9      |     -2     |
+|  handle  |     8      |     6      |     2      |
+| transmit |     9      |     10     |     -1     |
+|   take   |     10     |     8      |     2      |
+|  deploy  |     11     |     13     |     -2     |
+| carried  |     12     |     14     |     -2     |
+| smuggle  |     13     |     12     |     1      |
+| provide  |     14     |     11     |     3      |
+|  carve   |     15     |     21     |     -6     |
+|   add    |     16     |     19     |     -3     |
+|  attach  |     17     |     20     |     -3     |
+|   give   |     18     |     16     |     2      |
+| procure  |     19     |     15     |     4      |
+|  unload  |     20     |     18     |     2      |
++----------+------------+------------+------------+
+
+
+Similar words to court
+expert count: 641250 | Novice has 1695 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    courts   |     1      |     1      |     0      |
+|   tribunal  |     2      |     2      |     0      |
+|    judge    |     3      |     3      |     0      |
+|     jcpc    |     4      |     4      |     0      |
+|  appellants |     5      |     7      |     -2     |
+|    ecthr    |     6      |     5      |     1      |
+|   judicial  |     7      |     6      |     1      |
+|  magistrate |     8      |     8      |     0      |
+|     icj     |     9      |     9      |     0      |
+|   chancery  |     10     |     18     |     -8     |
+|  appellant  |     11     |     11     |     0      |
+| prosecutors |     12     |     12     |     0      |
+|  prosecutor |     13     |     16     |     -3     |
+|     vcat    |     14     |     10     |     4      |
+|   retrials  |     15     |     34     |    -19     |
+|     ecj     |     16     |     20     |     -4     |
+|     jury    |     17     |     21     |     -4     |
+|  petitioner |     18     |     17     |     1      |
+|   retrial   |     19     |     66     |    -47     |
+|  defendant  |     20     |     30     |    -10     |
++-------------+------------+------------+------------+
+
+
+Similar words to deception
+expert count: 9073 | Novice has 41 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|     deceit     |     1      |     1      |     0      |
+|   subterfuge   |     2      |     2      |     0      |
+|    trickery    |     3      |     4      |     -1     |
+|   deceptions   |     4      |     3      |     1      |
+|   duplicity    |     5      |     5      |     0      |
+|  misdirection  |     6      |     6      |     0      |
+|   treachery    |     7      |     7      |     0      |
+|  concealment   |     8      |     12     |     -4     |
+|    betrayal    |     9      |     9      |     0      |
+|      ruse      |     10     |     8      |     2      |
+|   dishonesty   |     11     |     13     |     -2     |
+| disinformation |     12     |     11     |     1      |
+|   seduction    |     13     |     10     |     3      |
+|     ruses      |     14     |     15     |     -1     |
+|   falsehood    |     15     |     14     |     1      |
+|     fakery     |     16     |     29     |    -13     |
+|   deceptive    |     17     |     17     |     0      |
+|  manipulation  |     18     |     33     |    -15     |
+|   espionage    |     19     |     18     |     1      |
+|   ignorance    |     20     |     21     |     -1     |
++----------------+------------+------------+------------+
+
+
+Similar words to doubles
+expert count: 62418 | Novice has 9467 less
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|      hingis     |     1      |     1      |     0      |
+|     singles     |     2      |     9      |     -7     |
+|    wimbledon    |     3      |     8      |     -5     |
+|       itf       |     4      |     6      |     -2     |
+|  quarterfinals  |     5      |     10     |     -5     |
+|     pospisil    |     6      |     20     |    -14     |
+|      marray     |     7      |     5      |     2      |
+|      aisam      |     8      |     3      |     5      |
+|       slam      |     9      |     7      |     2      |
+|    mladenovic   |     10     |     31     |    -21     |
+|      dokic      |     11     |     15     |     -4     |
+|   mercedescup   |     12     |     21     |     -9     |
+| quarterfinalist |     13     |     17     |     -4     |
+|     unseeded    |     14     |     13     |     1      |
+|  lertcheewakarn |     15     |     4      |     11     |
+|      sculls     |     16     |     23     |     -7     |
+|    semifinals   |     17     |     22     |     -5     |
+|    hantuchová   |     18     |     26     |     -8     |
+|       regu      |     19     |     18     |     1      |
+|     coxless     |     20     |     37     |    -17     |
++-----------------+------------+------------+------------+
+
+
+Similar words to dribble
+expert count: 704 | Novice has 1 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+| dribbling  |     1      |     1      |     0      |
+|  dribbles  |     2      |     2      |     0      |
+|  dribbled  |     3      |     4      |     -1     |
+|    ball    |     4      |     8      |     -4     |
+|    lob     |     5      |     3      |     2      |
+|  lineout   |     6      |     6      |     0      |
+|  backhand  |     7      |     7      |     0      |
+|    kick    |     8      |     5      |     3      |
+|   dunks    |     9      |     10     |     -1     |
+|  forehand  |     10     |     39     |    -29     |
+| volleying  |     11     |     9      |     2      |
+|    puck    |     12     |     28     |    -16     |
+|  flicked   |     13     |     11     |     2      |
+| backboard  |     14     |     35     |    -21     |
+|  kicking   |     15     |     15     |     0      |
+|  volleyed  |     16     |     29     |    -13     |
+| downfield  |     17     |     21     |     -4     |
+|   bounce   |     18     |     13     |     5      |
+|   swerve   |     19     |     32     |    -13     |
+| baserunner |     20     |     77     |    -57     |
++------------+------------+------------+------------+
+
+
+Similar words to drive
+expert count: 168029 | Novice has 529 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   drives  |     1      |     1      |     0      |
+|    ride   |     2      |     2      |     0      |
+|    walk   |     3      |     3      |     0      |
+|    pass   |     4      |     5      |     -1     |
+|  driving  |     5      |     4      |     1      |
+|    pull   |     6      |     6      |     0      |
+|    run    |     7      |     7      |     0      |
+|    push   |     8      |     8      |     0      |
+|  stretch  |     9      |     10     |     -1     |
+|    ramp   |     10     |     11     |     -1     |
+|    jog    |     11     |     14     |     -3     |
+|    move   |     12     |     12     |     0      |
+|   drove   |     13     |     16     |     -3     |
+|  idylwyld |     14     |     24     |    -10     |
+|    road   |     15     |     15     |     0      |
+| freewheel |     16     |     26     |    -10     |
+|  parkway  |     17     |     13     |     4      |
+|  driveway |     18     |     30     |    -12     |
+| jackshaft |     19     |     9      |     10     |
+|    hwy    |     20     |     43     |    -23     |
++-----------+------------+------------+------------+
+
+
+Similar words to drop
+expert count: 66576 | Novice has 470 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  dropping  |     1      |     1      |     0      |
+|   drops    |     2      |     2      |     0      |
+|    pull    |     3      |     3      |     0      |
+|  plummet   |     4      |     4      |     0      |
+|   bounce   |     5      |     5      |     0      |
+|  decrease  |     6      |     6      |     0      |
+|  falling   |     7      |     7      |     0      |
+|   throw    |     8      |     16     |     -8     |
+| plummeting |     9      |     11     |     -2     |
+|   slide    |     10     |     8      |     2      |
+|    lift    |     11     |     13     |     -2     |
+|    dip     |     12     |     10     |     2      |
+|  increase  |     13     |     18     |     -5     |
+|   switch   |     14     |     9      |     5      |
+|   float    |     15     |     20     |     -5     |
+|    fall    |     16     |     12     |     4      |
+|    cut     |     17     |     17     |     0      |
+|  dropped   |     18     |     15     |     3      |
+|    move    |     19     |     19     |     0      |
+|    dive    |     20     |     14     |     6      |
++------------+------------+------------+------------+
+
+
+Similar words to fault
+expert count: 28604 | Novice has 70 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|     faults     |     1      |     1      |     0      |
+|    faulting    |     2      |     2      |     0      |
+|   subduction   |     3      |     3      |     0      |
+|    listric     |     4      |     6      |     -2     |
+|    liquiñe     |     5      |     14     |     -9     |
+|   anticline    |     6      |     5      |     1      |
+|   lineament    |     7      |     4      |     3      |
+|   anticlines   |     8      |     11     |     -3     |
+|  extensional   |     9      |     18     |     -9     |
+|    footwall    |     10     |     9      |     1      |
+|    tectonic    |     11     |     8      |     3      |
+|   monocline    |     12     |     7      |     5      |
+|    syncline    |     13     |     12     |     1      |
+| transpression  |     14     |     79     |    -65     |
+|    crustal     |     15     |     21     |     -6     |
+|    dextral     |     16     |     15     |     1      |
+| transtensional |     17     |     35     |    -18     |
+|  transcurrent  |     18     |     16     |     2      |
+|     horsts     |     19     |     41     |    -22     |
+| transpressive  |     20     |     10     |     10     |
++----------------+------------+------------+------------+
+
+
+Similar words to feather
+expert count: 8504 | Novice has 77 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  feathers  |     1      |     1      |     0      |
+| pennaceous |     2      |     8      |     -6     |
+|   quills   |     3      |     5      |     -2     |
+| feathered  |     4      |     3      |     1      |
+|  tasseled  |     5      |     16     |    -11     |
+|  ruffled   |     6      |     2      |     4      |
+|   plumed   |     7      |     4      |     3      |
+|   ptilon   |     8      |     10     |     -2     |
+|  feathery  |     9      |     13     |     -4     |
+|    beak    |     10     |     6      |     4      |
+|  ruffling  |     11     |     9      |     2      |
+|   ruffle   |     12     |     7      |     5      |
+|    tail    |     13     |     15     |     -2     |
+|    comb    |     14     |     22     |     -8     |
+|   vaned    |     15     |     12     |     3      |
+|   hackle   |     17     |     11     |     6      |
+|  mittens   |     18     |     36     |    -18     |
+|  ostrich   |     19     |     18     |     1      |
+|    bird    |     20     |     45     |    -25     |
++------------+------------+------------+------------+
+
+
+Similar words to feathers
+expert count: 16229 | Novice has 116 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+| rectrices  |     1      |     2      |     -1     |
+|   quills   |     2      |     1      |     1      |
+|  feather   |     3      |     3      |     0      |
+| feathered  |     4      |     4      |     0      |
+|  remiges   |     5      |     8      |     -3     |
+|  barbules  |     6      |     17     |    -11     |
+|   hairs    |     7      |     5      |     2      |
+|  tertials  |     8      |     18     |    -10     |
+|  bristles  |     9      |     7      |     2      |
+|  retrices  |     10     |     6      |     4      |
+|   tails    |     11     |     11     |     0      |
+|    tail    |     12     |     9      |     3      |
+|    beak    |     13     |     10     |     3      |
+| underwings |     14     |     26     |    -12     |
+|   plumes   |     15     |     13     |     2      |
+| undertail  |     16     |     16     |     0      |
+|  plumage   |     17     |     14     |     3      |
+|  coverts   |     18     |     21     |     -3     |
+|   tusks    |     19     |     31     |    -12     |
+|  forelegs  |     20     |     20     |     0      |
++------------+------------+------------+------------+
+
+
+Similar words to flick
+expert count: 4015 | Novice has 40 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    flicks   |     1      |     1      |     0      |
+|     romp    |     2      |     3      |     -1     |
+|   slasher   |     3      |     5      |     -2     |
+|    cheesy   |     4      |     6      |     -2     |
+|    campy    |     5      |     4      |     1      |
+|  screwball  |     6      |     9      |     -3     |
+|     slap    |     7      |     10     |     -3     |
+|  filosopher |     8      |     2      |     6      |
+|   actioner  |     9      |     12     |     -3     |
+|  tearjerker |     10     |     13     |     -3     |
+|   thriller  |     11     |     18     |     -7     |
+|    fluff    |     12     |     11     |     1      |
+|    classy   |     13     |     27     |    -14     |
+|   allmovie  |     14     |     23     |     -9     |
+|    horror   |     15     |     25     |    -10     |
+|    trashy   |     16     |     7      |     9      |
+| deliciously |     17     |     26     |     -9     |
+|  melodrama  |     18     |     20     |     -2     |
+|    creepy   |     19     |     59     |    -40     |
+|   cliches   |     20     |     47     |    -27     |
++-------------+------------+------------+------------+
+
+
+Similar words to grip
+expert count: 13455 | Novice has 226 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   grips    |     1      |     1      |     0      |
+| buttstock  |     2      |     2      |     0      |
+| handlebars |     3      |     5      |     -2     |
+|   cleat    |     4      |     4      |     0      |
+|   wrist    |     5      |     9      |     -4     |
+|  bushing   |     6      |     11     |     -5     |
+|  handgrip  |     7      |     14     |     -7     |
+| handguard  |     8      |     6      |     2      |
+|  forearm   |     9      |     8      |     1      |
+|  holster   |     10     |     32     |    -22     |
+| checkering |     11     |     19     |     -8     |
+|   clamps   |     12     |     18     |     -6     |
+| handlebar  |     13     |     16     |     -3     |
+|   forend   |     14     |     7      |     7      |
+|  knurled   |     15     |     3      |     12     |
+|   straps   |     16     |     20     |     -4     |
+|    lugs    |     17     |     13     |     4      |
+|   detent   |     18     |     15     |     3      |
+|   flange   |     19     |     23     |     -4     |
+|  forearms  |     20     |     10     |     10     |
++------------+------------+------------+------------+
+
+
+Similar words to hidayat
+expert count: 334 | Novice has 63 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|   saiful   |     1      |     4      |     -3     |
+|   achmad   |     2      |     2      |     0      |
+|   rahmat   |     3      |     19     |    -16     |
+|  muhamad   |     4      |     17     |    -13     |
+|   amirul   |     5      |     6      |     -1     |
+| kamaluddin |     6      |     39     |    -33     |
+|   husin    |     7      |     11     |     -4     |
+|    qari    |     8      |     93     |    -85     |
+|   arifin   |     9      |     7      |     2      |
+|   arief    |     10     |     10     |     0      |
+|   natsir   |     12     |     3      |     9      |
+|   badrul   |     13     |     33     |    -20     |
+|   awang    |     15     |     13     |     2      |
+|   fauzi    |     16     |     21     |     -5     |
+|   ehsan    |     18     |     46     |    -28     |
+|   latiff   |     19     |     18     |     1      |
+|  suhaimi   |     20     |     16     |     4      |
++------------+------------+------------+------------+
+
+
+Similar words to let
+expert count: 129764 | Novice has 802 less
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+| letting  |     1      |     1      |     0      |
+|   lets   |     2      |     2      |     0      |
+|  gonna   |     3      |     3      |     0      |
+|    ll    |     4      |     4      |     0      |
+|   will   |     5      |     5      |     0      |
+|   want   |     6      |     7      |     -1     |
+|  gotta   |     7      |     8      |     -1     |
+|  wants   |     8      |     6      |     2      |
+| pretend  |     9      |     12     |     -3     |
+|  should  |     10     |     11     |     -1     |
+|  would   |     11     |     10     |     1      |
+| wanting  |     12     |     9      |     3      |
+|  wanna   |     13     |     14     |     -1     |
+|   okay   |     14     |     19     |     -5     |
+|   must   |     15     |     13     |     2      |
+| yourself |     16     |     16     |     0      |
+|  cannot  |     17     |     15     |     2      |
+|  please  |     18     |     18     |     0      |
+|  might   |     19     |     17     |     2      |
+| alright  |     20     |     24     |     -4     |
++----------+------------+------------+------------+
+
+
+Similar words to lets
+expert count: 11764 | Novice has 103 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  letting   |     1      |     1      |     0      |
+|   helps    |     2      |     2      |     0      |
+| convinces  |     3      |     3      |     0      |
+| instructs  |     4      |     4      |     0      |
+|   urges    |     5      |     5      |     0      |
+|   wants    |     6      |     6      |     0      |
+|  invites   |     7      |     8      |     -1     |
+|    asks    |     8      |     7      |     1      |
+|   allows   |     9      |     9      |     0      |
+| encourages |     10     |     12     |     -2     |
+|  manages   |     11     |     10     |     1      |
+|    let     |     12     |     11     |     1      |
+| persuades  |     13     |     14     |     -1     |
+|    sees    |     14     |     15     |     -1     |
+|  chooses   |     15     |     13     |     2      |
+|   sends    |     16     |     18     |     -2     |
+|  enables   |     17     |     24     |     -7     |
+|  decides   |     18     |     16     |     2      |
+|   pushes   |     19     |     17     |     2      |
+| threatens  |     20     |     21     |     -1     |
++------------+------------+------------+------------+
+
+
+Similar words to net
+expert count: 72720 | Novice has 358 less
++-------------------+------------+------------+------------+
+|        Word       | Novice Pos | Expert Pos | Difference |
++-------------------+------------+------------+------------+
+|    faygoluvers    |     1      |     24     |    -23     |
+|     theonering    |     2      |     9      |     -7     |
+|   worldfootball   |     3      |     12     |     -9     |
+|      theforce     |     4      |     5      |     -1     |
+|        lwn        |     5      |     1      |     4      |
+|    mansionpoker   |     6      |     34     |    -28     |
+|   nationalchamps  |     7      |     6      |     1      |
+|     imperiumi     |     8      |     19     |    -11     |
+|      fótbolti     |     9      |     7      |     2      |
+|     speedtest     |     10     |     17     |     -7     |
+| climateprediction |     11     |     3      |     8      |
+|    firstshowing   |     12     |     14     |     -2     |
+|       neumu       |     13     |     27     |    -14     |
+|       huuto       |     14     |     45     |    -31     |
+|  brucespringsteen |     15     |     2      |     13     |
+|        npv        |     16     |     72     |    -56     |
+|       openad      |     17     |     4      |     13     |
+|   fulltiltpoker   |     18     |     21     |     -3     |
+|   translatewiki   |     19     |     18     |     1      |
+|    totalgaming    |     20     |     20     |     0      |
++-------------------+------------+------------+------------+
+
+
+Similar words to racquet
+expert count: 1311 | Novice has 80 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   racquets   |     1      |     1      |     0      |
+|   babolat    |     2      |     2      |     0      |
+| shuffleboard |     3      |     4      |     -1     |
+|    bocce     |     4      |     6      |     -2     |
+|   croquet    |     5      |     5      |     0      |
+|    yonex     |     6      |     30     |    -24     |
+|    racket    |     7      |     3      |     4      |
+|    quoits    |     8      |     9      |     -1     |
+|     ball     |     9      |     14     |     -5     |
+|    boules    |     10     |     15     |     -5     |
+| racquetball  |     11     |     7      |     4      |
+|   pétanque   |     12     |     19     |     -7     |
+|   rackets    |     13     |     8      |     5      |
+|  dumbbells   |     14     |     55     |    -41     |
+|  footballs   |     15     |     45     |    -30     |
+|     golf     |     16     |     17     |     -1     |
+|   mallets    |     17     |     10     |     7      |
+| basketballs  |     18     |     44     |    -26     |
+|    aspria    |     19     |     54     |    -35     |
+|    cleats    |     20     |     21     |     -1     |
++--------------+------------+------------+------------+
+
+
+Similar words to rally
+expert count: 45041 | Novice has 127 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|    rallies     |     1      |     1      |     0      |
+|     rallye     |     2      |     2      |     0      |
+|    rallying    |     3      |     3      |     0      |
+|    protest     |     4      |     5      |     -1     |
+|     event      |     5      |     8      |     -3     |
+|      race      |     6      |     6      |     0      |
+| demonstration  |     7      |     4      |     3      |
+|   rallycross   |     8      |     9      |     -1     |
+|     parade     |     9      |     17     |     -8     |
+|   hillclimb    |     10     |     14     |     -4     |
+|      jwrc      |     11     |     16     |     -5     |
+|    contest     |     12     |     15     |     -3     |
+|      wrc       |     13     |     10     |     3      |
+|      aprc      |     14     |     27     |    -13     |
+|    protests    |     15     |     11     |     4      |
+| demonstrations |     16     |     13     |     3      |
+|   rovanperä    |     17     |     24     |     -7     |
+|   kankkunen    |     18     |     12     |     6      |
+| demonstrators  |     19     |     18     |     1      |
+|     märtin     |     20     |     7      |     13     |
++----------------+------------+------------+------------+
+
+
+Similar words to referee
+expert count: 28377 | Novice has 147 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   referees  |     1      |     2      |     -1     |
+|   linesman  |     2      |     1      |     1      |
+|    umpire   |     3      |     3      |     0      |
+|  refereeing |     4      |     4      |     0      |
+|   umpires   |     5      |     5      |     0      |
+|    chioda   |     6      |     8      |     -2     |
+|  goalkeeper |     7      |     7      |     0      |
+|    hebner   |     8      |     12     |     -4     |
+|    smoger   |     9      |     6      |     3      |
+|   linesmen  |     10     |     9      |     1      |
+|  timekeeper |     11     |     10     |     1      |
+|  cornerman  |     12     |     18     |     -6     |
+|   ringside  |     13     |     14     |     -1     |
+|    player   |     14     |     16     |     -2     |
+|   offside   |     15     |     15     |     0      |
+|  markbreit  |     16     |     13     |     3      |
+|    javie    |     17     |     36     |    -19     |
+|  kreitlein  |     18     |     88     |    -70     |
+| headbutting |     19     |     32     |    -13     |
+|   korderas  |     20     |     26     |     -6     |
++-------------+------------+------------+------------+
+
+
+Similar words to saina
+expert count: 155 | Novice has 49 less
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+|  nehwal  |     1      |     1      |     0      |
+|  chanu   |     2      |     11     |     -9     |
+| pallikal |     4      |     2      |     2      |
+| sushila  |     5      |     66     |    -61     |
+| pramanik |     6      |     47     |    -41     |
+|  parul   |     11     |     94     |    -83     |
+| geetika  |     15     |     38     |    -23     |
+|  ankita  |     17     |     40     |    -23     |
++----------+------------+------------+------------+
+
+
+Similar words to serve
+expert count: 184947 | Novice has 630 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   operate   |     1      |     1      |     0      |
+|  designate  |     2      |     2      |     0      |
+|   provide   |     3      |     3      |     0      |
+|   serving   |     4      |     4      |     0      |
+|    employ   |     5      |     5      |     0      |
+|   appoint   |     6      |     6      |     0      |
+|  represent  |     7      |     9      |     -2     |
+|   utilize   |     8      |     7      |     1      |
+|    cater    |     9      |     13     |     -4     |
+|    apply    |     10     |     10     |     0      |
+|   instruct  |     11     |     8      |     3      |
+|    carry    |     12     |     11     |     1      |
+|   fulfill   |     13     |     12     |     1      |
+|     hold    |     14     |     18     |     -4     |
+|   connect   |     15     |     22     |     -7     |
+| accommodate |     16     |     15     |     1      |
+|  contribute |     17     |     14     |     3      |
+|   replace   |     18     |     21     |     -3     |
+|    accept   |     19     |     16     |     3      |
+|   respond   |     20     |     17     |     3      |
++-------------+------------+------------+------------+
+
+
+Similar words to service
+expert count: 826471 | Novice has 1245 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|    services    |     1      |     1      |     0      |
+|   operations   |     2      |     2      |     0      |
+|      duty      |     3      |     3      |     0      |
+|    flights     |     4      |     5      |     -1     |
+|   transport    |     5      |     4      |     1      |
+|   servicing    |     6      |     7      |     -1     |
+|   operation    |     7      |     8      |     -1     |
+|      unit      |     8      |     10     |     -2     |
+|    megabus     |     9      |     22     |    -13     |
+|   personnel    |     10     |     9      |     1      |
+|     duties     |     11     |     17     |     -6     |
+|     office     |     12     |     12     |     0      |
+|     serco      |     13     |     6      |     7      |
+|   deployment   |     15     |     16     |     -1     |
+| administration |     16     |     20     |     -4     |
+|    program     |     17     |     23     |     -6     |
+|   reservists   |     18     |     18     |     0      |
+|   eurotunnel   |     19     |     49     |    -30     |
+|  operational   |     20     |     19     |     1      |
++----------------+------------+------------+------------+
+
+
+Similar words to short
+expert count: 507597 | Novice has 2601 less
++--------------------+------------+------------+------------+
+|        Word        | Novice Pos | Expert Pos | Difference |
++--------------------+------------+------------+------------+
+|        long        |     1      |     1      |     0      |
+|       brief        |     2      |     2      |     0      |
+|      shorter       |     3      |     3      |     0      |
+|      lengthy       |     4      |     4      |     0      |
+|      shortest      |     5      |     5      |     0      |
+|        thin        |     6      |     8      |     -2     |
+|      frugally      |     7      |     16     |     -9     |
+|     prolonged      |     8      |     11     |     -3     |
+|        full        |     9      |     9      |     0      |
+|     shortening     |     10     |     13     |     -3     |
+|      deadtime      |     11     |     10     |     1      |
+| dameraulevenshtein |     12     |     6      |     6      |
+|       minute       |     13     |     14     |     -1     |
+|      shortens      |     14     |     7      |     7      |
+|     salsburys      |     15     |     54     |    -39     |
+|   clemensstraße    |     16     |     50     |    -34     |
+|       longer       |     17     |     17     |     0      |
+|   interpupillary   |     18     |     12     |     6      |
+|    neverending     |     19     |     27     |     -8     |
+|        fast        |     20     |     21     |     -1     |
++--------------------+------------+------------+------------+
+
+
+Similar words to shot
+expert count: 216321 | Novice has 1245 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|  shooting |     1      |     1      |     0      |
+|   filmed  |     2      |     3      |     -1     |
+|   shots   |     3      |     2      |     1      |
+|   shoot   |     4      |     4      |     0      |
+|  stabbed  |     5      |     5      |     0      |
+|   shoots  |     6      |     6      |     0      |
+|   fired   |     7      |     7      |     0      |
+|  knocked  |     8      |     10     |     -2     |
+|   killed  |     9      |     9      |     0      |
+|   gunned  |     10     |     8      |     2      |
+|   beaten  |     11     |     15     |     -4     |
+|   chased  |     12     |     11     |     1      |
+|  misfired |     13     |     29     |    -16     |
+|  wounded  |     14     |     13     |     1      |
+|  injured  |     15     |     14     |     1      |
+|   gunman  |     16     |     27     |    -11     |
+| bayoneted |     17     |     17     |     0      |
+|   knifed  |     18     |     16     |     2      |
+|   struck  |     19     |     12     |     7      |
+|  headshot |     20     |     24     |     -4     |
++-----------+------------+------------+------------+
+
+
+Similar words to shuttlecock
+expert count: 255 | Novice has 119 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     ball    |     1      |     1      |     0      |
+|    balls    |     2      |     3      |     -1     |
+|   quaffle   |     3      |     25     |    -22     |
+|    takraw   |     4      |     24     |    -20     |
+|    quoits   |     5      |     38     |    -33     |
+|    wiffle   |     6      |     10     |     -4     |
+|    carrom   |     8      |     89     |    -81     |
+|   footbag   |     9      |     29     |    -20     |
+|     puck    |     10     |     7      |     3      |
+|  dodgeball  |     11     |     60     |    -49     |
+|    carom    |     14     |     44     |    -30     |
+|  boomerangs |     15     |     41     |    -26     |
+|  stickball  |     16     |     92     |    -76     |
+|   handpass  |     17     |     66     |    -49     |
+| basketballs |     18     |     14     |     4      |
+|  backboard  |     19     |     4      |     15     |
+|  broomstick |     20     |     49     |    -29     |
++-------------+------------+------------+------------+
+
+
+Similar words to singles
+expert count: 205252 | Novice has 5187 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|    albums    |     1      |     1      |     0      |
+|   remixes    |     2      |     2      |     0      |
+|     hits     |     3      |     3      |     0      |
+|    songs     |     4      |     4      |     0      |
+|     lps      |     5      |     6      |     -1     |
+| compilations |     6      |     5      |     1      |
+|    tracks    |     7      |     7      |     0      |
+|     eps      |     8      |     9      |     -1     |
+|    album     |     9      |     8      |     1      |
+|    charts    |     10     |     10     |     0      |
+|  billboard   |     11     |     15     |     -4     |
+|   releases   |     12     |     11     |     1      |
+|   singles    |     13     |     14     |     -1     |
+|  recordings  |     14     |     17     |     -3     |
+|   mixtapes   |     15     |     13     |     2      |
+|      ep      |     16     |     12     |     4      |
+|     song     |     17     |     16     |     1      |
+|     cds      |     18     |     18     |     0      |
+|    remix     |     19     |     21     |     -2     |
+|    duets     |     20     |     23     |     -3     |
++--------------+------------+------------+------------+
+
+
+Similar words to smash
+expert count: 11668 | Novice has 219 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|     hit      |     1      |     1      |     0      |
+|   surefire   |     2      |     2      |     0      |
+|    stomp     |     3      |     3      |     0      |
+|    punch     |     4      |     9      |     -5     |
+|   hadouken   |     5      |     8      |     -3     |
+|    banger    |     6      |     13     |     -7     |
+|   smashes    |     7      |     5      |     2      |
+| sledgehammer |     8      |     12     |     -4     |
+|   smashing   |     9      |     7      |     2      |
+|   ricochet   |     10     |     4      |     6      |
+|     slap     |     11     |     14     |     -3     |
+|    disco     |     12     |     28     |    -16     |
+|  jackhammer  |     13     |     25     |    -12     |
+|   bazooka    |     14     |     68     |    -54     |
+|   megamix    |     15     |     23     |     -8     |
+|     hits     |     17     |     6      |     11     |
+|    duper     |     18     |     17     |     1      |
+|    smack     |     19     |     74     |    -55     |
+|    shove     |     20     |     29     |     -9     |
++--------------+------------+------------+------------+
+
+
+Similar words to spin
+expert count: 52705 | Novice has 469 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|   spins   |     1      |     1      |     0      |
+|    spun   |     2      |     2      |     0      |
+|  brassed  |     3      |     3      |     0      |
+|  spinoff  |     4      |     5      |     -1     |
+|   bounce  |     5      |     4      |     1      |
+|   kilter  |     6      |     6      |     0      |
+| shrugging |     7      |     12     |     -5     |
+|    rip    |     8      |     13     |     -5     |
+|    gett   |     9      |     14     |     -5     |
+|  spinning |     10     |     9      |     1      |
+|   hived   |     11     |     16     |     -5     |
+| boresight |     12     |     7      |     5      |
+|  sloughed |     13     |     18     |     -5     |
+|  sendings |     14     |     20     |     -6     |
+|   hiving  |     15     |     11     |     4      |
+|  syphoned |     16     |     8      |     8      |
+|  slacked  |     17     |     15     |     2      |
+|   fobbed  |     18     |     10     |     8      |
+|  spinner  |     20     |     17     |     3      |
++-----------+------------+------------+------------+
+
+
+Similar words to string
+expert count: 64764 | Novice has 375 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   strings   |     1      |     1      |     0      |
+|   woodwind  |     2      |     2      |     0      |
+|  glissando  |     3      |     6      |     -3     |
+|  pizzicato  |     4      |     3      |     1      |
+|  unfretted  |     5      |     29     |    -24     |
+| fingerboard |     6      |     7      |     -1     |
+|   clarinet  |     7      |     4      |     3      |
+|   stringed  |     8      |     5      |     3      |
+|  glissandos |     9      |     62     |    -53     |
+|    cello    |     10     |     18     |     -8     |
+|    cellos   |     11     |     22     |    -11     |
+|    octet    |     12     |     14     |     -2     |
+|  glissandi  |     13     |     31     |    -18     |
+|   arpeggio  |     14     |     16     |     -2     |
+|    chord    |     15     |     12     |     3      |
+|    chords   |     16     |     15     |     1      |
+|  fretboard  |     17     |     40     |    -23     |
+|   plectrum  |     18     |     9      |     9      |
+|  woodwinds  |     19     |     11     |     8      |
+|   keyboard  |     20     |     20     |     0      |
++-------------+------------+------------+------------+
+
+
+Similar words to stroke
+expert count: 42526 | Novice has 451 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   strokes    |     1      |     1      |     0      |
+|  hemorrhage  |     2      |     3      |     -1     |
+|  pneumonia   |     3      |     8      |     -5     |
+|   illness    |     4      |     5      |     -1     |
+| haemorrhage  |     5      |     2      |     3      |
+|   pleurisy   |     6      |     7      |     -1     |
+|  concussion  |     7      |     4      |     3      |
+|   embolism   |     8      |     13     |     -5     |
+|  emphysema   |     9      |     9      |     0      |
+| appendicitis |     10     |     16     |     -6     |
+|   aneurysm   |     11     |     6      |     5      |
+|  hemiplegia  |     12     |     25     |    -13     |
+| miscarriage  |     13     |     14     |     -1     |
+|   cylinder   |     14     |     11     |     3      |
+| peritonitis  |     15     |     20     |     -5     |
+|   apoplexy   |     16     |     10     |     6      |
+|  paralytic   |     17     |     12     |     5      |
+|  infarction  |     18     |     17     |     1      |
+|   ailment    |     19     |     22     |     -3     |
+|   dementia   |     20     |     50     |    -30     |
++--------------+------------+------------+------------+
+
+
+Similar words to thomas
+expert count: 350238 | Novice has 1464 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|    john   |     1      |     1      |     0      |
+|   james   |     2      |     2      |     0      |
+|  william  |     3      |     3      |     0      |
+|   robert  |     4      |     6      |     -2     |
+|   samuel  |     5      |     5      |     0      |
+|   joseph  |     6      |     9      |     -3     |
+|  richard  |     7      |     8      |     -1     |
+|   edmund  |     8      |     10     |     -2     |
+|  francis  |     9      |     4      |     5      |
+|   edward  |     10     |     12     |     -2     |
+|   henry   |     11     |     15     |     -4     |
+|   george  |     12     |     7      |     5      |
+|    hugh   |     13     |     14     |     -1     |
+|  charles  |     14     |     11     |     3      |
+|   andrew  |     15     |     13     |     2      |
+| nathaniel |     16     |     19     |     -3     |
+|  reginald |     17     |     25     |     -8     |
+|  herbert  |     18     |     24     |     -6     |
+|   walter  |     19     |     18     |     1      |
+|   edwin   |     20     |     16     |     4      |
++-----------+------------+------------+------------+
+
+
+Similar words to tumbling
+expert count: 1917 | Novice has 47 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|    tumbles    |     1      |     1      |     0      |
+|     tumble    |     2      |     4      |     -2     |
+|    crashing   |     3      |     5      |     -2     |
+|    swooping   |     4      |     8      |     -4     |
+| somersaulting |     5      |     3      |     2      |
+|    twisting   |     6      |     9      |     -3     |
+|    tumbled    |     7      |     7      |     0      |
+|   trampoline  |     8      |     14     |     -6     |
+|  cartwheeling |     9      |     2      |     7      |
+|    jumping    |     10     |     12     |     -2     |
+|    leaping    |     11     |     6      |     5      |
+|   headfirst   |     12     |     11     |     1      |
+|    wobbling   |     13     |     23     |    -10     |
+|     jumps     |     14     |     15     |     -1     |
+|   cascading   |     15     |     29     |    -14     |
+|    bouncing   |     16     |     20     |     -4     |
+|    skidding   |     17     |     35     |    -18     |
+|    plummets   |     18     |     17     |     1      |
+|   splashing   |     19     |     22     |     -3     |
+|    throwing   |     20     |     26     |     -6     |
++---------------+------------+------------+------------+
+
+
+Similar words to uber
+expert count: 2981 | Novice has 242 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     lyft    |     1      |     1      |     0      |
+| ridesharing |     2      |     3      |     -1     |
+|    airbnb   |     3      |     2      |     1      |
+|    cabify   |     4      |     6      |     -2     |
+|    zipcar   |     5      |     7      |     -2     |
+|    careem   |     6      |     5      |     1      |
+|    waymo    |     7      |     4      |     3      |
+|   grabtaxi  |     8      |     13     |     -5     |
+|    paypal   |     9      |     14     |     -5     |
+|  blacklane  |     10     |     22     |    -12     |
+|  postmates  |     11     |     15     |     -4     |
+|   groupon   |     12     |     11     |     1      |
+|  deliveroo  |     13     |     17     |     -4     |
+|   zimride   |     14     |     9      |     5      |
+|   expedia   |     15     |     28     |    -13     |
+|   shopify   |     16     |     16     |     0      |
+|  salesforce |     17     |     23     |     -6     |
+|    mobike   |     18     |     12     |     6      |
+|    twilio   |     19     |     25     |     -6     |
+|   flipkart  |     20     |     56     |    -36     |
++-------------+------------+------------+------------+
+
+
+Similar words to yonex
+expert count: 232 | Novice has 114 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  babolat   |     1      |     1      |     0      |
+|  racquets  |     2      |     2      |     0      |
+|  racquet   |     3      |     9      |     -6     |
+|   vcore    |     4      |     4      |     0      |
+|   srixon   |     5      |     3      |     2      |
+|  titleist  |     6      |     25     |    -19     |
+| hardcourt  |     7      |     12     |     -5     |
+|  midplus   |     9      |     30     |    -21     |
+|   aegon    |     10     |     6      |     4      |
+|   tennis   |     11     |     38     |    -27     |
+| racketball |     13     |     61     |    -48     |
+|   aspria   |     14     |     80     |    -66     |
+| hardcourts |     15     |     40     |    -25     |
+|   stiga    |     16     |     41     |    -25     |
+| footvolley |     17     |     15     |     2      |
+|  sunfeast  |     18     |     21     |     -3     |
+|   ezone    |     20     |     60     |    -40     |
++------------+------------+------------+------------+

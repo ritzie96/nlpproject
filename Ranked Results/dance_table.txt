@@ -1,0 +1,811 @@
+++
+||
+++
+++
+
+
+Similar words to dance
+expert count: 210028 | Novice has 37824 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   dancing    |     1      |     1      |     0      |
+|    dances    |     2      |     2      |     0      |
+|   dancers    |     3      |     3      |     0      |
+|    music     |     4      |     4      |     0      |
+|    danced    |     5      |     6      |     -1     |
+|   singing    |     6      |     9      |     -3     |
+|  jitterbug   |     7      |     12     |     -5     |
+| choreography |     8      |     5      |     3      |
+|    disco     |     9      |     19     |    -10     |
+|    rhumba    |     10     |     7      |     3      |
+|    ballet    |     11     |     11     |     0      |
+|   voguing    |     12     |     15     |     -3     |
+|    tango     |     13     |     16     |     -3     |
+| breakdancing |     14     |     20     |     -6     |
+|   musical    |     15     |     13     |     2      |
+|    kecak     |     16     |     22     |     -6     |
+|    krump     |     17     |     29     |    -12     |
+|  breakdance  |     18     |     10     |     8      |
+|    salsa     |     19     |     8      |     11     |
+|   cabaret    |     20     |     24     |     -4     |
++--------------+------------+------------+------------+
+
+
+Similar words to acrobatic
+expert count: 2850 | Novice has 205 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|   acrobatics   |     1      |     1      |     0      |
+|    juggling    |     2      |     2      |     0      |
+|    footwork    |     3      |     5      |     -2     |
+|   aerialist    |     4      |     4      |     0      |
+|    balletic    |     5      |     12     |     -7     |
+|  somersaults   |     6      |     14     |     -8     |
+|    acrobats    |     7      |     8      |     -1     |
+|   aerialists   |     8      |     6      |     2      |
+|   aerobatic    |     9      |     16     |     -7     |
+|    acrobat     |     10     |     15     |     -5     |
+| contortionists |     11     |     3      |     8      |
+|   contortion   |     12     |     10     |     2      |
+|    agility     |     13     |     13     |     0      |
+|   aerobatics   |     14     |     18     |     -4     |
+|   pirouettes   |     15     |     7      |     8      |
+|   handstands   |     16     |     11     |     5      |
+|   backflips    |     17     |     25     |     -8     |
+|     stunts     |     18     |     17     |     1      |
+|   gymnastic    |     19     |     37     |    -18     |
+|    clowning    |     20     |     20     |     0      |
++----------------+------------+------------+------------+
+
+
+Similar words to ballet
+expert count: 50366 | Novice has 16927 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     opera     |     1      |     1      |     0      |
+|    ballets    |     2      |     2      |     0      |
+|    coppélia   |     3      |     11     |     -8     |
+|    massine    |     4      |     7      |     -3     |
+| choreographer |     5      |     5      |     0      |
+|   ballerina   |     6      |     3      |     3      |
+|    theatre    |     7      |     10     |     -3     |
+| choreographic |     8      |     4      |     4      |
+|   orchestra   |     9      |     13     |     -4     |
+|    rambert    |     10     |     24     |    -14     |
+|   balanchine  |     11     |     6      |     5      |
+|     dancer    |     12     |     22     |    -10     |
+|     dance     |     13     |     17     |     -4     |
+|    nijinska   |     14     |     8      |     6      |
+|     russes    |     15     |     37     |    -22     |
+|  conservatory |     16     |     21     |     -5     |
+|     fokine    |     17     |     27     |    -10     |
+|    raymonda   |     18     |     23     |     -5     |
+|    kirsova    |     19     |     14     |     5      |
+|     cranko    |     20     |     38     |    -18     |
++---------------+------------+------------+------------+
+
+
+Similar words to bellydance
+expert count: 118 | Novice has 35 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   bhangra    |     1      |     1      |     0      |
+|  worldbeat   |     2      |     2      |     0      |
+|   bikutsi    |     3      |     18     |    -15     |
+|   darkwave   |     4      |     14     |    -10     |
+| psychobilly  |     5      |     7      |     -2     |
+|   mbaqanga   |     6      |     23     |    -17     |
+|   makossa    |     7      |     21     |    -14     |
+|   voguing    |     8      |     15     |     -7     |
+|    dance     |     9      |     6      |     3      |
+|    gnawa     |     10     |     5      |     5      |
+| electroclash |     11     |     4      |     7      |
+|   highlife   |     12     |     27     |    -15     |
+|   ndombolo   |     13     |     34     |    -21     |
+|    taarab    |     14     |     11     |     3      |
+|   cowpunk    |     15     |     12     |     3      |
+|   afrobeat   |     16     |     8      |     8      |
+|    chaabi    |     17     |     3      |     14     |
+|   europop    |     18     |     47     |    -29     |
+|   flamenco   |     19     |     37     |    -18     |
+|  psytrance   |     20     |     36     |    -16     |
++--------------+------------+------------+------------+
+
+
+Similar words to breakdance
+expert count: 257 | Novice has 35 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+|  breakdancing  |     1      |     1      |     0      |
+|     mcing      |     2      |     12     |    -10     |
+|    krumping    |     3      |     2      |     1      |
+|     hiphop     |     4      |     6      |     -2     |
+|     dance      |     5      |     3      |     2      |
+|    lambada     |     6      |     9      |     -3     |
+|    bashment    |     7      |     18     |    -11     |
+|  jabbawockeez  |     8      |     4      |     4      |
+|      rap       |     9      |     7      |     2      |
+|    bboying     |     10     |     25     |    -15     |
+|     krump      |     11     |     5      |     6      |
+|   beatboxing   |     13     |     21     |     -8     |
+|  breakdancers  |     14     |     33     |    -19     |
+|    beatbox     |     15     |     27     |    -12     |
+|     ragga      |     16     |     29     |    -13     |
+| choreographing |     18     |     13     |     5      |
+|     miming     |     19     |     48     |    -29     |
+|     likwit     |     20     |     50     |    -30     |
++----------------+------------+------------+------------+
+
+
+Similar words to choreo
+expert count: 38 | Novice has 4 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|  unsquare |     2      |     9      |     -7     |
+|   azonto  |     3      |     3      |     0      |
+| worldbeat |     4      |     19     |    -15     |
+|  cakewalk |     5      |     2      |     3      |
+|  serimpi  |     8      |     49     |    -41     |
+|   rhumba  |     13     |     17     |     -4     |
+|  orchesis |     15     |     84     |    -69     |
+|  lambada  |     16     |     50     |    -34     |
+| jitterbug |     17     |     10     |     7      |
+|   twerk   |     18     |     63     |    -45     |
++-----------+------------+------------+------------+
+
+
+Similar words to choreographer
+expert count: 11112 | Novice has 3239 less
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|      dancer     |     1      |     1      |     0      |
+|  choreographed  |     2      |     3      |     -1     |
+|  choreographers |     3      |     2      |     1      |
+|   choreography  |     4      |     4      |     0      |
+|      ballet     |     5      |     5      |     0      |
+| cinematographer |     6      |     6      |     0      |
+|  choreographing |     7      |     9      |     -2     |
+|    filmmaker    |     8      |     15     |     -7     |
+|     cellist     |     9      |     18     |     -9     |
+|     composer    |     10     |     7      |     3      |
+|   choreograph   |     11     |     19     |     -8     |
+|     pianist     |     12     |     21     |     -9     |
+|      actor      |     13     |     8      |     5      |
+|   screenwriter  |     14     |     11     |     3      |
+|     actress     |     15     |     10     |     5      |
+|    violinist    |     16     |     20     |     -4     |
+|    playwright   |     17     |     12     |     5      |
+|  percussionist  |     18     |     25     |     -7     |
+|   choreographs  |     19     |     26     |     -7     |
+|     producer    |     20     |     29     |     -9     |
++-----------------+------------+------------+------------+
+
+
+Similar words to choreography
+expert count: 10426 | Novice has 2138 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+| choreographed  |     1      |     1      |     0      |
+| choreographing |     2      |     2      |     0      |
+| choreographies |     3      |     5      |     -2     |
+| choreographer  |     4      |     4      |     0      |
+| orchestrations |     5      |     7      |     -2     |
+| cinematography |     6      |     12     |     -6     |
+|    costumes    |     7      |     8      |     -1     |
+| choreographers |     8      |     10     |     -2     |
+|     dance      |     9      |     6      |     3      |
+| choreographic  |     10     |     3      |     7      |
+| orchestration  |     11     |     13     |     -2     |
+|    balletic    |     12     |     17     |     -5     |
+|    dancers     |     13     |     11     |     2      |
+|  choreographs  |     14     |     9      |     5      |
+|   costuming    |     15     |     14     |     1      |
+|  choreograph   |     16     |     18     |     -2     |
+|   acrobatics   |     17     |     23     |     -6     |
+|    routines    |     18     |     19     |     -1     |
+|    visuals     |     19     |     35     |    -16     |
+|    musical     |     20     |     21     |     -1     |
++----------------+------------+------------+------------+
+
+
+Similar words to culture
+expert count: 261488 | Novice has 2032 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   cultural   |     1      |     1      |     0      |
+|   cultures   |     2      |     2      |     0      |
+| spirituality |     3      |     3      |     0      |
+|  modernity   |     4      |     4      |     0      |
+|  literature  |     5      |     6      |     -1     |
+|  traditions  |     6      |     5      |     1      |
+| civilisation |     7      |     8      |     -1     |
+|   folklore   |     8      |     9      |     -1     |
+|  aesthetics  |     9      |     10     |     -1     |
+|   cuisine    |     10     |     11     |     -1     |
+| civilization |     11     |     7      |     4      |
+|   religion   |     12     |     12     |     0      |
+| nationalism  |     13     |     13     |     0      |
+|  lifestyles  |     14     |     15     |     -1     |
+| ethnography  |     15     |     20     |     -5     |
+|   diaspora   |     16     |     14     |     2      |
+|  culturally  |     17     |     18     |     -1     |
+| literatures  |     18     |     27     |     -9     |
+|  shamanism   |     19     |     28     |     -9     |
+| subcultures  |     20     |     22     |     -2     |
++--------------+------------+------------+------------+
+
+
+Similar words to dabke
+expert count: 87 | Novice has 34 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+| karsilamas |     1      |     6      |     -5     |
+|   havası   |     2      |     2      |     0      |
+|   lavani   |     3      |     23     |    -20     |
+|   dabkeh   |     4      |     5      |     -1     |
+| muwashshah |     5      |     10     |     -5     |
+|   odissi   |     7      |     70     |    -63     |
+|   mizmar   |     8      |     38     |    -30     |
+|   jhumar   |     10     |     53     |    -43     |
+|   chaabi   |     12     |     30     |    -18     |
+|  ghoomar   |     13     |     28     |    -15     |
+|  ghumura   |     14     |     60     |    -46     |
+|   tarab    |     15     |     15     |     0      |
+|   attan    |     16     |     4      |     12     |
+|   kaşık    |     17     |     13     |     4      |
+|   köçek    |     18     |     31     |    -13     |
+|   jhumur   |     19     |     93     |    -74     |
+|   zapin    |     20     |     21     |     -1     |
++------------+------------+------------+------------+
+
+
+Similar words to dancefloor
+expert count: 1141 | Novice has 49 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+| dancefloors |     1      |     6      |     -5     |
+|  danceable  |     2      |     1      |     1      |
+|   europop   |     3      |     7      |     -4     |
+|    disco    |     4      |     4      |     0      |
+|  downtempo  |     5      |     14     |     -9     |
+|   anthemic  |     6      |     2      |     4      |
+|   midtempo  |     7      |     5      |     2      |
+|     vibe    |     8      |     3      |     5      |
+|   balladry  |     9      |     9      |     0      |
+|  breakbeats |     10     |     25     |    -15     |
+|    banger   |     11     |     10     |     1      |
+|   uptempo   |     12     |     16     |     -4     |
+|  singalong  |     13     |     12     |     1      |
+|   summery   |     14     |     15     |     -1     |
+|   dubstep   |     15     |     11     |     4      |
+|   bassline  |     16     |     18     |     -2     |
+|    bluesy   |     17     |     44     |    -27     |
+|    catchy   |     18     |     8      |     10     |
+|   bangers   |     19     |     19     |     0      |
+|    synthy   |     20     |     21     |     -1     |
++-------------+------------+------------+------------+
+
+
+Similar words to disco
+expert count: 18769 | Novice has 1097 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   europop    |     1      |     2      |     -1     |
+|     pop      |     2      |     1      |     1      |
+|    reggae    |     3      |     5      |     -2     |
+|  dancehall   |     4      |     6      |     -2     |
+|  dancefloor  |     5      |     12     |     -7     |
+|  rockabilly  |     6      |     10     |     -4     |
+|     funk     |     7      |     4      |     3      |
+|    techno    |     8      |     9      |     -1     |
+|   dubstep    |     9      |     3      |     6      |
+|  eurodance   |     10     |     11     |     -1     |
+|  breakbeat   |     11     |     13     |     -2     |
+| electroclash |     12     |     7      |     5      |
+|  electropop  |     13     |     17     |     -4     |
+|  downtempo   |     14     |     19     |     -5     |
+|    ragga     |     15     |     16     |     -1     |
+|  chillwave   |     16     |     33     |    -17     |
+|    funky     |     17     |     14     |     3      |
+|     punk     |     18     |     15     |     3      |
+|    dance     |     19     |     26     |     -7     |
+|     glam     |     20     |     23     |     -3     |
++--------------+------------+------------+------------+
+
+
+Similar words to exercise
+expert count: 51811 | Novice has 1164 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|  exercises  |     1      |     1      |     0      |
+|  exercising |     2      |     2      |     0      |
+|    rimpac   |     3      |     3      |     0      |
+|   fleetex   |     4      |     5      |     -1     |
+|   comptuex  |     5      |     4      |     1      |
+|  balikatan  |     6      |     9      |     -3     |
+|   baltops   |     7      |     20     |    -13     |
+|  maneuvers  |     8      |     11     |     -3     |
+|   exertion  |     9      |     8      |     1      |
+| calisthenic |     10     |     18     |     -8     |
+|   reforger  |     11     |     6      |     5      |
+|   workout   |     12     |     15     |     -3     |
+|    passex   |     13     |     21     |     -8     |
+|   conduct   |     14     |     19     |     -5     |
+|   routine   |     15     |     12     |     3      |
+|   phiblex   |     16     |     29     |    -13     |
+|    jtfex    |     17     |     10     |     7      |
+|  restraint  |     18     |     36     |    -18     |
+|    sharem   |     19     |     7      |     12     |
+|   regimen   |     20     |     16     |     4      |
++-------------+------------+------------+------------+
+
+
+Similar words to folkdance
+expert count: 48 | Novice has 14 less
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|     syrtos    |     1      |     2      |     -1     |
+|    sirtaki    |     2      |     5      |     -3     |
+|    marinera   |     3      |     98     |    -95     |
+|   tinikling   |     4      |     24     |    -20     |
+|   zeibekiko   |     5      |     7      |     -2     |
+|   folkloric   |     7      |     12     |     -5     |
+|     dances    |     8      |     6      |     2      |
+| schuhplattler |     9      |     48     |    -39     |
+|  kalamatianos |     12     |     1      |     11     |
+|    hasapiko   |     13     |     55     |    -42     |
+|     gaida     |     14     |     76     |    -62     |
+|    ländler    |     15     |     41     |    -26     |
+|    pasillo    |     16     |     80     |    -64     |
+|    festejo    |     17     |     17     |     0      |
+|     kecak     |     18     |     45     |    -27     |
++---------------+------------+------------+------------+
+
+
+Similar words to footloose
+expert count: 682 | Novice has 25 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  dreamgirls  |     1      |     2      |     -1     |
+|  hairspray   |     2      |     1      |     1      |
+|   godspell   |     3      |     4      |     -1     |
+|  seussical   |     4      |     3      |     1      |
+|  brigadoon   |     5      |     5      |     0      |
+|  urinetown   |     6      |     6      |     0      |
+|   newsies    |     7      |     8      |     -1     |
+|   spamalot   |     8      |     7      |     1      |
+|  flashdance  |     9      |     11     |     -2     |
+|   nunsense   |     10     |     13     |     -3     |
+|   superbad   |     11     |     36     |    -25     |
+|    singin    |     12     |     17     |     -5     |
+| fantasticks  |     13     |     9      |     4      |
+|  misbehavin  |     14     |     21     |     -7     |
+|  showgirls   |     15     |     15     |     0      |
+|   sarafina   |     16     |     18     |     -2     |
+|    grease    |     17     |     22     |     -5     |
+|   musicals   |     18     |     14     |     4      |
+| hellzapoppin |     19     |     24     |     -5     |
+|  florodora   |     20     |     10     |     10     |
++--------------+------------+------------+------------+
+
+
+Similar words to hop
+expert count: 70909 | Novice has 1664 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     rap     |     1      |     1      |     0      |
+|    hopera   |     2      |     2      |     0      |
+|    reggae   |     3      |     3      |     0      |
+|    hiphop   |     4      |     4      |     0      |
+|    crunk    |     5      |     11     |     -6     |
+| hopboasting |     6      |     10     |     -4     |
+|     hop     |     7      |     5      |     2      |
+|     pop     |     8      |     7      |     1      |
+|  dancehall  |     9      |     9      |     0      |
+|    ragga    |     10     |     6      |     4      |
+|  breakcore  |     11     |     12     |     -1     |
+|  horrorcore |     12     |     28     |    -16     |
+|   dubstep   |     13     |     15     |     -2     |
+|   rappers   |     14     |     25     |    -11     |
+|   afrobeat  |     15     |     17     |     -2     |
+|  reggaeton  |     16     |     8      |     8      |
+|   gangsta   |     17     |     18     |     -1     |
+|     hip     |     18     |     34     |    -16     |
+|     funk    |     19     |     20     |     -1     |
+| electronica |     20     |     14     |     6      |
++-------------+------------+------------+------------+
+
+
+Similar words to kathak
+expert count: 1001 | Novice has 351 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+| bharatanatyam  |     1      |     1      |     0      |
+|   kuchipudi    |     2      |     4      |     -2     |
+|  bharatnatyam  |     3      |     3      |     0      |
+|     odissi     |     4      |     2      |     2      |
+|  mohiniyattam  |     5      |     5      |     0      |
+| bharathanatyam |     6      |     7      |     -1     |
+|     natyam     |     7      |     6      |     1      |
+|   kathakali    |     8      |     8      |     0      |
+|     nritya     |     9      |     11     |     -2     |
+|    dhrupad     |     10     |     9      |     1      |
+|    abhinaya    |     11     |     12     |     -1     |
+|   yakshagana   |     12     |     15     |     -3     |
+|    sattriya    |     13     |     10     |     3      |
+|  mohiniattam   |     14     |     18     |     -4     |
+|     chhau      |     15     |     20     |     -5     |
+|     natya      |     16     |     14     |     2      |
+|    shiamak     |     17     |     35     |    -18     |
+|  koodiyattam   |     18     |     17     |     1      |
+|    gharana     |     19     |     13     |     6      |
+|   kelucharan   |     20     |     24     |     -4     |
++----------------+------------+------------+------------+
+
+
+Similar words to lavani
+expert count: 126 | Novice has 29 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  yakshagana  |     1      |     9      |     -8     |
+|   tamasha    |     2      |     2      |     0      |
+|     geet     |     3      |     21     |    -18     |
+|   ghoomar    |     4      |     4      |     0      |
+|    bhajan    |     5      |     6      |     -1     |
+|    thumri    |     6      |     1      |     5      |
+|   bhajans    |     7      |     3      |     4      |
+|    tappa     |     8      |     8      |     0      |
+|    pattu     |     9      |     16     |     -7     |
+|    bhavai    |     10     |     35     |    -25     |
+|    nritya    |     11     |     13     |     -2     |
+| mohiniyattam |     12     |     60     |    -48     |
+| bharatnatyam |     13     |     26     |    -13     |
+|    sangit    |     14     |     42     |    -28     |
+|    naach     |     15     |     45     |    -30     |
+|    kirtan    |     16     |     10     |     6      |
+|   thullal    |     17     |     41     |    -24     |
+|    khyal     |     18     |     5      |     13     |
+|   kunitha    |     19     |     25     |     -6     |
+|    khayal    |     20     |     7      |     13     |
++--------------+------------+------------+------------+
+
+
+Similar words to music
+expert count: 1222846 | Novice has 17364 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  musical   |     1      |     1      |     0      |
+|    jazz    |     2      |     2      |     0      |
+|   dance    |     3      |     3      |     0      |
+|   musics   |     4      |     4      |     0      |
+|    pop     |     5      |     6      |     -1     |
+|   songs    |     6      |     5      |     1      |
+|    song    |     7      |     8      |     -1     |
+|   tunes    |     8      |     9      |     -1     |
+| musicians  |     9      |     11     |     -2     |
+|  singing   |     10     |     7      |     3      |
+|  exotica   |     11     |     17     |     -6     |
+|   piano    |     12     |     10     |     2      |
+|   hiphop   |     13     |     16     |     -3     |
+|  afrobeat  |     14     |     15     |     -1     |
+|   reggae   |     15     |     14     |     1      |
+| breakcore  |     16     |     30     |    -14     |
+|    art     |     17     |     23     |     -6     |
+| recordings |     18     |     18     |     0      |
+| worldbeat  |     19     |     20     |     -1     |
+|  europop   |     20     |     85     |    -65     |
++------------+------------+------------+------------+
+
+
+Similar words to natyam
+expert count: 265 | Novice has 67 less
++----------------+------------+------------+------------+
+|      Word      | Novice Pos | Expert Pos | Difference |
++----------------+------------+------------+------------+
+| bharatanatyam  |     1      |     2      |     -1     |
+|     kathak     |     2      |     3      |     -1     |
+|   kuchipudi    |     3      |     1      |     2      |
+|  bharatnatyam  |     4      |     7      |     -3     |
+| bharathanatyam |     5      |     4      |     1      |
+|     odissi     |     6      |     5      |     1      |
+|  mohiniyattam  |     7      |     8      |     -1     |
+|   kathakali    |     8      |     13     |     -5     |
+|     nritya     |     9      |     6      |     3      |
+|    bharatha    |     10     |     12     |     -2     |
+|    abhinaya    |     11     |     9      |     2      |
+|    darpana     |     12     |     20     |     -8     |
+|     natya      |     13     |     10     |     3      |
+|  koodiyattam   |     14     |     22     |     -8     |
+|   harikatha    |     15     |     19     |     -4     |
+|   yakshagana   |     16     |     17     |     -1     |
+|  kalamandalam  |     17     |     34     |    -17     |
+|     nataka     |     18     |     35     |    -17     |
+|    chakyar     |     19     |     31     |    -12     |
+|   sangeetham   |     20     |     29     |     -9     |
++----------------+------------+------------+------------+
+
+
+Similar words to rhythm
+expert count: 39104 | Novice has 1273 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   rhythms    |     1      |     1      |     0      |
+| syncopation  |     2      |     3      |     -1     |
+|  syncopated  |     3      |     2      |     1      |
+|   backbeat   |     4      |     8      |     -4     |
+|   bassline   |     5      |     5      |     0      |
+|   melodic    |     6      |     10     |     -4     |
+|    melody    |     7      |     4      |     3      |
+|  polyrhythm  |     8      |     15     |     -7     |
+|   rhythmic   |     9      |     6      |     3      |
+| polyrhythms  |     10     |     16     |     -6     |
+|  handclaps   |     11     |     9      |     2      |
+|   drumming   |     12     |     12     |     0      |
+|   staccato   |     13     |     13     |     0      |
+|  percussive  |     14     |     7      |     7      |
+| polyrhythmic |     15     |     14     |     1      |
+|  ostinatos   |     16     |     19     |     -3     |
+|  harmonies   |     17     |     18     |     -1     |
+|    bluesy    |     18     |     25     |     -7     |
+|  basslines   |     19     |     11     |     8      |
+|    funky     |     20     |     33     |    -13     |
++--------------+------------+------------+------------+
+
+
+Similar words to salsa
+expert count: 5437 | Novice has 941 less
++-----------+------------+------------+------------+
+|    Word   | Novice Pos | Expert Pos | Difference |
++-----------+------------+------------+------------+
+|  merengue |     1      |     1      |     0      |
+|   cumbia  |     2      |     2      |     0      |
+|  bachata  |     3      |     3      |     0      |
+|   rumba   |     4      |     4      |     0      |
+| reggaeton |     5      |     5      |     0      |
+| vallenato |     6      |     15     |     -9     |
+|   rhumba  |     7      |     17     |    -10     |
+|  guaracha |     8      |     13     |     -5     |
+|   danzón  |     9      |     6      |     3      |
+|  ranchera |     10     |     8      |     2      |
+|  charanga |     11     |     7      |     4      |
+|  norteña  |     12     |     9      |     3      |
+|  flamenco |     13     |     12     |     1      |
+|   típico  |     14     |     16     |     -2     |
+|   timba   |     15     |     20     |     -5     |
+|  mariachi |     16     |     10     |     6      |
+|  milonga  |     17     |     18     |     -1     |
+|  conjunto |     18     |     19     |     -1     |
+|  norteño  |     19     |     11     |     8      |
+|   bolero  |     20     |     14     |     6      |
++-----------+------------+------------+------------+
+
+
+Similar words to sneakers
+expert count: 1341 | Novice has 32 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    shoes    |     1      |     1      |     0      |
+|  tracksuits |     2      |     2      |     0      |
+|   hoodies   |     3      |     4      |     -1     |
+|    jeans    |     4      |     3      |     1      |
+| sweatshirts |     5      |     16     |    -11     |
+|    denim    |     6      |     13     |     -7     |
+|    tights   |     7      |     5      |     2      |
+|  sunglasses |     8      |     8      |     0      |
+|  sweatpants |     9      |     11     |     -2     |
+|    boots    |     10     |     6      |     4      |
+|   panties   |     11     |     9      |     2      |
+|  tracksuit  |     12     |     14     |     -2     |
+|   sweaters  |     13     |     12     |     1      |
+|    pants    |     14     |     7      |     7      |
+|   leotards  |     15     |     17     |     -2     |
+|   leggings  |     16     |     19     |     -3     |
+|   spandex   |     17     |     21     |     -4     |
+|   overalls  |     18     |     15     |     3      |
+|     keds    |     19     |     25     |     -6     |
+|   pajamas   |     20     |     24     |     -4     |
++-------------+------------+------------+------------+
+
+
+Similar words to steps
+expert count: 60129 | Novice has 1366 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     step    |     1      |     1      |     0      |
+|    stairs   |     2      |     2      |     0      |
+|   measures  |     3      |     3      |     0      |
+|  stairways  |     4      |     4      |     0      |
+|    paths    |     5      |     5      |     0      |
+|  staircases |     6      |     6      |     0      |
+|     path    |     7      |     7      |     0      |
+|    phases   |     8      |     8      |     0      |
+|    blocks   |     9      |     11     |     -2     |
+|   pillars   |     10     |     9      |     1      |
+|   stairway  |     11     |     10     |     1      |
+|   pathways  |     12     |     13     |     -1     |
+| precautions |     13     |     16     |     -3     |
+|  staircase  |     14     |     12     |     2      |
+|     rows    |     15     |     17     |     -2     |
+|    stages   |     16     |     20     |     -4     |
+|  approaches |     17     |     14     |     3      |
+|    moves    |     18     |     19     |     -1     |
+|  escalators |     19     |     18     |     1      |
+|    climbs   |     20     |     21     |     -1     |
++-------------+------------+------------+------------+
+
+
+Similar words to stepup
+expert count: 16 | Novice has 0 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|     bmcc    |     1      |     78     |    -77     |
+|    mtech    |     2      |     33     |    -31     |
+|  équitable  |     3      |     21     |    -18     |
+|    aiesec   |     4      |     55     |    -51     |
+|    virto    |     5      |     4      |     1      |
+|     bcom    |     6      |     50     |    -44     |
+|  ladderized |     10     |     20     |    -10     |
+| agriscience |     15     |     3      |     12     |
++-------------+------------+------------+------------+
+
+
+Similar words to streetdance
+expert count: 113 | Novice has 30 less
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    jonzi    |     1      |     5      |     -4     |
+|    mcmxc    |     2      |     11     |     -9     |
+|  arbanville |     3      |     12     |     -9     |
+|    espite   |     4      |     2      |     2      |
+|  unienville |     5      |     15     |    -10     |
+|   schoolly  |     6      |     1      |     5      |
+|  lectrified |     7      |     13     |     -6     |
+|    imman    |     8      |     4      |     4      |
+|  espairsray |     9      |     10     |     -1     |
+|    sisive   |     10     |     7      |     3      |
+|  urberville |     11     |     50     |    -39     |
+| alembertian |     12     |     31     |    -19     |
+|    masiv    |     13     |     3      |     10     |
+|   estrehan  |     14     |     33     |    -19     |
+|   escousse  |     15     |     25     |    -10     |
+|   nanosail  |     17     |     49     |    -32     |
+|   schooly   |     18     |     8      |     10     |
+|   egville   |     19     |     22     |     -3     |
+|     banj    |     20     |     6      |     14     |
++-------------+------------+------------+------------+
+
+
+Similar words to sweat
+expert count: 6429 | Novice has 86 less
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+| perspiration |     1      |     1      |     0      |
+|    pocari    |     2      |     2      |     0      |
+|    saliva    |     3      |     5      |     -2     |
+|    breakn    |     4      |     14     |    -10     |
+|   sweating   |     5      |     4      |     1      |
+|    oozing    |     6      |     3      |     3      |
+|   dripping   |     7      |     9      |     -2     |
+| splattering  |     8      |     7      |     1      |
+|  spattered   |     9      |     12     |     -3     |
+|    sweaty    |     10     |     11     |     -1     |
+|    phlegm    |     11     |     33     |    -22     |
+|   spurting   |     12     |     6      |     6      |
+|   perspire   |     13     |     20     |     -7     |
+|   dripped    |     14     |     15     |     -1     |
+|    earwax    |     15     |     13     |     2      |
+|    blood     |     16     |     10     |     6      |
+|    drips     |     17     |     17     |     0      |
+|  spattering  |     18     |     26     |     -8     |
+|    lotion    |     19     |     21     |     -2     |
+|   curdling   |     20     |     8      |     12     |
++--------------+------------+------------+------------+
+
+
+Similar words to tango
+expert count: 8916 | Novice has 1360 less
++------------+------------+------------+------------+
+|    Word    | Novice Pos | Expert Pos | Difference |
++------------+------------+------------+------------+
+|  milonga   |     1      |     1      |     0      |
+|   bolero   |     2      |     2      |     0      |
+|   tangos   |     3      |     3      |     0      |
+|   wango    |     4      |     8      |     -4     |
+|    丹後    |     5      |     32     |    -27     |
+|   danzón   |     6      |     9      |     -3     |
+|   rhumba   |     7      |     4      |     3      |
+| pasodoble  |     8      |     5      |     3      |
+|  habanera  |     9      |     11     |     -2     |
+|  candombe  |     10     |     6      |     4      |
+|   waltz    |     11     |     40     |    -29     |
+|   rumba    |     12     |     7      |     5      |
+|  milongas  |     13     |     17     |     -4     |
+|   salsa    |     14     |     10     |     4      |
+| cambalache |     15     |     25     |    -10     |
+|  flamenco  |     16     |     12     |     4      |
+|  bulerías  |     17     |     31     |    -14     |
+|   cumbia   |     18     |     18     |     0      |
+|  mazurka   |     19     |     29     |    -10     |
+|   mambo    |     20     |     20     |     0      |
++------------+------------+------------+------------+
+
+
+Similar words to tap
+expert count: 14176 | Novice has 974 less
++----------+------------+------------+------------+
+|   Word   | Novice Pos | Expert Pos | Difference |
++----------+------------+------------+------------+
+|   taps   |     1      |     1      |     0      |
+| tapping  |     2      |     2      |     0      |
+|  spınal  |     3      |     3      |     0      |
+|  spile   |     4      |     8      |     -4     |
+|   coax   |     5      |     4      |     1      |
+|   pull   |     6      |     5      |     1      |
+|  faucet  |     7      |     13     |     -6     |
+|  insert  |     8      |     15     |     -7     |
+| squirted |     9      |     14     |     -5     |
+|  switch  |     10     |     6      |     4      |
+|   drip   |     11     |     12     |     -1     |
+|  inject  |     12     |     11     |     1      |
+|  slide   |     13     |     22     |     -9     |
+|   get    |     14     |     25     |    -11     |
+| squeeze  |     15     |     9      |     6      |
+|  touch   |     16     |     18     |     -2     |
+|   pump   |     17     |     19     |     -2     |
+| plugged  |     18     |     23     |     -5     |
+|   bump   |     19     |     7      |     12     |
+|   grab   |     20     |     24     |     -4     |
++----------+------------+------------+------------+
+
+
+Similar words to therapy
+expert count: 48183 | Novice has 2404 less
++-----------------+------------+------------+------------+
+|       Word      | Novice Pos | Expert Pos | Difference |
++-----------------+------------+------------+------------+
+|    therapies    |     1      |     1      |     0      |
+|  psychotherapy  |     2      |     2      |     0      |
+|    therapists   |     3      |     3      |     0      |
+|   therapeutic   |     4      |     4      |     0      |
+|    therapist    |     5      |     6      |     -1     |
+|    treatments   |     6      |     5      |     1      |
+|   chemotherapy  |     7      |     10     |     -3     |
+| pharmacotherapy |     8      |     7      |     1      |
+|    treatment    |     9      |     8      |     1      |
+|   biofeedback   |     10     |     9      |     1      |
+|   phototherapy  |     11     |     12     |     -1     |
+|   hypnotherapy  |     12     |     11     |     1      |
+|       puva      |     13     |     56     |    -43     |
+|   photodynamic  |     14     |     22     |     -8     |
+|    counseling   |     15     |     18     |     -3     |
+|   radiotherapy  |     16     |     30     |    -14     |
+|    reparative   |     17     |     23     |     -6     |
+|    sunitinib    |     18     |     48     |    -30     |
+| anticoagulation |     19     |     14     |     5      |
+|   cryotherapy   |     20     |     37     |    -17     |
++-----------------+------------+------------+------------+

@@ -6,28 +6,30 @@
 
 Similar words to badminton
 expert count: 18125 | Novice has 10227 less
-+-------------+------------+------------+------------+
-|     Word    | Novice Pos | Expert Pos | Difference |
-+-------------+------------+------------+------------+
-|   netball   |     1      |     5      |     -4     |
-|    squash   |     2      |     2      |     0      |
-|    takraw   |     3      |     9      |     -6     |
-|  throwball  |     4      |     15     |    -11     |
-|    tennis   |     5      |     1      |     4      |
-|    sepak    |     6      |     11     |     -5     |
-|  volleyball |     7      |     4      |     3      |
-| racquetball |     8      |     10     |     -2     |
-|    carrom   |     9      |     27     |    -18     |
-|   petanque  |     10     |     26     |    -16     |
-|   croquet   |     11     |     40     |    -29     |
-|   archery   |     12     |     12     |     0      |
-|   kabbadi   |     13     |     38     |    -25     |
-|    bocce    |     14     |     82     |    -68     |
-|  pickleball |     15     |     41     |    -26     |
-|   kabaddi   |     17     |     8      |     9      |
-|   pétanque  |     19     |     21     |     -2     |
-|  racketball |     20     |     32     |    -12     |
-+-------------+------------+------------+------------+
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|   netball    |     1      |     5      |     -4     |
+|    squash    |     2      |     2      |     0      |
+|    takraw    |     3      |     9      |     -6     |
+|  throwball   |     4      |     15     |    -11     |
+|    tennis    |     5      |     1      |     4      |
+|    sepak     |     6      |     11     |     -5     |
+|  volleyball  |     7      |     4      |     3      |
+| racquetball  |     8      |     10     |     -2     |
+|    carrom    |     9      |     27     |    -18     |
+|   petanque   |     10     |     26     |    -16     |
+|   croquet    |     11     |     40     |    -29     |
+|   archery    |     12     |     12     |     0      |
+|   kabbadi    |     13     |     38     |    -25     |
+|    bocce     |     14     |     82     |    -68     |
+|  pickleball  |     15     |     41     |    -26     |
+|    khokho    |     16     |     -      |     -      |
+|   kabaddi    |     17     |     8      |     9      |
+| shuffleboard |     18     |     -      |     -      |
+|   pétanque   |     19     |     21     |     -2     |
+|  racketball  |     20     |     32     |    -12     |
++--------------+------------+------------+------------+
 
 
 Similar words to ace
@@ -116,11 +118,30 @@ expert count: 393 | Novice has 3 less
 
 Similar words to baddy
 expert count: 26 | Novice has 0 less
-+--------+------------+------------+------------+
-|  Word  | Novice Pos | Expert Pos | Difference |
-+--------+------------+------------+------------+
-| digger |     1      |     1      |     0      |
-+--------+------------+------------+------------+
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    digger   |     1      |     1      |     0      |
+|    pippa    |     2      |     -      |     -      |
+|   barmaid   |     3      |     -      |     -      |
+|    hottie   |     4      |     -      |     -      |
+|   cowhand   |     5      |     -      |     -      |
+| washerwoman |     6      |     -      |     -      |
+|    maudie   |     7      |     -      |     -      |
+|  schoolmarm |     8      |     -      |     -      |
+|    surfer   |     9      |     -      |     -      |
+|    cissie   |     10     |     -      |     -      |
+|  villainess |     11     |     -      |     -      |
+|   loveable  |     12     |     -      |     -      |
+|    upman    |     13     |     -      |     -      |
+|     esme    |     14     |     -      |     -      |
+|   thomasin  |     15     |     -      |     -      |
+| brunswicker |     16     |     -      |     -      |
+|    macey    |     17     |     -      |     -      |
+|    saucy    |     18     |     -      |     -      |
+| pennykettle |     19     |     -      |     -      |
+| superhoodie |     20     |     -      |     -      |
++-------------+------------+------------+------------+
 
 
 Similar words to baseline
@@ -395,6 +416,7 @@ expert count: 8504 | Novice has 77 less
 |    tail    |     13     |     15     |     -2     |
 |    comb    |     14     |     22     |     -8     |
 |   vaned    |     15     |     12     |     3      |
+| psittacine |     16     |     -      |     -      |
 |   hackle   |     17     |     11     |     6      |
 |  mittens   |     18     |     36     |    -18     |
 |  ostrich   |     19     |     18     |     1      |
@@ -488,27 +510,30 @@ expert count: 13455 | Novice has 226 less
 
 Similar words to hidayat
 expert count: 334 | Novice has 63 less
-+------------+------------+------------+------------+
-|    Word    | Novice Pos | Expert Pos | Difference |
-+------------+------------+------------+------------+
-|   saiful   |     1      |     4      |     -3     |
-|   achmad   |     2      |     2      |     0      |
-|   rahmat   |     3      |     19     |    -16     |
-|  muhamad   |     4      |     17     |    -13     |
-|   amirul   |     5      |     6      |     -1     |
-| kamaluddin |     6      |     39     |    -33     |
-|   husin    |     7      |     11     |     -4     |
-|    qari    |     8      |     93     |    -85     |
-|   arifin   |     9      |     7      |     2      |
-|   arief    |     10     |     10     |     0      |
-|   natsir   |     12     |     3      |     9      |
-|   badrul   |     13     |     33     |    -20     |
-|   awang    |     15     |     13     |     2      |
-|   fauzi    |     16     |     21     |     -5     |
-|   ehsan    |     18     |     46     |    -28     |
-|   latiff   |     19     |     18     |     1      |
-|  suhaimi   |     20     |     16     |     4      |
-+------------+------------+------------+------------+
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|    saiful   |     1      |     4      |     -3     |
+|    achmad   |     2      |     2      |     0      |
+|    rahmat   |     3      |     19     |    -16     |
+|   muhamad   |     4      |     17     |    -13     |
+|    amirul   |     5      |     6      |     -1     |
+|  kamaluddin |     6      |     39     |    -33     |
+|    husin    |     7      |     11     |     -4     |
+|     qari    |     8      |     93     |    -85     |
+|    arifin   |     9      |     7      |     2      |
+|    arief    |     10     |     10     |     0      |
+|    elahi    |     11     |     -      |     -      |
+|    natsir   |     12     |     3      |     9      |
+|    badrul   |     13     |     33     |    -20     |
+|    alhaj    |     14     |     -      |     -      |
+|    awang    |     15     |     13     |     2      |
+|    fauzi    |     16     |     21     |     -5     |
+| rahmatullah |     17     |     -      |     -      |
+|    ehsan    |     18     |     46     |    -28     |
+|    latiff   |     19     |     18     |     1      |
+|   suhaimi   |     20     |     16     |     4      |
++-------------+------------+------------+------------+
 
 
 Similar words to let
@@ -686,12 +711,24 @@ expert count: 155 | Novice has 49 less
 +----------+------------+------------+------------+
 |  nehwal  |     1      |     1      |     0      |
 |  chanu   |     2      |     11     |     -9     |
+|  beevi   |     3      |     -      |     -      |
 | pallikal |     4      |     2      |     2      |
 | sushila  |     5      |     66     |    -61     |
 | pramanik |     6      |     47     |    -41     |
+|   soni   |     7      |     -      |     -      |
+|  pendse  |     8      |     -      |     -      |
+|  nilima  |     9      |     -      |     -      |
+|  shital  |     10     |     -      |     -      |
 |  parul   |     11     |     94     |    -83     |
+|  jadav   |     12     |     -      |     -      |
+|  shaila  |     13     |     -      |     -      |
+| fathima  |     14     |     -      |     -      |
 | geetika  |     15     |     38     |    -23     |
+| thokchom |     16     |     -      |     -      |
 |  ankita  |     17     |     40     |    -23     |
+| pramila  |     18     |     -      |     -      |
+|  kanti   |     19     |     -      |     -      |
+|  malika  |     20     |     -      |     -      |
 +----------+------------+------------+------------+
 
 
@@ -741,6 +778,7 @@ expert count: 826471 | Novice has 1245 less
 |     duties     |     11     |     17     |     -6     |
 |     office     |     12     |     12     |     0      |
 |     serco      |     13     |     6      |     7      |
+|      scdf      |     14     |     -      |     -      |
 |   deployment   |     15     |     16     |     -1     |
 | administration |     16     |     20     |     -4     |
 |    program     |     17     |     23     |     -6     |
@@ -817,10 +855,13 @@ expert count: 255 | Novice has 119 less
 |    takraw   |     4      |     24     |    -20     |
 |    quoits   |     5      |     38     |    -33     |
 |    wiffle   |     6      |     10     |     -4     |
+|   kickball  |     7      |     -      |     -      |
 |    carrom   |     8      |     89     |    -81     |
 |   footbag   |     9      |     29     |    -20     |
 |     puck    |     10     |     7      |     3      |
 |  dodgeball  |     11     |     60     |    -49     |
+|   sandlot   |     12     |     -      |     -      |
+|  hopscotch  |     13     |     -      |     -      |
 |    carom    |     14     |     44     |    -30     |
 |  boomerangs |     15     |     41     |    -26     |
 |  stickball  |     16     |     92     |    -76     |
@@ -879,6 +920,7 @@ expert count: 11668 | Novice has 219 less
 |  jackhammer  |     13     |     25     |    -12     |
 |   bazooka    |     14     |     68     |    -54     |
 |   megamix    |     15     |     23     |     -8     |
+|   popstar    |     16     |     -      |     -      |
 |     hits     |     17     |     6      |     11     |
 |    duper     |     18     |     17     |     1      |
 |    smack     |     19     |     74     |    -55     |
@@ -909,6 +951,7 @@ expert count: 52705 | Novice has 469 less
 |  syphoned |     16     |     8      |     8      |
 |  slacked  |     17     |     15     |     2      |
 |   fobbed  |     18     |     10     |     8      |
+|    kuff   |     19     |     -      |     -      |
 |  spinner  |     20     |     17     |     3      |
 +-----------+------------+------------+------------+
 
@@ -1055,24 +1098,27 @@ expert count: 2981 | Novice has 242 less
 
 Similar words to yonex
 expert count: 232 | Novice has 114 less
-+------------+------------+------------+------------+
-|    Word    | Novice Pos | Expert Pos | Difference |
-+------------+------------+------------+------------+
-|  babolat   |     1      |     1      |     0      |
-|  racquets  |     2      |     2      |     0      |
-|  racquet   |     3      |     9      |     -6     |
-|   vcore    |     4      |     4      |     0      |
-|   srixon   |     5      |     3      |     2      |
-|  titleist  |     6      |     25     |    -19     |
-| hardcourt  |     7      |     12     |     -5     |
-|  midplus   |     9      |     30     |    -21     |
-|   aegon    |     10     |     6      |     4      |
-|   tennis   |     11     |     38     |    -27     |
-| racketball |     13     |     61     |    -48     |
-|   aspria   |     14     |     80     |    -66     |
-| hardcourts |     15     |     40     |    -25     |
-|   stiga    |     16     |     41     |    -25     |
-| footvolley |     17     |     15     |     2      |
-|  sunfeast  |     18     |     21     |     -3     |
-|   ezone    |     20     |     60     |    -40     |
-+------------+------------+------------+------------+
++-------------+------------+------------+------------+
+|     Word    | Novice Pos | Expert Pos | Difference |
++-------------+------------+------------+------------+
+|   babolat   |     1      |     1      |     0      |
+|   racquets  |     2      |     2      |     0      |
+|   racquet   |     3      |     9      |     -6     |
+|    vcore    |     4      |     4      |     0      |
+|    srixon   |     5      |     3      |     2      |
+|   titleist  |     6      |     25     |    -19     |
+|  hardcourt  |     7      |     12     |     -5     |
+|   croquet   |     8      |     -      |     -      |
+|   midplus   |     9      |     30     |    -21     |
+|    aegon    |     10     |     6      |     4      |
+|    tennis   |     11     |     38     |    -27     |
+|  rotosound  |     12     |     -      |     -      |
+|  racketball |     13     |     61     |    -48     |
+|    aspria   |     14     |     80     |    -66     |
+|  hardcourts |     15     |     40     |    -25     |
+|    stiga    |     16     |     41     |    -25     |
+|  footvolley |     17     |     15     |     2      |
+|   sunfeast  |     18     |     21     |     -3     |
+| messageplus |     19     |     -      |     -      |
+|    ezone    |     20     |     60     |    -40     |
++-------------+------------+------------+------------+

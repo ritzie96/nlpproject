@@ -153,11 +153,21 @@ expert count: 1587 | Novice has 485 less
 |     czw      |     2      |     8      |     -6     |
 |     tag      |     3      |     9      |     -6     |
 |   minigame   |     4      |     4      |     0      |
+|  tazmaniac   |     5      |     -      |     -      |
+|  starrcade   |     6      |     -      |     -      |
+|    tajiri    |     7      |     -      |     -      |
 |   kanemura   |     8      |     58     |    -50     |
+|     bjw      |     9      |     -      |     -      |
 |     jcw      |     10     |     63     |    -53     |
+|    shiima    |     11     |     -      |     -      |
+|   chikara    |     12     |     -      |     -      |
 |   kintaro    |     13     |     41     |    -28     |
+|     ōdō      |     14     |     -      |     -      |
+|     uwfi     |     15     |     -      |     -      |
 |    liger     |     16     |     45     |    -29     |
+| eliminators  |     17     |     -      |     -      |
 |    akuma     |     18     |     29     |    -11     |
+|   tatanka    |     19     |     -      |     -      |
 |    rumble    |     20     |     87     |    -67     |
 +--------------+------------+------------+------------+
 
@@ -202,6 +212,7 @@ expert count: 15301 | Novice has 1378 less
 |   robotnik  |     5      |     9      |     -4     |
 |   warlock   |     6      |     7      |     -1     |
 |    wraith   |     7      |     16     |     -9     |
+|   thundra   |     8      |     -      |     -      |
 |    belial   |     9      |     14     |     -5     |
 |  armageddon |     10     |     20     |    -10     |
 |    thanos   |     11     |     70     |    -59     |
@@ -209,6 +220,7 @@ expert count: 15301 | Novice has 1378 less
 |   doombots  |     13     |     74     |    -61     |
 | deathstroke |     14     |     69     |    -55     |
 |   latveria  |     15     |     6      |     9      |
+|   malthael  |     16     |     -      |     -      |
 |    sutekh   |     17     |     32     |    -15     |
 |    skaven   |     18     |     11     |     7      |
 |   dormammu  |     19     |     15     |     4      |
@@ -448,13 +460,23 @@ expert count: 9094 | Novice has 2799 less
 |   halos    |     1      |     2      |     -1     |
 |    glow    |     2      |     36     |    -34     |
 |    haho    |     3      |     12     |     -9     |
+| nebulosity |     4      |     -      |     -      |
+|  aureole   |     5      |     -      |     -      |
 |   clouds   |     6      |     94     |    -88     |
+|   swirls   |     7      |     -      |     -      |
 |   cuspy    |     8      |     8      |     0      |
 |    orb     |     9      |     33     |    -24     |
+|    sky     |     10     |     -      |     -      |
 |   nebula   |     11     |     44     |    -33     |
+|    neon    |     12     |     -      |     -      |
 |    dark    |     13     |     71     |    -58     |
+|   cloud    |     14     |     -      |     -      |
+|    aura    |     15     |     -      |     -      |
 | starburst  |     16     |     46     |    -30     |
 | starbursts |     17     |     84     |    -67     |
+|  radiant   |     18     |     -      |     -      |
+|   visor    |     19     |     -      |     -      |
+|   haloes   |     20     |     -      |     -      |
 +------------+------------+------------+------------+
 
 
@@ -1132,25 +1154,30 @@ expert count: 2492 | Novice has 136 less
 
 Similar words to unreal
 expert count: 2838 | Novice has 602 less
-+-----------+------------+------------+------------+
-|    Word   | Novice Pos | Expert Pos | Difference |
-+-----------+------------+------------+------------+
-| cryengine |     1      |     1      |     0      |
-|  gamebryo |     2      |     2      |     0      |
-|   scumm   |     3      |     6      |     -3     |
-|  surreal  |     4      |     69     |    -65     |
-| roguelike |     5      |     5      |     0      |
-|    mmo    |     6      |     7      |     -1     |
-| minecraft |     8      |     3      |     5      |
-|    myst   |     9      |     4      |     5      |
-| unreality |     10     |     90     |    -80     |
-|  reality  |     11     |     51     |    -40     |
-|  lithtech |     12     |     16     |     -4     |
-|  nethack  |     13     |     40     |    -27     |
-|  bioshock |     16     |     23     |     -7     |
-| immersive |     17     |     25     |     -8     |
-|   mmorpg  |     20     |     19     |     1      |
-+-----------+------------+------------+------------+
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|  cryengine   |     1      |     1      |     0      |
+|   gamebryo   |     2      |     2      |     0      |
+|    scumm     |     3      |     6      |     -3     |
+|   surreal    |     4      |     69     |    -65     |
+|  roguelike   |     5      |     5      |     0      |
+|     mmo      |     6      |     7      |     -1     |
+| fantastical  |     7      |     -      |     -      |
+|  minecraft   |     8      |     3      |     5      |
+|     myst     |     9      |     4      |     5      |
+|  unreality   |     10     |     90     |    -80     |
+|   reality    |     11     |     51     |    -40     |
+|   lithtech   |     12     |     16     |     -4     |
+|   nethack    |     13     |     40     |    -27     |
+| nightmarish  |     14     |     -      |     -      |
+| otherworldly |     15     |     -      |     -      |
+|   bioshock   |     16     |     23     |     -7     |
+|  immersive   |     17     |     25     |     -8     |
+|   irrlicht   |     18     |     -      |     -      |
+|  metaverse   |     19     |     -      |     -      |
+|    mmorpg    |     20     |     19     |     1      |
++--------------+------------+------------+------------+
 
 
 Similar words to weapons

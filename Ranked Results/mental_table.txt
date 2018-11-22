@@ -110,6 +110,7 @@ expert count: 1326 | Novice has 411 less
 |     bortezomib    |     15     |     21     |     -6     |
 |       statin      |     16     |     19     |     -3     |
 |      regimens     |     17     |     80     |    -63     |
+|        rrt        |     18     |     -      |     -      |
 |    nondirective   |     19     |     86     |    -67     |
 |       bobath      |     20     |     65     |    -45     |
 +-------------------+------------+------------+------------+
@@ -157,13 +158,17 @@ expert count: 1112 | Novice has 289 less
 |  cyclophosphamide |     7      |     13     |     -6     |
 |    hemodialysis   |     8      |     7      |     1      |
 |  anticoagulation  |     9      |     4      |     5      |
+|    biofeedback    |     10     |     -      |     -      |
 |     metformin     |     11     |     33     |    -22     |
 |   dexamethasone   |     12     |     22     |    -10     |
+|  echocardiography |     13     |     -      |     -      |
 |     sorafenib     |     14     |     47     |    -33     |
+|        puva       |     15     |     -      |     -      |
 |    methotrexate   |     16     |     15     |     1      |
 |   chlorpromazine  |     17     |     5      |     12     |
 |      levodopa     |     18     |     41     |    -23     |
 |      lobotomy     |     19     |     35     |    -16     |
+|     everolimus    |     20     |     -      |     -      |
 +-------------------+------------+------------+------------+
 
 
@@ -386,6 +391,7 @@ expert count: 4115 | Novice has 164 less
 |  bevacizumab  |     16     |     42     |    -26     |
 |  simvastatin  |     17     |     28     |    -11     |
 |   imipramine  |     18     |     16     |     2      |
+|  bicalutamide |     19     |     -      |     -      |
 |      dose     |     20     |     31     |    -11     |
 +---------------+------------+------------+------------+
 
@@ -517,12 +523,16 @@ expert count: 126 | Novice has 6 less
 | regurgitate |     8      |     17     |     -9     |
 |   vocalize  |     9      |     38     |    -29     |
 |   subsist   |     10     |     33     |    -23     |
+|   oviposit  |     11     |     -      |     -      |
 |   drooling  |     12     |     13     |     -1     |
+|   excrete   |     13     |     -      |     -      |
 |    musing   |     14     |     3      |     11     |
+|   copulate  |     15     |     -      |     -      |
 |  fantasize  |     16     |     41     |    -25     |
 |   trample   |     17     |     39     |    -22     |
 |   consume   |     18     |    100     |    -82     |
 |  procreate  |     19     |     44     |    -25     |
+|     eat     |     20     |     -      |     -      |
 +-------------+------------+------------+------------+
 
 
@@ -533,6 +543,7 @@ expert count: 27 | Novice has 2 less
 +-------------+------------+------------+------------+
 |    musing   |     1      |     1      |     0      |
 |  elaborates |     2      |     14     |    -12     |
+|    dotes    |     3      |     -      |     -      |
 |    mused    |     4      |     5      |     -1     |
 |   pondered  |     5      |     6      |     -1     |
 |   embarks   |     6      |     78     |    -72     |
@@ -541,7 +552,9 @@ expert count: 27 | Novice has 2 less
 |  remarking  |     9      |     33     |    -24     |
 |  commenting |     10     |     7      |     3      |
 |   remarked  |     11     |     8      |     3      |
+|  soldiered  |     12     |     -      |     -      |
 |  reminisced |     13     |     3      |     10     |
+|  depending  |     14     |     -      |     -      |
 |   expounds  |     15     |     13     |     2      |
 |  reminisces |     16     |     23     |     -7     |
 |  ruminates  |     17     |     2      |     15     |
@@ -734,6 +747,7 @@ expert count: 148 | Novice has 24 less
 |   premenstrual  |     8      |     18     |    -10     |
 |  symptomatology |     9      |     10     |     -1     |
 |     pruritus    |     10     |     41     |    -31     |
+|     myalgias    |     11     |     -      |     -      |
 |     comorbid    |     12     |     52     |    -40     |
 | choreoathetosis |     13     |     60     |    -47     |
 |     myopathy    |     14     |     32     |    -18     |

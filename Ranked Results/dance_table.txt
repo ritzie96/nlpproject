@@ -132,10 +132,12 @@ expert count: 257 | Novice has 35 less
 |      rap       |     9      |     7      |     2      |
 |    bboying     |     10     |     25     |    -15     |
 |     krump      |     11     |     5      |     6      |
+|    idevian     |     12     |     -      |     -      |
 |   beatboxing   |     13     |     21     |     -8     |
 |  breakdancers  |     14     |     33     |    -19     |
 |    beatbox     |     15     |     27     |    -12     |
 |     ragga      |     16     |     29     |    -13     |
+|    goodlyfe    |     17     |     -      |     -      |
 | choreographing |     18     |     13     |     5      |
 |     miming     |     19     |     48     |    -29     |
 |     likwit     |     20     |     50     |    -30     |
@@ -144,20 +146,30 @@ expert count: 257 | Novice has 35 less
 
 Similar words to choreo
 expert count: 38 | Novice has 4 less
-+-----------+------------+------------+------------+
-|    Word   | Novice Pos | Expert Pos | Difference |
-+-----------+------------+------------+------------+
-|  unsquare |     2      |     9      |     -7     |
-|   azonto  |     3      |     3      |     0      |
-| worldbeat |     4      |     19     |    -15     |
-|  cakewalk |     5      |     2      |     3      |
-|  serimpi  |     8      |     49     |    -41     |
-|   rhumba  |     13     |     17     |     -4     |
-|  orchesis |     15     |     84     |    -69     |
-|  lambada  |     16     |     50     |    -34     |
-| jitterbug |     17     |     10     |     7      |
-|   twerk   |     18     |     63     |    -45     |
-+-----------+------------+------------+------------+
++---------------+------------+------------+------------+
+|      Word     | Novice Pos | Expert Pos | Difference |
++---------------+------------+------------+------------+
+|      neoz     |     1      |     -      |     -      |
+|    unsquare   |     2      |     9      |     -7     |
+|     azonto    |     3      |     3      |     0      |
+|   worldbeat   |     4      |     19     |    -15     |
+|    cakewalk   |     5      |     2      |     3      |
+|     musica    |     6      |     -      |     -      |
+|   majorettes  |     7      |     -      |     -      |
+|    serimpi    |     8      |     49     |    -41     |
+|  indietronic  |     9      |     -      |     -      |
+|     nublu     |     10     |     -      |     -      |
+| freshlyground |     11     |     -      |     -      |
+|     oberek    |     12     |     -      |     -      |
+|     rhumba    |     13     |     17     |     -4     |
+|   bellydance  |     14     |     -      |     -      |
+|    orchesis   |     15     |     84     |    -69     |
+|    lambada    |     16     |     50     |    -34     |
+|   jitterbug   |     17     |     10     |     7      |
+|     twerk     |     18     |     63     |    -45     |
+|      jwé      |     19     |     -      |     -      |
+|  cougarettes  |     20     |     -      |     -      |
++---------------+------------+------------+------------+
 
 
 Similar words to choreographer
@@ -254,9 +266,12 @@ expert count: 87 | Novice has 34 less
 |   lavani   |     3      |     23     |    -20     |
 |   dabkeh   |     4      |     5      |     -1     |
 | muwashshah |     5      |     10     |     -5     |
+|   mawwal   |     6      |     -      |     -      |
 |   odissi   |     7      |     70     |    -63     |
 |   mizmar   |     8      |     38     |    -30     |
+|  kalbelia  |     9      |     -      |     -      |
 |   jhumar   |     10     |     53     |    -43     |
+|   bhaona   |     11     |     -      |     -      |
 |   chaabi   |     12     |     30     |    -18     |
 |  ghoomar   |     13     |     28     |    -15     |
 |  ghumura   |     14     |     60     |    -46     |
@@ -363,9 +378,12 @@ expert count: 48 | Novice has 14 less
 |    marinera   |     3      |     98     |    -95     |
 |   tinikling   |     4      |     24     |    -20     |
 |   zeibekiko   |     5      |     7      |     -2     |
+|     joropo    |     6      |     -      |     -      |
 |   folkloric   |     7      |     12     |     -5     |
 |     dances    |     8      |     6      |     2      |
 | schuhplattler |     9      |     48     |    -39     |
+|   chirigotas  |     10     |     -      |     -      |
+|    chinelos   |     11     |     -      |     -      |
 |  kalamatianos |     12     |     1      |     11     |
 |    hasapiko   |     13     |     55     |    -42     |
 |     gaida     |     14     |     76     |    -62     |
@@ -373,6 +391,8 @@ expert count: 48 | Novice has 14 less
 |    pasillo    |     16     |     80     |    -64     |
 |    festejo    |     17     |     17     |     0      |
 |     kecak     |     18     |     45     |    -27     |
+|   pentozali   |     19     |     -      |     -      |
+|     típico    |     20     |     -      |     -      |
 +---------------+------------+------------+------------+
 
 
@@ -658,18 +678,30 @@ expert count: 60129 | Novice has 1366 less
 
 Similar words to stepup
 expert count: 16 | Novice has 0 less
-+-------------+------------+------------+------------+
-|     Word    | Novice Pos | Expert Pos | Difference |
-+-------------+------------+------------+------------+
-|     bmcc    |     1      |     78     |    -77     |
-|    mtech    |     2      |     33     |    -31     |
-|  équitable  |     3      |     21     |    -18     |
-|    aiesec   |     4      |     55     |    -51     |
-|    virto    |     5      |     4      |     1      |
-|     bcom    |     6      |     50     |    -44     |
-|  ladderized |     10     |     20     |    -10     |
-| agriscience |     15     |     3      |     12     |
-+-------------+------------+------------+------------+
++--------------+------------+------------+------------+
+|     Word     | Novice Pos | Expert Pos | Difference |
++--------------+------------+------------+------------+
+|     bmcc     |     1      |     78     |    -77     |
+|    mtech     |     2      |     33     |    -31     |
+|  équitable   |     3      |     21     |    -18     |
+|    aiesec    |     4      |     55     |    -51     |
+|    virto     |     5      |     4      |     1      |
+|     bcom     |     6      |     50     |    -44     |
+|     mubs     |     7      |     -      |     -      |
+|     bsba     |     8      |     -      |     -      |
+|    searca    |     9      |     -      |     -      |
+|  ladderized  |     10     |     20     |    -10     |
+|   digipen    |     11     |     -      |     -      |
+|     bba      |     12     |     -      |     -      |
+|   mastère    |     13     |     -      |     -      |
+|     mcom     |     14     |     -      |     -      |
+| agriscience  |     15     |     3      |     12     |
+|     obep     |     16     |     -      |     -      |
+|     isec     |     17     |     -      |     -      |
+|    pgdca     |     18     |     -      |     -      |
+| bioresources |     19     |     -      |     -      |
+|     vgu      |     20     |     -      |     -      |
++--------------+------------+------------+------------+
 
 
 Similar words to streetdance
@@ -692,6 +724,7 @@ expert count: 113 | Novice has 30 less
 |    masiv    |     13     |     3      |     10     |
 |   estrehan  |     14     |     33     |    -19     |
 |   escousse  |     15     |     25     |    -10     |
+|    injur    |     16     |     -      |     -      |
 |   nanosail  |     17     |     49     |    -32     |
 |   schooly   |     18     |     8      |     10     |
 |   egville   |     19     |     22     |     -3     |

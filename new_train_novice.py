@@ -12,6 +12,22 @@ import logging
 import multiprocessing
 from gensim.models import Word2Vec
 from time import time
+from gensim.test.utils import common_corpus, common_texts, get_tmpfile
+from gensim.models.callbacks import CallbackAny2Vec
+
+
+class EpochSaver(CallbackAny2Vec):
+
+    def __init__(self, path_prefix):
+        self.path_prefix = path_prefix
+        self.epoch = 0
+
+    def on_epoch_end(self, model):
+        output_path = get_tmpfile('{}_epoch{}.model'.format(self.path_prefix, self.epoch))
+        model.save(output_path)
+        #model.wv.save_word2vec_format('wiki.en.very_novice_text.vector', binary=False)
+        model.wv.save_word2vec_format(output_path+'.bin', binary=True)
+        self.epoch += 1
 
 #generates list of list of words.
 class MySentences(object):
@@ -42,12 +58,9 @@ if __name__ == '__main__':
  
     logging.basicConfig(format='%(asctime)s: %(levelname)s: %(message)s',level=logging.INFO)
     logger.info("running %s" % ' '.join(sys.argv))
-    
+    saver = EpochSaver("very_novice_w2v")
     sentences = MySentences('extracted')       
-    model = Word2Vec(sentences, size=400, window=5, min_count=5, workers=multiprocessing.cpu_count())
-    model.save('wiki.en.very_novice_text.model')
-    model.wv.save_word2vec_format('wiki.en.very_novice_text.vector', binary=False)
-    model.wv.save_word2vec_format('wiki.en.very_novice_text.bin', binary=True)
+    model = Word2Vec(sentences, size=400, window=5, min_count=5, workers=multiprocessing.cpu_count(), callbacks=[saver])
 	
 end = time()
 print("Total procesing time: %d seconds" % (end - begin))

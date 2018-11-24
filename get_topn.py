@@ -1,15 +1,15 @@
 from gensim.models import KeyedVectors
 
-def sim_words(words,model_novice):
-    # a = dict()
+def sim_words(words,model_novice,model_expert):
+    a = dict()
     b = dict()
     for i in words:
-        # a[i] = model_expert.most_similar(i,topn = 100)
-        b[i] = model_novice.most_similar(i, topn = 20)
-    return b 
+        a[i] = model_expert.most_similar(i,topn = 200)
+        b[i] = model_novice.most_similar(i, topn = 200)
+    return a,b 
     
-model_novice = KeyedVectors.load_word2vec_format("wiki.en.very_novice_text.bin", binary=True) 
-# model_expert = KeyedVectors.load_word2vec_format("wiki.en.expert.vector.bin", binary=True)
+model_novice = KeyedVectors.load_word2vec_format("very_novice_epoch4.bin", binary=True) 
+model_expert = KeyedVectors.load_word2vec_format("expert_epoch4.bin", binary=True)
 
 words = ["badminton",
 "baddy",
@@ -53,6 +53,7 @@ words = ["badminton",
 "yonex"]
 
 
+
 words1 = ["dance",
 "salsa",
 "breakdance",
@@ -83,6 +84,7 @@ words1 = ["dance",
 "stepup",
 "footloose",
 "streetdance"]
+
 
 
 words2 = ["fps",
@@ -128,7 +130,16 @@ words2 = ["fps",
 "twitch",
 "unreal",
 "weapons",
-"xbox"]
+"xbox",
+"rpg",
+"puzzle",
+"fighting",
+"fortnite",
+"third",
+"respawn",
+"frag",
+"gib"]
+
 
 
 words3 = ["mental",
@@ -141,7 +152,7 @@ words3 = ["mental",
 "ruminating",
 "ruminate",
 "ruminates",
-"ruminated",
+ "ruminated",
 "brooding",
 "conditioning",
 "medication",
@@ -157,29 +168,47 @@ words3 = ["mental",
 "addiction",
 "sleep",
 "freud",
-"trichotillomania"]
+"trichotillomania",
+"hospital"]
 
-b = sim_words(words,model_novice)
 
-with open('new_20_badminton_newnovice.txt','w') as f1:
+a, b = sim_words(words,model_novice,model_expert)
+
+with open('badminton_novice.txt','w') as f1:
     for k1, v1 in b.items():
         f1.write(str(k1) + ':'+ str(v1) + '\n')
         
-b1 = sim_words(words1,model_novice)
+with open('badminton_expert.txt','w') as f5:
+    for k1, v1 in a.items():
+        f5.write(str(k1) + ':'+ str(v1) + '\n')
+        
+a1, b1 = sim_words(words1,model_novice,model_expert)
 
-with open('new_20_dance_newnovice.txt','w') as f2:
+with open('dance_novice.txt','w') as f2:
     for k1, v1 in b1.items():
         f2.write(str(k1) + ':'+ str(v1) + '\n')
 
-b2 = sim_words(words2,model_novice)
+with open('dance_expert.txt','w') as f6:
+    for k1, v1 in a1.items():
+        f6.write(str(k1) + ':'+ str(v1) + '\n')
+        
+a2, b2 = sim_words(words2,model_novice,model_expert)
 
-with open('new_20_shooter_newnovice.txt','w') as f3:
+with open('shooter_novice.txt','w') as f3:
     for k1, v1 in b2.items():
         f3.write(str(k1) + ':'+ str(v1) + '\n')
         
+with open('shooter_expert.txt','w') as f7:
+    for k1, v1 in a2.items():
+        f7.write(str(k1) + ':'+ str(v1) + '\n')
         
-b3 = sim_words(words3,model_novice)
+        
+a3, b3 = sim_words(words3,model_novice,model_expert)
 
-with open('new_20_psychotherapy_newnovice.txt','w') as f4:
+with open('psychotherapy_novice.txt','w') as f4:
     for k1, v1 in b3.items():
-        f4.write(str(k1) + ':'+ str(v1) + '\n')        
+        f4.write(str(k1) + ':'+ str(v1) + '\n')
+
+with open('psychotherapy_expert.txt','w') as f8:
+    for k1, v1 in a3.items():
+        f8.write(str(k1) + ':'+ str(v1) + '\n')        

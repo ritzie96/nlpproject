@@ -1,16 +1,16 @@
 from gensim.models import KeyedVectors
 
-def cos_sim(word,define_words,model_novice):
+def cos_sim(word,define_words,model_novice,model_expert):
     c_n = {}
-    #c_e = {}
+    c_e = {}
     for i in define_words:
         c_n[i] = model_novice.wv.similarity(word, i)
-        #c_e[i] = model_expert.wv.similarity(word, i)
+        c_e[i] = model_expert.wv.similarity(word, i)
         #print(word + "(" + model.wv.similarity(word, i)+ ")"+ i)
-    return c_n
+    return c_e,c_n
     
-    
-model_novice = KeyedVectors.load_word2vec_format("wiki.en.very_novice_text.bin", binary=True) 
+model_novice = KeyedVectors.load_word2vec_format("very_novice_epoch3.bin", binary=True) 
+model_expert = KeyedVectors.load_word2vec_format("expert_epoch3.bin", binary=True)
 
 word = "badminton"
 word1 = "dance"
@@ -58,6 +58,7 @@ define_words = ["baddy",
 "yonex"]
 
 
+
 define_words1 = ["salsa",
 "breakdance",
 "folkdance",
@@ -87,6 +88,7 @@ define_words1 = ["salsa",
 "stepup",
 "footloose",
 "streetdance"]
+
 
 
 define_words2 = ["fps",
@@ -131,7 +133,15 @@ define_words2 = ["fps",
 "twitch",
 "unreal",
 "weapons",
-"xbox"]
+"xbox",
+"rpg",
+"puzzle",
+"fighting",
+"fortnite",
+"third",
+"respawn",
+"frag",
+"gib"]
 
 
 define_words3 = ["mental",
@@ -159,37 +169,48 @@ define_words3 = ["mental",
 "addiction",
 "sleep",
 "freud",
-"trichotillomania"]
+"trichotillomania",
+"hospital"]
 
 
-c_n = cos_sim(word,define_words,model_novice)
 
-with open('avg_badminton_newnovice.txt','w') as f:
+c_e, c_n = cos_sim(word,define_words,model_novice,model_expert):
+
+with open('cos_badminton_novice3.txt','w') as f:
     for k, v in c_n.items():
         f.write(str(k) + ':'+ str(v) + '\n')
         
-c_n1 = cos_sim(word1,define_words1,model_novice)
+with open('cos_badminton_expert3.txt','w') as f4:
+    for k, v in c_e.items():
+        f4.write(str(k) + ':'+ str(v) + '\n')
+        
+c_e1,c_n1 = cos_sim(word1,define_words1,model_novice,model_expert)
 
-with open('avg_dance_newnovice.txt','w') as f1:
+with open('cos_dance_novice3.txt','w') as f1:
     for k, v in c_n1.items():
         f1.write(str(k) + ':'+ str(v) + '\n')
+        
+with open('cos_dance_expert3.txt','w') as f5:
+    for k, v in c_e1.items():
+        f5.write(str(k) + ':'+ str(v) + '\n')
 
-c_n2 = cos_sim(word2,define_words2,model_novice)
+c_e2,c_n2 = cos_sim(word2,define_words2,model_novice,model_expert)
 
-with open('avg_shooter_newnovice.txt','w') as f2:
+with open('cos_shooter_novice3.txt','w') as f2:
     for k, v in c_n2.items():
         f2.write(str(k) + ':'+ str(v) + '\n')
 
-c_n3 = cos_sim(word3,define_words3,model_novice)
+with open('cos_shooter_expert3.txt','w') as f6:
+    for k, v in c_e2.items():
+        f6.write(str(k) + ':'+ str(v) + '\n')        
 
-with open('avg_psychotherapy_newnovice.txt','w') as f3:
+c_e3,c_n3 = cos_sim(word3,define_words3,model_novice,model_expert)
+
+with open('cos_psychotherapy_novice3.txt','w') as f3:
     for k, v in c_n3.items():
         f3.write(str(k) + ':'+ str(v) + '\n')        
         
-        
-        
-        
-        
-        
-        
-        
+with open('cos_psychotherapy_expert3.txt','w') as f7:
+    for k, v in c_e3.items():
+        f7.write(str(k) + ':'+ str(v) + '\n')        
+ 
